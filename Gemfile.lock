@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    activemodel (5.2.4.4)
+      activesupport (= 5.2.4.4)
     activesupport (5.2.4.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
@@ -20,6 +22,11 @@ GEM
     dotenv (2.7.6)
     erubis (2.7.0)
     execjs (2.7.0)
+    faraday (1.1.0)
+      multipart-post (>= 1.2, < 3)
+      ruby2_keywords
+    faraday_middleware (1.0.0)
+      faraday (~> 1.0)
     fast_blank (1.0.0)
     fastimage (2.2.0)
     ffi (1.13.1)
@@ -72,6 +79,8 @@ GEM
       tilt (~> 2.0.9)
       uglifier (~> 3.0)
     minitest (5.14.2)
+    multipart-post (2.1.1)
+    oj (3.10.15)
     padrino-helpers (0.13.3.4)
       i18n (~> 0.6, >= 0.6.7)
       padrino-support (= 0.13.3.4)
@@ -85,9 +94,16 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.4)
+    ruby2_keywords (0.0.2)
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
+    spyke (5.3.4)
+      activemodel (>= 4.0.0)
+      activesupport (>= 4.0.0)
+      addressable (>= 2.5.2)
+      faraday (>= 0.9.0, < 2.0)
+      faraday_middleware (>= 0.9.1, < 2.0)
     temple (0.8.2)
     thor (1.0.1)
     thread_safe (0.3.6)
@@ -103,6 +119,8 @@ PLATFORMS
 DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 2.7)
+  oj (~> 3.10)
+  spyke (~> 5.3)
   tzinfo-data
   wdm (~> 0.1)
 
