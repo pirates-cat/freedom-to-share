@@ -1,0 +1,41 @@
+{
+  "name": "freedom-to-share",
+  "version": "20.10.1",
+  "repository": "git@github.com:pirates-cat/freedom-to-share.git",
+  "author": "Dario Castañé <d@rio.hn>",
+  "license": "AGPL-3.0",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "next",
+    "popper.js": "^1.16.1",
+    "turbolinks": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/preset-env": "^7.1.5",
+    "autoprefixer": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^1.0.1",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "node-sass": "^4.10.0",
+    "postcss": "^8.1.1",
+    "postcss-loader": "^4.0.4",
+    "precss": "^4.0.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "stylelint": "^9.8.0",
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-scss": "^3.4.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "start": "NODE_ENV=development ./node_modules/webpack/bin/webpack.js --watch --progress -d --color",
+    "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail -p",
+    "serve": "bundle exec middleman serve",
+    "sync": "bundle exec ruby bin/wordpress-import.rb"
+  }
+}

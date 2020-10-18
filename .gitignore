@@ -6,3 +6,5 @@ build/
 .vendor
 .hosts
 source
+node_modules
+.tmp

@@ -1,6 +1,15 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+activate :external_pipeline,
+  name: :webpack,
+  command: build? ? 'yarn run build' : 'yarn run start',
+  source: '.tmp/dist',
+  latency: 1
+
+config[:js_dir] = 'assets/javascripts'
+config[:css_dir] = 'assets/stylesheets'
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
@@ -36,7 +45,20 @@ page '/*.txt', layout: false
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
-# configure :build do
-#   activate :minify_css
-#   activate :minify_javascript
-# end
+configure :development do
+  set      :debug_assets, true
+  activate :livereload
+end
+
+configure :build do
+  ignore   File.join(config[:js_dir], '*') # handled by webpack
+  ignore   File.join(config[:css_dir], '*') # handled by webpack
+  activate :asset_hash
+  activate :gzip
+  activate :minify_css
+  activate :minify_html
+  activate :minify_javascript
+  activate :relative_assets
+  activate :robots, rules: [{ user_agent: '*', allow: %w[/] }],
+                    sitemap: File.join(@app.data.site.host, 'sitemap.xml')
+end
