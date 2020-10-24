@@ -10,11 +10,21 @@ FileUtils.cp_r('base', 'source')
 
 Wordpress::Page.all.each_page do |pages|
   pages.each do |page|
-    uri = URI(page.link)
-    path = File.join('source', uri.path)
-    filename = File.join(path, 'index.html.erb')
-    
-    FileUtils.mkdir_p(path)
-    File.write(filename, page.render)
+    if page.language == 'en'
+      filename = 'index.html.erb'
+    else
+      filename = "index.#{page.language}.html.erb"
+    end
+
+    if page.type == 'home'
+      basedir = File.join('source', 'localizable')
+    else
+      basedir = File.join('source', 'localizable', page.type)
+    end
+
+    full_path = File.join(basedir, filename)
+
+    FileUtils.mkdir_p(basedir)
+    File.write(full_path, page.render)
   end
 end

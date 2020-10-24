@@ -1,11 +1,8 @@
-<h2>Select your language</h2>
+---
+global: true
+---
 <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
-  <% data.languages.each do |l| %>
-    <% if l.code == data.site.i18n.default_locale %>
-      <% url = "/" %>
-    <% else %>
-      <% url = "/#{l.code}" %>
-    <% end %>
-    <a href="<%= url %>" class="px-4 py-2 bg-gray-100 hover:bg-secondary hover:underline hover:text-white" lang="<%= l.code %>" hreflang="<%= l.code %>" rel="alternate"><%= l.name %></a>
+  <% data.languages.each_value do |l| %>
+    <%= partial('language', locals: { l: l }) %>
   <% end %>
 </div>

@@ -1,100 +1,125 @@
-- code: bg
+bg:
+  code: bg
   name: български
   script: cyrillic
   translated: false
-- code: ca
+ca:
+  code: ca
   name: català
   script: latin
   translated: true
-- code: cs
+cs:
+  code: cs
   name: čeština
   script: latin-ext
   translated: false
-- code: da
+da:
+  code: da
   name: dansk
   script: latin
   translated: false
-- code: de
+de:
+  code: de
   name: Deutsch
   script: latin
   translated: true
-- code: et
+et:
+  code: et
   name: eesti
   script: latin-ext
   translated: false
-- code: el
+el:
+  code: el
   name: ελληνικά
   script: greek
   translated: false
-- code: en
+en:
+  code: en
   name: English
   script: latin
   translated: true
-- code: es
+es:
+  code: es
   name: español
   script: latin
   translated: true
-- code: fr
+fr:
+  code: fr
   name: français
   script: latin-ext
   translated: true
-- code: ga
+ga:
+  code: ga
   name: Gaeilge
   script: latin-ext
   translated: false
-- code: hr
+hr:
+  code: hr
   name: hrvatski
   script: latin-ext
   translated: false
-- code: it
+it:
+  code: it
   name: italiano
   script: latin
   translated: true
-- code: lv
+lv:
+  code: lv
   name: latviešu
   script: latin-ext
   translated: false
-- code: lt
+lt:
+  code: lt
   name: lietuvių
   script: latin-ext
   translated: false
-- code: hu
+hu:
+  code: hu
   name: magyar
   script: latin-ext
   translated: false
-- code: mt
+mt:
+  code: mt
   name: Malti
   script: latin-ext
   translated: false
-- code: nl
+nl:
+  code: nl
   name: Nederlands
   script: latin-ext
   translated: true
-- code: pl
+pl:
+  code: pl
   name: polski
   script: latin-ext
   translated: false
-- code: pt
+pt:
+  code: pt
   name: português
   script: latin
   translated: false
-- code: ro
+ro:
+  code: ro
   name: română
   script: latin-ext
   translated: false
-- code: sk
+sk:
+  code: sk
   name: slovenčina
   script: latin-ext
   translated: false
-- code: sl
+sl:
+  code: sl
   name: slovenščina
   script: latin-ext
   translated: false
-- code: fi
+fi:
+  code: fi
   name: suomi
   script: latin-ext
   translated: false
-- code: sv
+sv:
+  code: sv
   name: svenska
   script: latin
   translated: false

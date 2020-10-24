@@ -1,6 +1,9 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+activate :directory_indexes
+activate :i18n, mount_at_root: :en
+
 activate :external_pipeline,
   name: :webpack,
   command: build? ? 'yarn run build' : 'yarn run start',
