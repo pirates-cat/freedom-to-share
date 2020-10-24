@@ -1,15 +1,100 @@
 - code: bg
   name: български
   script: cyrillic
+  translated: false
 - code: ca
   name: català
   script: latin
+  translated: true
 - code: cs
   name: čeština
   script: latin-ext
+  translated: false
+- code: da
+  name: dansk
+  script: latin
+  translated: false
+- code: de
+  name: Deutsch
+  script: latin
+  translated: true
+- code: et
+  name: eesti
+  script: latin-ext
+  translated: false
 - code: el
   name: ελληνικά
   script: greek
+  translated: false
 - code: en
   name: English
   script: latin
+  translated: true
+- code: es
+  name: español
+  script: latin
+  translated: true
+- code: fr
+  name: français
+  script: latin-ext
+  translated: true
+- code: ga
+  name: Gaeilge
+  script: latin-ext
+  translated: false
+- code: hr
+  name: hrvatski
+  script: latin-ext
+  translated: false
+- code: it
+  name: italiano
+  script: latin
+  translated: true
+- code: lv
+  name: latviešu
+  script: latin-ext
+  translated: false
+- code: lt
+  name: lietuvių
+  script: latin-ext
+  translated: false
+- code: hu
+  name: magyar
+  script: latin-ext
+  translated: false
+- code: mt
+  name: Malti
+  script: latin-ext
+  translated: false
+- code: nl
+  name: Nederlands
+  script: latin-ext
+  translated: true
+- code: pl
+  name: polski
+  script: latin-ext
+  translated: false
+- code: pt
+  name: português
+  script: latin
+  translated: false
+- code: ro
+  name: română
+  script: latin-ext
+  translated: false
+- code: sk
+  name: slovenčina
+  script: latin-ext
+  translated: false
+- code: sl
+  name: slovenščina
+  script: latin-ext
+  translated: false
+- code: fi
+  name: suomi
+  script: latin-ext
+  translated: false
+- code: sv
+  name: svenska
+  script: latin
+  translated: false
