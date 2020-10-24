@@ -1,0 +1,15 @@
+- code: bg
+  name: български
+  script: cyrillic
+- code: ca
+  name: català
+  script: latin
+- code: cs
+  name: čeština
+  script: latin-ext
+- code: el
+  name: ελληνικά
+  script: greek
+- code: en
+  name: English
+  script: latin

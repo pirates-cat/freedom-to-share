@@ -1,5 +1,5 @@
-const path = require("path");
-var ExtractTextPlugin = require("extract-text-webpack-plugin");
+const path = require("path")
+const ExtractTextPlugin = require("extract-text-webpack-plugin")
 
 module.exports = {
   entry: {
@@ -9,6 +9,7 @@ module.exports = {
     filename: "assets/javascripts/[name].js",
     path: path.resolve(__dirname, ".tmp/dist"),
   },
+  devtool: "source-map",
   module: {
     rules: [
       {
@@ -21,21 +22,38 @@ module.exports = {
         use: ExtractTextPlugin.extract({
           use: [
             {
-              loader: "css-loader", // translates CSS into CommonJS modules
+              loader: "css-loader",
             },
             {
               loader: "postcss-loader", // Run post css actions
               options: {
                 postcssOptions: {
-                  plugins: ["precss", "autoprefixer"],
+                  ident: "postcss",
+                  plugins: [require("tailwindcss"), require("autoprefixer")],
                 },
               },
             },
             {
-              loader: "sass-loader", // compiles Sass to CSS
+              loader: "resolve-url-loader",
+            },
+            {
+              loader: "sass-loader",
             },
           ],
         }),
+      },
+      {
+        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+        use: [
+          {
+            loader: "file-loader",
+            options: {
+              name: "[name].[ext]",
+              outputPath: "/assets/stylesheets/fonts",
+              esModule: false,
+            },
+          },
+        ],
       },
     ],
   },
@@ -44,4 +62,4 @@ module.exports = {
       filename: "assets/stylesheets/[name].css",
     }),
   ],
-};
+}

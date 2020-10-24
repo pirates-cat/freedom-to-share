@@ -1,1 +1,32 @@
-@import "~bootstrap/scss/bootstrap";
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+@import "~tailwindcss/utilities";
+@import "~fontsource-open-sans/latin-400.css";
+@import "~fontsource-open-sans/latin-700.css";
+
+$fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+
+.turbolinks-progress-bar {
+    height: 3px;
+    @apply bg-primary;
+}
+
+@layer components {
+    header {
+        nav a {
+            &:hover {
+                @apply text-white underline;
+            }
+
+            &:first-of-type {
+                @apply px-2 -ml-2;
+            }
+
+            &+ a {
+                @apply px-2;
+            }
+        }
+    }
+}

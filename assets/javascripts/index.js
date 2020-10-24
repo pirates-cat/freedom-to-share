@@ -1,2 +1,6 @@
-import 'turbolinks'
-import 'bootstrap'
+const Turbolinks = require('turbolinks')
+
+if (Turbolinks.supported) {
+    Turbolinks.start()
+    Turbolinks.setProgressBarDelay(0)
+}

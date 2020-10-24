@@ -1,15 +1,54 @@
 <!doctype html>
-<html>
+<html class="antialiased font-body">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="language" content="it-IT">
     <%= yield_content :head %>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
   </head>
-  <body>
-    <%= yield %>
+  <body class="flex flex-col h-screen">
+    <header class="text-lg bg-black shadow">
+      <div class="container flex items-center justify-between max-w-4xl py-8">
+        <a href="/">
+          <img class="w-128" src="/images/logo-white.png">
+        </a>
+        <a href="/languages" class="text-white hover:text-primary">
+          <i class="fas fa-language"></i>
+          English
+        </a>
+      </div>
+      <nav class="py-3 bg-primary">
+        <div class="container flex justify-between max-w-4xl">
+          <div>
+            <a href="/"><i class="fas fa-home"></i></a>
+            <a href="/we-in-the-press">In the press</a>
+            <a href="/supporting-organisations">Supporting organisations</a>
+            <a href="/contact">Contact</a>
+          </div>
+          <div>
+            <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white bg-black rounded shadow-md hover:bg-white hover:text-black">Get involved</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <%= yield_content :hero %>
+    <main class="flex-grow pt-6 pb-16">
+      <div class="container max-w-4xl leading-relaxed prose-lg text-gray-800">
+        <%= yield %>
+      </div>
+    </main>
+    <footer class="text-white bg-primary">
+      <div class="container grid grid-cols-1 gap-6 py-16">
+        <img class="place-self-center" src="/images/fts-white.png" width="88">
+        <a class="place-self-center" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+          <img alt="Llicència de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png">
+        </a>
+      </div>
+    </footer>
+    <script id="proca" src="https://widget.proca.foundation/d/freesharing"></script>
   </body>
 </html>
