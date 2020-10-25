@@ -30,6 +30,7 @@ module Wordpress
     def prepare
       FileUtils.rm_r('source/localizable') if File.exists?('source/localizable')
       FileUtils.mkdir('source/localizable')
+      FileUtils.cp_r('assets/source/localizable', 'source')
     end
 
     def process_pages
