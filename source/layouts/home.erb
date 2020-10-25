@@ -1,11 +1,11 @@
 <% content_for :hero do %>
-  <section class="text-3xl text-white hero home">
+  <section class="text-3xl text-white" role="hero">
     <div class="container flex flex-row max-w-4xl py-12">
-      <div>
+      <p>
         <%= t('home.hero.text') %>
-      </div>
+      </p>
       <div class="flex items-center">
-        <button>Ohai</button>
+        <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline border-2 border-white rounded shadow-md bg-primary hover:border-primary"><%= t('home.hero.action') %></a>
       </div>
     </div>
   </section>

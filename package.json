@@ -38,6 +38,6 @@
     "start": "NODE_ENV=development ./node_modules/webpack/bin/webpack.js --watch --progress -d --color",
     "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail -p",
     "serve": "bundle exec middleman serve",
-    "sync": "bundle exec ruby bin/wordpress-import.rb"
+    "import": "bundle exec ruby bin/wordpress-import.rb"
   }
 }

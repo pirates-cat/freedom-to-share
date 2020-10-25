@@ -8,8 +8,8 @@ module Wordpress
     extend ActiveSupport::Concern
 
     def render
-      template = "./templates/#{type}.html.erb"
-      template = './templates/page.html.erb' unless File.exists?(template)
+      template = "./lib/wp/templates/#{type}.html.erb"
+      template = './lib/wp/templates/page.html.erb' unless File.exists?(template)
 
       ERB.new(File.read(template)).result(binding)
     end

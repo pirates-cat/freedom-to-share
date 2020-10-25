@@ -26,7 +26,7 @@
       <% unless current_page.data.try(:global) %>
         <nav class="py-3 bg-primary">
           <div class="container flex justify-between max-w-4xl">
-            <div>
+            <div role="menu">
               <a href="<%= url_for('/') %>" title="<%= t('pages.home') %>"><i class="fas fa-home"></i></a>
               <a href="<%= url_for('/press') %>"><%= t('pages.press') %></a>
               <a href="<%= url_for('/organizations') %>"><%= t('pages.organizations') %></a>
