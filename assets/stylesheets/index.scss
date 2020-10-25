@@ -15,7 +15,7 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 
 @layer components {
     header {
-        nav a {
+        nav [role=menu] a {
             &:hover {
                 @apply text-white underline;
             }
@@ -26,6 +26,19 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 
             &+ a {
                 @apply px-2;
+            }
+        }
+
+        [role=hero] {
+            background-image: url('/images/hero-20201025.jpg');
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-attachment: scroll;
+            background-auto: auto;
+            background-clip: border-box;
+
+            p {
+                text-shadow: 1px 1px 10px #000000;
             }
         }
     }

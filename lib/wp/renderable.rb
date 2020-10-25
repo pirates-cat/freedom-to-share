@@ -1,14 +1,17 @@
 # frozen_string_literal: true
 
 require 'erb'
+require 'nokogiri'
 
 module Wordpress
   module Renderable
-    include ActiveSupport::Concern
+    extend ActiveSupport::Concern
 
     def render
-      type = self.class.name.demodulize.downcase
-      ERB.new(File.read("./templates/#{type}.html.erb")).result(binding)
+      template = "./templates/#{type}.html.erb"
+      template = './templates/page.html.erb' unless File.exists?(template)
+
+      ERB.new(File.read(template)).result(binding)
     end
   end
 end

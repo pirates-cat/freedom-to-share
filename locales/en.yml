@@ -1,6 +1,16 @@
 en:
+  creative-commons:
+    text: Creative Commons License
+    url: http://creativecommons.org/licenses/by-sa/4.0/
+  home:
+    hero:
+      text: We need one million signatures. We will start collecting them on November 15th, 2020. <strong>Join us now!</strong>
+      action: Subscribe
   pages:
     home: Home
+    press: In the press
+    organizations: Supporting organizations
+    contact: Contact
   proca:
     consent:
       intro: I agree to {{name}} contacting me about important campaigns
