@@ -1,30 +1,73 @@
 # frozen_string_literal: true
 
+require_relative '../lib/wp/news'
+require_relative '../lib/wp/organization'
 require_relative '../lib/wp/page'
+require_relative '../lib/wp/social_network'
 
 require 'fileutils'
 require 'uri'
+require 'yaml'
 
-FileUtils.rm_r('source') if File.exists?('source')
-FileUtils.cp_r('base', 'source')
-
-Wordpress::Page.all.each_page do |pages|
-  pages.each do |page|
-    if page.language == 'en'
-      filename = 'index.html.erb'
-    else
-      filename = "index.#{page.language}.html.erb"
+module Wordpress
+  class Import
+    def self.run
+      Import.new.run
     end
 
-    if page.type == 'home'
-      basedir = File.join('source', 'localizable')
-    else
-      basedir = File.join('source', 'localizable', page.type)
+    def run
+      prepare
+      process_pages
+      process_data Organization
+      process_data News
+      process_data SocialNetwork
     end
 
-    full_path = File.join(basedir, filename)
+    private
 
-    FileUtils.mkdir_p(basedir)
-    File.write(full_path, page.render)
+    attr_reader :page
+
+    def prepare
+      FileUtils.rm_r('source') if File.exists?('source')
+      FileUtils.cp_r('base', 'source')
+    end
+
+    def process_pages
+      Page.all.each_page do |pages|
+        pages.each do |p|
+          @page = p
+      
+          FileUtils.mkdir_p(basedir)
+          File.write(full_path, page.render)
+        end
+      end
+    end
+
+    def full_path
+      File.join(basedir, filename)
+    end
+
+    def basedir
+      if page.type == 'home'
+        File.join('source', 'localizable')
+      else
+        File.join('source', 'localizable', page.type)
+      end
+    end
+
+    def filename
+      if page.language == 'en'
+        'index.html.erb'
+      else
+        "index.#{page.language}.html.erb"
+      end
+    end
+
+    def process_data(klass)
+      entries = klass.all.each_page.flat_map(&:to_a)
+      File.write(klass.filename, entries.map(&:summary).to_yaml)
+    end
   end
 end
+
+Wordpress::Import.run

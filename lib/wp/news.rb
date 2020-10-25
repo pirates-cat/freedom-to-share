@@ -5,7 +5,7 @@ require_relative './data'
 require 'spyke'
 
 module Wordpress
-  class Organization < Spyke::Base
+  class News < Spyke::Base
     include Spyke::Kaminari::Scopes
     include Data
 
@@ -13,8 +13,9 @@ module Wordpress
       {
         name: name,
         url: url,
-        region: region.first['name'],
-        logo: logo['guid']
+        country: country,
+        language: language,
+        published_at: published_at
       }.stringify_keys.to_yaml
     end
   end
