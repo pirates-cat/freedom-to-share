@@ -28,8 +28,8 @@ module Wordpress
     attr_reader :page
 
     def prepare
-      FileUtils.rm_r('source') if File.exists?('source')
-      FileUtils.cp_r('base', 'source')
+      FileUtils.rm_r('source/localizable') if File.exists?('source/localizable')
+      FileUtils.mkdir('source/localizable')
     end
 
     def process_pages
