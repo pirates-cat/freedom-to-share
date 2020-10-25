@@ -1,1 +1,48 @@
-{}
+proca:
+  consent:
+    opt-in: Sí, manteniu-me al dia per correu
+    opt-out: No, no m'envieu correus
+    processing: La teva informació personal es mantindrà privada i segura. En enviar
+      informació, acceptes l’ús de dades i galetes d’acord amb la nostra <1> política
+      de privadesa </1>
+    intro: Accepto que {{name}} em contacti sobre campanyes importants
+    confirm: <0>N'estàs segur?</0><1>Si selecciones "No", no podràs esbrinar si aquesta
+      campanya té èxit o si cal fer més accions per assolir-la. Si seleccioneu "Sí",
+      et mantindrem informat sobre aquesta i altres campanyes urgents.</1><2>Pots
+      donar-te de baixa en qualsevol moment.</2>
+  share:
+    title: Pràcticament ja ho tens! Fes el següent pas.
+    message: Has de signar això!
+    email:
+      subject: Hauries de signar això
+      body: "Hola,\nSi us plau, signa això. Crec que hi voldràs donar suport"
+    intro: Genial, has signat 👍 Per multiplicar el teu impacte, comparteix-lo a tot
+      arreu per assegurar-nos que tothom vegi aquesta petició 🙏.
+  Sign: Signa ara!
+  progress: '{{count}} han signat. Volem arribar a {{goal}}'
+  This field is required.: Aquest camp és obligatori.
+  Enter a number.: Escriu un número.
+  Enter a valid email address.: Escriu una adreça de correu vàlida.
+  Amount: Quantitat
+  Donations must be %(amount)s or more: Els donatius han de ser %(amount)s o superior
+  First name: Nom
+  Last name: Cognoms
+  Email: Correu
+  Postal Code: Codi postal
+  Street: Carrer
+  City: Municipi
+  Country: País
+  Thanks!: Gràcies!
+  Legal: Legal
+  Privacy: Privacitat
+  No Thanks: No, gràcies
+  Stay in touch: Estigues en contacte
+  Sign Up: Registra't
+  Share on Facebook: Compartir a Facebook
+  Share on Twitter: Compartir a Twitter
+  Email_Share button: Correu
+  Link_Share button: Enllaç
+  Download explanation: El teu documentat està enllestit i l'enviem al teu correu
+    també.
+pages:
+  home: Inici
