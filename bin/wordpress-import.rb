@@ -37,6 +37,9 @@ module Wordpress
       Page.all.each_page do |pages|
         pages.each do |p|
           @page = p
+          next if page.type == 'contact'
+          next if page.type == 'organizations'
+          next if page.type == 'press'
       
           FileUtils.mkdir_p(basedir)
           File.write(full_path, page.render)

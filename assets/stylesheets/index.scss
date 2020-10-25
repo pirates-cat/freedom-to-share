@@ -42,4 +42,14 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
             }
         }
     }
+
+    main article {
+        a {
+            @apply underline text-tertiary;
+
+            &:hover {
+                @apply text-white bg-secondary;
+            }
+        }
+    }
 }

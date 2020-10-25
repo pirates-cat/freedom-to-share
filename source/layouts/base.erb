@@ -28,9 +28,15 @@
           <div class="container flex justify-between max-w-4xl">
             <div role="menu">
               <a href="<%= url_for('/') %>" title="<%= t('pages.home') %>"><i class="fas fa-home"></i></a>
-              <a href="<%= url_for('/press') %>"><%= t('pages.press') %></a>
-              <a href="<%= url_for('/organizations') %>"><%= t('pages.organizations') %></a>
-              <a href="<%= url_for('/contact') %>"><%= t('pages.contact') %></a>
+              <% if ::I18n.locale == :en %>
+                <a href="<%= url_for('/press') %>"><%= t('pages.press') %></a>
+                <a href="<%= url_for('/organizations') %>"><%= t('pages.organizations') %></a>
+                <a href="<%= url_for('/contact') %>"><%= t('pages.contact') %></a>
+              <% else %>
+                <a href="<%= url_for("/#{::I18n.locale}/press") %>"><%= t('pages.press') %></a>
+                <a href="<%= url_for("/#{::I18n.locale}/organizations") %>"><%= t('pages.organizations') %></a>
+                <a href="<%= url_for("/#{::I18n.locale}/contact") %>"><%= t('pages.contact') %></a>
+              <% end %>
             </div>
             <div>
               <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline bg-black rounded shadow-md hover:bg-white hover:text-black">Get involved</a>

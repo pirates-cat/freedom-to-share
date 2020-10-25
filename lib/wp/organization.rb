@@ -13,7 +13,7 @@ module Wordpress
       {
         name: name,
         url: url,
-        region: region.first['name'],
+        region: region.first['slug'],
         logo: logo['guid']
       }.stringify_keys.to_yaml
     end

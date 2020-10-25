@@ -27,13 +27,13 @@ page '/*.txt', layout: false
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
-# proxy(
-#   '/this-page-has-no-template.html',
-#   '/template-file.html',
-#   locals: {
-#     which_fake_page: 'Rendering a fake page with a local variable'
-#   },
-# )
+::I18n.available_locales.each do |locale|
+  next if locale == :en
+
+  %w[contact organizations press].each do |slug|
+    proxy "/#{locale}/#{slug}/index.html", "localizable/#{slug}/index.html"
+  end
+end
 
 # Helpers
 # Methods defined in the helpers block are available in templates

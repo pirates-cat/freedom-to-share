@@ -11,6 +11,11 @@ en:
     press: In the press
     organizations: Supporting organizations
     contact: Contact
+  press:
+    published_at: |
+      Published at
+      <a href="%{url}" class="font-bold text-tertiary">%{host}</a>
+      on %{date}
   proca:
     consent:
       intro: I agree to {{name}} contacting me about important campaigns
@@ -50,4 +55,7 @@ en:
     Email_Share button: Email
     Link_Share button: Link
     Download explanation: Your document is now ready, we are emailing it to you too.
-
+  regions:
+    transnational: European / Transnational level
+    germany: Germany
+    italy: Italy
