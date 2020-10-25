@@ -1,0 +1,56 @@
+<!doctype html>
+<html class="antialiased font-body">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <%= yield_content :head %>
+    <%= stylesheet_link_tag "site" %>
+    <%= javascript_include_tag "site" %>
+    <link rel="dns-prefetch" href="https://widget.proca.foundation">
+  </head>
+  <body class="flex flex-col h-screen">
+    <header class="text-lg bg-black shadow">
+      <div class="container flex items-center justify-between max-w-4xl py-8">
+        <a href="<%= url_for('/', locale: ::I18n.locale) %>">
+          <img class="w-128" src="/images/logo-white.png">
+        </a>
+        <% unless current_page.data.try(:global) %>
+          <a href="/languages" class="text-white hover:text-primary">
+            <i class="fas fa-language"></i>
+            <%= data.languages[::I18n.locale]['name'] %>
+          </a>
+        <% end %>
+      </div>
+      <% unless current_page.data.try(:global) %>
+        <nav class="py-3 bg-primary">
+          <div class="container flex justify-between max-w-4xl">
+            <div>
+              <a href="<%= url_for('/') %>" title="<%= t('pages.home') %>"><i class="fas fa-home"></i></a>
+              <a href="<%= url_for('/press') %>"><%= t('pages.press') %></a>
+              <a href="<%= url_for('/organizations') %>"><%= t('pages.organizations') %></a>
+              <a href="<%= url_for('/contact') %>"><%= t('pages.contact') %></a>
+            </div>
+            <div>
+              <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline bg-black rounded shadow-md hover:bg-white hover:text-black">Get involved</a>
+            </div>
+          </div>
+        </nav>
+      <% end %>
+      <%= yield_content :hero %>
+    </header>
+    <main class="flex-grow pt-6 pb-16">
+      <%= yield %>
+    </main>
+    <footer class="text-white bg-primary">
+      <div class="container grid grid-cols-1 gap-6 py-16 place-items-center">
+        <img src="/images/fts-white.png" width="88">
+        <a rel="license" href="<%= t('creative-commons.url') %>">
+          <img alt="<%= t('creative-commons.text') %>" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png">
+        </a>
+      </div>
+    </footer>
+    <script id="proca" src="https://widget.proca.foundation/d/freesharing"></script>
+  </body>
+</html>

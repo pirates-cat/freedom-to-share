@@ -1,0 +1,29 @@
+<% content_for :hero do %>
+  <section class="text-3xl text-white hero home">
+    <div class="container flex flex-row max-w-4xl py-12">
+      <div>
+        <%= t('home.hero.text') %>
+      </div>
+      <div class="flex items-center">
+        <button>Ohai</button>
+      </div>
+    </div>
+  </section>
+<% end %>
+<% wrap_layout :base do %>
+  <div class="container flex max-w-4xl">
+    <article class="leading-relaxed prose-lg text-gray-800">
+      <%= yield %>
+    </article>
+    <aside class="flex flex-col items-end pl-5">
+      <div class="flex flex-col items-center w-64 p-4 rounded bg-tertiary">
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="RKMCT2GMB7ZL2" />
+          <input type="image" src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+          <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+      </div>
+    </aside>
+  </div>
+<% end %>
