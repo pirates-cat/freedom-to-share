@@ -43,7 +43,7 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
         }
     }
 
-    main article {
+    main article, main [role=alert] {
         a {
             @apply underline text-tertiary;
 

@@ -6,6 +6,10 @@ en:
     hero:
       text: We need one million signatures. We will start collecting them on November 15th, 2020. <strong>Join us now!</strong>
       action: Subscribe
+  messages:
+    missing_translations:
+      first: Our site is missing translations to your language.
+      second: Help us here!
   pages:
     home: Home
     press: In the press
