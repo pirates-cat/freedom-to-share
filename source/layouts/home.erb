@@ -1,22 +1,22 @@
 <% content_for :hero do %>
-  <section class="text-3xl text-white" role="hero">
-    <div class="container flex flex-row max-w-4xl py-12">
+  <section class="px-4 text-3xl text-white md:px-0" role="hero">
+    <div class="container flex flex-col max-w-4xl py-12 md:flex-row">
       <p>
         <%= t('home.hero.text') %>
       </p>
-      <div class="flex items-center">
+      <div class="flex items-center justify-center pt-4 md:pt-0">
         <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline border-2 border-white rounded shadow-md bg-primary hover:border-primary"><%= t('home.hero.action') %></a>
       </div>
     </div>
   </section>
 <% end %>
 <% wrap_layout :base do %>
-  <div class="container flex max-w-4xl">
-    <article class="leading-relaxed prose-lg text-gray-800">
+  <div class="container max-w-4xl md:flex ">
+    <article class="px-4 pb-8 leading-relaxed prose-lg text-gray-800 md:px-0 md:pb-0">
       <%= yield %>
     </article>
-    <aside class="flex flex-col items-end pl-5">
-      <div class="flex flex-col items-center w-64 p-4 rounded bg-tertiary">
+    <aside class="flex flex-col items-end md:pl-5">
+      <div class="flex flex-col items-center w-full p-4 md:w-64 md:rounded bg-tertiary">
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick" />
           <input type="hidden" name="hosted_button_id" value="RKMCT2GMB7ZL2" />

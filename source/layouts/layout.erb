@@ -1,5 +1,5 @@
 <% wrap_layout :base do %>
-  <div class="container max-w-4xl">
+  <div class="container max-w-4xl px-4 pb-8 md:px-0 md:pb-0">
     <% if current_page.is_a?(Middleman::Sitemap::ProxyResource) && ::I18n.locale != :en %>
       <aside class="max-w-4xl px-4 py-3 mb-6 text-yellow-900 bg-yellow-100 border-t-4 border-yellow-400 rounded-b shadow-md" role="alert">
         <p class="my-0 font-bold"><%= t('messages.missing_translations.first') %></p>

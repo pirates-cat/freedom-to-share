@@ -9,6 +9,7 @@
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@tailwindcss/typography": "^0.2.0",
     "fontsource-open-sans": "^3.0.9",
+    "slideout": "^1.0.1",
     "tailwindcss": "^1.9.5",
     "turbolinks": "^5.2.0"
   },

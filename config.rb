@@ -39,11 +39,12 @@ end
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def nice_url(url)
+    uri = URI.parse(url)
+    "#{uri.host.gsub('www.', '')}#{uri.path.chomp('/')}"
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
