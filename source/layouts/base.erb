@@ -15,6 +15,10 @@
       <div id="slider-menu">
         <div class="grid grid-cols-1 gap-4 p-6">
           <%= partial 'partials/menu' %>
+          <a href="/languages">
+            <i class="fas fa-language"></i>
+            <%= data.languages[::I18n.locale]['name'] %>
+          </a>
           <a href="#">Close</a>
         </div>
       </div>
