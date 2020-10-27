@@ -2,9 +2,6 @@ module.exports = {
   future: {
     purgeLayersByDefault: true,
   },
-  purge: {
-    mode: 'all',
-  },
   theme: {
     container: {
       center: true,
