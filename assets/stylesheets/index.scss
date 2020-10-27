@@ -9,47 +9,98 @@ $fa-font-path: "~@fortawesome/fontawesome-free/webfonts";
 @import "~@fortawesome/fontawesome-free/scss/solid.scss";
 
 .turbolinks-progress-bar {
-    height: 3px;
-    @apply bg-primary;
+  height: 3px;
+  @apply bg-primary;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.slideout-menu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
+  width: 256px;
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch;
+  display: none;
+}
+
+.slideout-panel {
+  position: relative;
+  z-index: 1;
+  will-change: transform;
+}
+
+.slideout-open,
+.slideout-open body,
+.slideout-open .slideout-panel {
+  overflow: hidden;
+}
+
+.slideout-open .slideout-menu {
+  display: block;
+}
+
+.panel:before {
+  content: '';
+  display: block;
+  background-color: rgba(0,0,0,0);
+  transition: background-color 0.5s ease-in-out;
+}
+
+.panel-open:before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0,0,0,.5);
+  z-index: 99;
 }
 
 @layer components {
-    header {
-        nav [role=menu] a {
-            &:hover {
-                @apply text-white underline;
-            }
+  header {
+    nav [role="menu"] a {
+      &:hover {
+        @apply text-white underline;
+      }
 
-            &:first-of-type {
-                @apply px-2 -ml-2;
-            }
+      &:first-of-type {
+        @apply px-2 -ml-2;
+      }
 
-            &+ a {
-                @apply px-2;
-            }
-        }
-
-        [role=hero] {
-            background-image: url('/images/hero-20201025.jpg');
-            background-repeat: no-repeat;
-            background-position: center center;
-            background-attachment: scroll;
-            background-auto: auto;
-            background-clip: border-box;
-
-            p {
-                text-shadow: 1px 1px 10px #000000;
-            }
-        }
+      & + a {
+        @apply px-2;
+      }
     }
 
-    main article, main [role=alert] {
-        a {
-            @apply underline text-tertiary;
+    [role="hero"] {
+      background-image: url("/images/hero-20201025.jpg");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-attachment: scroll;
+      background-auto: auto;
+      background-clip: border-box;
 
-            &:hover {
-                @apply text-white bg-secondary;
-            }
-        }
+      p {
+        text-shadow: 1px 1px 10px #000000;
+      }
     }
+  }
+
+  main article,
+  main [role="alert"] {
+    a {
+      @apply underline text-tertiary;
+
+      &:hover {
+        @apply text-white bg-secondary;
+      }
+    }
+  }
 }

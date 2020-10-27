@@ -1,0 +1,10 @@
+<a href="<%= url_for('/') %>" title="<%= t('pages.home') %>"><i class="fas fa-home"></i></a>
+<% if ::I18n.locale == :en %>
+  <a href="<%= url_for('/press') %>"><%= t('pages.press') %></a>
+  <a href="<%= url_for('/organizations') %>"><%= t('pages.organizations') %></a>
+  <a href="<%= url_for('/contact') %>"><%= t('pages.contact') %></a>
+<% else %>
+  <a href="<%= url_for("/#{::I18n.locale}/press") %>"><%= t('pages.press') %></a>
+  <a href="<%= url_for("/#{::I18n.locale}/organizations") %>"><%= t('pages.organizations') %></a>
+  <a href="<%= url_for("/#{::I18n.locale}/contact") %>"><%= t('pages.contact') %></a>
+<% end %>

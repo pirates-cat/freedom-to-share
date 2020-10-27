@@ -3,6 +3,6 @@ global: true
 ---
 <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
   <% data.languages.each_value do |l| %>
-    <%= partial('language', locals: { l: l }) %>
+    <%= partial 'language', locals: { l: l } %>
   <% end %>
 </div>
