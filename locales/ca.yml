@@ -7,9 +7,9 @@ ca:
         informació, acceptes l’ús de dades i galetes d’acord amb la nostra <1> política
         de privadesa </1>
       intro: Accepto que {{name}} em contacti sobre campanyes importants
-      confirm: <0>N'estàs segur?</0><1>Si selecciones "No", no podràs esbrinar si aquesta
-        campanya té èxit o si cal fer més accions per assolir-la. Si seleccioneu "Sí",
-        et mantindrem informat sobre aquesta i altres campanyes urgents.</1><2>Pots
+      confirm: <0>N'estàs segur?</0><1>Si selecciones "No", no podràs esbrinar si
+        aquesta campanya té èxit o si cal fer més accions per assolir-la. Si seleccioneu
+        "Sí", et mantindrem informat sobre aquesta i altres campanyes urgents.</1><2>Pots
         donar-te de baixa en qualsevol moment.</2>
     share:
       title: Pràcticament ja ho tens! Fes el següent pas.
@@ -17,8 +17,8 @@ ca:
       email:
         subject: Hauries de signar això
         body: "Hola,\nSi us plau, signa això. Crec que hi voldràs donar suport"
-      intro: Genial, has signat 👍 Per multiplicar el teu impacte, comparteix-lo a tot
-        arreu per assegurar-nos que tothom vegi aquesta petició 🙏.
+      intro: Genial, has signat 👍 Per multiplicar el teu impacte, comparteix-lo a
+        tot arreu per assegurar-nos que tothom vegi aquesta petició 🙏.
     Sign: Signa ara!
     progress: '{{count}} han signat. Volem arribar a {{goal}}'
     This field is required.: Aquest camp és obligatori.
@@ -47,3 +47,27 @@ ca:
       també.
   pages:
     home: Inici
+    press: A la premsa
+    organizations: Suports
+    contact: Contacte
+  contact:
+    fiscal_code: Codi fiscal
+  creative-commons:
+    text: Llicència de Creative Commons
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.ca
+  home:
+    hero:
+      text: Necessitem un milió de signatures. Les començarem a recollir el 15 de
+        novembre del 2020. <strong>Uneix-t'hi!</strong>
+      action: Subscriu-t'hi
+  press:
+    published_at: "Publicat a\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\nel %{date}\n"
+  messages:
+    missing_translations:
+      first: La nostra web no té traduccions al teu idioma.
+      second: Ajuda'ns aquí!
+  regions:
+    transnational: Àmbit europeu o transnacional
+    germany: Alemània
+    italy: Itàlia
