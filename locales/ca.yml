@@ -67,6 +67,7 @@ ca:
     missing_translations:
       first: La nostra web no té traduccions al teu idioma.
       second: Ajuda'ns aquí!
+    get_involved: Uneix-t'hi!
   regions:
     transnational: Àmbit europeu o transnacional
     germany: Alemània
