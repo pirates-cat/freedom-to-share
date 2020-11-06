@@ -37,6 +37,7 @@ module Wordpress
       Page.all.each_page do |pages|
         pages.each do |p|
           @page = p
+          # Discard the page if it's pod-based type.
           next if page.type == 'contact'
           next if page.type == 'organizations'
           next if page.type == 'press'
