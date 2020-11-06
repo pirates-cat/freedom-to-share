@@ -9,6 +9,8 @@
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
     <link rel="dns-prefetch" href="https://widget.proca.foundation">
+    <link rel="dns-prefetch" href="https://licensebuttons.net">
+    <link rel="dns-prefetch" href="https://www.paypalobjects.com">
   </head>
   <body class="bg-primary">
     <% unless current_page.data.try(:global) %>
@@ -62,7 +64,7 @@
         <div class="container grid grid-cols-1 gap-6 py-8 md:py-16 place-items-center">
           <img src="/images/fts-white.png" width="88">
           <a rel="license" href="<%= t('creative-commons.url') %>">
-            <img alt="<%= t('creative-commons.text') %>" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png">
+            <img alt="<%= t('creative-commons.text') %>" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png">
           </a>
         </div>
       </footer>
