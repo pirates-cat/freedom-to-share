@@ -3,7 +3,7 @@
 app = "fts"
 
 [[services]]
-  internal_port = 8080
+  internal_port = 80
   protocol = "tcp"
 
   [services.concurrency]

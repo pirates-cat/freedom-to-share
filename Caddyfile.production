@@ -1,0 +1,27 @@
+{
+    auto_https off
+}
+
+http://freesharing.eu {
+    @http header X-Forwarded-Proto http
+    redir @http https://freesharing.eu{uri}
+
+    root * /srv
+    file_server
+}
+
+http://www.freesharing.eu {
+    redir https://freesharing.eu{uri}
+}
+
+http://freedomtoshare.eu {
+    redir https://freesharing.eu{uri}
+}
+
+http://www.freedomtoshare.eu {
+    redir https://freesharing.eu{uri}
+}
+
+http://fts.fly.dev {
+    redir https://freesharing.eu{uri}
+}
