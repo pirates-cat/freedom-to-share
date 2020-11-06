@@ -2,3 +2,71 @@ contact:
   fiscal_code: Código fiscal
 creative-commons:
   text: Licencia Creative Commons
+  url: https://creativecommons.org/licenses/by-sa/4.0/deed.es
+messages:
+  get_involved: Participa
+  missing_translations:
+    first: Nuestra web no está traducida a tu idioma.
+    second: ¡Ayúdanos aquí!
+press:
+  published_at: "Publicado en\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+    >%{host}</a>\nel %{date}\n"
+proca:
+  consent:
+    confirm: <0>¿Estás seguro</0><1>Seleccionando 'No', no sabrás si la campaña fue
+      exitosa o si se necesitan más acciones que debamos llevar a cabo juntos para
+      conseguirlo. Si seleccionas 'Sí' te mantendremos al día sobre esta y otras campañas.</1><2>Puedes
+      darte de baja en cualquier momento.</2>
+    intro: Acepto que {{name}} me contacte sobre campañas importantes
+    opt-in: Sí, informadme por correo
+    opt-out: No, no me enviéis correos ni me informéis en el futuro
+    processing: Tu información personal se mantendrá privada y segurda. Enviando este
+      formulario aceptas el uso de los datos y cookies de acuerdo a nuestra <1>política
+      de privacidad</1>
+  Donations must be %(amount)s or more: Las donaciones deben ser de %(amount)s o superior
+  share:
+    title: ¡Casi lo tienes! Da el siguiente paso.
+    intro: Genial, has firmado 👍. Para ampliar tu impacto, compártelo a diestro y
+      siniestro para que todo el mundo vea esta petición 🙏.
+    message: ¡Debes firmar esto!
+    email:
+      subject: Deberías firmar esto
+      body: "¡Hola!\nPor favor, fírmala. Creo que querrás darle apoyo"
+  Sign: Firma ahora!
+  progress: '{{count}} han firmado. Lleguemos a {{goal}}'
+  This field is required.: Este campo es obligatorio.
+  Enter a number.: Introduce un número.
+  Enter a valid email address.: Introduce una dirección de correo válida.
+  Amount: Cantidad
+  First name: Nombre
+  Last name: Apellidos
+  Email: Correo electrónico
+  Postal Code: Código postal
+  City: Ciudad
+  Street: Calle
+  Country: País
+  Thanks!: ¡Gracias!
+  Legal: Legal
+  Privacy: Privacidad
+  No Thanks: No, gracias
+  Stay in touch: Estar en contacto
+  Sign Up: Registrarse
+  Share on Facebook: Compatir en Facebook
+  Share on Twitter: Compartir en Twitter
+  Email_Share button: Correo electrónico
+  Link_Share button: Enlace
+  Download explanation: Tu documento está listo, lo estamos enviado a tu correo también.
+pages:
+  home: Inicio
+  contact: Contacto
+  press: En los medios
+  organizations: Organizaciones
+regions:
+  transnational: Nivel europeo / transnacional
+  germany: Alemania
+  italy: Italia
+home:
+  hero:
+    text: Necesitamos un millón de firmas. Empezaremos a recogerlas el 15 de noviembre.
+      <strong>¡Únete!</strong>
+    action: Suscríbete

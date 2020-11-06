@@ -1,1 +1,7 @@
-{}
+pages:
+  home: Hauptseite
+home:
+  hero:
+    text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
+      mit dem Sammeln von Unterschriften beginnen. <strong>Machen Sie jetzt mit!</strong>
+    action: Abonnieren
