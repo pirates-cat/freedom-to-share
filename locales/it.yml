@@ -1,7 +1,8 @@
-pages:
-  home: Pagina principale
-home:
-  hero:
-    text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme il
-      15 novembre 2020. <strong>Unisciti a noi ora!</strong>
-    action: Sottoscrivi
+it:
+  pages:
+    home: Pagina principale
+  home:
+    hero:
+      text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme il
+        15 novembre 2020. <strong>Unisciti a noi ora!</strong>
+      action: Sottoscrivi

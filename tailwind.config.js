@@ -2,6 +2,10 @@ module.exports = {
   future: {
     purgeLayersByDefault: true,
   },
+  purge: [
+    "./source/**/*.html",
+    "./source/**/*.erb",
+  ],
   theme: {
     container: {
       center: true,

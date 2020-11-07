@@ -37,6 +37,7 @@ module Wordpress
       Page.all.each_page do |pages|
         pages.each do |p|
           @page = p
+          # Discard the page if it's pod-based type.
           next if page.type == 'contact'
           next if page.type == 'organizations'
           next if page.type == 'press'
@@ -69,6 +70,8 @@ module Wordpress
 
     def process_data(klass)
       entries = klass.all.each_page.flat_map(&:to_a)
+      entries.map(&:prepare)
+
       File.write(klass.filename, entries.map(&:summary).to_yaml)
     end
   end

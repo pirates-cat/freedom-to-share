@@ -25,6 +25,7 @@
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "file-loader": "^6.1.1",
     "node-sass": "^4.10.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.4",
     "postcss": "^8.1.1",
     "postcss-loader": "^4.0.4",
     "resolve-url-loader": "^3.1.2",
@@ -37,8 +38,10 @@
   },
   "scripts": {
     "start": "NODE_ENV=development ./node_modules/webpack/bin/webpack.js --watch --progress -d --color",
-    "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail -p",
-    "serve": "bundle exec middleman serve",
+    "build": "NODE_ENV=production ./node_modules/webpack/bin/webpack.js --bail -p --config webpack.config.production.js",
+    "serve": "yarn run middleman:serve",
+    "middleman:serve": "bundle exec middleman serve",
+    "middleman:build": "bundle exec middleman build",
     "import": "bundle exec ruby bin/wordpress-import.rb"
   }
 }

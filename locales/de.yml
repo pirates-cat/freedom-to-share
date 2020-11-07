@@ -1,40 +1,41 @@
-pages:
-  home: Hauptseite
-  press: In der Presse
-  organizations: Unterstützende Organisationen
-  contact: Kontakt
-home:
-  hero:
-    text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
-      mit dem Sammeln von Unterschriften beginnen. <strong>Machen Sie jetzt mit!</strong>
-    action: Abonnieren
-proca:
-  consent:
-    intro: Ich bin einverstanden, dass {{name}} mich über wichtige Neuigkeiten informieren
-      darf
-    opt-in: Ja, informiere mich über Email
-    opt-out: Nein, sende mir keine Emails, ich möchte in Zukunft nicht mehr informiert
-      werden
-    confirm: <0>Bist du dir sicher?</0><1>Wenn du 'Nein' auswählst, wirst du nicht
-      in der Lage sein herauszufinden, ob die Kampagnie erfolgreich gewesen ist, oder
-      ob es noch mehr Aktionen braucht, die wir Zusammen unternehmen müssen um gemeinsam
-      zu gewinnen. Wenn du 'Ja' auswählst, werden wir dich über diese und andere dringliche
-      Kampagnien auf dem Laufenden halten.</1><2>Du kannst dich jederzeit abmelden.</2>
-    processing: Deine persönliche Daten werden geheimgehalten und sicher gespeichert.
-      Wenn du die Informationen übermittelst, stimmst du der Verwendung von Daten
-      und Cookies zu in übereinstimmung mit unserer <1>Datenschutzerklärung</1>
-  share:
-    title: Fast fertig! Zum nächsten Schritt.
-messages:
-  get_involved: Mitmachen
-  missing_translations:
-    first: Auf unserer Website fehll die Übersetzung in Ihre Sprache.
-    second: Hilf uns hier!
-contact:
-  fiscal_code: Steuernummer
-creative-commons:
-  text: Creative-Commons-Lizenz
-  url: http://creativecommons.org/licenses/by-sa/4.0/deed.de
-press:
-  published_at: "Veröffentlicht auf\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>\nam %{date}\n"
+de:
+  pages:
+    home: Hauptseite
+    press: In der Presse
+    organizations: Unterstützende Organisationen
+    contact: Kontakt
+  home:
+    hero:
+      text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
+        mit dem Sammeln von Unterschriften beginnen. <strong>Machen Sie jetzt mit!</strong>
+      action: Abonnieren
+  proca:
+    consent:
+      intro: Ich bin einverstanden, dass {{name}} mich über wichtige Neuigkeiten informieren
+        darf
+      opt-in: Ja, informiere mich über Email
+      opt-out: Nein, sende mir keine Emails, ich möchte in Zukunft nicht mehr informiert
+        werden
+      confirm: <0>Bist du dir sicher?</0><1>Wenn du 'Nein' auswählst, wirst du nicht
+        in der Lage sein herauszufinden, ob die Kampagnie erfolgreich gewesen ist, oder
+        ob es noch mehr Aktionen braucht, die wir Zusammen unternehmen müssen um gemeinsam
+        zu gewinnen. Wenn du 'Ja' auswählst, werden wir dich über diese und andere dringliche
+        Kampagnien auf dem Laufenden halten.</1><2>Du kannst dich jederzeit abmelden.</2>
+      processing: Deine persönliche Daten werden geheimgehalten und sicher gespeichert.
+        Wenn du die Informationen übermittelst, stimmst du der Verwendung von Daten
+        und Cookies zu in übereinstimmung mit unserer <1>Datenschutzerklärung</1>
+    share:
+      title: Fast fertig! Zum nächsten Schritt.
+  messages:
+    get_involved: Mitmachen
+    missing_translations:
+      first: Auf unserer Website fehll die Übersetzung in Ihre Sprache.
+      second: Hilf uns hier!
+  contact:
+    fiscal_code: Steuernummer
+  creative-commons:
+    text: Creative-Commons-Lizenz
+    url: http://creativecommons.org/licenses/by-sa/4.0/deed.de
+  press:
+    published_at: "Veröffentlicht auf\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\nam %{date}\n"

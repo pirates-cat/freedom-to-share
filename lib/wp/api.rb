@@ -7,8 +7,8 @@ require 'spyke/kaminari'
 require 'uri'
 
 module Wordpress
-  BASE_URL = 'https://freesharing.eu'.freeze
-  ENDPOINT = 'https://freesharing.eu/wp-json/wp/v2'.freeze
+  BASE_URL = 'https://cms.freesharing.eu'.freeze
+  ENDPOINT = 'https://cms.freesharing.eu/wp-json/wp/v2'.freeze
 
   class HeaderParser < Faraday::Response::Middleware
     def pagination_headers(env)
@@ -54,7 +54,7 @@ module Wordpress
   end
 end
 
-Spyke::Base.connection = Faraday.new(url: Wordpress::ENDPOINT) do |c|
+Spyke::Base.connection = Faraday.new(url: Wordpress::ENDPOINT, ssl: { verify: false }) do |c|
   c.request :json
   c.use     Spyke::Kaminari::HeaderParser
   c.use     Wordpress::HeaderParser

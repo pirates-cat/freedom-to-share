@@ -1,0 +1,7 @@
+.vendor
+node_modules
+.hosts
+.rbenv-vars
+.ruby-version
+.yarnclean
+Dockerfile

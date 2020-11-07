@@ -27,7 +27,9 @@ page '/*.txt', layout: false
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
-::I18n.available_locales.each do |locale|
+available_locales = %i[bg ca cs da de el es en et fi fr ga hr hu it lt lv mt nl pl pt ro sk sl sv]
+
+available_locales.each do |locale|
   next if locale == :en
 
   %w[contact organizations press].each do |slug|
@@ -58,11 +60,7 @@ configure :build do
   ignore   File.join(config[:js_dir], '*') # handled by webpack
   ignore   File.join(config[:css_dir], '*') # handled by webpack
   activate :asset_hash
-  activate :gzip
-  activate :minify_css
   activate :minify_html
-  activate :minify_javascript
-  activate :relative_assets
 #  activate :robots, rules: [{ user_agent: '*', allow: %w[/] }],
 #                    sitemap: File.join(@app.data.site.host, 'sitemap.xml')
 end
