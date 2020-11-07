@@ -9,12 +9,16 @@ module Wordpress
     include Spyke::Kaminari::Scopes
     include Data
 
+    def prepare
+      @_image = download(logo['guid'], :images)
+    end
+
     def summary
       {
         name: name,
         url: url,
         region: region.first['slug'],
-        logo: logo['guid']
+        logo: @_image
       }.stringify_keys.to_yaml
     end
   end

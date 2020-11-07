@@ -70,6 +70,8 @@ module Wordpress
 
     def process_data(klass)
       entries = klass.all.each_page.flat_map(&:to_a)
+      entries.map(&:prepare)
+
       File.write(klass.filename, entries.map(&:summary).to_yaml)
     end
   end
