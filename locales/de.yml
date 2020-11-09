@@ -17,15 +17,49 @@ de:
       opt-out: Nein, sende mir keine Emails, ich möchte in Zukunft nicht mehr informiert
         werden
       confirm: <0>Bist du dir sicher?</0><1>Wenn du 'Nein' auswählst, wirst du nicht
-        in der Lage sein herauszufinden, ob die Kampagnie erfolgreich gewesen ist, oder
-        ob es noch mehr Aktionen braucht, die wir Zusammen unternehmen müssen um gemeinsam
-        zu gewinnen. Wenn du 'Ja' auswählst, werden wir dich über diese und andere dringliche
-        Kampagnien auf dem Laufenden halten.</1><2>Du kannst dich jederzeit abmelden.</2>
+        in der Lage sein herauszufinden, ob die Kampagnie erfolgreich gewesen ist,
+        oder ob es noch mehr Aktionen braucht, die wir Zusammen unternehmen müssen
+        um gemeinsam zu gewinnen. Wenn du 'Ja' auswählst, werden wir dich über diese
+        und andere dringliche Kampagnien auf dem Laufenden halten.</1><2>Du kannst
+        dich jederzeit abmelden.</2>
       processing: Deine persönliche Daten werden geheimgehalten und sicher gespeichert.
         Wenn du die Informationen übermittelst, stimmst du der Verwendung von Daten
         und Cookies zu in übereinstimmung mit unserer <1>Datenschutzerklärung</1>
     share:
       title: Fast fertig! Zum nächsten Schritt.
+      intro: Danke, du hast unterschrieben 👍. Die Bürgerinitiative wird dann zum Erfolg
+        werden, wenn mehr Menschen unterschreiben. Bitte unterstütze uns, indem Du
+        die Kampagne mit Deiner Familie und Deinen Freunden teilst. Vielen Dank! 🙏.
+      message: Unterschreibe hier!
+      email:
+        subject: Unterschreibe hier
+        body: "Hi, \nbitte trage dich ein, ich glaube du willst uns unterstützen"
+    Donations must be %(amount)s or more: Spenden müssen mindestens %(amount) betragen
+    Sign: Jetzt unterschreiben!
+    progress: '{{count}} haben unterschrieben. Nächstes Ziel {{goal}}'
+    This field is required.: Bitte dieses Feld ausfüllen.
+    Enter a number.: trage eine Zahl ein.
+    Enter a valid email address.: Trage eine gülltige Emailadresse ein.
+    Share on Facebook: Auf Facebook teilen
+    Share on Twitter: Auf Twitter teilen
+    Email_Share button: Email
+    Link_Share button: Link
+    Download explanation: Dein Dokument ist bereit zum herunterladen, wir senden es
+      dir auch per Email.
+    Amount: Betrag
+    First name: Vorname
+    Last name: Nachname
+    Email: Email
+    Postal Code: Postleitzahl
+    Street: Straße
+    City: Ort
+    Country: Land
+    Thanks!: Danke!
+    Legal: Rechtliches
+    Privacy: Privatsphäre
+    No Thanks: Nein danke
+    Stay in touch: in Kontakt bleiben
+    Sign Up: Aboniere
   messages:
     get_involved: Mitmachen
     missing_translations:
@@ -39,3 +73,7 @@ de:
   press:
     published_at: "Veröffentlicht auf\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nam %{date}\n"
+  regions:
+    transnational: Europäische / Transnationale Ebene
+    germany: Deutschland
+    italy: Italien
