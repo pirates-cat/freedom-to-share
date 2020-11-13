@@ -6,8 +6,8 @@ proca:
     title: Peaaegu valmis! Nüüd järgmine samm.
     message: Võiksid allkirjastada selle siin!
     email:
-      subject: Palun, allkirjasta see!
-      body: "Tere, \nMa arvan, et tahad seda toetada. Anna, palun, oma allkiri!"
+      subject: Palun, allkirjasta see
+      body: "Tere, \nMa arvan, et tahad seda toetada. Anna, palun, oma allkiri"
     intro: Suurepärane, et andsid allkirja 👍. Mõju suurendamiseks jaga seda teistega
       ning veendu, et petitsioon jõuab võimalikult paljudeni 🙏.
   progress: '{{count}} allkirja. Kas saame {{goal}} täis?'
