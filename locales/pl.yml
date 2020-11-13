@@ -8,11 +8,70 @@ pl:
     Country: Kraj
     Thanks!: Dziękujemy!
     Last name: Nazwisko
+    share:
+      email:
+        body: "Witaj, \nProszę, podpisz; myślę, że chciałbyś to poprzeć"
+        subject: Powinieneś to podpisać
+      title: Prawie koniec! Jeszcze jeden krok.
+      intro: Znakomicie, twój podpis został złożony 👍. Aby zwielokrotnić swój wpływ,
+        roześlij tą petycję wzdłuż i wszerz, aby wszyscy ją zobaczyli 🙏.
+      message: Powinieneś to podpisać!
+    Sign: Podpisz teraz!
+    progress: '{{count}} podpisało. Osiągnijmy {{goal}}'
+    This field is required.: To pole jest obowiązkowe.
+    Enter a number.: Wpisz numer.
+    Enter a valid email address.: Wpisz prawidłowy adres e-mail.
+    Donations must be %(amount)s or more: Wartość darowizn musi wynosić %(amount)
+      lub więcej
+    Amount: Wartość
+    Legal: Prawo
+    Privacy: Prywatność
+    No Thanks: Nie, dziękuję
+    Share on Facebook: Podziel się przez Facebook
+    Share on Twitter: Podziel się przez Twitter
+    Email_Share button: E-mail
+    Link_Share button: Odnośnik
+    Download explanation: Twój dokument jest już gotowy, wysyłamy go również na twój
+      e-mail.
+    consent:
+      intro: Zgadzam się, aby {{name}} powiadamiał mnie o ważnych kampaniach
+      opt-in: Tak, informuj mnie przez e-mail
+      opt-out: Nie, nie wysyłaj mi e-maili ani nie powiadamiaj mnie w przyszłości
+      confirm: <0>Czy na pewno?</0><1>Jeśli wybierzesz „Nie”, nie dowiesz się, czy
+        ta kampania odniosła sukces, ani czy nie potrzebujemy podjąć wspólnie dodatkowych
+        działań, aby osiągnąć cel. Jeśli wybierzesz „Tak”, będziemy powiadamiać cię
+        o tej kampanii, a także o innych naszych pilnych kampaniach.</1><2>Możesz
+        zrezygnować w każdej chwili.</2>
+      processing: Twoje dane osobowe będą traktowane poufnie i przechowywane bezpiecznie.
+        Podając dane zgadzasz się na wykorzystywanie ich, a także plików cookie, zgodnie
+        z naszą <1>polityką prywatniości</1>
+    Stay in touch: Pozostań w kontakcie
+    Sign Up: Zapisz się
   regions:
     germany: Niemcy
     italy: Włochy
+    transnational: Poziom europejski / ponadnarodowy
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.pl
     text: Licencja Creative Commons
   contact:
     fiscal_code: Numer podatkowy
+  messages:
+    get_involved: Zaangażuj się
+    missing_translations:
+      first: Na naszej stronie brakuje tłumaczeń na twój język.
+      second: Pomóż nam tutaj!
+  pages:
+    home: Strona główna
+    press: W prasie
+    organizations: Organizacje wspierające
+    contact: Kontakt
+    privacy: Polityka prywatności
+  home:
+    hero:
+      action: Subskrybuj
+      text: Potrzebujemy miliona podpisów. Rozpoczniemy ich zbieranie 15 listopada
+        2020 roku. <strong>Dołącz do nas teraz!</strong>
+  press:
+    published_at: "Opublikowany na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\ndnia %{date}\n"
