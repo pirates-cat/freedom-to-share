@@ -3,39 +3,40 @@ it:
     home: Pagina principale
     press: Sulla stampa
     contact: Contatta
-    organizations: Organizzazioni che ci supportano
+    organizations: Organizzazioni che supportano
   home:
     hero:
-      text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme il
-        15 novembre 2020. <strong>Unisciti a noi ora!</strong>
+      text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme
+        il 15 novembre 2020. <strong>Unisciti a noi ora!</strong>
       action: Sottoscrivi
   proca:
     Share on Twitter: Condividi su Twitter
-    Download explanation: Il tuo documento ora è pronto, te lo stiamo inviando via e-mail.
+    Download explanation: Il tuo documento ora è pronto, te lo stiamo inviando via
+      e-mail.
     consent:
       intro: Accetto che {{name}} mi contatti riguardo campagne importanti
-      opt-in: Sì, tenetemi informato via posta elettronica
-      opt-out: No, non inviatemi e-mail e non aggiornatemi in futuro
-      confirm: <0>Sei sicuro?</0><1>Scegliendo 'No', non potrai sapere se questa campagna
-        ha avuto successo, o se dobbiamo intraprendere insieme altre azioni per raggiungere
-        il risultato. Se scegli 'Sì', ti terremo informato su questa e le altre nostre
-        campagne urgenti.</1><2>Puoi disiscriverti in ogni momento.</2>
+      opt-in: Si, tienimi informami con email
+      opt-out: No, non mandarmi email e non aggiornarmi in futuro
+      confirm: <0>Sei sicuro?</0><1>Scegliendo 'No', non sarai informato sul successo
+        di questa campagna, or se sarà necessari fare altre cose per ottenere il risultato.
+        Se scegli 'Si' ti terremo informato su questa e altre campagne.</1><2>Potrai
+        cancellarti quando vorrai.</2>
       processing: Le tue informazioni personali saranno mantenute private e in luogo
-        sicuro. Inoltrando le informazioni accetti l'informativa sull'uso dei dati e
-        i cookie nel rispetto della nostra <1>privacy policy</1>
+        sicuro. Inoltrando le informazioni accetti l'informativa sull'uso dei dati
+        e i cookie nel rispetto della nostra <1>privacy policy</1>
     share:
       title: Quasi finito! Fai il prossimo passo.
       intro: Ottimo, hai sottoscritto 👍. Per aumentare il tuo impatto, condividi ovunque,
-        affinché tutti sappiano di questa campagna 🙏.
+        affinché tutti sappiano di questa petizione 🙏.
       message: Dovresti firmare qui!
       email:
         subject: Dovresti firmare qui
-        body: "Ciao,\nPer favore firma, penso tu voglia sostenere questo"
+        body: "Ciao,\nPer favore firma, penso tu voglia sostenerlo"
     This field is required.: Questo campo è necessario.
     Enter a number.: Scrivi un numero.
     Enter a valid email address.: Scrivi un indirizzo di posta elettronica valido.
-    Donations must be %(amount)s or more: Le donazioni devono essere di %(amount) o
-      più
+    Donations must be %(amount)s or more: Le donazioni devono essere di %(amount)
+      o più
     Amount: Importo
     First name: Nome
     Last name: Cognome
@@ -49,7 +50,7 @@ it:
     Privacy: Privacy
     No Thanks: No grazie
     Stay in touch: Rimaniamo in contatto
-    Sign Up: Firma/sottoscrivi
+    Sign Up: Iscriviti
     Share on Facebook: Condividi su Facebook
     Email_Share button: Email
     Link_Share button: Link
@@ -58,14 +59,14 @@ it:
   messages:
     get_involved: Partecipa
     missing_translations:
-      first: Nel nostro sito non è presente la traduzione nella tua lingua.
-      second: Aiutaci!
+      first: Manca al nostro sito la traduzione nella tua lingua.
+      second: Aiutaci qui!
   regions:
-    transnational: livello europeo/transnazionale
+    transnational: Livello Europeo / Transnazionale
     germany: Germania
     italy: Italia
   contact:
-    fiscal_code: Codice Fiscale
+    fiscal_code: Codice fiscale
   creative-commons:
     text: Licenza Creative Commons
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.it
