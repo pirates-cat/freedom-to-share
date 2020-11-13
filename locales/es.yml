@@ -14,21 +14,22 @@ es:
       >%{host}</a>\nel %{date}\n"
   proca:
     consent:
-      confirm: <0>¿Estás seguro</0><1>Seleccionando 'No', no sabrás si la campaña fue
-        exitosa o si se necesitan más acciones que debamos llevar a cabo juntos para
-        conseguirlo. Si seleccionas 'Sí' te mantendremos al día sobre esta y otras campañas.</1><2>Puedes
-        darte de baja en cualquier momento.</2>
+      confirm: <0>¿Estás seguro</0><1>Seleccionando 'No', no sabrás si la campaña
+        fue exitosa o si se necesitan más acciones que debamos llevar a cabo juntos
+        para conseguirlo. Si seleccionas 'Sí' te mantendremos al día sobre esta y
+        otras campañas.</1><2>Puedes darte de baja en cualquier momento.</2>
       intro: Acepto que {{name}} me contacte sobre campañas importantes
       opt-in: Sí, informadme por correo
       opt-out: No, no me enviéis correos ni me informéis en el futuro
-      processing: Tu información personal se mantendrá privada y segurda. Enviando este
-        formulario aceptas el uso de los datos y cookies de acuerdo a nuestra <1>política
-        de privacidad</1>
-    Donations must be %(amount)s or more: Las donaciones deben ser de %(amount)s o superior
+      processing: Tu información personal se mantendrá privada y segurda. Enviando
+        este formulario aceptas el uso de los datos y cookies de acuerdo a nuestra
+        <1>política de privacidad</1>
+    Donations must be %(amount)s or more: Las donaciones deben ser de %(amount)s o
+      superior
     share:
       title: ¡Casi lo tienes! Da el siguiente paso.
-      intro: Genial, has firmado 👍. Para ampliar tu impacto, compártelo a diestro y
-        siniestro para que todo el mundo vea esta petición 🙏.
+      intro: Genial, has firmado 👍. Para ampliar tu impacto, compártelo a diestro
+        y siniestro para que todo el mundo vea esta petición 🙏.
       message: ¡Debes firmar esto!
       email:
         subject: Deberías firmar esto
@@ -56,12 +57,14 @@ es:
     Share on Twitter: Compartir en Twitter
     Email_Share button: Correo electrónico
     Link_Share button: Enlace
-    Download explanation: Tu documento está listo, lo estamos enviado a tu correo también.
+    Download explanation: Tu documento está listo, lo estamos enviado a tu correo
+      también.
   pages:
     home: Inicio
     contact: Contacto
     press: En los medios
     organizations: Organizaciones
+    privacy: Política de privacidad
   regions:
     transnational: Nivel europeo / transnacional
     germany: Alemania
