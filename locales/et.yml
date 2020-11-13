@@ -1,72 +1,73 @@
-proca:
-  This field is required.: See on nõutud väli.
-  Enter a valid email address.: Sisesta korrektne meiliaadress.
-  Street: Tänav
-  share:
-    title: Peaaegu valmis! Nüüd järgmine samm.
-    message: Võiksid allkirjastada selle siin!
-    email:
-      subject: Palun, allkirjasta see
-      body: "Tere, \nMa arvan, et tahad seda toetada. Anna, palun, oma allkiri"
-    intro: Suurepärane, et andsid allkirja 👍. Mõju suurendamiseks jaga seda teistega
-      ning veendu, et petitsioon jõuab võimalikult paljudeni 🙏.
-  progress: '{{count}} allkirja. Kas saame {{goal}} täis?'
-  Stay in touch: Püsi kursis
-  Thanks!: Aitäh!
-  Share on Facebook: Jaga Facebookis
-  Country: Riik
-  Sign Up: Loo konto
-  Email_Share button: Meiliaadress
-  Sign: Allkirjasta!
-  Donations must be %(amount)s or more: Annetused peavad olema %(amount)s või rohkem
-  Amount: Summa
-  consent:
-    confirm: <0>Oled kindel?</0><1>Kui valid 'Ei', siis jäävad sul saamata teated
-      kampaania edukusest või vajalikest järgmistest sammudest, millega sellele kaasa
-      aidata. Kui valid 'Jah', siis hoiame sind selle ja teiste oluliste kampaaniatega
-      kursis.</1><2>Saad uuenduste saamisest loobuda millal iganes soovid.</2>
-    opt-in: Jah, palun hoidke mind meili teel kursis
-    processing: Sinu isikuandmed säilitatakse turvaliselt ning hoitakse salajas. Teabe
-      esitamisel nõustud andmete ja küpsiste kasutamisega vastavalt meie <1>isikuandmete
-      kaitse põhimõtetele</1>
-    opt-out: Ei, palun mulle tulevikus e-maile mitte saata
-    intro: Luban, et {{name}} võtab muga oluliste kampaaniatega seoses ühendust
-  No Thanks: Tänan, ei
-  Postal Code: Postiindeks
-  Legal: Juriidika
-  Email: E-mail
-  Privacy: Privaatsus
-  Last name: Perekonnanimi
-  Link_Share button: Link
-  City: Linn
-  First name: Eesnimi
-  Enter a number.: Sisesta arv.
-  Share on Twitter: Jaga Twitteris
-  Download explanation: Sinu dokument on valmis ja saadame selle sulle meilile.
-messages:
-  get_involved: Löö kaasa
-  missing_translations:
-    second: Aita meid siin!
-    first: Meie saidil puudub tõlge sinu keelde.
-regions:
-  germany: Saksamaa
-  italy: Itaalia
-  transnational: Euroopa / Rahvusvaheline tase
-pages:
-  home: Algus
-  organizations: Toetavad organisatsioonid
-  contact: Kontakt
-  press: Ajakirjanduses
-press:
-  published_at: "Avaldatud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>\najatempliga %{date}\n"
-home:
-  hero:
-    text: Meil on vaja miljonit allkirja. Koguma hakkame neid 15. novembril 2020.
-      <strong>Aita meile kaasa!</strong>
-    action: Telli
-creative-commons:
-  text: Creative Commonsi litsents
-  url: http://creativecommons.org/licenses/by-sa/4.0/
-contact:
-  fiscal_code: Isikukood
+et:
+  proca:
+    This field is required.: See on nõutud väli.
+    Enter a valid email address.: Sisesta korrektne meiliaadress.
+    Street: Tänav
+    share:
+      title: Peaaegu valmis! Nüüd järgmine samm.
+      message: Võiksid allkirjastada selle siin!
+      email:
+        subject: Palun, allkirjasta see
+        body: "Tere, \nMa arvan, et tahad seda toetada. Anna, palun, oma allkiri"
+      intro: Suurepärane, et andsid allkirja 👍. Mõju suurendamiseks jaga seda teistega
+        ning veendu, et petitsioon jõuab võimalikult paljudeni 🙏.
+    progress: '{{count}} allkirja. Kas saame {{goal}} täis?'
+    Stay in touch: Püsi kursis
+    Thanks!: Aitäh!
+    Share on Facebook: Jaga Facebookis
+    Country: Riik
+    Sign Up: Loo konto
+    Email_Share button: Meiliaadress
+    Sign: Allkirjasta!
+    Donations must be %(amount)s or more: Annetused peavad olema %(amount)s või rohkem
+    Amount: Summa
+    consent:
+      confirm: <0>Oled kindel?</0><1>Kui valid 'Ei', siis jäävad sul saamata teated
+        kampaania edukusest või vajalikest järgmistest sammudest, millega sellele kaasa
+        aidata. Kui valid 'Jah', siis hoiame sind selle ja teiste oluliste kampaaniatega
+        kursis.</1><2>Saad uuenduste saamisest loobuda millal iganes soovid.</2>
+      opt-in: Jah, palun hoidke mind meili teel kursis
+      processing: Sinu isikuandmed säilitatakse turvaliselt ning hoitakse salajas. Teabe
+        esitamisel nõustud andmete ja küpsiste kasutamisega vastavalt meie <1>isikuandmete
+        kaitse põhimõtetele</1>
+      opt-out: Ei, palun mulle tulevikus e-maile mitte saata
+      intro: Luban, et {{name}} võtab muga oluliste kampaaniatega seoses ühendust
+    No Thanks: Tänan, ei
+    Postal Code: Postiindeks
+    Legal: Juriidika
+    Email: E-mail
+    Privacy: Privaatsus
+    Last name: Perekonnanimi
+    Link_Share button: Link
+    City: Linn
+    First name: Eesnimi
+    Enter a number.: Sisesta arv.
+    Share on Twitter: Jaga Twitteris
+    Download explanation: Sinu dokument on valmis ja saadame selle sulle meilile.
+  messages:
+    get_involved: Löö kaasa
+    missing_translations:
+      second: Aita meid siin!
+      first: Meie saidil puudub tõlge sinu keelde.
+  regions:
+    germany: Saksamaa
+    italy: Itaalia
+    transnational: Euroopa / Rahvusvaheline tase
+  pages:
+    home: Algus
+    organizations: Toetavad organisatsioonid
+    contact: Kontakt
+    press: Ajakirjanduses
+  press:
+    published_at: "Avaldatud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\najatempliga %{date}\n"
+  home:
+    hero:
+      text: Meil on vaja miljonit allkirja. Koguma hakkame neid 15. novembril 2020.
+        <strong>Aita meile kaasa!</strong>
+      action: Telli
+  creative-commons:
+    text: Creative Commonsi litsents
+    url: http://creativecommons.org/licenses/by-sa/4.0/
+  contact:
+    fiscal_code: Isikukood

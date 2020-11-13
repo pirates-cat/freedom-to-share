@@ -1,73 +1,74 @@
-proca:
-  This field is required.: Fältet måste vara ifyllt.
-  Enter a valid email address.: Fyll i giltig e-mailadress.
-  Donations must be %(amount)s or more: Donationer måste vara %(amount) eller mer
-  Amount: Summa
-  First name: Förnamn
-  Last name: Efternamn
-  Email: E-mail
-  Postal Code: Postnummer
-  Street: Adress
-  City: Ort
-  Country: Land
-  Thanks!: Tack!
-  Enter a number.: Använd bara siffror.
-  Share on Twitter: Dela på Twitter
-  Email_Share button: E-mail
-  Link_Share button: Länk
-  consent:
-    intro: Jag godkänner att {{name}} kontaktar mig gällande viktiga kampanjer
-    opt-in: Ja, håll mig uppdaterad via e-mejl
-    opt-out: Nej, jag vill inte få e-mejl eller nyheter skickade till mig i framtiden
-    confirm: <0>Är du säker?</0><1>Genom att välja 'Nej' så kommer du inte uppdateras
-      om ifall kampanjen är framgångsrik, eller ifall vi behöver andra åtgärder för
-      att nå våra mål. Om du istället väljer 'Ja' så kommer vi hålla dig uppdaterad
-      om både denna och kommande kampanjer</1><2>Du kan avregistrera prenumerationen
-      när som helst.</2>
-    processing: Din personliga information är säker och kommer inte att spridas. Genom
-      att skicka information samtycker du till användning av data och kakor i enlighet
-      med vår <1>integritetspolicy</1>
-  share:
-    title: Nästan klar! Ta nästa steg.
-    intro: Bra, du har skrivit under👍. Stärk din påverkan genom att sprida så att
-      fler ser denna kampanj🙏.
-    message: Du borde skriva under det här!
-    email:
-      subject: Du borde skriva under det här
-      body: "Hej, \nSnälla skriv under, jag tror du vill stödja det här initiativet"
-  Sign: Signera nu!
-  progress: '{{count}} har signerat. Gå till{{goal}}'
-  Legal: Juridiskt
-  Privacy: Integritetspolicy
-  Sign Up: Prenumerera
-  Share on Facebook: Dela på Facebook
-  No Thanks: Nej, tack
-  Download explanation: Ditt dokument är nu redo - vi mailar det till dig.
-  Stay in touch: Håll kontakten
-contact:
-  fiscal_code: Personnummer
-creative-commons:
-  text: Creative Commons-licens
-  url: https://creativecommons.org/licenses/by-sa/4.0/deed.sv
-home:
-  hero:
-    text: Vi behöver en miljon underskrifter. Insamlingen börjar den 15 November 2020.
-      <strong>Delta nu!</strong>
-    action: Prenumerera
-messages:
-  missing_translations:
-    first: Sidan saknar översättning till ditt språk.
-    second: Hjälp oss här!
-  get_involved: Engagera dig
-pages:
-  press: I media
-  organizations: Samarbeten
-  contact: Kontakt
-  home: Hem
-press:
-  published_at: "Publicerad\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>\n den %{date}\n"
-regions:
-  transnational: Europeisk / internationell nivå
-  germany: Tyskland
-  italy: Italien
+sv:
+  proca:
+    This field is required.: Fältet måste vara ifyllt.
+    Enter a valid email address.: Fyll i giltig e-mailadress.
+    Donations must be %(amount)s or more: Donationer måste vara %(amount) eller mer
+    Amount: Summa
+    First name: Förnamn
+    Last name: Efternamn
+    Email: E-mail
+    Postal Code: Postnummer
+    Street: Adress
+    City: Ort
+    Country: Land
+    Thanks!: Tack!
+    Enter a number.: Använd bara siffror.
+    Share on Twitter: Dela på Twitter
+    Email_Share button: E-mail
+    Link_Share button: Länk
+    consent:
+      intro: Jag godkänner att {{name}} kontaktar mig gällande viktiga kampanjer
+      opt-in: Ja, håll mig uppdaterad via e-mejl
+      opt-out: Nej, jag vill inte få e-mejl eller nyheter skickade till mig i framtiden
+      confirm: <0>Är du säker?</0><1>Genom att välja 'Nej' så kommer du inte uppdateras
+        om ifall kampanjen är framgångsrik, eller ifall vi behöver andra åtgärder för
+        att nå våra mål. Om du istället väljer 'Ja' så kommer vi hålla dig uppdaterad
+        om både denna och kommande kampanjer</1><2>Du kan avregistrera prenumerationen
+        när som helst.</2>
+      processing: Din personliga information är säker och kommer inte att spridas. Genom
+        att skicka information samtycker du till användning av data och kakor i enlighet
+        med vår <1>integritetspolicy</1>
+    share:
+      title: Nästan klar! Ta nästa steg.
+      intro: Bra, du har skrivit under👍. Stärk din påverkan genom att sprida så att
+        fler ser denna kampanj🙏.
+      message: Du borde skriva under det här!
+      email:
+        subject: Du borde skriva under det här
+        body: "Hej, \nSnälla skriv under, jag tror du vill stödja det här initiativet"
+    Sign: Signera nu!
+    progress: '{{count}} har signerat. Gå till{{goal}}'
+    Legal: Juridiskt
+    Privacy: Integritetspolicy
+    Sign Up: Prenumerera
+    Share on Facebook: Dela på Facebook
+    No Thanks: Nej, tack
+    Download explanation: Ditt dokument är nu redo - vi mailar det till dig.
+    Stay in touch: Håll kontakten
+  contact:
+    fiscal_code: Personnummer
+  creative-commons:
+    text: Creative Commons-licens
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.sv
+  home:
+    hero:
+      text: Vi behöver en miljon underskrifter. Insamlingen börjar den 15 November 2020.
+        <strong>Delta nu!</strong>
+      action: Prenumerera
+  messages:
+    missing_translations:
+      first: Sidan saknar översättning till ditt språk.
+      second: Hjälp oss här!
+    get_involved: Engagera dig
+  pages:
+    press: I media
+    organizations: Samarbeten
+    contact: Kontakt
+    home: Hem
+  press:
+    published_at: "Publicerad\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\n den %{date}\n"
+  regions:
+    transnational: Europeisk / internationell nivå
+    germany: Tyskland
+    italy: Italien

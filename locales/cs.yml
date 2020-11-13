@@ -1,71 +1,72 @@
-proca:
-  consent:
-    opt-in: Ano, průběžně mě informujte e-mailem
-    opt-out: Ne, neposílejte mi e-maily ani mě v budoucnu neinformujte
-    confirm: <0>Jste si jistí?</0><1>Volbou 'Ne' se nedozvíte, zda je tato kampaň
-      úspěšná, nebo zda je něco více třeba udělat pro to, aby uspěla. Pokud zvolíte
-      'Ano', budeme Vás průběžně informovat o této i dalších důležitých kampaních.</1><2>Souhlas
-      lze vzít kdykoli zpět.</2>
-    processing: Vaše osobní údaje budou drženy v tajnosti a bezpečí. Odesláním informací
-      souhlasíte s využitím dat a cookies v souladu s našimi <1>pravidly soukromí</1>
-    intro: Souhlasím, aby mě {{name}} kontaktovali ohledně důležitých kampaní
-  share:
-    message: Toto byste měli podepsat!
-    email:
-      subject: Toto byste měli podepsat
-      body: "Ahoj, \nprosím, podepiš; myslím, že tohle rád podpoříš"
-    title: Téměř hotovo! Přejít na další krok.
-    intro: Skvěle, podepsali jste 👍. Abyste znásobili svůj dopad, sdílejte na všechny
-      strany, aby se tato petice dostala ke každému🙏.
-  Sign: Podepište teď!
-  progress: '{{count}} již podepsali. Přejít k {{goal}}'
-  This field is required.: Toto pole je povinné.
-  Enter a number.: Vložte číslo.
-  Enter a valid email address.: Vložte platnou e-mailovou adresu.
-  Donations must be %(amount)s or more: Dary musí být ve výši %(amount) nebo více
-  Amount: Částka
-  First name: Křestní jméno
-  Last name: Příjmení
-  Email: E-mail
-  Postal Code: PSČ
-  Street: Ulice
-  City: Obec
-  Country: Stát
-  Thanks!: Děkujeme!
-  Legal: Právní
-  Privacy: Soukromí
-  Stay in touch: Zůstaňte v kontaktu
-  Sign Up: Odebírat
-  Share on Facebook: Sdílet na Facebooku
-  Share on Twitter: Sdílet na Twitteru
-  Email_Share button: E-mail
-  Link_Share button: Odkaz
-  No Thanks: Ne, děkuji
-  Download explanation: Váš dokument je nyní připraven. Posíláme Vám jej e-mailem.
-regions:
-  transnational: Evropská / nadnárodní úroveň
-  germany: Německo
-  italy: Itálie
-contact:
-  fiscal_code: Daňový kód
-creative-commons:
-  text: licence Creative Commons
-  url: http://creativecommons.org/licenses/by-sa/4.0/
-home:
-  hero:
-    text: Potřebujeme jeden milion podpisů. Sbírat je začneme 15. listopadu 2020.
-      <strong>Přidej se!</strong>
-    action: Odebírat
-messages:
-  missing_translations:
-    first: Naší stránce schází překlad do tvého jazyka.
-    second: Pomoz nám!
-  get_involved: Zapoj se
-pages:
-  press: Média
-  organizations: Organizace, které nás podporují
-  contact: Kontakty
-  home: Domů
-press:
-  published_at: "Zveřejněno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>\ndne %{date}\n"
+cs:
+  proca:
+    consent:
+      opt-in: Ano, průběžně mě informujte e-mailem
+      opt-out: Ne, neposílejte mi e-maily ani mě v budoucnu neinformujte
+      confirm: <0>Jste si jistí?</0><1>Volbou 'Ne' se nedozvíte, zda je tato kampaň
+        úspěšná, nebo zda je něco více třeba udělat pro to, aby uspěla. Pokud zvolíte
+        'Ano', budeme Vás průběžně informovat o této i dalších důležitých kampaních.</1><2>Souhlas
+        lze vzít kdykoli zpět.</2>
+      processing: Vaše osobní údaje budou drženy v tajnosti a bezpečí. Odesláním informací
+        souhlasíte s využitím dat a cookies v souladu s našimi <1>pravidly soukromí</1>
+      intro: Souhlasím, aby mě {{name}} kontaktovali ohledně důležitých kampaní
+    share:
+      message: Toto byste měli podepsat!
+      email:
+        subject: Toto byste měli podepsat
+        body: "Ahoj, \nprosím, podepiš; myslím, že tohle rád podpoříš"
+      title: Téměř hotovo! Přejít na další krok.
+      intro: Skvěle, podepsali jste 👍. Abyste znásobili svůj dopad, sdílejte na všechny
+        strany, aby se tato petice dostala ke každému🙏.
+    Sign: Podepište teď!
+    progress: '{{count}} již podepsali. Přejít k {{goal}}'
+    This field is required.: Toto pole je povinné.
+    Enter a number.: Vložte číslo.
+    Enter a valid email address.: Vložte platnou e-mailovou adresu.
+    Donations must be %(amount)s or more: Dary musí být ve výši %(amount) nebo více
+    Amount: Částka
+    First name: Křestní jméno
+    Last name: Příjmení
+    Email: E-mail
+    Postal Code: PSČ
+    Street: Ulice
+    City: Obec
+    Country: Stát
+    Thanks!: Děkujeme!
+    Legal: Právní
+    Privacy: Soukromí
+    Stay in touch: Zůstaňte v kontaktu
+    Sign Up: Odebírat
+    Share on Facebook: Sdílet na Facebooku
+    Share on Twitter: Sdílet na Twitteru
+    Email_Share button: E-mail
+    Link_Share button: Odkaz
+    No Thanks: Ne, děkuji
+    Download explanation: Váš dokument je nyní připraven. Posíláme Vám jej e-mailem.
+  regions:
+    transnational: Evropská / nadnárodní úroveň
+    germany: Německo
+    italy: Itálie
+  contact:
+    fiscal_code: Daňový kód
+  creative-commons:
+    text: licence Creative Commons
+    url: http://creativecommons.org/licenses/by-sa/4.0/
+  home:
+    hero:
+      text: Potřebujeme jeden milion podpisů. Sbírat je začneme 15. listopadu 2020.
+        <strong>Přidej se!</strong>
+      action: Odebírat
+  messages:
+    missing_translations:
+      first: Naší stránce schází překlad do tvého jazyka.
+      second: Pomoz nám!
+    get_involved: Zapoj se
+  pages:
+    press: Média
+    organizations: Organizace, které nás podporují
+    contact: Kontakty
+    home: Domů
+  press:
+    published_at: "Zveřejněno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\ndne %{date}\n"

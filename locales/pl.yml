@@ -1,15 +1,16 @@
-proca:
-  First name: Imię
-  Email: E-mail
-  Postal Code: Kod pocztowy
-  Street: Ulica
-  City: Miejscowość
-  Country: Kraj
-  Thanks!: Dziękujemy!
-  Last name: Nazwisko
-regions:
-  germany: Niemcy
-  italy: Włochy
-creative-commons:
-  url: https://creativecommons.org/licenses/by-sa/4.0/deed.pl
-  text: Licencja Creative Commons
+pl:
+  proca:
+    First name: Imię
+    Email: E-mail
+    Postal Code: Kod pocztowy
+    Street: Ulica
+    City: Miejscowość
+    Country: Kraj
+    Thanks!: Dziękujemy!
+    Last name: Nazwisko
+  regions:
+    germany: Niemcy
+    italy: Włochy
+  creative-commons:
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.pl
+    text: Licencja Creative Commons
