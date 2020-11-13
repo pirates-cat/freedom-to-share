@@ -67,5 +67,6 @@ home:
     action: Telli
 creative-commons:
   text: Creative Commonsi litsents
+  url: http://creativecommons.org/licenses/by-sa/4.0/
 contact:
   fiscal_code: Isikukood
