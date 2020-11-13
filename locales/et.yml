@@ -23,12 +23,12 @@ et:
     Amount: Summa
     consent:
       confirm: <0>Oled kindel?</0><1>Kui valid 'Ei', siis jäävad sul saamata teated
-        kampaania edukusest või vajalikest järgmistest sammudest, millega sellele kaasa
-        aidata. Kui valid 'Jah', siis hoiame sind selle ja teiste oluliste kampaaniatega
+        kampaania edukusest või vajalikest järgmistest sammudest, millega sellele
+        kaasa aidata. Kui valid 'Jah', siis hoiame sind selle ja teiste oluliste kampaaniatega
         kursis.</1><2>Saad uuenduste saamisest loobuda millal iganes soovid.</2>
       opt-in: Jah, palun hoidke mind meili teel kursis
-      processing: Sinu isikuandmed säilitatakse turvaliselt ning hoitakse salajas. Teabe
-        esitamisel nõustud andmete ja küpsiste kasutamisega vastavalt meie <1>isikuandmete
+      processing: Sinu isikuandmed säilitatakse turvaliselt ning hoitakse salajas.
+        Teabe esitamisel nõustud andmete ja küpsiste kasutamisega vastavalt meie <1>isikuandmete
         kaitse põhimõtetele</1>
       opt-out: Ei, palun mulle tulevikus e-maile mitte saata
       intro: Luban, et {{name}} võtab muga oluliste kampaaniatega seoses ühendust
@@ -58,6 +58,7 @@ et:
     organizations: Toetavad organisatsioonid
     contact: Kontakt
     press: Ajakirjanduses
+    privacy: Privaatsuspoliitika
   press:
     published_at: "Avaldatud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\najatempliga %{date}\n"
@@ -68,6 +69,6 @@ et:
       action: Telli
   creative-commons:
     text: Creative Commonsi litsents
-    url: http://creativecommons.org/licenses/by-sa/4.0/
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.et
   contact:
     fiscal_code: Isikukood
