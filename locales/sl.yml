@@ -4,16 +4,18 @@ sl:
     press: V medijih
     organizations: Organizacije, ki nas podpirajo
     contact: Kontakt
+    privacy: Politika zasebnosti
   proca:
     consent:
       intro: Strinjam se, da me {{name}} kontaktira o pomembnih kampanjah
       opt-out: Ne pošiljajte mi elektronskih sporočil in obvestil v prihodnje
       opt-in: Da, obveščajte me po elektronski pošti
-      confirm: <0>Si prepričan/a?</0><1>S tem ko izbereš 'Ne', ne boš obveščen/a o poteku
-        kapanje in načinih kako nam lahko pomagaš. Če izbereš "Da" te bomo še naprej
-        obveščali o tej in naših drugih kampanjah.</1><2>Lahko se odjaviš kadarkoli.</2>
-      processing: "Tvoji osebni podatki bodo skrbno varovani. Z oddajo se strinjaš z\
-        \ rabo podatkov in piškotki v skladu z našo \t<1>privacy policy</1>"
+      confirm: <0>Si prepričan/a?</0><1>S tem ko izbereš 'Ne', ne boš obveščen/a o
+        poteku kapanje in načinih kako nam lahko pomagaš. Če izbereš "Da" te bomo
+        še naprej obveščali o tej in naših drugih kampanjah.</1><2>Lahko se odjaviš
+        kadarkoli.</2>
+      processing: "Tvoji osebni podatki bodo skrbno varovani. Z oddajo se strinjaš\
+        \ z rabo podatkov in piškotki v skladu z našo \t<1>privacy policy</1>"
     Legal: Pravni poduk
     Amount: Znesek
     share:
@@ -57,11 +59,11 @@ sl:
     fiscal_code: Fiskalna pravila
   creative-commons:
     text: Licenca Creative Commons
-    url: http://creativecommons.org/licenses/by-sa/4.0/
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.sl
   home:
     hero:
-      text: Potrebujemo milijon podpisov. Z zbiranjem pričnemo 15. novembra 2020. <strong>Pridruži
-        se nam!</strong>
+      text: Potrebujemo milijon podpisov. Z zbiranjem pričnemo 15. novembra 2020.
+        <strong>Pridruži se nam!</strong>
       action: Naročite se na obvestila
   press:
     published_at: "Objavljeno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
