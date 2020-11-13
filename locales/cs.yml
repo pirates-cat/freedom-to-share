@@ -50,8 +50,8 @@ cs:
   contact:
     fiscal_code: Daňový kód
   creative-commons:
-    text: licence Creative Commons
-    url: http://creativecommons.org/licenses/by-sa/4.0/
+    text: Licence Creative Commons
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.cs
   home:
     hero:
       text: Potřebujeme jeden milion podpisů. Sbírat je začneme 15. listopadu 2020.
@@ -67,6 +67,7 @@ cs:
     organizations: Organizace, které nás podporují
     contact: Kontakty
     home: Domů
+    privacy: Zásady ochrany osobních údajů
   press:
     published_at: "Zveřejněno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\ndne %{date}\n"
