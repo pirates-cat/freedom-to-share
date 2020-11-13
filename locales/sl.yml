@@ -1,1 +1,71 @@
-{}
+pages:
+  home: Domov
+  press: V medijih
+  organizations: Organizacije, ki nas podpirajo
+  contact: Kontakt
+proca:
+  consent:
+    intro: Strinjam se, da me {{name}} kontaktira o pomembnih kampanjah
+    opt-out: Ne pošiljajte mi elektronskih sporočil in obvestil v prihodnje
+    opt-in: Da, obveščajte me po elektronski pošti
+    confirm: <0>Si prepričan/a?</0><1>S tem ko izbereš 'Ne', ne boš obveščen/a o poteku
+      kapanje in načinih kako nam lahko pomagaš. Če izbereš "Da" te bomo še naprej
+      obveščali o tej in naših drugih kampanjah.</1><2>Lahko se odjaviš kadarkoli.</2>
+    processing: "Tvoji osebni podatki bodo skrbno varovani. Z oddajo se strinjaš z\
+      \ rabo podatkov in piškotki v skladu z našo \t<1>privacy policy</1>"
+  Legal: Pravni poduk
+  Amount: Znesek
+  share:
+    title: Še malo do konca! Naslednji korak.
+    intro: Tvoj podpis je zabeležen 👍. Če želiš povečati svoj doprinos, deli peticijo,
+      naj jo vidijo vsi 🙏.
+    message: To moraš podpisati!
+    email:
+      subject: To moraš podpisati
+      body: "Zdravo,\nprosimo podpiši, to kampanjo si želiš podpreti"
+  Sign: Podpiši peticijo!
+  progress: '{{count}} podpisanih. Potrebnih je še {{goal}} podpisov'
+  This field is required.: To polje je obvezno.
+  Enter a number.: Vnesi številko.
+  Enter a valid email address.: Vnesi veljaven elektronski naslov.
+  Donations must be %(amount)s or more: Donacije morajo biti %(amount)s ali več
+  First name: Ime
+  Last name: Priimek
+  Email: Email
+  Postal Code: Poštna številka
+  Street: Ulica
+  City: Kraj
+  Country: Država
+  Thanks!: Hvala!
+  Privacy: Zasebnost
+  No Thanks: Ne hvala
+  Stay in touch: Ostani v stiku
+  Sign Up: Prijavi se
+  Share on Facebook: Deli na Facebooku
+  Share on Twitter: Deli na Twitterju
+  Email_Share button: Email
+  Link_Share button: Povezava
+  Download explanation: Tvoj dokument je pripravljen, poslali ti ga bomo po elektronski
+    pošti.
+messages:
+  get_involved: Vključi se
+  missing_translations:
+    first: Naša stran nima prevoda v tvojem jeziku.
+    second: Pomagaj nam!
+contact:
+  fiscal_code: Fiskalna pravila
+creative-commons:
+  text: Licenca Creative Commons
+  url: http://creativecommons.org/licenses/by-sa/4.0/
+home:
+  hero:
+    text: Potrebujemo milijon podpisov. Z zbiranjem pričnemo 15. novembra 2020. <strong>Pridruži
+      se nam!</strong>
+    action: Naročite se na obvestila
+press:
+  published_at: "Objavljeno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+    >%{host}</a>\n%{date}\n"
+regions:
+  transnational: Evropski / Nadnacionalen nivo
+  germany: Nemčija
+  italy: Italija
