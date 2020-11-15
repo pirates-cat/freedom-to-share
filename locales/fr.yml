@@ -1,6 +1,8 @@
 fr:
   pages:
     home: Accueil principal
+    press: Dans les médias
+    contact: Contact
   home:
     hero:
       text: Nous avons besoin d’un million de signatures. Nous commencerons à collecter
@@ -8,3 +10,8 @@ fr:
       action: Souscrire
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+  messages:
+    get_involved: Participez
+    missing_translations:
+      first: Notre site manque de traduction dans votre langue.
+      second: Venez nous aider !
