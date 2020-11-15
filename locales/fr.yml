@@ -39,6 +39,7 @@ fr:
         body: "Bonjour,\nMerci d'avance pour votre signature, votre soutien fera une\
           \ différence"
       message: N'hésitez pas à signer ceci !
+      title: Bientôt finis ! Passez à l'étape suivante.
     Sign: Signer maintenant !
     progress: '{{count}} personnes ont signé. Atteignons les {{goal}}'
     Enter a number.: Tapez un nombre.
@@ -64,6 +65,7 @@ fr:
     Link_Share button: Lien
     Download explanation: Votre document est maintenant prêt, vous aussi le recevrez
       par email.
+    This field is required.: Ce champ est obligatoire.
   contact:
     fiscal_code: Immatriculation fiscale
   regions:
