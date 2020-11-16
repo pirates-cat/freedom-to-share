@@ -27,8 +27,8 @@ proca:
       siguranță. Prin trimiterea informațiilor, sunteți de acord cu utilizarea datelor
       și a cookie-urilor în conformitate cu <1> politica noastră de confidențialitate
       </1>
-    intro: Sunt de acord  să  fiu contactat {{nume}} referitor la următoarele campanii
-      importante.
+    intro: Sunt de acord să fiu contactat {{nume}} referitor la următoarele campanii
+      importante
     confirm: <0>Sunteți sigur?</0><1>Dacă selectați 'Nu', nu o sa aflati daca aceasta
       campanie a avut succes, sau daca este nevoie de ajutor să fie dusă la bun sfarsit.
       Daca selectați 'Da' o sa va tinem la curent cu informatii despre aceasta campanie,
@@ -36,11 +36,11 @@ proca:
       oricand .</2>
   share:
     title: Aproape am terminat! Treci la pasul urmator.
-    intro: Super, te-ai înscris 👍. Pentru a vă creste impactul, distribuiti pentru
-      pentru a vă asigura că toată lumea vede această petiție🙏.
+    intro: Super, te-ai înscris 👍. Pentru a vă creste vizibilitatea, distribuiti,
+      astfel vă asigurați că toată lumea vede această petiție🙏.
     message: Ar trebui să semnezi asta!
     email:
-      body: "Buna, \nTe rog sa semnezi, cred ca iti  doresti sa susții aceasta cauza"
+      body: "Buna, \nTe rog sa semnezi, cred ca iti doresti sa susții aceasta cauza"
       subject: Ar trebui să semnezi asta
   Sign: Înscrie-te!
   progress: '{{Numără}} te-ai înscris. Să începem {{țeluri}}'
@@ -66,12 +66,12 @@ home:
   hero:
     action: Înscrie-te
     text: Avem nevoie de un milion de semnături. O sa începem strângerea semnăturilor
-      din 15 noiembrie 2020. <strong> Alăturate cauzei! </strong>
+      din 15 noiembrie 2020. <strong> Alătura-te cauzei! </strong>
 messages:
   missing_translations:
     first: Site-ul nostru are nevoie de traduceri in limba ta.
     second: Ajută-ne cu asta!
-  get_involved: Implicate
+  get_involved: Implica-te
 press:
   published_at: "Publicat la\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
     >%{host}</a>\non %{date}\n"
