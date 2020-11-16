@@ -1,1 +1,77 @@
-{}
+proca:
+  Privacy: Intimitate
+  Donations must be %(amount)s or more: Donația trebuie sa fie %(suma) sau mai mare
+  Street: Strada
+  City: Oraș
+  Country: Județul
+  Thanks!: Mulțumim!
+  No Thanks: Nu, mulțumesc
+  Stay in touch: Ținem legătura
+  Sign Up: Înscrie-te
+  Share on Facebook: Distribuie pe Facebook
+  Share on Twitter: Distribuie pe Twitter
+  Email_Share button: Email
+  Link_Share button: Link
+  Download explanation: Documentul dvs. este gata, iar noi o să îl trimitem prin e-mail.
+  Amount: Sumă
+  First name: Nume
+  Last name: Prenume
+  Email: Email
+  Postal Code: Cod Poștal
+  Legal: Legalitate
+  consent:
+    opt-in: Da, accept sa fiu informat pe email
+    opt-out: Nu doresc sa fiu informat prin email sau să primesc alte informații pe
+      viitor
+    processing: Informațiile dvs. personale vor fi păstrate private și păstrate în
+      siguranță. Prin trimiterea informațiilor, sunteți de acord cu utilizarea datelor
+      și a cookie-urilor în conformitate cu <1> politica noastră de confidențialitate
+      </1>
+    intro: Sunt de acord  să  fiu contactat {{nume}} referitor la următoarele campanii
+      importante.
+    confirm: <0>Sunteți sigur?</0><1>Dacă selectați 'Nu', nu o sa aflati daca aceasta
+      campanie a avut succes, sau daca este nevoie de ajutor să fie dusă la bun sfarsit.
+      Daca selectați 'Da' o sa va tinem la curent cu informatii despre aceasta campanie,
+      cat si referitor la celelalte campanii ale noastre.</1><2>Va puteti dezabona
+      oricand .</2>
+  share:
+    title: Aproape am terminat! Treci la pasul urmator.
+    intro: Super, te-ai înscris 👍. Pentru a vă creste impactul, distribuiti pentru
+      pentru a vă asigura că toată lumea vede această petiție🙏.
+    message: Ar trebui să semnezi asta!
+    email:
+      body: "Buna, \nTe rog sa semnezi, cred ca iti  doresti sa susții aceasta cauza"
+      subject: Ar trebui să semnezi asta
+  Sign: Înscrie-te!
+  progress: '{{Numără}} te-ai înscris. Să începem {{țeluri}}'
+  This field is required.: Acest camp este obligatoriu.
+  Enter a number.: Introduceți un numar.
+  Enter a valid email address.: Introduceți o adresa de email validă.
+pages:
+  privacy: Termene și Condiții
+  home: Acasă
+  press: În mass-media
+  organizations: Organizații de sprijin
+  contact: Contact
+regions:
+  transnational: La nivel european / transnațional
+  germany: Germania
+  italy: Italia
+contact:
+  fiscal_code: Codul fiscal
+creative-commons:
+  text: Licența Creative Commons
+  url: http://creativecommons.org/licenses/by-sa/4.0/
+home:
+  hero:
+    action: Înscrie-te
+    text: Avem nevoie de un milion de semnături. O sa începem strângerea semnăturilor
+      din 15 noiembrie 2020. <strong> Alăturate cauzei! </strong>
+messages:
+  missing_translations:
+    first: Site-ul nostru are nevoie de traduceri in limba ta.
+    second: Ajută-ne cu asta!
+  get_involved: Implicate
+press:
+  published_at: "Publicat la\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+    >%{host}</a>\non %{date}\n"
