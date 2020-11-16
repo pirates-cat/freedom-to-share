@@ -1,9 +1,9 @@
 fr:
   pages:
     home: Accueil principal
-    press: Dans les médias
+    press: Dans la presse
     contact: Contact
-    organizations: Ils nous soutiennent
+    organizations: Soutiens d'organisations
     privacy: Politique de confidentialité
   home:
     hero:
@@ -12,9 +12,9 @@ fr:
       action: Souscrire
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.fr
-    text: License Creative Commons
+    text: Licence Creative Commons
   messages:
-    get_involved: Participez
+    get_involved: Investissez vous
     missing_translations:
       first: Notre site manque de traduction dans votre langue.
       second: Venez nous aider !
@@ -35,11 +35,11 @@ fr:
       intro: Bravo, vous avez signé 👍. Pour augmenter votre impact, partagez sans
         limite afin qu'un maximum de monde voit cette pétition 🙏.
       email:
-        subject: N'hésitez pas à signer ceci
+        subject: Vous devriez signer ça
         body: "Bonjour,\nMerci d'avance pour votre signature, votre soutien fera une\
           \ différence"
       message: N'hésitez pas à signer ceci !
-      title: Bientôt finis ! Passez à l'étape suivante.
+      title: C'est presque fini ! Voici l'étape suivante.
     Sign: Signer maintenant !
     progress: '{{count}} personnes ont signé. Atteignons les {{goal}}'
     Enter a number.: Tapez un nombre.
@@ -65,7 +65,7 @@ fr:
     Link_Share button: Lien
     Download explanation: Votre document est maintenant prêt, vous aussi le recevrez
       par email.
-    This field is required.: Ce champ est obligatoire.
+    This field is required.: Ce champ doit être complété.
   contact:
     fiscal_code: Immatriculation fiscale
   regions:
