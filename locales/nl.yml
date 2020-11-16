@@ -1,5 +1,21 @@
 nl:
   pages:
     home: Hoofdpagina
+    organizations: Ondersteunende organisaties
+    contact: Contact
+    privacy: Privacy policy
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.nl
+  proca:
+    consent:
+      opt-in: Ja, hou me via email op de hoogte
+      opt-out: Nee, stuur me geen email met updates meer
+    Postal Code: Postcode
+    Street: Straat
+    Country: Land
+    Thanks!: Bedankt!
+    City: Woonplaats
+    Amount: Bedrag
+    First name: Voornaam
+    Last name: Achternaam
+    Email: Email
