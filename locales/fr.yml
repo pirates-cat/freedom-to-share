@@ -3,6 +3,8 @@ fr:
     home: Accueil principal
     press: Dans les médias
     contact: Contact
+    organizations: Ils nous soutiennent
+    privacy: Politique de confidentialité
   home:
     hero:
       text: Nous avons besoin d’un million de signatures. Nous commencerons à collecter
@@ -10,8 +12,61 @@ fr:
       action: Souscrire
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+    text: License Creative Commons
   messages:
     get_involved: Participez
     missing_translations:
       first: Notre site manque de traduction dans votre langue.
       second: Venez nous aider !
+  proca:
+    consent:
+      confirm: <0>Êtes-vous sûr ?</0><1>En sélectionnant « Non », vous ne pourrez
+        pas savoir si cette campagne a été un succès, ou si nous menons d'autres actions
+        afin de gagner cette campagne. Si vous sélectionnez « Oui », nous vous tiendrons
+        informé à propos de cette campagne et nos thématiques urgentes.</1><2>Vous
+        pouvez vous désinscrire à tout moment.</2>
+      processing: Vos informations personnelles seront conservées par nous-même de
+        façon sûre. En envoyant ces informations, vous acceptez l'utilisation des
+        données et de cookies en accord avec notre <1>privacy policy</1>
+      intro: J'accepte que {{name}} me contacte à propos de campagnes importantes
+      opt-in: Oui, me tenir informé par email
+      opt-out: Non, ne m'envoyez pas de mail et ne me tenez pas informé dans le futur
+    share:
+      intro: Bravo, vous avez signé 👍. Pour augmenter votre impact, partagez sans
+        limite afin qu'un maximum de monde voit cette pétition 🙏.
+      email:
+        subject: N'hésitez pas à signer ceci
+        body: "Bonjour,\nMerci d'avance pour votre signature, votre soutien fera une\
+          \ différence"
+      message: N'hésitez pas à signer ceci !
+    Sign: Signer maintenant !
+    progress: '{{count}} personnes ont signé. Atteignons les {{goal}}'
+    Enter a number.: Tapez un nombre.
+    Enter a valid email address.: Entrez une adresse email valide.
+    Donations must be %(amount)s or more: Les dons doivent être de %(amount) ou plus
+    Amount: Montant
+    First name: Prénom
+    Last name: Nom
+    Email: Adresse email
+    Postal Code: Code postal
+    Street: Rue
+    City: Ville
+    Country: Pays
+    Thanks!: Merci !
+    Legal: Mentions légales
+    Privacy: Vie privée
+    No Thanks: Non merci
+    Stay in touch: Restons en contact
+    Sign Up: S'inscrire
+    Share on Facebook: Partager sur Facebook
+    Share on Twitter: Partager sur Twitter
+    Email_Share button: Par email
+    Link_Share button: Lien
+    Download explanation: Votre document est maintenant prêt, vous aussi le recevrez
+      par email.
+  contact:
+    fiscal_code: Immatriculation fiscale
+  regions:
+    transnational: Niveau européen / transnational
+    germany: Allemagne
+    italy: Italie
