@@ -4,12 +4,15 @@ nl:
     organizations: Ondersteunende organisaties
     contact: Contact
     privacy: Privacy policy
+    press: In de pers
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.nl
+    text: Creative Commons Licentie
   proca:
     consent:
       opt-in: Ja, hou me via email op de hoogte
       opt-out: Nee, stuur me geen email met updates meer
+      intro: I ga akkoord dat {{name}} contact met opneemt over belangrijke campagnes
     Postal Code: Postcode
     Street: Straat
     Country: Land
@@ -19,3 +22,39 @@ nl:
     First name: Voornaam
     Last name: Achternaam
     Email: Email
+    share:
+      title: Bijna klaar! Neem de volgende stap.
+    Legal: Juridisch
+    Privacy: Privacy
+    No Thanks: Nee, bedankt
+    Stay in touch: Houd contact
+    Sign Up: Aanmelden
+    Share on Twitter: Deel op Twitter
+    Share on Facebook: Deel op Facebook
+    progress: '{{count}} hebben al getekend. Op naar de {{goal}}'
+    This field is required.: Dit veld is verplicht.
+    Enter a number.: Voer een nummer in.
+    Enter a valid email address.: Geef een geldig email adres.
+    Donations must be %(amount)s or more: Donaties moeten %(amount) of meer zijn
+    Email_Share button: Email
+    Link_Share button: Link
+    Download explanation: Je document is nu klaar. We e-mailen het naar je.
+  messages:
+    get_involved: Meehelpen
+    missing_translations:
+      first: Onze site mist een vertaling in jouw taal.
+      second: Help on hier!
+  contact:
+    fiscal_code: Fiscale Code
+  home:
+    hero:
+      text: We hebben 1 miljoen handtekeningen nodig. We starten met verzamelen op
+        15 november 2020. <strong>Help ons!</strong>
+      action: Abonneer
+  press:
+    published_at: "Gepubliceerd op\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\non %{date}\n"
+  regions:
+    transnational: Europees / Transnationaal niveau
+    germany: Duitsland
+    italy: Italië
