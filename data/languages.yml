@@ -2,7 +2,7 @@ bg:
   code: bg
   name: български
   script: cyrillic
-  translated: false
+  translated: true
 ca:
   code: ca
   name: català
@@ -12,7 +12,7 @@ cs:
   code: cs
   name: čeština
   script: latin-ext
-  translated: false
+  translated: true
 da:
   code: da
   name: dansk
@@ -27,7 +27,7 @@ et:
   code: et
   name: eesti
   script: latin-ext
-  translated: false
+  translated: true
 el:
   code: el
   name: ελληνικά
@@ -73,6 +73,11 @@ lt:
   name: lietuvių
   script: latin-ext
   translated: false
+lb:
+  code: lb
+  name: Lëtzebuergesch
+  script: latin
+  translated: false
 hu:
   code: hu
   name: magyar
@@ -88,6 +93,11 @@ nl:
   name: Nederlands
   script: latin-ext
   translated: true
+oc:
+  code: oc
+  name: occitan
+  script: latin
+  translated: false
 pl:
   code: pl
   name: polski
@@ -102,6 +112,11 @@ ro:
   code: ro
   name: română
   script: latin-ext
+  translated: true
+ru:
+  code: ru
+  name: русский
+  script: cyrillic
   translated: false
 sk:
   code: sk
@@ -112,7 +127,7 @@ sl:
   code: sl
   name: slovenščina
   script: latin-ext
-  translated: false
+  translated: true
 fi:
   code: fi
   name: suomi
@@ -122,4 +137,4 @@ sv:
   code: sv
   name: svenska
   script: latin
-  translated: false
+  translated: true

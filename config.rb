@@ -27,7 +27,7 @@ page '/*.txt', layout: false
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
-available_locales = %i[bg ca cs da de el es en et fi fr ga hr hu it lb lt lv mt nl oc pl pt ro sk sl sv]
+available_locales = %i[bg ca cs da de el es en et fi fr ga hr hu it lb lt lv mt nl oc pl pt ro ru sk sl sv]
 
 available_locales.each do |locale|
   next if locale == :en
