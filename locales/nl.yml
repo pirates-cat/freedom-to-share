@@ -13,6 +13,9 @@ nl:
       opt-in: Ja, hou me via email op de hoogte
       opt-out: Nee, stuur me geen email met updates meer
       intro: I ga akkoord dat {{name}} contact met opneemt over belangrijke campagnes
+      processing: Je persoonlijke informatie wordt veilig en beveiligd opgeslagen.
+        Door gegevens in te vullen ga je akkoord met het gebruik hiervan en met de
+        cookies zoals beschreven in onze <1>privacy policy</1>
     Postal Code: Postcode
     Street: Straat
     Country: Land
@@ -43,7 +46,7 @@ nl:
     get_involved: Meehelpen
     missing_translations:
       first: Onze site mist een vertaling in jouw taal.
-      second: Help on hier!
+      second: Help ons hier!
   contact:
     fiscal_code: Fiscale Code
   home:
