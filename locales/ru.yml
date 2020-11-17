@@ -63,3 +63,13 @@ proca:
   Donations must be %(amount)s or more: Пожертвования должны быть в размере %(amount)
     или более
   Privacy: Приватность
+  Sign Up: Войти
+  Share on Facebook: Поделиться на Facebook
+  Share on Twitter: Поделиться в Twitter
+  Email_Share button: Эл. почта
+  Download explanation: Запрашиваемый документ готов, мы отправим его Вам также и
+    по эл. почте.
+  Link_Share button: Ссылка
+regions:
+  germany: Германия
+  italy: Италия
