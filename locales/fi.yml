@@ -1,5 +1,9 @@
 pages:
   home: Etusivu
+  press: Uutiset
+  organizations: Tukiorganisaatiot
+  contact: Yhteystiedot
+  privacy: Tietosuojaseloste
 home:
   hero:
     text: Tarvitsemme miljoonan eurooppalaisen allekirjoituksen. Aloitimme keräyksen
@@ -13,3 +17,11 @@ messages:
 creative-commons:
   text: Creative Commons lisenssi
   url: https://creativecommons.org/licenses/by-sa/4.0/deed.fi
+press:
+  published_at: "Julkaistu\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\n\
+    on %{date}\n"
+proca:
+  consent:
+    intro: '{{name}} voi ottaa minuun yhteyttä tärkeiden kampanjoiden suhteen'
+    opt-in: Haluan tiedotteet sähköpostitse
+    opt-out: En halua sähköposteja enkä tiedotteita päivityksistä
