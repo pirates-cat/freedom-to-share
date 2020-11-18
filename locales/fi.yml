@@ -1,1 +1,15 @@
-{}
+pages:
+  home: Etusivu
+home:
+  hero:
+    text: Tarvitsemme miljoonan eurooppalaisen allekirjoituksen. Aloitimme keräyksen
+      15. marraskuuta, 2020. <strong>Liity mukaan!</strong>
+    action: Tilaa uutiskirje
+messages:
+  missing_translations:
+    second: Apuasi tarvitaan!
+    first: Verkkosivultamme puuttuu käännös suomeksi.
+  get_involved: Tule mukaan
+creative-commons:
+  text: Creative Commons lisenssi
+  url: https://creativecommons.org/licenses/by-sa/4.0/deed.fi
