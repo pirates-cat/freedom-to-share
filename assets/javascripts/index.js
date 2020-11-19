@@ -12,14 +12,23 @@ document.addEventListener('turbolinks:load', () => {
     html.classList.remove('slideout-open');
   }
   
-  var panel = document.getElementById('panel');
+  panel = document.getElementById('panel');
+  if (panel == undefined) {
+    return;
+  }
+
   if (panel.classList.contains('slideout-panel')) {
     return;
   }
 
+  const menu = document.getElementById('slider-menu');
+  if (menu == undefined) {
+    return;
+  }
+
   var slideout = new Slideout({
-    panel: document.getElementById('panel'),
-    menu: document.getElementById('slider-menu'),
+    panel: panel,
+    menu: menu,
     padding: 0,
     touch: false,
   });

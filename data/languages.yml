@@ -82,7 +82,7 @@ hu:
   code: hu
   name: magyar
   script: latin-ext
-  translated: false
+  translated: true
 mt:
   code: mt
   name: Malti
@@ -102,7 +102,7 @@ pl:
   code: pl
   name: polski
   script: latin-ext
-  translated: false
+  translated: true
 pt:
   code: pt
   name: português
