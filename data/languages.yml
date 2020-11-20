@@ -3,138 +3,166 @@ bg:
   name: български
   script: cyrillic
   translated: true
+  country: bg
 ca:
   code: ca
   name: català
   script: latin
   translated: true
+  country: es
 cs:
   code: cs
   name: čeština
   script: latin-ext
   translated: true
+  country: cz
 da:
   code: da
   name: dansk
   script: latin
   translated: false
+  country: dk
 de:
   code: de
   name: Deutsch
   script: latin
   translated: true
+  country: de
 et:
   code: et
   name: eesti
   script: latin-ext
   translated: true
+  country: ee
 el:
   code: el
   name: ελληνικά
   script: greek
   translated: false
+  country: el-gr
 en:
   code: en
   name: English
   script: latin
   translated: true
+  country: uk
 es:
   code: es
   name: español
   script: latin
   translated: true
+  country: es
 fr:
   code: fr
   name: français
   script: latin-ext
   translated: true
+  country: fr
 ga:
   code: ga
   name: Gaeilge
   script: latin-ext
   translated: false
+  country: ie
 hr:
   code: hr
   name: hrvatski
   script: latin-ext
   translated: false
+  country: hr
 it:
   code: it
   name: italiano
   script: latin
   translated: true
+  country: it
 lv:
   code: lv
   name: latviešu
   script: latin-ext
   translated: false
+  country: lv
 lt:
   code: lt
   name: lietuvių
   script: latin-ext
   translated: false
+  country: lt
 lb:
   code: lb
   name: Lëtzebuergesch
   script: latin
   translated: false
+  country: lu
 hu:
   code: hu
   name: magyar
   script: latin-ext
   translated: true
+  country: hu
 mt:
   code: mt
   name: Malti
   script: latin-ext
   translated: false
+  country: mt
 nl:
   code: nl
   name: Nederlands
   script: latin-ext
   translated: false
+  country: nl
 oc:
   code: oc
   name: occitan
   script: latin
   translated: false
+  country: gascon
 pl:
   code: pl
   name: polski
   script: latin-ext
   translated: true
+  country: pl
 pt:
   code: pt
   name: português
   script: latin
   translated: false
+  country: pt
 ro:
   code: ro
   name: română
   script: latin-ext
   translated: true
+  country: ro
 ru:
   code: ru
   name: русский
   script: cyrillic
   translated: false
+  country: ru
 sk:
   code: sk
   name: slovenčina
   script: latin-ext
   translated: false
+  country: sk
 sl:
   code: sl
   name: slovenščina
   script: latin-ext
   translated: true
+  country: si
 fi:
   code: fi
   name: suomi
   script: latin-ext
   translated: false
+  country: fi
 sv:
   code: sv
   name: svenska
   script: latin
   translated: true
+  country: se

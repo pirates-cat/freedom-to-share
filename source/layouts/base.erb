@@ -1,11 +1,15 @@
 <!doctype html>
-<html class="antialiased font-body">
+<html class="antialiased font-body" lang="<%= ::I18n.locale %>">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <%= yield_content :head %>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="content-language" content="<%= ::I18n.locale %>-<%= data.languages[::I18n.locale]['country'] %>">
+    <title><%= t(current_page.data.title) %> - Freedom to Share</title>
+    <% if content_for?(:head) %>
+      <%= yield_content :head %>
+    <% else %>
+    <% end %>
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
     <link rel="dns-prefetch" href="https://widget.proca.foundation">
