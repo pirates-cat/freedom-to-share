@@ -18,6 +18,7 @@ build/
 
 # Imported from WordPress
 
+source/localizable/*
 source/images/organizations/*
 data/news.yml
 data/organizations.yml

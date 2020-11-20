@@ -1,8 +1,0 @@
-<dl>
-  <% data.news.map { |d| YAML.load(d) }.each do |news| %>
-    <dt class="font-bold"><%= news['name'] %></dt>
-    <dd class="pb-4">
-      <%= t('press.published_at', url: news['url'], host: URI.parse(news['url']).host, date: news['published_at']) %>
-    </dd>
-  <% end %>
-</dl>

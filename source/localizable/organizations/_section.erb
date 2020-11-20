@@ -1,8 +1,0 @@
-<h2><%= t("regions.#{region}") %></h2>
-<div class="grid grid-cols-2 gap-4 md:gap-8 md:grid-cols-3 place-items-center">
-  <% data.organizations.map { |s| YAML.load(s) }.select { |v| v['region'] == region }.each do |o| %>
-    <a href="<%= o['url'] %>" class="hover:bg-transparent">
-      <img src="<%= o['logo'] %>" title="<%= o['name'] %>">
-    </a>
-  <% end %>
-</div>
