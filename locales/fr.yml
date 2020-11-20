@@ -72,6 +72,7 @@ fr:
     transnational: Niveau européen / transnational
     germany: Allemagne
     italy: Italie
+    sweden: Suède
   press:
     published_at: "Publié sur\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nle %{date}\n"
