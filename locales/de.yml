@@ -4,6 +4,7 @@ de:
     press: In der Presse
     organizations: Unterstützende Organisationen
     contact: Kontakt
+    privacy: Datenschutzerklärung
   home:
     hero:
       text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
@@ -77,3 +78,4 @@ de:
     transnational: Europäische / Transnationale Ebene
     germany: Deutschland
     italy: Italien
+    sweden: Schweden
