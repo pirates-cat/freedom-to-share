@@ -4,6 +4,7 @@ it:
     press: Sulla stampa
     contact: Contatta
     organizations: Organizzazioni che supportano
+    privacy: Politica sulla riservatezza
   home:
     hero:
       text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme
@@ -65,6 +66,7 @@ it:
     transnational: Livello Europeo / Transnazionale
     germany: Germania
     italy: Italia
+    sweden: Svezia
   contact:
     fiscal_code: Codice fiscale
   creative-commons:
