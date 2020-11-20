@@ -92,7 +92,7 @@ nl:
   code: nl
   name: Nederlands
   script: latin-ext
-  translated: true
+  translated: false
 oc:
   code: oc
   name: occitan

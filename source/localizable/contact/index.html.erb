@@ -1,0 +1,7 @@
+<dl>
+  <% data.social_networks.map { |d| YAML.load(d) }.each do |sn| %>
+    <dt class="font-bold"><%= sn['name'] %></dt>
+    <dd class="pb-4 truncate"><a href="<%= sn['url'] %>"><%= nice_url sn['url'] %></a></dd>
+  <% end %>
+</dl>
+<%= partial 'fiscal_address' %>
