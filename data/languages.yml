@@ -34,6 +34,19 @@ et:
   script: latin-ext
   translated: true
   country: ee
+eo:
+  code: eo
+  name: esperanto
+  script: latin-ext
+  translated: false
+  # TODO: handle empty or missing country
+  country: eo
+eu:
+  code: eu
+  name: euskara
+  script: latin
+  translated: false
+  country: es
 el:
   code: el
   name: ελληνικά
