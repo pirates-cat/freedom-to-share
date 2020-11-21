@@ -1,3 +1,6 @@
+---
+title: pages.contact
+---
 <dl>
   <% data.social_networks.map { |d| YAML.load(d) }.each do |sn| %>
     <dt class="font-bold"><%= sn['name'] %></dt>

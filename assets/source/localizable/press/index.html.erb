@@ -1,3 +1,6 @@
+---
+title: pages.press
+---
 <dl>
   <% data.news.map { |d| YAML.load(d) }.each do |news| %>
     <dt class="font-bold"><%= news['name'] %></dt>
