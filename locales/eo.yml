@@ -1,1 +1,73 @@
-{}
+proca:
+  consent:
+    opt-in: Jes, informu min retpoŝte
+    intro: Mi konsentas, ke {{name}} kontaktos min pri gravaj kampanjoj
+    opt-out: Ne, nek sendu al mi retleterojn, nek ĝisdatigu min estontence
+    processing: Viaj personaj informoj konserviĝos private kaj teniĝos sekure. Donante
+      informojn vi konsentas uzi datumojn kaj kuketojn laŭ nia <1>regularo pri privateco</1>
+    confirm: <0>Ĉu vi estas certa?</0><1>Elektante 'Ne', vi ne kablos eltrovi, ĉu
+      tiu ĉi kampanjo estos sukcesa aŭ ĉu estos pli da agado, en kiu ni kuniĝu por
+      gajni. Se vi elektas 'Jes' ni ĝisdatigos vin pri tiu kaj niaj aliaj urĝaj kampanjoj.</1><2>Vi
+      povas malregistriĝi ĉiutempe.</2>
+  share:
+    email:
+      body: "Saluton,\nbonvolu subskribi, mi pensas, ke vi volas subteni ĝin"
+      subject: Vi subkribu tion ĉi
+    title: Preskaŭ faritas! Faru la sekvan paŝon.
+    intro: Bonege, vi subskribis 👍. Por obligi vian efekton, konigu for kaj vaste
+      por certigi, ke ĉiu vidos tiun ĉi peticion 🙏.
+    message: Vi subskribu tion ĉi!
+  Download explanation: Via dokumento nun estas preta, ni sendos ĝin al vi retpoŝte.
+  No Thanks: Ne, dankon
+  Sign: Subskribu nun!
+  progress: '{{count}} subskribis. Ek al {{goal}}'
+  This field is required.: Tiu ĉi kampo estas bezonata.
+  Enter a number.: Enigu nombron.
+  Enter a valid email address.: Enigu validan retpoŝtadreson.
+  Amount: sumo
+  First name: persona nomo
+  Last name: familinomo
+  Email: retpoŝto
+  Postal Code: poŝta kodo
+  Street: strato
+  City: urbo
+  Country: lando
+  Thanks!: Dankon!
+  Legal: laŭleĝa
+  Privacy: privateco
+  Stay in touch: resti kunligitaj
+  Sign Up: registriĝi
+  Share on Facebook: konigi ĉe Facebook
+  Share on Twitter: konigi ĉe Twitter
+  Email_Share button: retpoŝto
+  Link_Share button: ligilo
+  Donations must be %(amount)s or more: Donacoj devas esti %(amount)j aŭ pli
+contact:
+  fiscal_code: fiska kodo
+press:
+  published_at: "<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\n\
+    la %{date}\n"
+creative-commons:
+  text: permisilo Krea Komunaĵo
+  url: https://creativecommons.org/licenses/by-sa/4.0/deed.eo
+home:
+  hero:
+    action: registriĝi
+    text: Ni bezonas milionon da subskriboj. Ni ekkolektos ilin la 15an de novembro
+      2020. <strong>Kuniĝu kun ni nun!</strong>
+messages:
+  missing_translations:
+    first: Al nia retpaĝaro mankas la traduko al via lingvo.
+    second: Helpu nin ĉi tie!
+  get_involved: partoprenu
+pages:
+  home: ĉefpaĝo
+  press: en la gazetaro
+  organizations: subtenantaj organizoj
+  contact: kontakto
+  privacy: regularo pri privateco
+regions:
+  transnational: eŭropa / transnacia nivelo
+  germany: Gemanio
+  italy: Italio
+  sweden: Svedio
