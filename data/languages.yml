@@ -1,3 +1,9 @@
+ar:
+  code: ar
+  name: العربية
+  script: arabic
+  translated: false
+  country: lb
 bg:
   code: bg
   name: български
@@ -179,3 +185,9 @@ sv:
   script: latin
   translated: true
   country: se
+tr:
+  code: tr
+  name: Türkçe
+  script: latin-extended
+  translated: false
+  country: tr
