@@ -60,7 +60,7 @@ it:
   messages:
     get_involved: Partecipa
     missing_translations:
-      first: Manca al nostro sito la traduzione nella tua lingua.
+      first: Al nostro sito manca la traduzione nella tua lingua.
       second: Aiutaci qui!
   regions:
     transnational: Livello Europeo / Transnazionale
