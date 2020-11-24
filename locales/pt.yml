@@ -1,77 +1,78 @@
-creative-commons:
-  url: https://creativecommons.org/licenses/by-sa/4.0/deed.pt
+pt:
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.pt
-    text: Licença Creative Commons
-  pages:
-    privacy: Política de privacidade
-    home: Início
-    press: Na imprensa
-    organizations: Apoios
-    contact: Contato
-  proca:
-    Enter a valid email address.: Entre um endereço de email válido.
-    First name: Primeiro nome
-    Last name: Sobrenome
-    Email: E-mail
-    consent:
-      intro: Concordo com {{name}} entrar em contato comigo sobre campanhas importantes
-      confirm: <0>Tem certeza?</0><1>Ao selecionar 'Não', você não será capaz de saber
-        se a campanha foi bem-sucedida, ou se há mais ações que precisamos fazer juntas(os)
-        para vencer. Se você selecionar 'Sim' vamos te manter informada(o).</1><2>Você
-        pode se desinscrever a qualquer momento.</2>
-      processing: Sua informação pessoal será mantida privada e guardada seguramente.
-        Ao submeter informação voce está concordando com uso de dados e cookies de
-        acordo com nossa <1>política de privacidade</1>
-      opt-out: Não, não envie e-mails ou me atualize no futuro
-      opt-in: Sim, mantenha-me informada(o) por e-mail
-    Street: Rua
-    City: Cidade
-    Country: País
-    Postal Code: Código Postal
-    Thanks!: Obrigado!
-    Donations must be %(amount)s or more: Doações devem ser de %(amount)s ou mais
-    Legal: Legal
-    Privacy: Privacidade
-    No Thanks: Não, obrigado
-    Stay in touch: Mantenha contato
-    Sign Up: Registre-se
-    Share on Facebook: Compartilhe no Facebook
-    Share on Twitter: Compartilhe no Twitter
-    Email_Share button: E-mail
-    Link_Share button: Link
-    Download explanation: Seu documento está pronto e também será enviado para você
-      por e-mail.
-    This field is required.: Este campo é obrigatório.
-    Amount: Quantidade
-    share:
-      title: Quase lá! Dê o próximo passo.
-      intro: Ótimo, você assinou 👍. Para multiplicar seu impacto, compartilhe aos
-        quatro ventos para que todos vejam essa petição🙏.
-      message: Você deve assinar isso!
-      email:
-        subject: Você deve assinar isso
-        body: "Olá, \nPor favor assine, eu acho que você vai querer apoiar isso"
-    Sign: Assine agora!
-    progress: '{{count}} já assinaram. Vamos chegar em {{goal}}'
-    Enter a number.: Entre um número.
-  messages:
-    get_involved: Participe
-    missing_translations:
-      first: Nosso site não possui tradução para seu idioma.
-      second: Ajude-nos aqui!
-  regions:
-    transnational: Europeu / Nível Transnacional
-    germany: Alemanha
-    italy: Itália
-    sweden: Suécia
-  contact:
-    fiscal_code: Código Fiscal
-  home:
-    hero:
-      text: Precisamos de um milhão de assinaturas. Vamos começar a coletá-las no
-        dia 15 de novembro de 2020. <strong>Participe agora!</strong>
-      action: Assinar
-  press:
-    published_at: "Publicado por\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\nem %{date}\n"
+    creative-commons:
+      url: https://creativecommons.org/licenses/by-sa/4.0/deed.pt
+      text: Licença Creative Commons
+    pages:
+      privacy: Política de privacidade
+      home: Início
+      press: Na imprensa
+      organizations: Apoios
+      contact: Contato
+    proca:
+      Enter a valid email address.: Entre um endereço de email válido.
+      First name: Primeiro nome
+      Last name: Sobrenome
+      Email: E-mail
+      consent:
+        intro: Concordo com {{name}} entrar em contato comigo sobre campanhas importantes
+        confirm: <0>Tem certeza?</0><1>Ao selecionar 'Não', você não será capaz de saber
+          se a campanha foi bem-sucedida, ou se há mais ações que precisamos fazer juntas(os)
+          para vencer. Se você selecionar 'Sim' vamos te manter informada(o).</1><2>Você
+          pode se desinscrever a qualquer momento.</2>
+        processing: Sua informação pessoal será mantida privada e guardada seguramente.
+          Ao submeter informação voce está concordando com uso de dados e cookies de
+          acordo com nossa <1>política de privacidade</1>
+        opt-out: Não, não envie e-mails ou me atualize no futuro
+        opt-in: Sim, mantenha-me informada(o) por e-mail
+      Street: Rua
+      City: Cidade
+      Country: País
+      Postal Code: Código Postal
+      Thanks!: Obrigado!
+      Donations must be %(amount)s or more: Doações devem ser de %(amount)s ou mais
+      Legal: Legal
+      Privacy: Privacidade
+      No Thanks: Não, obrigado
+      Stay in touch: Mantenha contato
+      Sign Up: Registre-se
+      Share on Facebook: Compartilhe no Facebook
+      Share on Twitter: Compartilhe no Twitter
+      Email_Share button: E-mail
+      Link_Share button: Link
+      Download explanation: Seu documento está pronto e também será enviado para você
+        por e-mail.
+      This field is required.: Este campo é obrigatório.
+      Amount: Quantidade
+      share:
+        title: Quase lá! Dê o próximo passo.
+        intro: Ótimo, você assinou 👍. Para multiplicar seu impacto, compartilhe aos
+          quatro ventos para que todos vejam essa petição🙏.
+        message: Você deve assinar isso!
+        email:
+          subject: Você deve assinar isso
+          body: "Olá, \nPor favor assine, eu acho que você vai querer apoiar isso"
+      Sign: Assine agora!
+      progress: '{{count}} já assinaram. Vamos chegar em {{goal}}'
+      Enter a number.: Entre um número.
+    messages:
+      get_involved: Participe
+      missing_translations:
+        first: Nosso site não possui tradução para seu idioma.
+        second: Ajude-nos aqui!
+    regions:
+      transnational: Europeu / Nível Transnacional
+      germany: Alemanha
+      italy: Itália
+      sweden: Suécia
+    contact:
+      fiscal_code: Código Fiscal
+    home:
+      hero:
+        text: Precisamos de um milhão de assinaturas. Vamos começar a coletá-las no
+          dia 15 de novembro de 2020. <strong>Participe agora!</strong>
+        action: Assinar
+    press:
+      published_at: "Publicado por\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+        >%{host}</a>\nem %{date}\n"
