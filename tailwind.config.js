@@ -21,11 +21,12 @@ module.exports = {
       }
     },
     fontFamily: {
-      'body': ['Open Sans', '-apple-system', 'BlinkMacSystemFont', 'avenir next', 'avenir', 'helvetica neue', 'helvetica', 'Ubuntu', 'Oxygen', 'Cantarell', 'segoe ui', 'roboto', 'noto', 'arial', 'sans-serif']
+      'body': ['Markazi Text', 'Open Sans', '-apple-system', 'BlinkMacSystemFont', 'avenir next', 'avenir', 'helvetica neue', 'helvetica', 'Ubuntu', 'Oxygen', 'Cantarell', 'segoe ui', 'roboto', 'noto', 'arial', 'sans-serif']
     },
   },
   variants: {},
   plugins: [
     require('@tailwindcss/typography'),
+    require('tailwindcss-rtl'),
   ],
 }

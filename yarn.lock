@@ -3173,6 +3173,11 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
+fontsource-markazi-text@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/fontsource-markazi-text/-/fontsource-markazi-text-3.0.5.tgz#a96e185cf8ae8eaa4a0078a485888588ee090f7f"
+  integrity sha512-rvw8RpoyEZd4ZNMaAVbf9/a0dWeMH8wh+CknGfqyYW0PRZ+vvYpq8QrbG8hLVXbTBWL1FEZBLteo7x1IgiYJ+Q==
+
 fontsource-open-sans@^3.0.9:
   version "3.0.9"
   resolved "https://registry.yarnpkg.com/fontsource-open-sans/-/fontsource-open-sans-3.0.9.tgz#a497140bce061e75ad442a7f69df3bf3d87e527a"
@@ -6958,6 +6963,42 @@ table@^5.0.0, table@^5.2.3:
     lodash "^4.17.14"
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
+
+tailwindcss-rtl@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/tailwindcss-rtl/-/tailwindcss-rtl-0.6.0.tgz#471ebfd6be08aa518670dad4e79455254a6d2ba2"
+  integrity sha512-oSrgb4OaWsZe/LK3KuoTfElpk922BTcbYx0V90f1jvj3W7OV613ngwZlROSK7koe/gW3uFP4Jy7njGegvXTZHA==
+  dependencies:
+    lodash "^4.17.19"
+    tailwindcss "^1.4.0"
+
+tailwindcss@^1.4.0:
+  version "1.9.6"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.9.6.tgz#0c5089911d24e1e98e592a31bfdb3d8f34ecf1a0"
+  integrity sha512-nY8WYM/RLPqGsPEGEV2z63riyQPcHYZUJpAwdyBzVpxQHOHqHE+F/fvbCeXhdF1+TA5l72vSkZrtYCB9hRcwkQ==
+  dependencies:
+    "@fullhuman/postcss-purgecss" "^2.1.2"
+    autoprefixer "^9.4.5"
+    browserslist "^4.12.0"
+    bytes "^3.0.0"
+    chalk "^3.0.0 || ^4.0.0"
+    color "^3.1.2"
+    detective "^5.2.0"
+    fs-extra "^8.0.0"
+    html-tags "^3.1.0"
+    lodash "^4.17.20"
+    node-emoji "^1.8.1"
+    normalize.css "^8.0.1"
+    object-hash "^2.0.3"
+    postcss "^7.0.11"
+    postcss-functions "^3.0.0"
+    postcss-js "^2.0.0"
+    postcss-nested "^4.1.1"
+    postcss-selector-parser "^6.0.0"
+    postcss-value-parser "^4.1.0"
+    pretty-hrtime "^1.0.3"
+    reduce-css-calc "^2.1.6"
+    resolve "^1.14.2"
 
 tailwindcss@^1.9.5:
   version "1.9.5"

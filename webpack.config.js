@@ -3,7 +3,16 @@ const ExtractTextPlugin = require("extract-text-webpack-plugin")
 
 module.exports = {
   entry: {
-    site: ["./assets/javascripts/index.js", "./assets/stylesheets/index.scss"],
+    "site": [
+      "./assets/javascripts/index.js",
+      "./assets/stylesheets/index.scss",
+    ],
+    "markazi-text": [
+      "./assets/stylesheets/markazi-text.scss",
+    ],
+    "open-sans": [
+      "./assets/stylesheets/open-sans.scss",
+    ],
   },
   output: {
     filename: "assets/javascripts/[name].js",

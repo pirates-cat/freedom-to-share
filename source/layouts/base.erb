@@ -11,20 +11,32 @@
     <% else %>
     <% end %>
     <%= stylesheet_link_tag "site" %>
+    <% if ::I18n.locale == :ar %>
+      <%= stylesheet_link_tag "markazi-text" %>
+    <% else %>
+      <%= stylesheet_link_tag "open-sans" %>
+    <% end %>
     <%= javascript_include_tag "site" %>
     <link rel="dns-prefetch" href="https://widget.proca.foundation">
     <link rel="dns-prefetch" href="https://licensebuttons.net">
     <link rel="dns-prefetch" href="https://www.paypalobjects.com">
     <link rel="dns-prefetch" href="https://opencollective.com">
-    <link rel="preload" href="/assets/stylesheets/fonts/open-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-    <link rel="preload" href="/assets/stylesheets/fonts/open-sans-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <% if ::I18n.locale == :ar %>
+      <link rel="preload" href="/assets/stylesheets/fonts/markazi-text-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="/assets/stylesheets/fonts/markazi-text-arabic-400-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="/assets/stylesheets/fonts/markazi-text-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="/assets/stylesheets/fonts/markazi-text-arabic-700-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <% else %>
+      <link rel="preload" href="/assets/stylesheets/fonts/open-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+      <link rel="preload" href="/assets/stylesheets/fonts/open-sans-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <% end %>
     <link rel="preload" href="/assets/stylesheets/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
     <link rel="icon" href="/images/favicon.png" sizes="32x32" />
     <link rel="icon" href="/images/favicon-192x.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="/images/favicon-180x.png" />
     <meta name="msapplication-TileImage" content="/images/favicon-270x.png" />
   </head>
-  <body class="bg-primary">
+  <body class="bg-primary" dir="<%= data.languages[::I18n.locale]['dir'] %>">
     <% unless current_page.data.try(:global) %>
       <div id="slider-menu">
         <div class="grid grid-cols-1 gap-4 p-6">

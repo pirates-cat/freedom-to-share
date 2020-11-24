@@ -8,6 +8,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@tailwindcss/typography": "^0.2.0",
+    "fontsource-markazi-text": "^3.0.5",
     "fontsource-open-sans": "^3.0.9",
     "slideout": "^1.0.1",
     "tailwindcss": "^1.9.5",
@@ -33,6 +34,7 @@
     "stylelint": "^9.8.0",
     "stylelint-config-recommended-scss": "^3.2.0",
     "stylelint-scss": "^3.4.0",
+    "tailwindcss-rtl": "^0.6.0",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.2"
   },
