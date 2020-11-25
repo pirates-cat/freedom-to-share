@@ -1,52 +1,53 @@
-proca:
-  share:
-    email:
-      body: "Hey,\nEch denken du wéilts dat heiten ënnerstëtzen; w.e.g ënnerschreif"
-      subject: Du sollts dat hei ënnerschreiwen
-    intro: Super, du hues ënnerschriwwen 👍. Fir den Impakt vun dengem Engagemengt
-      ze verstäerken, deel eis Petitioun mat esou ville Leit wéi méiglech, fir dass
-      jiddereen se gesäit🙏.
-    message: Du sollts dat hei ënnerschreiwen!
-    title: Du bass baal fäerdeg! Hei kommen déi nächst Schrëtt.
-  Sign: Ënnerschreif elo!
-  progress: '{{count}} hu schonn ënnerschriwwen. Komm mir ereechen {{goal}}'
-  This field is required.: Dëst Feld muss ausgefëllt ginn.
-  Enter a number.: Gëff eng Nummer an.
-  consent:
-    intro: Ech stëmmen zou {{name}} fir wichteg Kampagnen kontaktéiert ze ginn
-    opt-in: Jo, hal mech per Mail um Lafenden
-    opt-out: Nee, schéck mir an Zukunft keng E-Mailen mat neien Informatiounen
-    processing: Deng perséinlech Date wäerten vertraulech behandelt a sécher gespäichert
-      ginn. Andeems du ugëss, wellen Informatiounen ze kréien, stëmms du zou, dass
-      deng Daten a Cookies kënne geméis eiser <1>privacy policy</1> genotzt ginn
-    confirm: <0>Bass du sécher?</0><1>Wann s du 'Nee' wiels, wäerts de net informéiert
-      ginn, ob dës Kampagne Ërfolleg huet, oder ob nach weider Schrëtt noutwenneg
-      sinn. Wann s du 'Jo' wiels, wärte mir dech iwwert dës an aaner wichteg Kampagnen
-      um Lafenden halen.</1><2>Du kanns dech zu all Moment desabonéieren.</2>
-  Enter a valid email address.: Gëff eng gëlteg E-Mailadress un.
-  Donations must be %(amount)s or more: En Don muss mindestens %(amount)s oder méi
-    ausmaachen
-contact:
-  fiscal_code: Code fiscal
-creative-commons:
-  text: Creative Commons Lizenz
-  url: http://creativecommons.org/lizenzen/by-sa/4.0/
-home:
-  hero:
-    text: Mir brauchen eng Millioun Ënnerschrëften. De 15. November 2020 geet et lass;
-      ab da sammele mir Signaturen. <strong>Maach mat!</strong>
-    action: abonéier
-messages:
-  missing_translations:
-    first: Op eisem Site gëtt et nach keng Iwwersetzung an denger Sprooch.
-    second: Hëllef eis hei!
-  get_involved: Maach mat
-pages:
-  home: Doheem
-  press: Aus der Presse
-  organizations: Ënnerstëtzer
-  contact: Kontakt
-  privacy: Privacy policy
-press:
-  published_at: "Publizéiert um\n1<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}2</a>\num %{date}\n"
+lb:
+  proca:
+    share:
+      email:
+        body: "Hey,\nEch denken du wéilts dat heiten ënnerstëtzen; w.e.g ënnerschreif"
+        subject: Du sollts dat hei ënnerschreiwen
+      intro: Super, du hues ënnerschriwwen 👍. Fir den Impakt vun dengem Engagemengt
+        ze verstäerken, deel eis Petitioun mat esou ville Leit wéi méiglech, fir dass
+        jiddereen se gesäit🙏.
+      message: Du sollts dat hei ënnerschreiwen!
+      title: Du bass baal fäerdeg! Hei kommen déi nächst Schrëtt.
+    Sign: Ënnerschreif elo!
+    progress: '{{count}} hu schonn ënnerschriwwen. Komm mir ereechen {{goal}}'
+    This field is required.: Dëst Feld muss ausgefëllt ginn.
+    Enter a number.: Gëff eng Nummer an.
+    consent:
+      intro: Ech stëmmen zou {{name}} fir wichteg Kampagnen kontaktéiert ze ginn
+      opt-in: Jo, hal mech per Mail um Lafenden
+      opt-out: Nee, schéck mir an Zukunft keng E-Mailen mat neien Informatiounen
+      processing: Deng perséinlech Date wäerten vertraulech behandelt a sécher gespäichert
+        ginn. Andeems du ugëss, wellen Informatiounen ze kréien, stëmms du zou, dass
+        deng Daten a Cookies kënne geméis eiser <1>privacy policy</1> genotzt ginn
+      confirm: <0>Bass du sécher?</0><1>Wann s du 'Nee' wiels, wäerts de net informéiert
+        ginn, ob dës Kampagne Ërfolleg huet, oder ob nach weider Schrëtt noutwenneg
+        sinn. Wann s du 'Jo' wiels, wärte mir dech iwwert dës an aaner wichteg Kampagnen
+        um Lafenden halen.</1><2>Du kanns dech zu all Moment desabonéieren.</2>
+    Enter a valid email address.: Gëff eng gëlteg E-Mailadress un.
+    Donations must be %(amount)s or more: En Don muss mindestens %(amount)s oder méi
+      ausmaachen
+  contact:
+    fiscal_code: Code fiscal
+  creative-commons:
+    text: Creative Commons Lizenz
+    url: http://creativecommons.org/lizenzen/by-sa/4.0/
+  home:
+    hero:
+      text: Mir brauchen eng Millioun Ënnerschrëften. De 15. November 2020 geet et lass;
+        ab da sammele mir Signaturen. <strong>Maach mat!</strong>
+      action: abonéier
+  messages:
+    missing_translations:
+      first: Op eisem Site gëtt et nach keng Iwwersetzung an denger Sprooch.
+      second: Hëllef eis hei!
+    get_involved: Maach mat
+  pages:
+    home: Doheem
+    press: Aus der Presse
+    organizations: Ënnerstëtzer
+    contact: Kontakt
+    privacy: Privacy policy
+  press:
+    published_at: "Publizéiert um\n1<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}2</a>\num %{date}\n"

@@ -1,73 +1,74 @@
-pages:
-  home: Kezdőlap
-  press: A sajtóban
-  organizations: Támogató szervezetek
-  contact: Kapcsolat
-  privacy: Adatvédelmi irányelv
-home:
-  hero:
-    action: Iratkozz fel
-    text: Egymillió aláírásra van szükségünk.! 2020 november 15-én kezdjük gyűjteni.
-      <strong>Segítsen Ön is!</strong>
-creative-commons:
-  url: http://creativecommons.org/licenses/by-sa/4.0/deed.hu
-  text: Creative Commons licenc
-proca:
-  Country: Ország
-  Download explanation: A dokumentuma készen van, elküldjük emailben.
-  consent:
-    intro: Elfogadom hogy {{name}} kereshet fontos kampányokkal kapcsolatosan
-    opt-in: Igen, kérek tájékoztatást emailben
-    opt-out: Nem kérek emailben tájékoztatást a változásokról
-    confirm: <0>Biztos benne?</0><1>A „nem” választásával nem fogja megtudni, hogy
-      sikeres volt-e ez a kampány, vagy ha teendő szükséges a sikerességhez. Az „igen”
-      választása esetén értesítjük ennek változásairól és más fontos kampányokról.</1><2>Az
-      értesítésekről bármikor leiratkozhat.</2>
-    processing: A személyes adatait biztonságos módon titokban tartjuk. Az adatok
-      beküldésével vállalja az <1>adatvédelmi irányelvben</1> szereplő eljárásokat
-      az adatokkal és sütikkel kapcsolatosan
-  share:
-    title: Majdnem kész! Jöhet a következő lépés.
-    intro: Nagyszerű, sikeresen aláírta 👍! A hatást megsokszorozhatja ha minél több
-      érdekelttel megosztja ezt a petíciót 🙏.
-    message: Ezt alá kellene írnia!
-    email:
-      subject: Ezt alá kellene írnia
-      body: "Szia! \nKérlek írd alá, azt gondolom te is támogatod"
-  Sign: Írja alá most!
-  Thanks!: Köszönjük!
-  progress: '{{count}} már aláírta. A cél: {{goal}}'
-  This field is required.: Ezt a mezőt ki kell tölteni.
-  Enter a number.: Számot adjon meg.
-  Enter a valid email address.: Érvényes email címet adjon meg.
-  Donations must be %(amount)s or more: Az adományok legkisebb mértéke %(amount)s
-  Legal: Jogi
-  Amount: Mennyiség
-  First name: Keresztnév
-  Last name: Vezetéknév
-  Email: Email
-  Postal Code: Irányítószám
-  Street: Utca
-  City: Város
-  No Thanks: Köszönöm nem
-  Stay in touch: Maradjon kapcsolatban
-  Sign Up: Iratkozzon fel
-  Share on Facebook: Ossze meg Facebookon
-  Share on Twitter: Ossza meg Twitteren
-  Link_Share button: Hivatkozás
-  Privacy: Adatvédelem
-  Email_Share button: Email
-messages:
-  get_involved: Vegyen részt
-  missing_translations:
-    first: A weblapunk nincs még az Ön nyelvére lefordítva.
-    second: Segítsen a fordításban!
-contact:
-  fiscal_code: Adószám
-press:
-  published_at: "Publikálta\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>,\n %{date}\n"
-regions:
-  transnational: Európai / Nemzetek közötti szint
-  germany: Németország
-  italy: Olaszország
+hu:
+  pages:
+    home: Kezdőlap
+    press: A sajtóban
+    organizations: Támogató szervezetek
+    contact: Kapcsolat
+    privacy: Adatvédelmi irányelv
+  home:
+    hero:
+      action: Iratkozz fel
+      text: Egymillió aláírásra van szükségünk.! 2020 november 15-én kezdjük gyűjteni.
+        <strong>Segítsen Ön is!</strong>
+  creative-commons:
+    url: http://creativecommons.org/licenses/by-sa/4.0/deed.hu
+    text: Creative Commons licenc
+  proca:
+    Country: Ország
+    Download explanation: A dokumentuma készen van, elküldjük emailben.
+    consent:
+      intro: Elfogadom hogy {{name}} kereshet fontos kampányokkal kapcsolatosan
+      opt-in: Igen, kérek tájékoztatást emailben
+      opt-out: Nem kérek emailben tájékoztatást a változásokról
+      confirm: <0>Biztos benne?</0><1>A „nem” választásával nem fogja megtudni, hogy
+        sikeres volt-e ez a kampány, vagy ha teendő szükséges a sikerességhez. Az „igen”
+        választása esetén értesítjük ennek változásairól és más fontos kampányokról.</1><2>Az
+        értesítésekről bármikor leiratkozhat.</2>
+      processing: A személyes adatait biztonságos módon titokban tartjuk. Az adatok
+        beküldésével vállalja az <1>adatvédelmi irányelvben</1> szereplő eljárásokat
+        az adatokkal és sütikkel kapcsolatosan
+    share:
+      title: Majdnem kész! Jöhet a következő lépés.
+      intro: Nagyszerű, sikeresen aláírta 👍! A hatást megsokszorozhatja ha minél több
+        érdekelttel megosztja ezt a petíciót 🙏.
+      message: Ezt alá kellene írnia!
+      email:
+        subject: Ezt alá kellene írnia
+        body: "Szia! \nKérlek írd alá, azt gondolom te is támogatod"
+    Sign: Írja alá most!
+    Thanks!: Köszönjük!
+    progress: '{{count}} már aláírta. A cél: {{goal}}'
+    This field is required.: Ezt a mezőt ki kell tölteni.
+    Enter a number.: Számot adjon meg.
+    Enter a valid email address.: Érvényes email címet adjon meg.
+    Donations must be %(amount)s or more: Az adományok legkisebb mértéke %(amount)s
+    Legal: Jogi
+    Amount: Mennyiség
+    First name: Keresztnév
+    Last name: Vezetéknév
+    Email: Email
+    Postal Code: Irányítószám
+    Street: Utca
+    City: Város
+    No Thanks: Köszönöm nem
+    Stay in touch: Maradjon kapcsolatban
+    Sign Up: Iratkozzon fel
+    Share on Facebook: Ossze meg Facebookon
+    Share on Twitter: Ossza meg Twitteren
+    Link_Share button: Hivatkozás
+    Privacy: Adatvédelem
+    Email_Share button: Email
+  messages:
+    get_involved: Vegyen részt
+    missing_translations:
+      first: A weblapunk nincs még az Ön nyelvére lefordítva.
+      second: Segítsen a fordításban!
+  contact:
+    fiscal_code: Adószám
+  press:
+    published_at: "Publikálta\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>,\n %{date}\n"
+  regions:
+    transnational: Európai / Nemzetek közötti szint
+    germany: Németország
+    italy: Olaszország
