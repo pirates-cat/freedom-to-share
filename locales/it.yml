@@ -16,12 +16,12 @@ it:
       e-mail.
     consent:
       intro: Accetto che {{name}} mi contatti riguardo campagne importanti
-      opt-in: Si, tienimi informami con email
+      opt-in: Si, tienimi informato via email
       opt-out: No, non mandarmi email e non aggiornarmi in futuro
       confirm: <0>Sei sicuro?</0><1>Scegliendo 'No', non sarai informato sul successo
-        di questa campagna, or se sarà necessari fare altre cose per ottenere il risultato.
-        Se scegli 'Si' ti terremo informato su questa e altre campagne.</1><2>Potrai
-        cancellarti quando vorrai.</2>
+        di questa campagna, o se si renderanno necessari altre azioni per ottenere
+        il risultato. Se scegli 'Si' ti terremo informato su questa e altre nostre
+        campagne urgenti.</1><2>Potrai cancellarti quando vorrai.</2>
       processing: Le tue informazioni personali saranno mantenute private e in luogo
         sicuro. Inoltrando le informazioni accetti l'informativa sull'uso dei dati
         e i cookie nel rispetto della nostra <1>privacy policy</1>
