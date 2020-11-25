@@ -21,8 +21,8 @@ hu:
       opt-in: Igen, kérek tájékoztatást emailben
       opt-out: Nem kérek emailben tájékoztatást a változásokról
       confirm: <0>Biztos benne?</0><1>A „nem” választásával nem fogja megtudni, hogy
-        sikeres volt-e ez a kampány, vagy ha teendő szükséges a sikerességhez. Az „igen”
-        választása esetén értesítjük ennek változásairól és más fontos kampányokról.</1><2>Az
+        sikeres volt-e ez a kampány, vagy ha teendő szükséges a sikerességhez. Az
+        „igen” választása esetén értesítjük ennek változásairól és más fontos kampányokról.</1><2>Az
         értesítésekről bármikor leiratkozhat.</2>
       processing: A személyes adatait biztonságos módon titokban tartjuk. Az adatok
         beküldésével vállalja az <1>adatvédelmi irányelvben</1> szereplő eljárásokat
@@ -72,3 +72,4 @@ hu:
     transnational: Európai / Nemzetek közötti szint
     germany: Németország
     italy: Olaszország
+    sweden: Svédország
