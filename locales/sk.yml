@@ -1,1 +1,73 @@
-{}
+pages:
+  privacy: Zásady ochrany osobných údajov
+  press: Médiá
+  organizations: Organizácie, ktoré nás podporujú
+  contact: Kontakty
+  home: Domov
+press:
+  published_at: "Zverejnené na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+    >%{host}</a>\ndňa %{date}\n"
+proca:
+  share:
+    intro: Výborne, podpísali ste 👍. Aby ste znásobili svoj vplyv, zdielajte na všetky
+      strany, aby sa táto petícia dostala ku každému🙏.
+    message: Toto by ste mali podpísať!
+    email:
+      subject: Toto by ste mali podepísať
+      body: "Ahoj,\nProsím, podpíš sa; myslím, že toto rád podporíš"
+    title: Takmer hotovo! Prejsť na další krok.
+  Sign: Podpíš teraz!
+  progress: '{{count}} už podpísalo. Prejsť k {{goal}}'
+  This field is required.: Toto pole je povinné.
+  Enter a number.: Vložte číslo.
+  First name: Meno
+  Last name: Priezvisko
+  Email: Email
+  Postal Code: PSČ
+  Street: Ulica
+  City: Obec
+  Country: Štát
+  Thanks!: Ďakujeme!
+  Legal: Právne
+  Privacy: Súkromie
+  No Thanks: Nie, ďakujem
+  Stay in touch: Zostaňme v kontakte
+  Sign Up: Odoberať
+  Share on Facebook: Zdielať na Facebooku
+  Email_Share button: Email
+  Download explanation: Váš dokument je teraz pripravený. Posielame Vám ho emailom.
+  consent:
+    intro: Súhlasím, aby ma {{name}} kontaktovali ohladom dôležitých kampaní
+    opt-in: Áno, priebežne ma informujte e-mailem
+    opt-out: Nie, neposielajte mi e-maily ani ma v budúcnosti neinformujte
+    confirm: <0>Ste si istí?</0><1>Volbou 'Nie' se nedozviete, či je táto kampaň úspěšná,
+      resp. či je potrebné urobiť niečo viac, aby uspela. Ak zvolíte 'Áno', budeme
+      Vás priebežne informovat o tejto i dalších dôležitých kampaniach.</1><2>Súhlas
+      môžete kedykoľvek odvolať. </2>
+    processing: Vaše osobné údaje budú uchováné v tajnosti a bezpečí. Odoslaním informacií
+      súhlasíte s využitím dát a cookies v súladu s našimi <1>pravidlami pre súkromie</1>
+  Share on Twitter: Zdielať na Twitteri
+  Link_Share button: Odkaz
+  Enter a valid email address.: Zadajte platnú e-mailovú adresu.
+  Donations must be %(amount)s or more: Dary musia býť vo výške %(amount) alebo viac
+  Amount: Obnos
+messages:
+  get_involved: Zapoj sa
+  missing_translations:
+    first: Našej stránke chýba preklad do tvojho jazyka.
+    second: Pomôž nám!
+regions:
+  transnational: Európska / Nadnárodná úroveň
+  germany: Nemecko
+  italy: Taliansko
+  sweden: Švédsko
+contact:
+  fiscal_code: Daňové identifikačné číslo
+creative-commons:
+  text: Licencia Creative Commons
+  url: https://creativecommons.org/licenses/by-sa/4.0/deed.sl
+home:
+  hero:
+    action: Odoberať
+    text: Potrebujeme jeden milión podpisov. Zbierať ich začneme 15. novembra 2020.
+      <strong>Pridaj sa!</strong>
