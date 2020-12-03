@@ -192,7 +192,7 @@ sk:
   code: sk
   name: slovenčina
   script: latin-ext
-  translated: false
+  translated: true
   country: sk
   dir: ltr
 sl:
