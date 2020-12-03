@@ -129,7 +129,7 @@ lb:
   code: lb
   name: Lëtzebuergesch
   script: latin
-  translated: false
+  translated: true
   country: lu
   dir: ltr
 hu:
