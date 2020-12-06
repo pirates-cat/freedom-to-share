@@ -78,7 +78,7 @@ body {
     }
 
     [role="hero"] {
-      background-image: url("/images/hero-20201025.jpg");
+      background-image: url("/images/hero-20201205.jpg");
       background-repeat: no-repeat;
       background-position: center center;
       background-attachment: scroll;
@@ -100,5 +100,38 @@ body {
         @apply text-white bg-secondary;
       }
     }
+  }
+
+  #home article h2, h3 {
+    margin: 0 !important;
+    @apply font-bold;
+  }
+
+  #home.prose-lg article p {
+    @apply mb-0;
+  }
+
+  #home.prose-lg article p + p {
+    @apply mt-2;
+  }
+
+  #home.prose-lg article img {
+    @apply m-0;
+  }
+
+  #donate > a > img {
+    @apply py-3;
+  }
+
+  #donate > form {
+    @apply pt-3;
+  }
+
+  #proca-register > div, #proca-register > main {
+    @apply py-1;
+  }
+
+  main .bg-primary a {
+    @apply text-white;
   }
 }

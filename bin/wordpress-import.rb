@@ -41,6 +41,9 @@ module Wordpress
           next if page.type == 'contact'
           next if page.type == 'organizations'
           next if page.type == 'press'
+
+          # Ignore old official text home.
+          next if page.type == 'home'
       
           FileUtils.mkdir_p(basedir)
           File.write(full_path, page.render)
