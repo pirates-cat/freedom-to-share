@@ -1,1 +1,75 @@
-{}
+proca:
+  share:
+    message: Jums to vajadzētu parakstīt!
+    email:
+      subject: Jums vajadzētu parakstīt šo
+      body: "Sveiki, \nLūdzu, parakstiet, es domāju, ka vēlaties to atbalstīt"
+    title: Gandrīz pabeigts! Veikt nākamo soli.
+    intro: Lieliski, jūs esat parakstījies 👍. Lai vairotu savu ietekmi, dalieties
+      tālu un plaši, lai pārliecinātos, ka visi redz šo petīciju 🙏.
+  Sign: Parakstieties tūlīt!
+  progress: '{{count}} esat parakstījušies. Ejam uz {{goal}}'
+  consent:
+    intro: Es piekrītu {{name}} sazināties ar mani par svarīgām kampaņām
+    opt-in: Jā, informējiet mani pa e-pastu
+    opt-out: Nē, nesūtiet man e-pastus un neziņojiet man turpmāk
+    processing: Jūsu personiskā informācija tiks turēta privāti un droši. Iesniedzot
+      informāciju, jūs piekrītat datu un sīkdatņu izmantošanai saskaņā ar mūsu<1>privātuma
+      politika</1>
+    confirm: <0>Vai tu esi pārliecināts?</0><1>Izvēloties "Nē", jūs nevarēsiet uzzināt,
+      vai šī kampaņa ir veiksmīga, vai, ja mums ir jāveic vēl darbības, lai to uzvarētu.
+      Ja izvēlaties "Jā" mēs jūs informēsim par šo un citām steidzamajām kampaņām.</1><2>Jebkurā
+      laikā varat anulēt abonementu.</2>
+  Enter a number.: Ievadiet numuru.
+  Enter a valid email address.: Ievadiet derīgu epasta adresi.
+  Amount: Summa
+  First name: Vārds
+  Last name: Uzvārds
+  Email: E-pasts
+  Postal Code: Pasta indekss
+  Street: Iela
+  City: Pilsēta
+  Country: Valsts
+  Thanks!: Paldies!
+  Privacy: Privātums
+  No Thanks: Nē paldies
+  Stay in touch: Uzturēt kontaktus
+  Sign Up: Pierakstīties
+  Share on Facebook: Dalīties Facebook
+  Share on Twitter: Dalieties Twitter
+  Email_Share button: E-pasts
+  Donations must be %(amount)s or more: Ziedojumiem jābūt %(amount) vai vairāk
+  Legal: Legāls
+  This field is required.: Šis lauks ir obligāts.
+  Link_Share button: Saite
+  Download explanation: Jūsu dokuments tagad ir gatavs, mēs to nosūtām arī jums pa
+    e-pastu.
+messages:
+  get_involved: Iesaistīties
+  missing_translations:
+    first: Mūsu vietnē trūkst tulkojumu uz jūsu valodu.
+    second: Palīdziet mums šeit!
+pages:
+  home: Mājas
+  press: Presē
+  organizations: Atbalsta organizācijas
+  contact: Kontakts
+  privacy: Privātuma politika
+regions:
+  sweden: Zviedrija
+  transnational: Eiropas / Transnacionālais līmenis
+  germany: Vācija
+  italy: Itālija
+creative-commons:
+  text: Creative Commons licence
+  url: http://creativecommons.org/licenses/by-sa/4.0/
+contact:
+  fiscal_code: Fiskālais kods
+home:
+  hero:
+    action: Abonēt
+    text: Mums vajag vienu miljonu parakstu. Mēs sāksim tos vākt 2020. gada 15. novembrī.
+      <strong>Pievienojies mums tagad!</strong>
+press:
+  published_at: "Publicēts vietnē\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+    >%{host}</a>\n %{date}\n"
