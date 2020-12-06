@@ -8,11 +8,15 @@ en:
     hero:
       text: We need one million signatures. We will start collecting them on November 15th, 2020. <strong>Join us now!</strong>
       action: Subscribe
+    hero2:
+      text: <strong>Legalize Filesharing!</strong><br>We are coming together from across Europe to call on the European Commission to adopt copyright rules that are fair to creators and users.
+      action: Sign here!
   messages:
     missing_translations:
       first: Our site is missing translations to your language.
       second: Help us here!
     get_involved: Get involved
+    read_more: Read more
   pages:
     home: Home
     press: In the press

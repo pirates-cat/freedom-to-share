@@ -2,33 +2,30 @@
   <section class="px-4 text-3xl text-white md:px-0" role="hero">
     <div class="container flex flex-col max-w-4xl py-12 md:flex-row">
       <p>
-        <%= t('home.hero.text') %>
+        <%= t('home.hero2.text') %>
       </p>
-      <div class="flex items-center justify-center pt-4 md:pt-0">
-        <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline whitespace-no-wrap border-2 border-white rounded shadow-md bg-primary hover:border-primary"><%= t('home.hero.action') %></a>
-      </div>
     </div>
   </section>
 <% end %>
 <% wrap_layout :base do %>
-  <div class="container max-w-4xl md:flex ">
-    <article class="px-4 pb-8 leading-relaxed prose-lg text-gray-800 md:px-0 md:pb-0">
+  <div id="home" class="container max-w-4xl leading-relaxed prose-lg text-gray-800 md:flex">
+    <article class="px-4 pb-8 md:px-0 md:pb-0">
       <%= yield %>
     </article>
     <aside class="flex flex-col items-end md:pl-5">
-      <div class="flex flex-col items-center w-full p-4 md:w-64 md:rounded bg-tertiary">
-        <div class="mb-4">
-          <a href="https://opencollective.com/freedom-to-share/donate" target="_blank">
-            <img src="https://opencollective.com/freedom-to-share/donate/button.png?color=white" width=300 />
-          </a>
-        </div>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick" />
-          <input type="hidden" name="hosted_button_id" value="RKMCT2GMB7ZL2" />
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-          <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
-        </form>
+      <div class="px-4 md:rounded">
+        <script id="proca" src="https://sign.freesharing.eu/d/demo/eci/index.js"></script>      
+        <div class="proca-widget"></div>
       </div>
     </aside>
   </div>
+  <dl class="container hidden max-w-4xl px-4 py-3 mt-6 text-blue-900 bg-blue-100 border-t-4 border-blue-400 rounded-b shadow-md md:block">
+    <dt class="font-bold">Name of the European Citizen Initiative</dt>
+    <dd class="pb-4 eci-title">...</dd>
+    <dt class="font-bold">Description</dt>
+    <dd>
+      <div class="eci-description"></div>
+      <div class="eci-more"></div>
+    <dd>
+  </dl>
 <% end %>

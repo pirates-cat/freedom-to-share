@@ -32,7 +32,9 @@ available_locales = %w[ar bg ca cs da de el es en eo et eu fi fr ga hr hu it lb 
 available_locales.each do |locale|
   next if locale == :en
 
-  %w[contact organizations press].each do |slug|
+  proxy "/#{locale}/index.html", "localizable/index.html"
+
+  %w[act contact organizations press].each do |slug|
     proxy "/#{locale}/#{slug}/index.html", "localizable/#{slug}/index.html"
   end
 end

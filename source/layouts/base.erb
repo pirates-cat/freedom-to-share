@@ -17,7 +17,7 @@
       <%= stylesheet_link_tag "open-sans" %>
     <% end %>
     <%= javascript_include_tag "site" %>
-    <link rel="dns-prefetch" href="https://widget.proca.foundation">
+    <link rel="dns-prefetch" href="https://sign.freesharing.eu">
     <link rel="dns-prefetch" href="https://licensebuttons.net">
     <link rel="dns-prefetch" href="https://www.paypalobjects.com">
     <link rel="dns-prefetch" href="https://opencollective.com">
@@ -68,13 +68,17 @@
           <% end %>
         </div>
         <% unless current_page.data.try(:global) %>
-          <nav class="py-3 bg-primary">
+          <nav class="hidden py-3 bg-primary md:block">
             <div class="container flex justify-end max-w-4xl md:justify-between">
-              <div role="menu" class="hidden md:block">
+              <div role="menu">
                 <%= partial 'partials/menu' %>
               </div>
               <div class="mr-1 md:mr-0">
-                <a href="#proca_dialog" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline bg-black rounded shadow-md hover:bg-white hover:text-black"><%= t('messages.get_involved') %></a>
+                <% if ::I18n.locale == :en %>
+                  <a href="<%= url_for("/act") %>" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline bg-black rounded shadow-md hover:bg-white hover:text-black"><%= t('messages.get_involved') %></a>
+                <% else %>
+                  <a href="<%= url_for("/#{::I18n.locale}/act") %>" data-turbolinks="false" class="px-4 py-2 font-bold text-white no-underline bg-black rounded shadow-md hover:bg-white hover:text-black"><%= t('messages.get_involved') %></a>
+                <% end %>
               </div>
             </div>
           </nav>
@@ -94,8 +98,5 @@
         </div>
       </footer>
     </div>
-    <% unless current_page.data.try(:global) %>
-      <script id="proca" src="https://widget.proca.foundation/d/freesharing.eu/en"></script>
-    <% end %>
   </body>
 </html>
