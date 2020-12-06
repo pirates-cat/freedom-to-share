@@ -1,0 +1,45 @@
+---
+title: pages.home
+layout: home
+---
+
+<div class="hidden p-4 mb-4 text-white bg-black rounded md:block">
+  <h2>Join the "Freedom to Share" European Citizen's Initiative →</h2>
+</div>
+
+<div class="px-4 pb-4">
+  <h3>Read the official text of the initiative</h3>
+  <p>Our initiative calls for the adoption of a legislative act providing for a waiver of copyright, related rights, and sui generis database rights for natural persons sharing files via digital networks for personal use and non-profit purposes.</p>
+  <p>
+    <% if ::I18n.locale == :en %>
+      <a href="<%= url_for('/initiative') %>"><%= t('messages.read_more') %></a>
+    <% else %>
+      <a href="<%= url_for("/#{::I18n.locale}/initiative") %>"><%= t('messages.read_more') %></a>
+    <% end %>
+  </p>
+</div>
+
+<div class="p-4 mb-4 text-white rounded shadow-md bg-primary">
+  <h3>Take action</h3>
+  <p>Spread this inititative with your friends and contacts (write them, spread the communication materials, talk to them, etc.</p>
+  <p>
+    <% if ::I18n.locale == :en %>
+      <a href="<%= url_for('/act') %>"><%= t('messages.read_more') %></a>
+    <% else %>
+      <a href="<%= url_for("/#{::I18n.locale}/act") %>"><%= t('messages.read_more') %></a>
+    <% end %>
+  </p>
+</div>
+
+<div id="donate" class="p-4 mb-4 text-white rounded shadow-md bg-tertiary">
+  <h3>Donate</h3>
+  <a href="https://opencollective.com/freedom-to-share/donate" target="_blank">
+    <img src="https://opencollective.com/freedom-to-share/donate/button.png?color=white" width=300 />
+  </a>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick" />
+    <input type="hidden" name="hosted_button_id" value="RKMCT2GMB7ZL2" />
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    <img alt="" border="0" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1" height="1" />
+  </form>
+</div>
