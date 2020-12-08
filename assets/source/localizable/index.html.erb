@@ -4,12 +4,12 @@ layout: home
 ---
 
 <div class="hidden p-4 mb-4 text-white bg-black rounded md:block">
-  <h2>Join the "Freedom to Share" European Citizen's Initiative →</h2>
+  <h2><%= t('home.cta') %> →</h2>
 </div>
 
 <div class="px-4 pb-4">
-  <h3>Read the official text of the initiative</h3>
-  <p>Our initiative calls for the adoption of a legislative act providing for a waiver of copyright, related rights, and sui generis database rights for natural persons sharing files via digital networks for personal use and non-profit purposes.</p>
+  <h3><%= t('home.official_text.title') %></h3>
+  <p><%= t('home.official_text.body') %></p>
   <p>
     <% if ::I18n.locale == :en %>
       <a href="<%= url_for('/initiative') %>"><%= t('messages.read_more') %></a>
@@ -20,8 +20,8 @@ layout: home
 </div>
 
 <div class="p-4 mb-4 text-white rounded shadow-md bg-primary">
-  <h3>Take action</h3>
-  <p>Spread this inititative with your friends and contacts (write them, spread the communication materials, talk to them, etc.</p>
+  <h3><%= t('home.take_action.title') %></h3>
+  <p><%= t('home.take_action.body') %></p>
   <p>
     <% if ::I18n.locale == :en %>
       <a href="<%= url_for('/act') %>"><%= t('messages.read_more') %></a>
@@ -32,7 +32,7 @@ layout: home
 </div>
 
 <div id="donate" class="p-4 mb-4 text-white rounded shadow-md bg-tertiary">
-  <h3>Donate</h3>
+  <h3><%= t('home.donate.title') %></h3>
   <a href="https://opencollective.com/freedom-to-share/donate" target="_blank">
     <img src="https://opencollective.com/freedom-to-share/donate/button.png?color=white" width=300 />
   </a>
