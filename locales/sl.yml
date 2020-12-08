@@ -2,7 +2,7 @@ sl:
   pages:
     home: Domov
     press: V medijih
-    organizations: Organizacije, ki nas podpirajo
+    organizations: Podporniki
     contact: Kontakt
     privacy: Politika zasebnosti
   proca:
@@ -51,7 +51,7 @@ sl:
     Download explanation: Tvoj dokument je pripravljen, poslali ti ga bomo po elektronski
       pošti.
   messages:
-    get_involved: Vključi se
+    get_involved: Sodeluj
     missing_translations:
       first: Naša stran nima prevoda v tvojem jeziku.
       second: Pomagaj nam!
@@ -69,7 +69,7 @@ sl:
     published_at: "Objavljeno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\n%{date}\n"
   regions:
-    transnational: Evropski / Nadnacionalen nivo
+    transnational: Evropski / Nadnacionalni nivo
     germany: Nemčija
     italy: Italija
     sweden: Švedska
