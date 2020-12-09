@@ -10,6 +10,18 @@ de:
       text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
         mit dem Sammeln von Unterschriften beginnen. <strong>Machen Sie jetzt mit!</strong>
       action: Abonnieren
+    hero2:
+      text: <strong>Legalize Filesharing!</strong><br>Wir sind aus ganz Europa zusammengekommen,
+        um die Europäische Komission aufzufordern, das Urheberecht zu ändern, die
+        fair für die Künstler und Konsumenten sind.
+      action: Hier unterschreiben!
+    cta: Mach mit bei der "Freedom to Share" Europäischen Bürgerinitiative
+    official_text:
+      body: Mit dieser Initiative fordern wir den Erlass eines Rechtsakts, der für
+        natürliche Personen die Erlaubnis vorsieht‚ durch Urheberrechte, verwandte
+        Schutzrechte und spezifische Datenbankrechte geschützte Dateien zu persönlichen
+        und gemeinnützigen Zwecken über digitale Netze gemeinsam zu nutzen.
+      title: Les den offiziellen text der Initiative
   proca:
     consent:
       intro: Ich bin einverstanden, dass {{name}} mich über wichtige Neuigkeiten informieren
