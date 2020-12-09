@@ -54,6 +54,14 @@ nl:
       text: We hebben 1 miljoen handtekeningen nodig. We starten met verzamelen op
         15 november 2020. <strong>Help ons!</strong>
       action: Abonneer
+    cta: Doe mee met het "Freedom to Share" Europees Burger Initiatief
+    hero2:
+      text: <strong>Legaliseer Filesharing!</strong><br>We komen vanuit heel Europa
+        samen om de Europese Commissie op te roepen auteursrechtregels aan te nemen
+        die eerlijk zijn voor makers en gebruikers.
+      action: Teken hier!
+    official_text:
+      title: Lees de officiële tekst van het initiatief
   press:
     published_at: "Gepubliceerd op\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\non %{date}\n"
