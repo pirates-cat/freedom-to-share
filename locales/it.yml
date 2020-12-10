@@ -12,6 +12,27 @@ it:
       action: Sottoscrivi
     hero2:
       action: Iscriviti qui!
+      text: <strong>Legalizziamo il filesharing!</strong><br>Arriviamo insieme da
+        tutta Europa per chiedere alla Commissione Europea di adottare regole per
+        il Diritto d'Autore che siano giuste per creatori e utenti.
+    cta: Unisciti all'Iniziativa Europea dei Cittadini "Freedom to Share"
+    official_text:
+      title: Leggi il testo ufficiale dell'iniziativa
+      body: La nostra iniziativa chiede l'adozione di un atto legislativo chiedendo
+        un'eccezione del Diritto d'Autore, diritti correlati, e diritti "sui generis"
+        delle banche dati per le persone fisiche affinché sia possibile condividere
+        file attraverso reti digitale per uso personale e senza scopo di lucro.
+    take_action:
+      title: Agisci ora
+      body: "Condividi questa iniziativa con i tuoi amici e contatti: scrivi loro,\
+        \ diffondi il materiale comunicativo, parla con loro, ecc.\n"
+    donate:
+      title: Dona
+      open_collective: Dona al nostro collettivo
+    widget:
+      steps:
+        one: Unisciti!
+        other: Firma!
   proca:
     Share on Twitter: Condividi su Twitter
     Download explanation: Il tuo documento ora è pronto, te lo stiamo inviando via
@@ -71,9 +92,35 @@ it:
     sweden: Svezia
   contact:
     fiscal_code: Codice fiscale
+    presentation: "GOIPE è un'associazione senza fini di lucro secondo l'art. 36 del\
+      \ Codice Civile italiano costituita espressamente allo scopo di organizzare\
+      \ Iniziative Europee dei cittadini.\nQuesta iniziativa \"Freedom to share\"\
+      \ è stata ufficialmente presentata alla Commissione Europea da cittadini di\
+      \ otto paesi europei:\n"
   creative-commons:
     text: Licenza Creative Commons
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.it
   press:
     published_at: "Pubblicato su\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nil %{date}\n"
+  eci:
+    name: Nome dell'Iniziativa Europea dei Cittadini
+    description:
+      title: Descrizione
+      body: Per legalizzare il filesharing - attraverso le reti digitali, per uso
+        personale e senza fini di lucro - di file conteneti lavori e altro materiale
+        protetto da copyright, diritti correlati e diritti "sui generis" delle banche
+        dati, con l'obiettivo di equilibrare i diritti degli autori e degli altri
+        aventi diritto e il diritto universale alla scienza e alla cultura.
+  faq:
+    acronym: FAQ
+    title: Domande frequenti
+    entries:
+      what-are-related-rights:
+        title: Che cosa sono i "diritti correlati"?
+        body: Nella legge sul Diritto d'Autore, i diritti correlati sono i diritti
+          su un lavoro creativo non direttamente connessi con il lavoro dell'autore
+          stesso. All'interno dell'Unione Europea, i diritti dei produttori di film
+          (contrariamente ai registi) e dei creatori di banche dati  sono protetti
+          dai diritti correlati. Una definizione pratica è che i diritti correlati
+          sono una sorta di copyright non coperti dalla Convenzione di Berna.
