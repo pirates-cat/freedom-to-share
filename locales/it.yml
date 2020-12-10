@@ -85,11 +85,17 @@ it:
     missing_translations:
       first: Al nostro sito manca la traduzione nella tua lingua.
       second: Aiutaci qui!
+    read_more: Per saperne di più
   regions:
     transnational: Livello Europeo / Transnazionale
     germany: Germania
     italy: Italia
     sweden: Svezia
+    belgium: Belgio
+    estonia: Estonia
+    france: Francia
+    netherlands: Olanda
+    spain: Spagna
   contact:
     fiscal_code: Codice fiscale
     presentation: "GOIPE è un'associazione senza fini di lucro secondo l'art. 36 del\
@@ -175,6 +181,10 @@ it:
       what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
         title: Cosa succede se un autore non accetta di condividere il suo lavoro
           attraverso le reti di file sharing?
+        body: Egli è libero di non pubblicare la sua opera e quindi la sua opera non
+          sarà condivisa. Una volta che un'opera è pubblica, tutti i cittadini hanno
+          un certo diritto (cantare in privato, fare delle copie per uso personale
+          e, crediamo, usare le reti di file sharing per uso personale).
       how-will-file-sharing-freedom-benefit-citizens:
         title: In che modo la libertà di condivisione dei file porterà benefici ai
           cittadini?
@@ -191,3 +201,74 @@ it:
           \ parti diverse contemporaneamente, riducendo notevolmente il tempo di trasferimento.\n"
       are-you-against-authors:
         title: Siete contro gli autori?
+        body: Per niente. Vogliamo aggiornare il diritto d'autore in modo che sia
+          compatibile con la realtà di oggi e con le preferenze della gente. Crediamo
+          che la tecnologia moderna sia un'opportunità per gli autori, non un problema.
+          Crediamo anche che sia dannoso per gli autori dipendere e sostenere lo status
+          quo, molto ingiusto e impopolare, delle leggi sul diritto. Alcuni autori
+          potrebbero essere apprezzati e conoscere molto di più le persone grazie
+          alla condivisione dei file.
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        title: Le piattaforme di condivisione file sono concorrenti di Netflix, Spotify
+          e altre piattaforme di distribuzione di contenuti?
+        body: "No. Poiché si tratta di reti, non c'è un unico concorrente: le reti\
+          \ di file sharing sono distribuite (non c'è un intermediario obbligatorio).\
+          \ Le reti di file sharing sono di proprietà dei cittadini che vi partecipano.\n"
+      are-you-against-rightsholders:
+        body: No, purché perseguano gli obiettivi dichiarati del diritto d'autore,
+          cioè la promozione della cultura e del progresso sociale. Le major hanno
+          perso un'opportunità quando hanno attaccato Napster all'inizio del 2000;
+          avrebbero potuto schierarsi dalla sua parte e ottenere una macchina per
+          produrre denaro gratuita. Invece hanno perso un decennio e ora dipendono
+          dalle royalties di Spotify, Apple, ecc. per la loro sopravvivenza. La nostra
+          proposta è un'opportunità per le società di gestione collettiva, gli editori,
+          le etichette discografiche e altri detentori di diritti.
+        title: Siete contro i titolari dei diritti?
+      are-you-against-digital-platforms:
+        body: No, se non abusano del loro potere di controllare e profilare le persone.
+          I vari servizi internet che sono arrivati a dominare la distribuzione digitale
+          della cultura possono essere una rete positiva perché rendono la distribuzione
+          più efficiente. La disintermediazione può anche ridurre la quantità di denaro
+          sprecata per gli intermediari che non producono altra cultura. Tuttavia,
+          non vediamo perché i giganteschi servizi internet centralizzati gestiti
+          da poche multinazionali dovrebbero avere il controllo della cultura nell'era
+          digitale. Sforzi come l'articolo 17 della direttiva 790/2019 ("filtri di
+          caricamento") sono stati mal guidati, e inevitabilmente falliranno, perché
+          non sono riusciti ad attaccare il problema alla radice.
+        title: Siete contro le piattaforme digitali?
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        title: Volete distruggere i canali di distribuzione digitali esistenti?
+        body: No. I servizi sopravvivono a lungo termine perché piacciono ai consumatori,
+          non perché i politici scrivono questa o quella legge.
+      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
+      : title: È vero che il file sharing permette di trovare cose molto rare / non
+          più sul mercato / localizzate in qualche posto sconosciuto, difficile da
+          trovare?
+        body: Sì, finché una parte della rete lo avrà. A volte, quando il canale usuale
+          fallisce, alcune cose sono già lì, pronte per essere raccolte. Su alcune
+          reti oggi sono disponibili 10-40 milioni di file, con milioni di nodi-utenti.
+      this-is-only-a-dream:
+        title: Questo è solo un sogno!
+        body: Ci rendiamo conto che la nostra proposta è l'unico modo per andare avanti
+          per un diritto d'autore basato sui diritti fondamentali. Pensiamo che a
+          volte sia necessaria una tale ambizione.
+      this-is-not-a-new-idea:
+        title: Non è un'idea nuova!
+        body: Certo, si tratta per lo più di un'idea vecchia. La variante più famosa
+          è probabilmente la proposta di Fisher di una licenza legale per risolvere
+          problemi come la chiusura di Napster, perché è stata in grado di fermare
+          solo il 99,4 % delle violazioni del copyright, ma non il 100 %. <a href="http://www.free-culture.cc/freeculture.pdf">Vedi
+          "Cultura libera" (2004), p. 307.</a>.
+      you-want-to-violate-copyright:
+        title: Volete violare il copyright!
+        body: No. Vogliamo modificare il diritto d'autore e la nostra proposta è compatibile
+          con la convenzione di Berna e i relativi trattati.
+  act:
+    title: Agisci ora!
+    content: "<p>Diffondi questa iniziativa con i tuoi amici e contatti: scrivigli,\
+      \ diffondi il materiale di comunicazione, parlagli, ecc.</p>.\n<p>Mettiti in\
+      \ contatto con noi e contribuisci all'organizzazione e alla diffusione della\
+      \ campagna nel tuo paese coordinandoti con gli altri attivisti: <a href=\"#proca_dialog\"\
+      \ data-turbolinks=\"false\">iscriviti!</a></p></p>\n<p>Aiuta a tradurre: <a\
+      \ href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\">Weblate</a></p>\n\
+      <p>Sostieni la campagna facendo una donazione:</p>\n"
