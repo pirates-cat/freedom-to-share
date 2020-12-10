@@ -16,6 +16,10 @@ nl:
       processing: Je persoonlijke informatie wordt veilig en beveiligd opgeslagen.
         Door gegevens in te vullen ga je akkoord met het gebruik hiervan en met de
         cookies zoals beschreven in onze <1>privacy policy</1>
+      confirm: <0>Weet je het zeker?</0><1>Als je 'Nee' zegt, kun je niet deze campagne
+        niet volgen om te zien of we succesvol zijn of nog meer moeten doen. Als je
+        'Ja' zegt houden we je op de hoogte over deze andere belangrijke campanges.</1><2>Je
+        kan je altijd weer uitschrijven.</2>
     Postal Code: Postcode
     Street: Straat
     Country: Land
@@ -27,6 +31,12 @@ nl:
     Email: Email
     share:
       title: Bijna klaar! Neem de volgende stap.
+      intro: Fantastisch, je hebt het ondertekend 👍. Voor nog meer impact, deel dit
+        zo veel mogelijk zodat zoveel mogelijk mensen deze petitie zien🙏.
+      message: Dit moet je echt ondertekenen!
+      email:
+        subject: Dit moet je echt ondertekenen
+        body: "Hoi,\nOnderteken dit alsjeblief. Ik denk dat je hier wel achter staat"
     Legal: Juridisch
     Privacy: Privacy
     No Thanks: Nee, bedankt
@@ -42,11 +52,13 @@ nl:
     Email_Share button: Email
     Link_Share button: Link
     Download explanation: Je document is nu klaar. We e-mailen het naar je.
+    Sign: Onderteken Nu!
   messages:
     get_involved: Meehelpen
     missing_translations:
       first: Onze site mist een vertaling in jouw taal.
       second: Help ons hier!
+    read_more: Lees meer
   contact:
     fiscal_code: Fiscale Code
   home:
@@ -62,6 +74,13 @@ nl:
       action: Teken hier!
     official_text:
       title: Lees de officiële tekst van het initiatief
+    donate:
+      title: Doneer
+      open_collective: Doneer aan ons collectief
+    take_action:
+      title: Neem actie
+      body: "Deel dit initiatief met je vrienden en contacten; email ze, praat met\
+        \ ze, verspreid ons materiaal, enz.\n"
   press:
     published_at: "Gepubliceerd op\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\non %{date}\n"
@@ -70,3 +89,54 @@ nl:
     germany: Duitsland
     italy: Italië
     sweden: Zweden
+    belgium: België
+    estonia: Estland
+    france: Frankrijk
+    netherlands: Nederland
+    spain: Spanje
+  faq:
+    entries:
+      why-should-i-sign-this-european-citizen-initiative:
+        title: Waarom zou ik dit Europees Burgerinitiatief moeten ondertekenen?
+      are-you-against-authors:
+        body: Zeker niet. We willen het auteursrecht aanpassen zodat het in lijn is
+          is met de moderne realiteit en de voorkeuren van mensen. Wij geloven dat
+          moderne technologie een kans is voor auteurs, niet een probleem. We zijn
+          ook van mening dat het schadelijk is voor auteurs om afhankelijk te zijn
+          van en een zeer oneerlijke en impopulaire wetten op het auteursrecht. Sommige
+          auteurs worden mogelijk meer gewaardeerd en veel bekender dankzij het delen
+          van bestanden.
+        title: Ben je tegen auteurs?
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        title: Platformen om bestanden te delen zijn concurrenten van Netflix, Spotify
+          en andere content-platformen?
+      this-is-only-a-dream:
+        title: Dit is slechts een droom!
+      how-much-will-it-cost-for-users:
+        title: Wat gaat dit de gebruikers kosten?
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        title: Hoe zou het geld moeten worden verdeeld tussen auteurs en andere rechthebbenden?
+      are-you-against-rightsholders:
+        title: Ben je tegen rechthebbenden?
+      are-you-against-digital-platforms:
+        title: Ben je tegen digitale platformen?
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        title: Wil je de huidige digitale distributiekanalen weg hebben?
+      this-is-not-a-new-idea:
+        title: Dit is geen nieuwe idee!
+      you-want-to-violate-copyright:
+        title: Je wilt copyright schenden!
+    acronym: FAQ
+    title: Veel Gestelde Vragen
+  act:
+    content: "<p>Deel dit initiatief met je vrienden en contacten. Schijf ze, praat\
+      \ met ze, deel onze folders, enz.</p>\n<p>Help ons en draag bij aan de organisatie\
+      \ van de campagne om deze in jouw land samen met andere coördinatoren te verspreiden\
+      \ : <a href=\"#proca_dialog\" data-turbolinks=\"false\">subscribe!</a></p>\n\
+      <p>Help met vertalen: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
+      >Weblate</a></p>\n<p>Support deze campagne met een donatie:</p>\n"
+    title: Neem nu actie!
+  eci:
+    name: Naam van het Europees Burger Initiatief
+    description:
+      title: Omschrijving
