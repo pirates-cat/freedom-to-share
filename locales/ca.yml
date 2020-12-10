@@ -51,8 +51,13 @@ ca:
     organizations: Suports
     contact: Contacte
     privacy: Política de privadesa
+    certification: Certificació
   contact:
     fiscal_code: Codi fiscal
+    presentation: "GOIPE és una associació sense ànim de lucre segons l'art. 36 del\
+      \ codi civil italià creada especialment amb el propòsit d'organitzar Iniciatives\
+      \ Ciutadanes Europees.\nLa ICE \"Freedom to share\" ha estat presentada oficialment\
+      \ a la Comissió Europea per persones de vuit països europeus:\n"
   creative-commons:
     text: Llicència de Creative Commons
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.ca
@@ -61,6 +66,29 @@ ca:
       text: Necessitem un milió de signatures. Les començarem a recollir el 15 de
         novembre del 2020. <strong>Uneix-t'hi!</strong>
       action: Subscriu-t'hi
+    cta: Uneix-te a la Iniciativa Ciutadana Europea "Freedom to share"
+    official_text:
+      title: Llegeix el text oficial de la iniciativa
+      body: La nostra iniciativa demana l'adopció d'un marc legislatiu que estableixi
+        una exempció als drets d'autor, drets afins i drets de base de dades sui generis
+        per a persones físiques que comparteixen arxius a través de xarxes digitals
+        per a ús personal i sense ànim de lucre.
+    take_action:
+      title: Actua
+      body: "Escampa aquesta iniciativa entre amics i contactes: escriu-los, difon\
+        \ els materials de comunicació, parla amb ells, etc.\n"
+    donate:
+      title: Donar
+      open_collective: Dóna al nostre col·lectiu
+    hero2:
+      action: Signa aquí!
+      text: <strong>Legalitzem l'intercanvi d'arxius</strong><br>Ens estem trobant
+        d'arreu d'Europa per a demanar a la Comissió Europea que adopti normes de
+        drets d'autor justes per als creadors i usuaris.
+    widget:
+      steps:
+        one: Uneix-te a nosaltres!
+        other: Signa-la!
   press:
     published_at: "Publicat a\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nel %{date}\n"
@@ -69,8 +97,34 @@ ca:
       first: La nostra web no té traduccions al teu idioma.
       second: Ajuda'ns aquí!
     get_involved: Uneix-t'hi
+    read_more: Llegeix més
   regions:
     transnational: Àmbit europeu o transnacional
     germany: Alemània
     italy: Itàlia
     sweden: Suècia
+    belgium: Bèlgica
+    france: França
+    netherlands: Països Baixos
+    spain: Espanya
+    estonia: Estònia
+  act:
+    title: Actua ara!
+    content: "<p>Escampa la iniciativa entre amics i contactes: escriu-los, difon\
+      \ els materials de comunicació, parla amb ells, etc.</p>\n<p>Posa't en contacte\
+      \ amb nosaltres i contribueix a l'organització i difusió de la campanya al teu\
+      \ país coordinant-te amb altres activistes: <a href=\"#proca_dialog\" data-turbolinks=\"\
+      false\">subscriu-t'hi!</a></p>\n<p>Ajuda a traduir: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
+      >Weblate</a></p>\n<p>Dóna suport a la campanya fent un donatiu:</p>\n"
+  eci:
+    description:
+      body: Legalitzar l'ús compartit – a través de xarxes digitals, per a ús personal
+        i sense ànim de lucre – d'arxius que continguin obres i altres materials protegits
+        per drets d'autor, drets afins i drets sui generis de base de dades, amb vista
+        a aconseguir un equilibri entre els drets dels autors i altres titulars de
+        drets i el dret universal a la ciència i la cultura.
+      title: Descripció
+    name: Nom de la Iniciativa Europea Ciutadana
+  faq:
+    acronym: PMF
+    title: Preguntes Més Freqüents
