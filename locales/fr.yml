@@ -18,6 +18,7 @@ fr:
     missing_translations:
       first: Notre site manque de traduction dans votre langue.
       second: Venez nous aider !
+    read_more: En savoir plus
   proca:
     consent:
       confirm: <0>Êtes-vous sûr ?</0><1>En sélectionnant « Non », vous ne pourrez
@@ -76,3 +77,8 @@ fr:
   press:
     published_at: "Publié sur\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nle %{date}\n"
+  faq:
+    acronym: FAQ
+    title: Foire Aux Questions
+  act:
+    title: Agissez maintenant !
