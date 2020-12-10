@@ -5,6 +5,7 @@ it:
     contact: Contatta
     organizations: Organizzazioni che supportano
     privacy: Politica sulla riservatezza
+    certification: Certificazione
   home:
     hero:
       text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme
@@ -202,12 +203,12 @@ it:
       are-you-against-authors:
         title: Siete contro gli autori?
         body: Per niente. Vogliamo aggiornare il diritto d'autore in modo che sia
-          compatibile con la realtà di oggi e con le preferenze della gente. Crediamo
-          che la tecnologia moderna sia un'opportunità per gli autori, non un problema.
-          Crediamo anche che sia dannoso per gli autori dipendere e sostenere lo status
-          quo, molto ingiusto e impopolare, delle leggi sul diritto. Alcuni autori
-          potrebbero essere apprezzati e conoscere molto di più le persone grazie
-          alla condivisione dei file.
+          compatibile con il mondo di oggi e con le preferenze della gente. Crediamo
+          che le moderne tecnologie siano un'opportunità per gli autori, non un problema.
+          Crediamo anche che sia dannoso per gli autori dipendere e sostenere uno
+          status quo molto ingiusto e impopolare delle leggi sul diritto d'autore.
+          Alcuni autori potrebbero essere apprezzati e conosciuti da molte più persone
+          grazie alla condivisione dei file.
       file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
         title: Le piattaforme di condivisione file sono concorrenti di Netflix, Spotify
           e altre piattaforme di distribuzione di contenuti?
