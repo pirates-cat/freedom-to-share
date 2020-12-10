@@ -8,24 +8,25 @@
   </section>
 <% end %>
 <% wrap_layout :base do %>
-  <div id="home" class="container max-w-4xl leading-relaxed prose-lg text-gray-800 md:flex">
-    <article class="px-4 pb-8 md:px-0 md:pb-0">
+  <% unless data.languages[::I18n.locale]['translated'] %>
+    <div class="container max-w-4xl mb-4 text-gray-800 md:flex">
+      <aside class="w-full px-4 py-3 mb-6 text-yellow-900 bg-yellow-100 border-t-4 border-yellow-400 rounded-b shadow-md" role="alert">
+        <p class="my-0 font-bold"><%= t('messages.missing_translations.first') %></p>
+        <p class="my-0"><a href="https://l10n.rio.hn/projects/freedom-to-share/web/"><%= t('messages.missing_translations.second') %></a></p>
+      </aside>
+    </div>
+  <% end %>
+  <div id="home" class="container grid max-w-4xl grid-cols-1 p-4 leading-relaxed prose-lg text-gray-800 md:p-0 md:gap-6 md:grid-cols-3">
+    <article class="md:col-span-2">
       <%= yield %>
     </article>
-    <aside class="flex flex-col items-end md:pl-5">
-      <div class="px-4 md:rounded">
-        <script id="proca" src="https://sign.freesharing.eu/d/demo/eci/index.js"></script>      
-        <div class="proca-widget"></div>
+    <aside>
+      <div class="hidden p-2 text-white rounded shadow bg-secondary md:grid md:grid-cols-2 justify-items-center">
+        <div><span class="font-bold">1.</span> <%= t('home.widget.steps.one') %></div>
+        <div><span class="font-bold">2.</span> <%= t('home.widget.steps.two') %></div>
       </div>
+      <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/en"></script>
+      <div class="proca-widget"></div>
     </aside>
   </div>
-  <dl class="container hidden max-w-4xl px-4 py-3 mt-6 text-blue-900 bg-blue-100 border-t-4 border-blue-400 rounded-b shadow-md md:block">
-    <dt class="font-bold"><%= t('eci.name') %></dt>
-    <dd class="pb-4">Freedom to Share</dd>
-    <dt class="font-bold"><%= t('eci.description.title') %></dt>
-    <dd>
-      <div><%= t('eci.description.body') %></div>
-      <div class="eci-more"></div>
-    <dd>
-  </dl>
 <% end %>

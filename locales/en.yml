@@ -12,6 +12,10 @@ en:
       text: <strong>Legalize Filesharing!</strong><br>We are coming together from across Europe to call on the European Commission to adopt copyright rules that are fair to creators and users.
       action: Sign here!
     cta: Join the "Freedom to Share" European Citizen's Initiative
+    widget:
+      steps:
+        one: Join us!
+        two: Sign it!
     official_text:
       title: Read the official text of the initiative
       body: Our initiative calls for the adoption of a legislative act providing for a waiver of copyright, related rights, and sui generis database rights for natural persons sharing files via digital networks for personal use and non-profit purposes.
