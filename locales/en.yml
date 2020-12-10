@@ -1,6 +1,9 @@
 en:
   contact:
     fiscal_code: Fiscal Code
+    presentation: |
+      GOIPE is a no-profit association according to art. 36 of Italian civil code made especially for the purpose of organizing European Citizen Initiatives.
+      This "Freedom to share" ECI has been officially submitted to the European Commission by citizens from eight European countries:
   creative-commons:
     text: Creative Commons License
     url: http://creativecommons.org/licenses/by-sa/4.0/
@@ -163,6 +166,12 @@ en:
       <p>Support the campaign making a donation:</p>
   regions:
     transnational: European / Transnational level
+    belgium: Belgium
+    estonia: Estonia
+    france: France
     germany: Germany
     italy: Italy
+    netherlands: Netherlands
+    spain: Spain
     sweden: Sweden
+

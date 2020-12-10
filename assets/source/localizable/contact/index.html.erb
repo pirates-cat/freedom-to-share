@@ -1,10 +1,25 @@
 ---
 title: pages.contact
 ---
+<%= partial 'fiscal_address' %>
 <dl>
+  <dt class="font-bold"><%= t('proca.Email') %>
+  <dd class="pb-4 truncate"><a href="mailto:info@freesharing.eu">info@freesharing.eu</a>
   <% data.social_networks.map { |d| YAML.load(d) }.each do |sn| %>
     <dt class="font-bold"><%= sn['name'] %></dt>
     <dd class="pb-4 truncate"><a href="<%= sn['url'] %>"><%= nice_url sn['url'] %></a></dd>
   <% end %>
 </dl>
-<%= partial 'fiscal_address' %>
+<p><%= t('contact.presentation') %></p>
+<ul>
+  <li>Marco CIURCINA - <%= t('regions.italy') %></li>
+  <li>Roberto GALTIERI - <%= t('regions.belgium') %></li>
+  <li>Arno Ji Yong DIJKHUIS - <%= t('regions.netherlands') %></li>
+  <li>Rubèn-Dario CASTAÑÉ CARMONA - <%= t('regions.spain') %></li>
+  <li>Florie MARIE - <%= t('regions.france') %></li>
+  <li>Gamithra MARGA - <%= t('regions.estonia') %></li>
+  <li>Gregory ENGELS - <%= t('regions.germany') %></li>
+  <li>Marco CONFALONIERI - <%= t('regions.sweden') %></li>
+  <li>Alessandro CIOFINI - <%= t('regions.italy') %></li>
+  <li>Luca Antonio Bruno TALAMAZZI - <%= t('regions.italy') %></li>
+</ul>
