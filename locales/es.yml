@@ -1,6 +1,11 @@
 es:
   contact:
     fiscal_code: Código fiscal
+    presentation: "GOIPE es una asociación sin ánimo de lucro de acuerdo al artículo\
+      \ 36 del código civil italiano, creada especificamente para el propósito de\
+      \ organizar Iniciativas Ciudadanas Europeas.\nLa ICE \"Freedom to share\" fue\
+      \ promovida oficialmente en la Comisión Europea por personas de ocho países\
+      \ europeos:\n"
   creative-commons:
     text: Licencia Creative Commons
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.es
@@ -9,6 +14,7 @@ es:
     missing_translations:
       first: Nuestra web no está traducida a tu idioma.
       second: ¡Ayúdanos aquí!
+    read_more: Leer más
   press:
     published_at: "Publicado en\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nel %{date}\n"
@@ -65,13 +71,64 @@ es:
     press: En los medios
     organizations: Organizaciones
     privacy: Política de privacidad
+    certification: Certificación
   regions:
     transnational: Nivel europeo / transnacional
     germany: Alemania
     italy: Italia
     sweden: Suecia
+    estonia: Estonia
+    belgium: Bélgica
+    france: Francia
+    netherlands: Países Bajos
+    spain: España
   home:
     hero:
       text: Necesitamos un millón de firmas. Empezaremos a recogerlas el 15 de noviembre.
         <strong>¡Únete!</strong>
       action: Suscríbete
+    cta: Únete a la Iniciativa Europea Ciudadana "Freedom to share"
+    hero2:
+      text: <strong>¡Legalicemos el intercambio de archivos!</strong><br>Nos estamos
+        reuniendo desde toda Europa para reclamar a la Comisión Europea que adopte
+        reglas de derechos de autor justas para creadores y usuarios.
+      action: ¡Firma aquí!
+    widget:
+      steps:
+        one: ¡Únete a nosotros!
+        other: ¡Fírmala!
+    official_text:
+      title: Lee el texto oficial de la iniciativa
+      body: Esta iniciativa aboga por la adopción de una disposición legislativa que
+        contemple una exención de los derechos de autor, derechos afines y derechos
+        sui generis del fabricante de bases de datos para las personas físicas que
+        comparten archivos a través de redes digitales para fines personales y sin
+        ánimo de lucro.
+    take_action:
+      title: Actúa
+      body: "Difunde la iniciativa entre tus amigos y contactos: escríbeles, comparte\
+        \ materiales de comunicación, habla con ellos, etc.\n"
+    donate:
+      title: Dona
+      open_collective: Dona a nuestro colectivo
+  act:
+    title: ¡Actúa ahora!
+    content: "<p>Difunde esta iniciativa con tus amigos y contactos: escríbelos, difunde\
+      \ los materiales de comunicación, habla con ellos, etc.</p>\n<p>Ponte en contacto\
+      \ con nosotros y contribuye a la organización y difusión de la campaña en tu\
+      \ país coordinando con otros activistas: <a href=\"#proca_dialog\" data-turbolinks=\"\
+      false\">Suscríbete!</a></p>\n<p>Ayuda para traducir: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
+      >Weblate</a></p>\n<p>Apoya la campaña haciendo una donación:</p>\n"
+  eci:
+    description:
+      body: Legalizar el intercambio – a través de redes digitales, para uso personal
+        y sin ánimo de lucro – de archivos que contengan obras y otros materiales
+        protegidos por el derecho de autor, derechos conexos y derechos de bases de
+        datos sui generis, con miras a lograr un equilibrio entre los derechos de
+        los autores y otros titulares de derechos y el derecho universal a la ciencia
+        y la cultura.
+      title: Descripción
+    name: Nombre la Iniciativa Ciudadana Europea
+  faq:
+    acronym: PMF
+    title: Preguntas Más Frecuentes
