@@ -57,6 +57,10 @@ sl:
       second: Pomagaj nam!
   contact:
     fiscal_code: Fiskalna pravila
+    presentation: "GOIPE je neprofitna organizacija glede na 36. člen italijanskega\
+      \ codice civile, ustvarjena prav za namen organiziranja evropskih državljanskih\
+      \ pobud (ECI).\nPobudo \"Pravica do deljenja\" so pri Evropski komisiji uspešno\
+      \ prijavili državljani osmih evropskih držav:\n"
   creative-commons:
     text: Licenca Creative Commons
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.sl
@@ -65,6 +69,24 @@ sl:
       text: Potrebujemo milijon podpisov. Z zbiranjem pričnemo 15. novembra 2020.
         <strong>Pridruži se nam!</strong>
       action: Naročite se na obvestila
+    take_action:
+      body: "Delite pobudo z vašimi prijatelji in znanci: pišite jim, z njimi delite\
+        \ gradivo, govorite z njimi, itd.\n"
+      title: Sodelujte
+    hero2:
+      action: Podpišite tu!
+    cta: Pridružite se evropski državljanski pobudi "Pravica do deljenja"
+    widget:
+      steps:
+        one: Pridružite se!
+        two: Podpišite!
+        few: ''
+        other: ''
+    official_text:
+      title: Preberite uradno besedilo pobdue
+    donate:
+      title: Donirajte
+      open_collective: Donirajte kolektivu
   press:
     published_at: "Objavljeno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\n%{date}\n"
@@ -73,3 +95,30 @@ sl:
     germany: Nemčija
     italy: Italija
     sweden: Švedska
+  faq:
+    entries:
+      what-are-related-rights:
+        body: V avtorskem pravu so sorodne avtorske pravice tise, ki niso neposredno
+          povezane z dejanskim avtorjem dela. V Evropski Unijo so npr. pravice filmskih
+          producentov (v nasprotju z režiserji) in ustvarjalcev podatkovnih baz zaščitene
+          s sorodnimi pravicami. Praktična definicija je, da je to vrsta avtorskih
+          pravic, ki jih ne pokriva Bernska konvencija.
+      why-should-i-sign-this-european-citizen-initiative:
+        body: Zaradi omogačanja deljenja in s tem širjenja umetnosti, vsakršnih vsebin
+          in kulture; zaradi možnosti prostega dostopa do del, ne da bi se vam ob
+          tem sledilo in vas nadziralo.
+        title: Čemu naj bi podpisal pobudo?
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: Ker imate pravico biti svobodni. Svobodni pri iskanju vsebin, ki jih
+          želite, gnani z lastno radovednostjo in ne zapirani v algoritmske mehurčke
+          filtrov, ki odločajo namesto vas, ne da bi ob tem navedli kaj vam je v bazi
+          sploh vse na voljo za prenos.
+        title: Zakaj je pomembno, da se izognete sledenju in nadzoru?
+      how-will-file-sharing-freedom-benefit-citizens:
+        title: Kako prosto deljenje koristi ljudem?
+    acronym: Pogosta vprašanja
+    title: Pogosta vprašanja
+  eci:
+    name: Ime evropske državljanske pobude
+    description:
+      title: Opis
