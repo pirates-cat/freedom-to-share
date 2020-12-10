@@ -61,6 +61,32 @@ body {
   z-index: 99;
 }
 
+@media(min-width: 600px) {
+  .proca-MuiTab-root {
+    min-width: 120px !important;
+  }
+}
+
+.proca-MuiIconButton-root {
+  max-width: 2em;
+}
+
+.proca-MuiFormGroup-root {
+  margin-left: 8px;
+}
+
+.proca-MuiFormLabel-root {
+
+  & a {
+    @apply underline;
+
+    &:hover {
+      @apply bg-secondary;
+      @apply text-white;
+    }
+  }
+}
+
 @layer components {
   header {
     nav [role="menu"] a {

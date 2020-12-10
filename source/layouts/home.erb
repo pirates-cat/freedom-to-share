@@ -16,15 +16,11 @@
       </aside>
     </div>
   <% end %>
-  <div id="home" class="container grid max-w-4xl grid-cols-1 p-4 leading-relaxed prose-lg text-gray-800 md:p-0 md:gap-6 md:grid-cols-3">
-    <article class="md:col-span-2">
+  <div id="home" class="container grid max-w-4xl grid-cols-1 p-4 leading-relaxed prose-lg text-gray-800 md:p-0 md:gap-6 md:grid-cols-2">
+    <article>
       <%= yield %>
     </article>
     <aside>
-      <div class="hidden p-2 text-white rounded shadow bg-secondary md:grid md:grid-cols-2 justify-items-center">
-        <div><span class="font-bold">1.</span> <%= t('home.widget.steps.one') %></div>
-        <div><span class="font-bold">2.</span> <%= t('home.widget.steps.two') %></div>
-      </div>
       <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/en"></script>
       <div class="proca-widget"></div>
     </aside>
