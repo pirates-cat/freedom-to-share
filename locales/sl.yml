@@ -103,6 +103,7 @@ sl:
           producentov (v nasprotju z režiserji) in ustvarjalcev podatkovnih baz zaščitene
           s sorodnimi pravicami. Praktična definicija je, da je to vrsta avtorskih
           pravic, ki jih ne pokriva Bernska konvencija.
+        title: Kaj so sorodne avtorske pravice?
       why-should-i-sign-this-european-citizen-initiative:
         body: Zaradi omogačanja deljenja in s tem širjenja umetnosti, vsakršnih vsebin
           in kulture; zaradi možnosti prostega dostopa do del, ne da bi se vam ob
@@ -119,12 +120,12 @@ sl:
         body: Tako, da bi jim omogočilo vzpostavitev omrežij za deljenje, ne da bi
           ob tem morali uporabljati storitve, ki jim sledijo.
       i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
-        body: "Ker vam šele P2P deljenje zares omogoča biti socialen: ko delite datoteke\
-          \ istočasno prejmete datoteke od drugih. Pustiti, da vas vodijo algoritmi\
-          \ standardnih platform ni ravno socialno, obenem pa P2P deljenje še optimizira\
-          \ podatkovno porabo, ko prenašate datoteko, ki jo ima veliko drugih, je\
-          \ dovolj če vam vsak pošlje le majhen košček le-te, kar bistveno zmanjša\
-          \ čas potreben za prenos.\n"
+        body: "Ker vam šele P2P deljenje zares omogoča, da ste lahko socialni: ko\
+          \ delite datoteke istočasno prejmete datoteke od drugih. Pustiti, da vas\
+          \ vodijo algoritmi standardnih platform ni ravno socialno, obenem pa P2P\
+          \ deljenje še optimizira podatkovno porabo, ko prenašate datoteko, ki jo\
+          \ ima veliko drugih, je dovolj če vam vsak pošlje le majhen košček le-te,\
+          \ kar bistveno zmanjša čas potreben za prenos.\n"
         title: Sam sem rad socialen. Zakaj bi bilo P2P (peer to peer, uporabnik uporabniku)
           deljenje boljše, kot pa prek klasičnih distribucijskih platform?
       how-much-will-it-cost-for-users:
