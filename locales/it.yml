@@ -170,9 +170,8 @@ it:
         title: Quanto costerà agli utenti?
       if-file-sharing-is-free-how-will-artists-earn-money:
         title: Se la condivisione dei file è gratuita, come guadagneranno gli artisti?
-        body: Essi riceveranno una parte dell'equo compenso pagato dagli utenti per
-          l'accesso alle loro opere. Questo si aggiungerà ai loro abituali mezzi di
-          remunerazione.
+        body: Essi riceveranno una parte dell'equo compenso raccolto per l'uso delle
+          loro opere. Questo si aggiungerà ai loro abituali mezzi di remunerazione.
       what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
         title: Cosa devono fare gli autori per assicurarsi che le loro opere siano
           disponibili per la condivisione dei file?
