@@ -5,6 +5,7 @@ ar:
   translated: false
   country: lb
   dir: rtl
+  widget: false
 bg:
   code: bg
   name: български
@@ -12,6 +13,7 @@ bg:
   translated: false
   country: bg
   dir: ltr
+  widget: false
 ca:
   code: ca
   name: català
@@ -19,6 +21,7 @@ ca:
   translated: false
   country: es
   dir: ltr
+  widget: false
 cs:
   code: cs
   name: čeština
@@ -26,6 +29,7 @@ cs:
   translated: false
   country: cz
   dir: ltr
+  widget: true
 da:
   code: da
   name: dansk
@@ -33,6 +37,7 @@ da:
   translated: false
   country: dk
   dir: ltr
+  widget: true
 de:
   code: de
   name: Deutsch
@@ -40,6 +45,7 @@ de:
   translated: false
   country: de
   dir: ltr
+  widget: true
 et:
   code: et
   name: eesti
@@ -47,6 +53,7 @@ et:
   translated: false
   country: ee
   dir: ltr
+  widget: true
 eo:
   code: eo
   name: esperanto
@@ -55,6 +62,7 @@ eo:
   # TODO: handle empty or missing country
   country: eo
   dir: ltr
+  widget: false
 eu:
   code: eu
   name: euskara
@@ -62,6 +70,7 @@ eu:
   translated: false
   country: es
   dir: ltr
+  widget: false
 el:
   code: el
   name: ελληνικά
@@ -69,6 +78,7 @@ el:
   translated: false
   country: el-gr
   dir: ltr
+  widget: true
 en:
   code: en
   name: English
@@ -76,6 +86,7 @@ en:
   translated: true
   country: uk
   dir: ltr
+  widget: true
 es:
   code: es
   name: español
@@ -83,6 +94,7 @@ es:
   translated: false
   country: es
   dir: ltr
+  widget: true
 fr:
   code: fr
   name: français
@@ -90,6 +102,7 @@ fr:
   translated: false
   country: fr
   dir: ltr
+  widget: true
 ga:
   code: ga
   name: Gaeilge
@@ -97,6 +110,7 @@ ga:
   translated: false
   country: ie
   dir: ltr
+  widget: false
 hr:
   code: hr
   name: hrvatski
@@ -104,13 +118,15 @@ hr:
   translated: false
   country: hr
   dir: ltr
+  widget: true
 it:
   code: it
   name: italiano
   script: latin
-  translated: false
+  translated: true
   country: it
   dir: ltr
+  widget: true
 lv:
   code: lv
   name: latviešu
@@ -118,6 +134,7 @@ lv:
   translated: false
   country: lv
   dir: ltr
+  widget: false
 lt:
   code: lt
   name: lietuvių
@@ -125,6 +142,7 @@ lt:
   translated: false
   country: lt
   dir: ltr
+  widget: false
 lb:
   code: lb
   name: Lëtzebuergesch
@@ -132,6 +150,7 @@ lb:
   translated: false
   country: lu
   dir: ltr
+  widget: false
 hu:
   code: hu
   name: magyar
@@ -139,6 +158,7 @@ hu:
   translated: false
   country: hu
   dir: ltr
+  widget: true
 mt:
   code: mt
   name: Malti
@@ -146,6 +166,7 @@ mt:
   translated: false
   country: mt
   dir: ltr
+  widget: false
 nl:
   code: nl
   name: Nederlands
@@ -153,6 +174,7 @@ nl:
   translated: false
   country: nl
   dir: ltr
+  widget: true
 oc:
   code: oc
   name: occitan
@@ -160,6 +182,7 @@ oc:
   translated: false
   country: gascon
   dir: ltr
+  widget: false
 pl:
   code: pl
   name: polski
@@ -167,6 +190,7 @@ pl:
   translated: false
   country: pl
   dir: ltr
+  widget: true
 pt:
   code: pt
   name: português
@@ -174,6 +198,7 @@ pt:
   translated: false
   country: pt
   dir: ltr
+  widget: true
 ro:
   code: ro
   name: română
@@ -181,6 +206,7 @@ ro:
   translated: false
   country: ro
   dir: ltr
+  widget: true
 ru:
   code: ru
   name: русский
@@ -188,6 +214,7 @@ ru:
   translated: false
   country: ru
   dir: ltr
+  widget: false
 sk:
   code: sk
   name: slovenčina
@@ -195,6 +222,7 @@ sk:
   translated: false
   country: sk
   dir: ltr
+  widget: true
 sl:
   code: sl
   name: slovenščina
@@ -202,6 +230,7 @@ sl:
   translated: false
   country: si
   dir: ltr
+  widget: true
 fi:
   code: fi
   name: suomi
@@ -209,6 +238,7 @@ fi:
   translated: false
   country: fi
   dir: ltr
+  widget: true
 sv:
   code: sv
   name: svenska
@@ -216,6 +246,7 @@ sv:
   translated: false
   country: se
   dir: ltr
+  widget: true
 tr:
   code: tr
   name: Türkçe
@@ -223,3 +254,4 @@ tr:
   translated: false
   country: tr
   dir: ltr
+  widget: false

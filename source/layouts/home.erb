@@ -21,7 +21,11 @@
       <%= yield %>
     </article>
     <aside>
-      <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/en"></script>
+      <% if data.languages[::I18n.locale]['widget'] %>
+        <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/<%= ::I18n.locale %>"></script>
+      <% else %>
+        <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/en"></script>
+      <% end %>
       <div class="proca-widget"></div>
     </aside>
   </div>
