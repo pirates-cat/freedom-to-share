@@ -99,7 +99,7 @@ fr:
   code: fr
   name: français
   script: latin-ext
-  translated: false
+  translated: true
   country: fr
   dir: ltr
   widget: true
@@ -171,7 +171,7 @@ nl:
   code: nl
   name: Nederlands
   script: latin-ext
-  translated: false
+  translated: true
   country: nl
   dir: ltr
   widget: true
@@ -243,7 +243,7 @@ sv:
   code: sv
   name: svenska
   script: latin
-  translated: false
+  translated: true
   country: se
   dir: ltr
   widget: true
