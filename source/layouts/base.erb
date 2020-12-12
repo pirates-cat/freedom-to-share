@@ -43,7 +43,7 @@
   </head>
   <body class="bg-primary" dir="<%= data.languages[::I18n.locale]['dir'] %>">
     <% unless current_page.data.try(:global) %>
-      <div id="slider-menu">
+      <div id="slider-menu" class="slideout-menu slideout-menu-left">
         <div class="grid grid-cols-1 gap-4 p-6">
           <%= partial 'partials/menu' %>
           <a href="/languages">
