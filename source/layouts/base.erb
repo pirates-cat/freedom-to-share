@@ -6,10 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="content-language" content="<%= ::I18n.locale %>-<%= data.languages[::I18n.locale]['country'] %>">
     <title><%= t(current_page.data.title) %> - Freedom to Share</title>
-    <% if content_for?(:head) %>
-      <%= yield_content :head %>
-    <% else %>
-    <% end %>
+    <meta property="og:title" content="<%= t(current_page.data.title) %> - Freedom to Share">
+    <meta property="og:description" content="<%= t('home.official_text.body') %>">
+    <meta property="og:image" content="/images/social_banner.jpeg">
+    <meta property="og:url" content="https://freesharing.eu<%= current_page.url %>">
+    <meta property="og:site_name" content="Freedom to Share ECI by GOIPE Association">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@freesharingeu">
     <%= stylesheet_link_tag "site" %>
     <% if ::I18n.locale == :ar %>
       <%= stylesheet_link_tag "markazi-text" %>

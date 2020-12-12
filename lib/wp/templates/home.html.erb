@@ -2,8 +2,5 @@
 layout: home
 title: pages.home
 ---
-<%% content_for :head do %>
-  <%= yoast_head %>
-<%% end %>
 <% html = Nokogiri::HTML.parse(content[:rendered]) %>
 <%= html.css('p')[2..].to_s %>
