@@ -26,7 +26,7 @@ it:
     take_action:
       title: Agisci ora
       body: "Condividi questa iniziativa con i tuoi amici e contatti: scrivi loro,\
-        \ diffondi il materiale comunicativo, parla con loro, ecc.\n"
+        \ diffondi il materiale comunicativo, parla con loro, eccetra.\n"
     donate:
       title: Dona
       open_collective: Dona al nostro collettivo
@@ -111,14 +111,14 @@ it:
     published_at: "Pubblicato su\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nil %{date}\n"
   eci:
-    name: Nome dell'Iniziativa Europea dei Cittadini
+    name: Nome dell'Iniziativa dei Cittadini Europei
     description:
       title: Descrizione
       body: Per legalizzare il filesharing - attraverso le reti digitali, per uso
-        personale e senza fini di lucro - di file conteneti lavori e altro materiale
+        personale e senza fini di lucro - di file contenenti lavori e altro materiale
         protetto da copyright, diritti correlati e diritti "sui generis" delle banche
         dati, con l'obiettivo di equilibrare i diritti degli autori e degli altri
-        aventi diritto e il diritto universale alla scienza e alla cultura.
+        aventi diritto ed il diritto universale alla conoscenza e alla cultura.
   faq:
     acronym: FAQ
     title: Domande frequenti
@@ -130,13 +130,13 @@ it:
           Nell'Unione Europea, i diritti dei produttori di film (contrariamente ai
           registi) e dei creatori di banche dati sono protetti dai diritti connessi.
           Una definizione pratica è che i diritti connessi sono simili al diritto
-          d'autore che non disciplinati dalla Convenzione di Berna.
+          d'autore che non e' disciplinato dalla Convenzione di Berna.
       how-will-freedom-to-share-files-benefit-artists:
         body: "Essi riceveranno denaro per l'utilizzo delle loro opere da parte di\
           \ coloro che condividono i file. Inoltre permetteranno ai cittadini di accedere\
           \ alle loro opere con mezzi che non sono sotto il controllo di terzi: gli\
           \ autori godranno di maggiore libertà e le loro opere saranno a portata\
-          \ di mano.\n"
+          \ di mano di tutti.\n"
         title: In che modo la libertà di condividere i file andrà a beneficio degli
           artisti?
       how-should-money-be-distributed-among-authors-and-other-right-holders:
@@ -156,7 +156,7 @@ it:
           delle piattaforme?
         body: Perché hai il diritto di essere libero. Libero di cercare e trovare
           le opere che desideri, spinto dalla tua stessa curiosità e non dalle bolle
-          algoritmiche di filtri che decidono per te, senza elencare ciò che scarichi
+          algoritmiche di filtri che decidono per te, senza schedare ciò che scarichi
           nei database del fornitore.
       why-should-i-sign-this-european-citizen-initiative:
         body: Per incentivare la condivisione, e quindi la diffusione, di opere creative,
@@ -167,7 +167,7 @@ it:
         body: La nostra proposta prevede una serie di possibili implementazioni. Crediamo
           sia possibile, con i moderni metodi empirici e con dati economici basati
           sull'evidenza, calcolare la giusta compensazione per i vari scenari.
-        title: Quanto costerà per gli utenti?
+        title: Quanto costerà agli utenti?
       if-file-sharing-is-free-how-will-artists-earn-money:
         title: Se la condivisione dei file è gratuita, come guadagneranno gli artisti?
         body: Essi riceveranno una parte dell'equo compenso pagato dagli utenti per
@@ -197,7 +197,7 @@ it:
         body: "Perché la condivisione di file p2p ti permette di essere davvero social:\
           \ quando condividi file, allo stesso tempo ottieni file da altre persone.\
           \ Interagire con un algoritmo non significa essere social. Le reti p2p a\
-          \ volte ottimizzan l'utilizzo della larghezza di banda; quando raccogli\
+          \ volte ottimizzano l'utilizzo della larghezza di banda; quando raccogli\
           \ un file disponibile su molti altri client, molti di loro potrebbero inviarti\
           \ parti diverse contemporaneamente, riducendo notevolmente il tempo di trasferimento.\n"
       are-you-against-authors:
@@ -263,7 +263,7 @@ it:
       you-want-to-violate-copyright:
         title: Volete violare il copyright!
         body: No. Vogliamo modificare il diritto d'autore e la nostra proposta è compatibile
-          con la convenzione di Berna e i relativi trattati.
+          con la convenzione di Berna ed i relativi trattati.
   act:
     title: Agisci ora!
     content: "<p>Diffondi questa iniziativa con i tuoi amici e contatti: scrivigli,\
