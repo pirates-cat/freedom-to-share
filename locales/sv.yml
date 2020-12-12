@@ -94,6 +94,7 @@ sv:
     contact: Kontakt
     home: Hem
     privacy: Integritetspolicy
+    certification: Certifiering
   press:
     published_at: "Publicerad\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\n den %{date}\n"
