@@ -69,6 +69,11 @@ fr:
     This field is required.: Ce champ doit être complété.
   contact:
     fiscal_code: Immatriculation fiscale
+    presentation: "Le GOIPE est une association sans profit, qui accorde à l'article\
+      \ 36 du Code Civil Italien fait spécialement par la proposition de l'organisation\
+      \ des Initiatives des Citoyens Européens (ECI).\nLa «libertée de partager»,\
+      \ l'ECI a bel et bien officiellement présenté à la Commission Européenne par\
+      \ des citoyens de huit pays Européens :\n"
   regions:
     transnational: Niveau européen / transnational
     germany: Allemagne
