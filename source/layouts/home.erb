@@ -1,3 +1,11 @@
+<% content_for :head do %>
+  <% if data.languages[::I18n.locale]['widget'] %>
+    <script id="proca" defer src="https://sign.freesharing.eu/d/freedomtoshare/<%= ::I18n.locale %>/"></script>
+  <% else %>
+    <script id="proca" defer src="https://sign.freesharing.eu/d/freedomtoshare/en/"></script>
+  <% end %>
+<% end %>
+
 <% content_for :hero do %>
   <section class="px-4 text-3xl text-white md:px-0" role="hero">
     <div class="container flex flex-col max-w-4xl py-12 md:flex-row">
@@ -7,6 +15,7 @@
     </div>
   </section>
 <% end %>
+
 <% wrap_layout :base do %>
   <% unless data.languages[::I18n.locale]['translated'] %>
     <div class="container max-w-4xl mb-4 text-gray-800 md:flex">
@@ -21,11 +30,6 @@
       <%= yield %>
     </article>
     <aside>
-      <% if data.languages[::I18n.locale]['widget'] %>
-        <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/<%= ::I18n.locale %>/"></script>
-      <% else %>
-        <script id="proca" src="https://sign.freesharing.eu/d/freedomtoshare/en/"></script>
-      <% end %>
       <div class="proca-widget"></div>
     </aside>
   </div>
