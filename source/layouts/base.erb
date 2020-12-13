@@ -22,7 +22,6 @@
       <%= stylesheet_link_tag "open-sans" %>
     <% end %>
     <%= javascript_include_tag "site" %>
-    <link rel="dns-prefetch" href="https://licensebuttons.net">
     <% if ::I18n.locale == :ar %>
       <link rel="preload" href="/assets/stylesheets/fonts/markazi-text-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
       <link rel="preload" href="/assets/stylesheets/fonts/markazi-text-arabic-400-normal.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -97,7 +96,7 @@
         <div class="container grid grid-cols-1 gap-6 py-8 md:py-16 place-items-center">
           <img src="/images/fts-white.png" width="88">
           <a rel="license" href="<%= t('creative-commons.url') %>">
-            <img alt="<%= t('creative-commons.text') %>" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png">
+            <img alt="<%= t('creative-commons.text') %>" style="border-width:0" src="/images/cc.png">
           </a>
           <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
             <a href="<%= url_for('/privacy') %>"><%= t('pages.privacy') %></a>
