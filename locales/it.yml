@@ -263,6 +263,113 @@ it:
         title: Volete violare il copyright!
         body: No. Vogliamo modificare il diritto d'autore e la nostra proposta è compatibile
           con la convenzione di Berna ed i relativi trattati.
+      what-is-the-sui-generis-database-right:
+        body: Il diritto sui generis tutela le banche dati, per le quali si è realizzato
+          un rilevante investito per ottenere, verificare o presentare i dati contenuti,
+          dall'estrazione e dal riutilizzo non autorizzato del loro contenuto. Non
+          vi è alcun requisito di creatività o originalità. Tale diritto dura 15 anni
+          dalla data di costituzione della banca dati non creativa. È distinto e indipendente
+          dal diritto d'autore, che protegge le opere originali.  Il diritto sui generis
+          sulle banche di dati appartenente alla famiglia dei "diritti connessi",
+          cioè simili ma indipendenti dal diritto d'autore.
+        title: Cos'è il diritto sui generis sulle banche di dati?
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "Puoi scegliere di selezionare il paese di cui sei cittadino o il paese\
+          \ in cui vivi attualmente. Ti ricordiamo che puoi firmare una sola volta\
+          \ l'iniziativa \"Libertà di Condividere\". I dati forniti nella tua firma\
+          \ determineranno in quale Stato membro la tua firma sarà conteggiata. Esempio:\
+          \ un cittadino austriaco che vive in Estonia può: a) compilare il modulo\
+          \ per l'Estonia, indicando nome, cognome, indirizzo, data e luogo di nascita\
+          \ e nazionalità - in questo caso la sua firma sarà verificata e quindi conteggiata\
+          \ in Estonia, oppure b) oppure compilare il modulo per l'Austria, fornendo\
+          \ oltre ai dati sopra indicati un numero di documento d'identità personale\
+          \ dalla lista accettata dall'Austria - in questo caso la sua firma sarà\
+          \ verificata e quindi conteggiata in Austria.\n"
+        title: Sono cittadino di uno Stato membro dell'UE, ma vivo in un altro Stato
+          membro dell'UE. In quale Stato membro devo firmare?
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: Sì, firma di nuovo se non sei sicuro. La tua firma è valida e viene
+          contata una sola volta. Il software rileva automaticamente le doppie firme
+          e sistema i doppioni.
+        title: Non sono sicuro d'aver firmato l'ECI. Posso firmare una seconda volta
+          o la mia firma viene invalidata?
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Un'Iniziativa dei cittadini europei è diversa da una \"normale\" petizione:\
+          \ è uno strumento democratico ufficiale che consente ai cittadini dell'UE\
+          \ di contribuire a plasmare l'Europa chiedendo alla Commissione europea\
+          \ di proporre un atto legislativo. Se riusciremo a raccogliere un milione\
+          \ di firme (convalidate), la Commissione europea sarà legalmente obbligata\
+          \ a rispondere alle nostre richieste. Non abbiamo alcun controllo sui dati\
+          \ richiesti per la firma di un'Iniziativa dei cittadini europei da parte\
+          \ degli Stati membri. I rispettivi Stati membri dell'UE stabiliscono quali\
+          \ dati devono essere raccolti, in modo che le firme siano valide e conteggiate.\
+          \ Per questo motivo, in un'Iniziativa dei cittadini europei è necessario\
+          \ fornire più dati personali di quelli che sei abituato a fornire in altre\
+          \ \"petizioni\".\n"
+        title: Perché devo fornire così tante informazioni personali?
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Per prima cosa, ricordatevi di firmare la campagna ECI. Questo contribuirà\
+          \ a raggiungere l'obiettivo di un milione di firme che obbligherà la Commissione\
+          \ a prendere posizione sulla nostra iniziativa. Poi, puoi aiutare in altri\
+          \ modi: 1. diffondi la campagna tra i tuoi amici e contatti (scrivergli,\
+          \ diffondere il materiale di comunicazione, parlare con loro, ecc. ti ricordiamo\
+          \ che avremo 12 mesi di tempo per raccogliere 1 milione di firme). 2. mettiti\
+          \ in contatto con noi e contribuisci all'organizzazione e alla diffusione\
+          \ della campagna nel tuo Paese coordinandoti con gli altri attivisti. 3.\
+          \ infine, ma non meno importante, puoi anche sostenere la campagna facendo\
+          \ una donazione.\n"
+        title: Ok, ho capito. Cosa posso fare per rendere legale la condivisione dei
+          file?
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: Dipende dallo Stato membro di cui si è cittadini. A seconda dei requisiti
+          richiesti dagli Stati membri, è possibile o meno firmare online. Ciò è dovuto
+          al fatto che alcuni Stati membri richiedono un indirizzo UE.
+        title: Sono un cittadino dell'UE residente al di fuori dell'UE. Posso firmare
+          l'ECI?
+      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
+      : title: Questa proposta potrebbe essere utilizzata come "ombrello legale" per
+          la distribuzione di informazioni private come dati personali, immagini private,
+          ecc.?
+        body: No. Questa proposta riguarda solo la distribuzione di materiale pubblicato.
+          La condivisione di materiale inedito rimarrà illegale. Inoltre, la distribuzione
+          di dati personali è illegale se non è conforme al GDPR.
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Sarà legale condividere tutti i file?
+        body: "Certo che no. Proponiamo di modificare il diritto d'autore e le leggi\
+          \ relative. Molte altre leggi possono impedire la condivisione di specifici\
+          \ tipi di file: si pensi ai segreti commerciali, alla privacy e così via.\n"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        title: Vedo che ci sono dei soldi in ballo. Chi pagherà chi?
+        body: "Dipende da come la proposta sarà attuata. Ci sono diverse tecniche\
+          \ legali: 1. prevedere che i cittadini che utilizzano reti di file sharing\
+          \ debbano pagare una licenza per poter condividere i file che includono\
+          \ opere. 2. prevedere che tutti i cittadini che accedono a internet (ed\
+          \ eventualmente condividono opere attraverso reti di file sharing) paghino\
+          \ una piccola somma aggiuntiva. 3. prevedere che lo Stato paghi un'equa\
+          \ remunerazione (utilizzando le tasse pagate dai cittadini).\n"
+      is-file-sharing-legal:
+        title: La condivisione dei file è legale?
+        body: La condivisione di file su reti peer-to-peer non è legale. L'obiettivo
+          dell'iniziativa è quello di cambiare la legge nell'Unione Europea.
+      how-do-you-think-file-sharing-should-be-regulated:
+        title: Come pensate che debba essere regolamentata la condivisione dei file?
+        body: Riteniamo che il file sharing dovrebbe essere gratuito in caso d'uso
+          privato da parte dei cittadini; gli autori e gli altri titolari dei diritti
+          dovrebbero ricevere un'equa remunerazione per l'uso delle loro opere da
+          parte dei cittadini.
+      what-is-file-sharing:
+        title: Cos'è il file sharing?
+        body: La condivisione dei file è l'atto di fornire l'accesso a un'opera con
+          metodi digitali e di fare copie dell'opera alla quale si è avuto accesso.
+          Di solito si riferisce a pratiche come la condivisione peer-to-peer. Ma
+          può includere l'invio di un allegato e-mail, l'utilizzo di un supporto fisico
+          e così via.
+      what-is-a-european-citizen-initiative:
+        title: Cos'è un'iniziativa dei cittadini europei?
+        body: "Un'ECI è l'opportunità data dalla commissione dell'Unione Europea ai\
+          \ suoi cittadini di dare impulso a cambiamenti nel diritto. Segue il link\
+          \ alla pagina di wikipedia sull'<a href=\"https://en.wikipedia.org/wiki/European_Citizens%27_Initiative\"\
+          >Iniziativa dei cittadini europei</a>.\n"
   act:
     title: Agisci ora!
     content: "<p>Diffondi questa iniziativa con i tuoi amici e contatti: scrivigli,\
