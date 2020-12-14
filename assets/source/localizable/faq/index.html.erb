@@ -9,7 +9,7 @@ title: faq.title
   </ul>
   <dl class="col-span-2 p-4">
     <% data.qas.map { |d| YAML.load(d) }.each do |qa| %>
-      <dt  class="font-bold"><%= t("faq.entries.#{qa['slug']}.title") %></dt>
+      <dt id="<%= qa['slug'] %>" class="font-bold"><%= t("faq.entries.#{qa['slug']}.title") %></dt>
       <dd class="pb-4"><%= t("faq.entries.#{qa['slug']}.body") %></dd>
     <% end %>
   </dl>
