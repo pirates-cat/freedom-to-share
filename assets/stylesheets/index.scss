@@ -118,6 +118,7 @@ body {
   }
 
   main article,
+  main aside,
   main [role="alert"] {
     a {
       @apply underline text-tertiary;
@@ -128,7 +129,22 @@ body {
     }
   }
 
+  main aside .bg-secondary {
+    a {
+      @apply underline text-black;
+
+      &:hover {
+        @apply text-white bg-tertiary;
+      }
+    }
+  }
+
   #home article h2, h3 {
+    margin: 0 !important;
+    @apply font-bold;
+  }
+
+  #home aside h2, h3 {
     margin: 0 !important;
     @apply font-bold;
   }

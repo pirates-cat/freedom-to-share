@@ -3,52 +3,69 @@ title: pages.home
 layout: home
 ---
 
-<div class="hidden p-4 mb-4 text-white bg-black rounded md:block">
-  <h2><%= t('home.cta') %> →</h2>
-</div>
+<article>
+  <div class="hidden p-4 mb-4 text-white bg-black rounded md:block">
+    <h2><%= t('home.cta') %> →</h2>
+  </div>
 
-<dl class="p-4 mb-4 text-blue-900 bg-blue-100 border-t-4 border-blue-400 rounded-b shadow-md md:block">
-  <dt class="font-bold"><%= t('eci.name') %></dt>
-  <dd class="pb-4">Freedom to Share</dd>
-  <dt class="font-bold"><%= t('eci.description.title') %></dt>
-  <dd>
-    <div><%= t('eci.description.body') %></div>
-    <div class="eci-more"></div>
-  <dd>
-</dl>
+  <dl class="p-4 mb-4 text-blue-900 bg-blue-100 border-t-4 border-blue-400 rounded-b shadow-md md:block">
+    <dt class="font-bold"><%= t('eci.name') %></dt>
+    <dd class="pb-4">Freedom to Share</dd>
+    <dt class="font-bold"><%= t('eci.description.title') %></dt>
+    <dd>
+      <div><%= t('eci.description.body') %></div>
+      <div class="eci-more"></div>
+    <dd>
+  </dl>
 
-<div class="px-4 pb-4">
-  <h3><%= t('home.official_text.title') %></h3>
-  <p><%= t('home.official_text.body') %></p>
-  <p>
+  <div class="px-4 pb-4">
+    <h3><%= t('home.official_text.title') %></h3>
+    <p><%= t('home.official_text.body') %></p>
+    <p>
+      <% if ::I18n.locale == :en %>
+        <a href="<%= url_for('/initiative') %>"><%= t('messages.read_more') %></a>
+      <% else %>
+        <a href="<%= url_for("/#{::I18n.locale}/initiative") %>"><%= t('messages.read_more') %></a>
+      <% end %>
+    </p>
+  </div>
+
+  <div class="p-4 mb-4 text-white rounded shadow-md bg-primary">
+    <h3><%= t('home.take_action.title') %></h3>
+    <p><%= t('home.take_action.body') %></p>
+    <p>
+      <% if ::I18n.locale == :en %>
+        <a href="<%= url_for('/act') %>"><%= t('messages.read_more') %></a>
+      <% else %>
+        <a href="<%= url_for("/#{::I18n.locale}/act") %>"><%= t('messages.read_more') %></a>
+      <% end %>
+    </p>
+  </div>
+
+  <div id="donate" class="p-4 mb-4 text-white rounded shadow-md bg-tertiary">
+    <h3><%= t('home.donate.title') %></h3>
+    <a href="https://opencollective.com/freedom-to-share/donate" target="_blank">
+      <img src="/images/oc-button.png" width=300 />
+    </a>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick" />
+      <input type="hidden" name="hosted_button_id" value="RKMCT2GMB7ZL2" />
+      <input type="image" src="/images/btn_donate_LG.webp" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+    </form>
+  </div>
+</article>
+<aside class="flex flex-col min-h-full">
+  <div class="proca-widget"></div>
+  <div class="p-4 mb-4 rounded shadow bg-secondary">
+    <h3><%= t('faq.title') %></h3>
+    <dl class="mb-4">
+      <dt class="mb-4 font-bold"><%= t('faq.entries.why-should-i-sign-this-european-citizen-initiative.title') %></dt>
+      <dd><%= t('faq.entries.why-should-i-sign-this-european-citizen-initiative.body') %></dd>
+    </dl>
     <% if ::I18n.locale == :en %>
-      <a href="<%= url_for('/initiative') %>"><%= t('messages.read_more') %></a>
+      <a href="<%= url_for('/faq') %>"><%= t('messages.read_more') %></a>
     <% else %>
-      <a href="<%= url_for("/#{::I18n.locale}/initiative") %>"><%= t('messages.read_more') %></a>
+      <a href="<%= url_for("/#{::I18n.locale}/faq") %>"><%= t('messages.read_more') %></a>
     <% end %>
-  </p>
-</div>
-
-<div class="p-4 mb-4 text-white rounded shadow-md bg-primary">
-  <h3><%= t('home.take_action.title') %></h3>
-  <p><%= t('home.take_action.body') %></p>
-  <p>
-    <% if ::I18n.locale == :en %>
-      <a href="<%= url_for('/act') %>"><%= t('messages.read_more') %></a>
-    <% else %>
-      <a href="<%= url_for("/#{::I18n.locale}/act") %>"><%= t('messages.read_more') %></a>
-    <% end %>
-  </p>
-</div>
-
-<div id="donate" class="p-4 mb-4 text-white rounded shadow-md bg-tertiary">
-  <h3><%= t('home.donate.title') %></h3>
-  <a href="https://opencollective.com/freedom-to-share/donate" target="_blank">
-    <img src="/images/oc-button.png" width=300 />
-  </a>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-    <input type="hidden" name="cmd" value="_s-xclick" />
-    <input type="hidden" name="hosted_button_id" value="RKMCT2GMB7ZL2" />
-    <input type="image" src="/images/btn_donate_LG.webp" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-  </form>
-</div>
+  </div>
+</aside>

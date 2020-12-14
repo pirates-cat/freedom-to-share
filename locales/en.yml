@@ -169,6 +169,51 @@ en:
         title: You want to violate copyright!
         body: No. We want to change copyright and our proposal is compatible with
           the Berne convention and related treaties.
+      what-is-the-sui-generis-database-right:
+        title: What is the Sui Generis Database Right?
+        body: The sui generis right protects databases, in which there has been a substantial investment in obtaining, verifying or presenting the data contents, against unauthorised extraction and re-utilisation of their content. There is no requirement for creativity or originality . This right lasts 15 years from the date the non-creative database was made. It is distinct and independent from copyright, which protects original works.  Sui Generis Database Right belongings to the family of «related rights», i.e. similar but independent from copyright.
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        title: I am EU citizen resident outside of the EU. Can I sign the ECI?
+        body: This depends on the member state of which you are national. Depending on the requirements asked by the member states, you may or may not be able to sign up online. This is due to the fact that some member states require an EU address.
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        title: I am a national of one EU member state but living in another EU member state. In which member state do I sign?
+        body: |
+          You can choose to select either the country of your citizenship or the country where you currently live in. Please beari in mind, that you can sign up only once for the initiative “Freedom to Share”. The data which you provide in your signature will determine in which member state your signature will be counted. Example: An Austrian citizen living in Estonia can either: a) fill in the form for Estonia, providing their full first names, family names, address, date and place of birth and nationality - in this case, their signature will be verified and therefore counted in Estonia, or b) or fill in the form for Austria, providing in addition to the above data a personal identification document number from the list accepted by Austria – in this case, their signature will be verified and therefore counted in Austria.
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        title: I'm not sure I've signed the ECI yet. Can I sign a second time or is my signature invalidated?
+        body: Yes, sign again if you're unsure. Your signature is valid and is counted only once. The software automatically detects double signatures and sorts out duplicates.
+      why-do-i-have-to-provide-so-much-personal-information:
+        title: Why do I have to provide so much personal information?
+        body: |
+          A European Citizens' Initiative is different from a "normal" petition: it is an official democratic instrument that enables EU citizens to help shape Europe by asking the European Commission to propose a legislative act. If we manage to collect one million (validated) signatures, the EU Commission will be legally obliged to deal with our demands. We have no control over what data is required for the signing of a European Citizens' Initiative by the member states. The respective EU member states determine which data must be collected, so that the signatures are valid and counted. For this reason, in an ECI it is necessary to give more personal data than you are used to from other "petitions".
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        title: Could this proposal be used as a "legal blanket" for the distribution of private information such as personal data, private pictures, etc.?
+        body: No. This proposal only concerns the distribution of published material. Sharing unpublished materials will remain illegal. In addition to that, distribution of personal data is illegal if does not comply with the GDPR.
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Is it going to be legal to share all files?
+        body: |
+          Of course not. We are proposing to amend copyright and related laws. Many other laws may prevent sharing specific kinds of files: think of trade secrets, privacy and so on.
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        title: OK, I got it. What can I do to make file sharing legal?
+        body: |
+          First, remember to sign the ECI campaign. This will contribute to reach the one million signature goal that will oblige the Commission to take a position on our initiative. Then, you can help in other ways: 1. spread the campaign with your friends and contacts (write them, spread the communication materials, talk to them, etc. please note there will be 12 months time in order to collect 1 million subscriptions). 2. get in touch with us and contribute to the organization and spreading of the campaign in your country coordinating with other campaigners. 3. last but not least, you can also support the campaign making a donation.
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        title: I see there is money involved. Who is going to pay who?
+        body: |
+          It depends on how the proposal will be implemented in law. There are different legal techniques: 1. providing that citizens using file sharing networks have to pay a license to be allowed to share files including works. 2. providing for an additional small amount of money to be paid by all citizens that acess the internet (and eventually share works through file sharing networks). 3. fair remuneration is paid by the state (using taxes paid by citizens).
+      is-file-sharing-legal:
+        title: Is file sharing legal?
+        body: File sharing on peer-to-peer networks is not legal. The objective of the initiative is to change the law in the European Union.
+      how-do-you-think-file-sharing-should-be-regulated:
+        title: How do you think file sharing should be regulated?
+        body: We believe file sharing should be free for private use by citizens; authors and other right holders should receive a fair remuneration for the use of their works by citizens.
+      what-is-file-sharing:
+        title: What is file sharing?
+        body: File sharing is the act of providing access to a work by digital methods and making copies of the work accessed. Usually it refers to practices like peer-to-peer sharing. But it may include sending an email attachment, using a physical support and so on.
+      what-is-a-european-citizen-initiative:
+        title: What is a European Citizen Initiative?
+        body: |
+          An ECI is the opportunity given by European Union's commission to it's citizens to impulse changes in legislation. Link to wikipedia's page on <a href="https://en.wikipedia.org/wiki/European_Citizens%27_Initiative">European citizens' initiative</a>.
   messages:
     missing_translations:
       first: Our site is missing translations to your language.

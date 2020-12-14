@@ -3,6 +3,7 @@
 require_relative '../lib/wp/news'
 require_relative '../lib/wp/organization'
 require_relative '../lib/wp/page'
+require_relative '../lib/wp/qa'
 require_relative '../lib/wp/social_network'
 
 require 'fileutils'
@@ -21,6 +22,7 @@ module Wordpress
       process_data Organization
       process_data News
       process_data SocialNetwork
+      process_data Qa
     end
 
     private
