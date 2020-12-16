@@ -21,7 +21,7 @@ de:
         natürliche Personen die Erlaubnis vorsieht‚ durch Urheberrechte, verwandte
         Schutzrechte und spezifische Datenbankrechte geschützte Dateien zu persönlichen
         und gemeinnützigen Zwecken über digitale Netze gemeinsam zu nutzen.
-      title: Les den offiziellen text der Initiative
+      title: Lies den offiziellen Text der Initiative
     donate:
       title: Spenden
       open_collective: Spenden an unseren Kollektiv
@@ -87,7 +87,7 @@ de:
   messages:
     get_involved: Mitmachen
     missing_translations:
-      first: Auf unserer Website fehll die Übersetzung in Ihre Sprache.
+      first: Auf unserer Website fehlt die Übersetzung in Ihre Sprache.
       second: Hilf uns hier!
   contact:
     fiscal_code: Steuernummer
@@ -194,6 +194,67 @@ de:
           den sehr unfairen und unpopulären Status Quo des Urheberrechts zu verlassen
           und diesen zu unterstützen. Einige Autoren könnten dank Filesharing von
           den Menschen viel mehr geschätzt und bekannt sein.
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        title: Stehen Filesharingplatfomen in Konkurrenz zu Netflix, Spotify und anderen
+          Diensten?
+        body: "Nein. Da es sich um Netzwerke handelt, gibt es keinen einzelnen Wettbewerber:\
+          \ Filesharing-Netzwerke sind dezentralisiert (es gibt keinen obligatorischen\
+          \ Vermittler). Filesharing-Netzwerke sind im Besitz der Bürger, die daran\
+          \ teilnehmen.\n"
+      are-you-against-rightsholders:
+        body: Nein, solange sie die erklärten Ziele des Urheberrechts (und der Autorenrechte)
+          verfolgen, also die Förderung von Kultur und sozialem Fortschritt. Die Majors
+          haben eine Chance verpasst, als sie Anfang 2000 Napster angriffen; sie hätten
+          sich auf dessen Seite schlagen und eine kostenlose Geldmaschine gewinnen
+          können. Stattdessen haben sie ein Jahrzehnt verpasst und sind jetzt für
+          ihr Überleben auf Tantiemen von Spotify, Apple usw. angewiesen. Unser Vorschlag
+          ist auch eine Chance für Verwertungsgesellschaften, Verlage, Plattenfirmen
+          und andere Rechteinhaber.
+        title: Seid ihr gegen Rechteinhaber?
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: Nein. Dienste überleben langfristig, weil Konsumenten sie mögen , nicht
+          wegen der Politiker, die dieses oder jenes Gesetz erlassen.
+        title: Wollt ihr bestehende digitale Vertriebskanäle zerstören?
+      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
+      : title: Ist es wahr, dass Filesharing die Möglichkeit bietet Dinge zu finden,
+          die sehr selten, nicht mehr auf dem Markt oder sonst schwer zu finden sind?
+        body: Ja, solange ein Teil des Netzwerks es hat. Manchmal, wenn der übliche
+          Kanal ausfällt, ist manches schon da, bereit, abgeholt zu werden. In einigen
+          Netzwerken sind heutzutage 10-40 Millionen Dateien verfügbar, mit Millionen
+          von Knoten-Nutzern.
+      this-is-only-a-dream:
+        title: Das ist bloß ein Traum!
+        body: Uns ist klar, dass unser Vorschlag der einzige Weg ist, um ein auf Grundrechten
+          basierendes Urheberrecht voranzutreiben. Wir denken, dass manchmal ein solcher
+          Ehrgeiz notwendig ist.
+      are-you-against-digital-platforms:
+        title: Seid ihr gegen digitale Platformen?
+        body: Nein, wenn sie ihre Macht nicht missbrauchen, um Menschen zu kontrollieren
+          und zu profilieren. Die verschiedenen Internetdienste, die mittlerweile
+          die digitale Verteilung von Kultur dominieren, können ein Nettopositiv sein,
+          weil sie die Verteilung effizienter machen. Die Disintermediation kann auch
+          die Menge an Geldern, die an Mittelsmänner verschwendet werden, die keine
+          zusätzliche Kultur produzieren, reduzieren. Wir sehen jedoch nicht ein,
+          warum riesige zentralisierte Internetdienste, die von wenigen multinationalen
+          Unternehmen betrieben werden, die Kontrolle über die Kultur im digitalen
+          Zeitalter haben sollten. Bemühungen wie Artikel 17 in der Richtlinie 790/2019
+          ("Upload-Filter") waren fehlgeleitet und werden unweigerlich scheitern,
+          weil sie das eigentliche Problem nicht angehen.
+      this-is-not-a-new-idea:
+        title: Das ist keine neue Idee!
+        body: Zugegeben, die Idee ist größtenteils alt. Die berühmteste Variante ist
+          wohl Fishers Vorschlag einer gesetzlichen Lizenz, um Probleme wie die Abschaltung
+          von Napster zu lösen, weil es nur 99,4 % der Urheberrechtsverletzungen stoppen
+          konnte, aber nicht 100 %. <a href="http://www.free-culture.cc/freeculture.pdf">Siehe
+          "Freie Kultur" (2004), S. 307.</a>
+      you-want-to-violate-copyright:
+        title: Ihr wollt das Urheberrecht verletzen!
+        body: Nein. Wir wollen das Urheberrecht ändern und unser Vorschlag ist mit
+          der Berner Übereinkunft und verwandten Verträgen vereinbar.
+      what-is-the-sui-generis-database-right:
+        title: Was ist das Sui Generis Datenbankrecht?
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Wird es legal sein alle Dateien zu teilen?
     acronym: FAQ
     title: Oft gestellte Fragen
   eci:
