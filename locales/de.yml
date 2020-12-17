@@ -253,8 +253,102 @@ de:
           der Berner Übereinkunft und verwandten Verträgen vereinbar.
       what-is-the-sui-generis-database-right:
         title: Was ist das Sui Generis Datenbankrecht?
+        body: Das Schutzrecht sui generis schützt Datenbanken, in die eine erhebliche
+          Investition zur Beschaffung, Überprüfung oder Darstellung der Dateninhalte
+          getätigt wurde, gegen die unerlaubte Entnahme und Weiterverwendung ihres
+          Inhalts. Es gibt kein Erfordernis für Kreativität oder Originalität. Dieses
+          Recht besteht für einen Zeitraum von 15 Jahren ab dem Datum, an dem die
+          nicht-kreative Datenbank erstellt wurde. Es ist verschieden und unabhängig
+          vom Urheberrecht, das Originalwerke schützt.  Das Sui Generis Datenbankrecht
+          gehört zur Familie der "verwandten Schutzrechte", d.h. es ist ähnlich, aber
+          unabhängig vom Urheberrecht.
       is-it-going-to-be-legal-to-share-all-files:
         title: Wird es legal sein alle Dateien zu teilen?
+        body: "Nein, natürlich nicht. Wir schlagen vor, das Urheberrecht und verwandte\
+          \ Gesetze zu ändern. Viele andere Gesetze können die Weitergabe bestimmter\
+          \ Arten von Dateien verhindern: denken Sie an Geschäftsgeheimnisse, Datenschutz\
+          \ und so weiter.\n"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        title: Ich bin EU-Bürger mit Wohnsitz außerhalb der EU. Kann ich die EBI unterschreiben?
+        body: Dies hängt von dem Mitgliedsstaat ab, dessen Staatsangehörigkeit du
+          besitzt. Je nachdem, welche Anforderungen die Mitgliedsstaaten stellen,
+          kannst du die EBI online unterzeichnen oder auch nicht. Dies ist darauf
+          zurückzuführen, dass einige Mitgliedsstaaten eine EU-Adresse verlangen.
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        title: Ich bin Staatsangehöriger eines EU-Mitgliedstaates, lebe aber in einem
+          anderen EU-Mitgliedstaat. In welchem Mitgliedsstaat muss ich unterschreiben?
+        body: "Du kannst wählen: entweder das Land deiner Staatsbürgerschaft oder\
+          \ das Land, in dem du derzeit lebst. Bitte beachte, dass du dich nur einmal\
+          \ für die Initiative \"Freedom to Share\" unterschreiben kannst. Die Daten,\
+          \ die du in deiner Unterschrift angibst, bestimmen, in welchem Mitgliedsstaat\
+          \ deine Unterschrift gezählt wird. Beispiel: Ein österreichischer Staatsbürger,\
+          \ der in Estland lebt, kann entweder: a) das Formular für Estland ausfüllen,\
+          \ indem er seinen vollständigen Vor- und Nachnamen, seine Adresse, sein\
+          \ Geburtsdatum und seinen Geburtsort sowie seine Staatsangehörigkeit angibt\
+          \ - in diesem Fall wird seine Unterschrift verifiziert und somit in Estland\
+          \ gezählt, oder b) das Formular für Österreich ausfüllen, indem er zusätzlich\
+          \ zu den oben genannten Daten eine persönliche Ausweisnummer aus der von\
+          \ Österreich akzeptierten Liste angibt - in diesem Fall wird seine Unterschrift\
+          \ verifiziert und somit in Österreich gezählt.\n"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        title: Ich bin mir nicht sicher, ob ich die EBI schon unterschrieben habe.
+          Kann ich ein zweites Mal unterschreiben oder wird meine Unterschrift ungültig?
+        body: Ja, unterschreib erneut, wenn du unsicher bist. Deine Unterschrift ist
+          nur einmal gültig und wird nur einmal gezählt. Die Software erkennt automatisch
+          doppelte Unterschriften und sortiert Duplikate aus.
+      why-do-i-have-to-provide-so-much-personal-information:
+        title: Warum muss ich so viele persönliche Informationen angeben?
+        body: "Eine Europäische Bürgerinitiative unterscheidet sich von einer \"normalen\"\
+          \ Petition: Sie ist ein offizielles demokratisches Instrument, das es EU-Bürgern\
+          \ ermöglicht, Europa mitzugestalten, indem sie die Europäische Kommission\
+          \ auffordern, einen Rechtsakt vorzuschlagen. Wenn wir es schaffen, eine\
+          \ Million (validierte) Unterschriften zu sammeln, ist die EU-Kommission\
+          \ rechtlich verpflichtet, sich mit unseren Forderungen zu befassen. Wir\
+          \ haben keinen Einfluss darauf, welche Daten für die Unterzeichnung einer\
+          \ Europäischen Bürgerinitiative von den Mitgliedsstaaten benötigt werden.\
+          \ Die jeweiligen EU-Mitgliedsstaaten bestimmen, welche Daten erhoben werden\
+          \ müssen, damit die Unterschriften gültig sind und gezählt werden. Aus diesem\
+          \ Grund ist es bei einer EBI notwendig, mehr persönliche Daten anzugeben,\
+          \ als du es von anderen \"Petitionen\" gewohnt bist.\n"
+      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
+      : title: Könnte dieser Vorschlag als "legaler Deckmantel" für die Verbreitung
+          privater Informationen wie persönlicher Daten, privater Bilder usw. verwendet
+          werden?
+        body: Nein. Dieser Vorschlag betrifft nur die Verbreitung von veröffentlichtem
+          Material. Die Weitergabe von unveröffentlichtem Material bleibt illegal.
+          Darüber hinaus ist die Weitergabe von personenbezogenen Daten illegal, wenn
+          sie nicht mit der DSGVO übereinstimmen.
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        title: OK, ich hab's. Was kann ich tun, um Filesharing legal zu machen?
+        body: "Denk bitte zunächst daran, die ECI-Kampagne zu unterschreiben. Dies\
+          \ wird dazu beitragen, das Ziel von einer Million Unterschriften zu erreichen,\
+          \ das die Kommission dazu zwingen wird, zu unserer Initiative Stellung zu\
+          \ nehmen. Dann kannst du auf andere Weise helfen: 1. Verbreite die Kampagne\
+          \ mit deinen Freunden und Bekannten (schreib ihnen, teile die Kommunikationsmaterialien,\
+          \ sprich mit ihnen, usw. Bitte beachte, dass wir 12 Monate Zeit haben werden,\
+          \ um 1 Million Unterschriften zu sammeln). 2. setze dich mit uns in Verbindung\
+          \ und trage zur Organisation und Verbreitung der Kampagne in deinem Land\
+          \ bei, indem du dich mit anderen Mitstreitern vernetztst. 3. zu guter Letzt\
+          \ kannst du die Kampagne auch durch eine Spende unterstützen.\n"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        title: Ich sehe, es ist Geld im Spiel. Wer wird wen bezahlen?
+        body: "Es kommt darauf an, wie der Vorschlag rechtlich umgesetzt werden soll.\
+          \ Es gibt verschiedene juristische Techniken: 1. Vorsehen, dass Bürger,\
+          \ die Filesharing-Netzwerke nutzen, eine Lizenz bezahlen müssen, um Dateien\
+          \ einschließlich Werke teilen zu dürfen. 2. Es wird ein zusätzlicher kleiner\
+          \ Geldbetrag eingeführt, der von allen Bürgern gezahlt werden muss, die\
+          \ auf das Internet zugreifen (und eventuell Werke über Filesharing-Netzwerke\
+          \ austauschen). 3. Vorgabe, dass eine faire Vergütung vom Staat gezahlt\
+          \ wird (mit Hilfe der von den Bürgern gezahlten Steuern).\n"
+      is-file-sharing-legal:
+        title: Ist das Filesharing legal?
+        body: Filesharing in Peer-to-Peer-Netzwerken ist nicht legal. Das Ziel der
+          Initiative ist es, das Gesetz in der Europäischen Union zu ändern.
+      how-do-you-think-file-sharing-should-be-regulated:
+        title: Wie sollte Filesharing Ihrer Meinung nach geregelt werden?
+        body: Wir sind der Meinung, dass Filesharing für die private Nutzung durch
+          Bürger kostenlos sein sollte; Autoren und andere Rechteinhaber sollten eine
+          faire Vergütung für die Nutzung ihrer Werke durch Bürger erhalten.
     acronym: FAQ
     title: Oft gestellte Fragen
   eci:
