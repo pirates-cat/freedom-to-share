@@ -5,6 +5,7 @@ de:
     organizations: Unterstützende Organisationen
     contact: Kontakt
     privacy: Datenschutzerklärung
+    certification: Zertifikation
   home:
     hero:
       text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
@@ -89,6 +90,7 @@ de:
     missing_translations:
       first: Auf unserer Website fehlt die Übersetzung in Ihre Sprache.
       second: Hilf uns hier!
+    read_more: Weiter lesen
   contact:
     fiscal_code: Steuernummer
     presentation: "GOIPE ist ein gemeinnütziger Verein nach Artikel 36 des italienischen\
@@ -107,6 +109,11 @@ de:
     germany: Deutschland
     italy: Italien
     sweden: Schweden
+    netherlands: Niederlande
+    spain: Spanien
+    belgium: Belgien
+    estonia: Estland
+    france: Frankreich
   faq:
     entries:
       how-will-freedom-to-share-files-benefit-artists:
@@ -349,6 +356,19 @@ de:
         body: Wir sind der Meinung, dass Filesharing für die private Nutzung durch
           Bürger kostenlos sein sollte; Autoren und andere Rechteinhaber sollten eine
           faire Vergütung für die Nutzung ihrer Werke durch Bürger erhalten.
+      what-is-file-sharing:
+        title: Was ist Filesharing?
+        body: Unter Filesharing versteht man die Bereitstellung des Zugriffs auf ein
+          Werk durch digitale Methoden und das Anfertigen von Kopien des abgerufenen
+          Werks. Normalerweise bezieht es sich auf Praktiken wie Peer-to-Peer-Sharing.
+          Es kann aber auch das Versenden eines E-Mail-Anhangs, die Verwendung eines
+          physischen Trägers usw. umfassen.
+      what-is-a-european-citizen-initiative:
+        title: Was ist eine Europäische Bürgerinitiative?
+        body: "Eine EBI ist die Möglichkeit, die die Kommission der Europäischen Union\
+          \ ihren Bürgern gibt, um Änderungen in der Gesetzgebung anzuregen. Link\
+          \ zur Wikipedia-Seite über <a href=\"https://de.wikipedia.org/wiki/Europ%C3%A4ische_B%C3%BCrgerinitiative\"\
+          >Europäische Bürgerinitiative</a>.\n"
     acronym: FAQ
     title: Oft gestellte Fragen
   eci:
@@ -361,3 +381,12 @@ de:
         Werke und sonstige Materialien enthalten, um ein Gleichgewicht zwischen den
         Rechten der Urheber und anderer Rechteinhaber und dem universellen Recht auf
         Wissenschaft und Kultur herzustellen.
+  act:
+    title: Jetzt handeln!
+    content: "<p>Teile diese Initiative mit deinen Freunden und Bekannten: Schreibe\
+      \ ihnen, verbreite die Kommunikationsmaterialien, sprich mit ihnen, etc.</p>\n\
+      <p>Setze dich mit uns in Verbindung und trage zur Organisation und Verbreitung\
+      \ der Kampagne in deinem Land bei, indem du dich mit anderen Mitstreitern abstimmst:\
+      \ <a href=\"#proca_dialog\" data-turbolinks=\"false\">Abonniere!</a></p>\n<p>Hilf\
+      \ bei der Übersetzung mit: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
+      >Weblate</a></p>\n<p>Unterstütze die Kampagne mit einer Spende:</p>\n"
