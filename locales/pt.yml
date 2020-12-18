@@ -66,11 +66,57 @@ pt:
     sweden: Suécia
   contact:
     fiscal_code: Código Fiscal
+    presentation: "GOIPE é uma associação sem fins lucrativos de acordo com a art.\
+      \ 36 do código civil italiano feita especificamente com o objectivo de organizar\
+      \ Iniciativas de Cidadãos Europeus.\nEsta \"Liberdade de partilhar\" ECI foi\
+      \ oficialmente apresentada à Comissão Europeia por cidadãos de oito países europeus:\n"
   home:
     hero:
       text: Precisamos de um milhão de assinaturas. Vamos começar a coletá-las no
         dia 15 de novembro de 2020. <strong>Participe agora!</strong>
       action: Assinar
+    hero2:
+      action: Assine aqui!
+      text: <strong>Legalizamos a partilha de ficheiros!</strong><br>Somos cidadãos
+        de toda a europa unidos pela necessidade de apelar à comissão europeia para
+        alterar regras de copyright que são justas para autores e utilizadores.
+    cta: Associe-se à Iniciativa da Liberdade de Partilha dos Cidadãos Europeus
+    take_action:
+      body: "Divulgue esta iniciativa com os seus amigos e contactos: escreva-lhes,\
+        \ divulgue o material de comunicação, fale com eles, etc.\n"
+    official_text:
+      title: Leia o texto oficial da iniciativa
+    donate:
+      title: Doar
+      open_collective: Doar à nossa causa
   press:
     published_at: "Publicado por\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nem %{date}\n"
+  faq:
+    entries:
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: Porque somos livres. Livres para pesquisar e encontrar as obras que
+          precisamos, impulsionados meramente pela nossa curiosidade, não por algoritmos
+          obscuros que decidam por nós.
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: Terão livre acesso às obras através de redes de partilha de ficheiros
+          sem serem obrigados a utilizar plataformas que infringem o direito à privacidade.
+        title: Como é que a livre partilha de ficheiros beneficiará os cidadãos?
+      what-are-related-rights:
+        title: O que são "direitos conexos"?
+      why-should-i-sign-this-european-citizen-initiative:
+        title: Porquê assinar esta Iniciativa de Cidadania Europeia?
+      how-much-will-it-cost-for-users:
+        title: Qual o custo imputado ao utilizador?
+        body: Apesar de haver diversas implementações possíveis da nossa proposta.
+          Cremos ser possível, calcular rigorosa a cientificamente a compensação justa
+          para as entidades intervenientes.
+      how-will-freedom-to-share-files-benefit-artists:
+        title: De que modo irá a liberdade de partilha de ficheiros beneficiar os
+          artistas?
+    acronym: FAQ
+    title: Perguntas Frequentes
+  eci:
+    name: Nome da Iniciativa de Cidadania Europeia
+    description:
+      title: Descrição
