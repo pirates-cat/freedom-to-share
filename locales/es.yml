@@ -132,3 +132,26 @@ es:
   faq:
     acronym: PMF
     title: Preguntas Más Frecuentes
+    entries:
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: Porque tienes el derecho a ser libre. Libre de buscar y encontrar las
+          obras que quieras, llevado por tu propia curiosidad y no por un algoritmo
+          que filtra resultados en una burbuja y que decide por ti, sin registrar
+          lo que descargas en las bases de datos de los proveedores.
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Porque las redes p2p te permiten socializar de verdad: cuando compartes\
+          \ ficheros, al mismo tiempo los recibes de otros usuarios. Interactuar con\
+          \ un algoritmo no es socializar. Las redes p2p a veces optimizan el uso\
+          \ de ancho de banda, cuando estás recibiendo un archivo disponible en muchos\
+          \ clientes, varios de ellos pueden enviarte distintas partes al mismo tiempo,\
+          \ reduciendo considerablemente el tiempo de transferencia.\n"
+        title: Me gusta socializar. ¿Por qué compartir archivos mediante p2p sería
+          mejor que las plataformas de distribución?
+      what-are-related-rights:
+        title: ¿Que son los «derechos relacionados»?
+      why-should-i-sign-this-european-citizen-initiative:
+        title: ¿Por qué debería firmar esta Iniciativa Ciudadana Europea?
+      how-will-file-sharing-freedom-benefit-citizens:
+        title: ¿Cómo beneficiará la libertad de compartir archivos a los ciudadanos?
+      how-much-will-it-cost-for-users:
+        title: ¿Cuánto costará a los usuarios?
