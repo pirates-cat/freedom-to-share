@@ -215,6 +215,14 @@ ru:
   country: ru
   dir: ltr
   widget: false
+sc:
+  code: sc
+  name: sardu
+  script: latin
+  translated: false
+  country: it
+  dir: ltr
+  widget: false
 sk:
   code: sk
   name: slovenčina

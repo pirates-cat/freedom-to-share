@@ -44,6 +44,8 @@ en:
         related rights and sui generis database rights, with a view to striking a
         balance between the rights of authors and other rightholders and the universal
         right to science and culture.
+    official_text: |
+      <p>Our initiative calls for the adoption of a legislative act providing for a waiver of copyright, related rights, and sui generis database rights for natural persons sharing files via digital networks for personal use and non-profit purposes.</p><p>File-sharing came into existence in 1999, with the advent of Napster. Over the years, technology has made distributed (or peer-to-peer) file sharing ever more efficient (e.g., Gnutella, Freenet, BitTorrent).</p><p>From the outset, the main rightsholder companies have opposed the use of sharing technologies for works and other material subject to copyright, related rights, and sui generis database rights, and current legislation is broadly in line with their wishes.</p><p>However, one question remains: is it fair for copyright, related rights, and sui generis database rights to prevent the sharing of works and other material?</p><p>Copyright, related rights, and sui generis database rights should help towards fostering the dissemination of culture, innovation, and social progress.</p><p>Current legislation bans the sharing of files containing works and other material subject to copyright, related rights, and sui generis database rights and seriously curtails the freedom of access to science and culture enshrined in Article 27(1) of the Universal Declaration of Human Rights.</p><p>This issue is of even greater relevance today, since the adoption of Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market.</p><p>The Directive has the opposite effect. On the one hand, Article 17 makes it easier for online content sharing service providers to obtain authorization to disseminate protected content, thereby facilitating their role as privileged intermediaries and encouraging their practices of technical control and citizen profiling. On the other hand, file sharing remains banned.</p><p>This initiative calls for citizens to be allowed to share files directly via peer-to-peer networks for them to have access to science and culture without being subject to checks and profiling. EU legislation enabling this would be perfectly compatible with international law if rightsholders were given fair compensation.</p><p>People and fundamental rights must be at the heart of political and legislative decisions. It is, therefore, necessary to change the current rules governing the sharing of files containing works and other material protected by copyright, related rights, and sui generis database rights in order to enable the potential for freedom and social, cultural, and economic development offered by digital networks.</p>
   faq:
     acronym: FAQ
     title: Frequently Asked Questions
@@ -250,6 +252,7 @@ en:
     contact: Contact
     privacy: Privacy policy
     certification: Certification
+    languages: Languages
   press:
     published_at: |
       Published at
