@@ -62,6 +62,10 @@ ro:
     sweden: Suedia
   contact:
     fiscal_code: Codul fiscal
+    presentation: "GOIPE este o asociație non-profit în conformitate cu art. 36 din\
+      \ Codul Civil italian creată în scopul de a organiza Inițiative Cetățenești\
+      \ Europene.\nICE \"Libertatea de a distribui\" a fost trimisă oficial Comisiei\
+      \ Europene de cetățeni din opt țări europene.\n"
   creative-commons:
     text: Licența Creative Commons
     url: http://creativecommons.org/licenses/by-sa/4.0/
@@ -70,6 +74,25 @@ ro:
       action: Înscrie-te
       text: Avem nevoie de un milion de semnături. O sa începem strângerea semnăturilor
         din 15 noiembrie 2020. <strong> Alătura-te cauzei! </strong>
+    hero2:
+      text: <strong>Legalizați distribuția de fișiere!</strong><br>Ne unim din toate
+        părțile Europei pentru a cere Comisiei Europene să adopte politici de copyright
+        juste pentru creatori și utilizatori.
+      action: Semnează aici!
+    widget:
+      steps:
+        one: Alătură-te!
+        few: Semnați!
+        other: ''
+    cta: Alătură-te Inițiativei Cetățenești "Libertatea de a distribui"
+    official_text:
+      title: Citește textul oficial al inițiativei
+      body: Inițiativa noastră solicită adoptarea unui act legislativ care să ofere
+        o derogare de la drepturile de copyright și drepturile sui generis asupra
+        bazelor de date pentru persoane fizice care distribuie fișiere în rețele virtuale
+        pentru utilizare personală și în scopuri non-profit.
+    take_action:
+      title: Acționează
   messages:
     missing_translations:
       first: Site-ul nostru are nevoie de traduceri in limba ta.
