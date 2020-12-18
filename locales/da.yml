@@ -2,3 +2,23 @@ creative-commons:
   url: https://creativecommons.org/licenses/by-sa/4.0/deed.da
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.da
+  faq:
+    entries:
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        title: Hvordan burde penge uddeles blandt forfattere og andre rettighedshavere?
+      how-much-will-it-cost-for-users:
+        title: Hvor meget vil det koste for brugere?
+      how-will-freedom-to-share-files-benefit-artists:
+        title: Hvordan vil frihed til at dele filer gavne kunstnere?
+      how-will-file-sharing-freedom-benefit-citizens:
+        title: Hvordan vil fildelingsfrihed gavne borgere?
+  home:
+    donate:
+      title: Donér
+    hero:
+      action: Abonner
+      text: Vi har brug for én million underskrifter. Vi vil begynde på at indsamle
+        dem den 15. November 2020. <strong>Slut dig til nu!</strong>
+  eci:
+    description:
+      title: Beskrivelse
