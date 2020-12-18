@@ -271,6 +271,16 @@ fr:
         title: Vous voulez violer le droit d'auteur !
         body: Non. Nous voulons changer le droit d'auteur et notre proposition est
           compatible avec la convention de Berne et les traités connexes.
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        title: Je suis un citoyen Européen résidant hors de l’Europe. Puis-je signer
+          l’ICE ?
+        body: Cela dépendra de l’état membre correspondant à votre nationalité. En
+          fonction des conditions fixées par chaque états membres vous serez en mesure
+          ou non de vous inscrire en ligne. Cela est dû au fait que certains états
+          membres requièrent une adresse postale au sein de l’UE.
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        title: Je suis un citoyen d’un état membre de l’UE mais je vis dans un autre
+          état membre de l’UE. Dans quel état membre dois-je signer ?
   act:
     title: Agissez maintenant !
     content: "<p>Diffusez cette initiative auprès de vos amis et contacts : écrivez-les,\
