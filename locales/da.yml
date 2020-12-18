@@ -5,13 +5,33 @@ creative-commons:
   faq:
     entries:
       how-should-money-be-distributed-among-authors-and-other-right-holders:
-        title: Hvordan burde penge uddeles blandt forfattere og andre rettighedshavere?
+        title: Hvordan burde penge uddeles blandt ophavsmænd og andre rettighedshavere?
       how-much-will-it-cost-for-users:
         title: Hvor meget vil det koste for brugere?
       how-will-freedom-to-share-files-benefit-artists:
         title: Hvordan vil frihed til at dele filer gavne kunstnere?
       how-will-file-sharing-freedom-benefit-citizens:
         title: Hvordan vil fildelingsfrihed gavne borgere?
+      are-you-against-rightsholders:
+        body: Nej, så længe de stræber efter de angivne mål for copyright (og ophavsmand
+          rettigheder), hvilket er at fremme kultur og social fremgang. Majorer mistede
+          en mulighed da de angreb Napster i de tidlige 2000er; de kunne have støttet
+          det og fået en gratis pengemaskine. I stedet missede de et årti og er nu
+          afhængige af licensafgifter fra Spotify, Apple osv. for deres overlevelse.
+          Vores forslag er en mulighed for at samle samfund, forlag, pladeselskaber
+          og andre rettighedshavere.
+        title: Er I imod rettighedshavere?
+      are-you-against-authors:
+        title: Er I imod ophavsmænd?
+        body: Slet ikke. Vi vil gerne opdatere copyright så det passer til den moderne
+          virkelighed og folks præferencer. Vi mener at moderne teknologi er en mulighed
+          for ophavsmænd, ikke et problem. Vi mener også at det er skadende for ophavsmænd
+          at være afhængige af og støtte urimelige og upopulære status quo for copyrightlov.
+          Nogle ophavsmænd vil måske blive mere værdsat og kendt af folk på grund
+          af fildeling.
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        title: Hvad hvis en ophavsmand ikke giver samtykke til at have sit arbejde
+          delt gennem fildelingsnetværk?
   home:
     donate:
       title: Donér
@@ -19,6 +39,8 @@ creative-commons:
       action: Abonner
       text: Vi har brug for én million underskrifter. Vi vil begynde på at indsamle
         dem den 15. November 2020. <strong>Slut dig til nu!</strong>
+    official_text:
+      title: Læs den officielle tekst fra initiativet
   eci:
     description:
       title: Beskrivelse
