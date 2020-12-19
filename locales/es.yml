@@ -181,6 +181,8 @@ es:
           obras que quieras, llevado por tu propia curiosidad y no por un algoritmo
           que filtra resultados en una burbuja y que decide por ti, sin registrar
           lo que descargas en las bases de datos de los proveedores.
+        title: ¿Por qué es importante evitar el control y el perfilado por parte de
+          plataformas?
       i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
         body: "Porque las redes p2p te permiten socializar de verdad: cuando compartes\
           \ ficheros, al mismo tiempo los recibes de otros usuarios. Interactuar con\
@@ -192,9 +194,46 @@ es:
           mejor que las plataformas de distribución?
       what-are-related-rights:
         title: ¿Que son los «derechos relacionados»?
+        body: En la ley sobre derechos de autor, los derechos relacionados son los
+          derechos de una obra de creación sin relación con el autor real de la obra.
+          En la Unión Europea, los derechos de los productores de películas (a diferencia
+          del caso de los directores) y creadores de bases de datos también están
+          protegidos por los derechos relacionados. Una definición práctica es que
+          los derechos relacionados son un tipo de derechos de autoría que no están
+          cubiertos por la Convención de Berna.
       why-should-i-sign-this-european-citizen-initiative:
         title: ¿Por qué debería firmar esta Iniciativa Ciudadana Europea?
+        body: Para incrementar la compartición, y por tanto la difusión, de obras
+          de creación (u otros contenidos) y de la cultura; para tener la libertad
+          de acceder a obras de creación sin ninguna sujeción a mecanismos de control
+          ni de perfilado.
       how-will-file-sharing-freedom-benefit-citizens:
         title: ¿Cómo beneficiará la libertad de compartir archivos a los ciudadanos?
+        body: La ciudadanía será libre de acceder a obras por medio de redes de compartición
+          de ficheros sin que se lo obligue a usar plataformas que perfilen las personas.
       how-much-will-it-cost-for-users:
         title: ¿Cuánto costará a los usuarios?
+        body: Nuestra propuesta prevé una serie de posibles implementaciones. Creemos
+          que es posible, con métodos empíricos modernos y con datos económicos basados
+          en pruebas, calcular una compensación justa para cada escenario.
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "Recibirán dinero a cambio del uso de las obras por parte de las personas\
+          \ que compartan los ficheros. Además, permitirán que la ciudadanía acceda\
+          \ a sus obras por medios fuera del control de terceras partes: las personas\
+          \ que creen obras tendrán más libertad y sus trabajos estarán más disponibles\
+          \ para todo el mundo.\n"
+        title: ¿De qué manera la libertad de compartir ficheros beneficiará las personas
+          que hacen arte?
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        title: ¿Si la compartición de ficheros es gratuita, como ganarán dinero las
+          personas que hacen arte?
+        body: Recibirán una parte de la justa remuneración recogida por el uso de
+          sus obras que se añadirá a sus medios de remuneración habituales.
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        title: ¿Qué hay que hacer para asegurar que tu obra se puede compartir entre
+          iguales?
+        body: Puedes publicarla y esperar que la ciudadanía la comparta. También puedes
+          compartirla en redes de compartición de ficheros.
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        title: ¿Qué pasa si alguien no está de acuerdo que su obra sea compartida
+          en redes de compartición de ficheros?
