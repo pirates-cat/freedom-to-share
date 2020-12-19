@@ -18,7 +18,7 @@ ca:
   code: ca
   name: català
   script: latin
-  translated: false
+  translated: true
   country: es
   dir: ltr
   widget: false
@@ -42,7 +42,7 @@ de:
   code: de
   name: Deutsch
   script: latin
-  translated: false
+  translated: true
   country: de
   dir: ltr
   widget: true
@@ -99,7 +99,7 @@ fr:
   code: fr
   name: français
   script: latin-ext
-  translated: true
+  translated: false
   country: fr
   dir: ltr
   widget: true
@@ -171,7 +171,7 @@ nl:
   code: nl
   name: Nederlands
   script: latin-ext
-  translated: true
+  translated: false
   country: nl
   dir: ltr
   widget: true
@@ -251,7 +251,7 @@ sv:
   code: sv
   name: svenska
   script: latin
-  translated: true
+  translated: false
   country: se
   dir: ltr
   widget: true
