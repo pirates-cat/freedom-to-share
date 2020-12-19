@@ -91,7 +91,7 @@ es:
   code: es
   name: español
   script: latin
-  translated: false
+  translated: true
   country: es
   dir: ltr
   widget: true
