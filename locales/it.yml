@@ -6,6 +6,7 @@ it:
     organizations: Organizzazioni che supportano
     privacy: Politica sulla riservatezza
     certification: Certificazione
+    languages: Lingue
   home:
     hero:
       text: Abbiamo bisogno di un milione di firme. Inizieremo a raccogliere firme
@@ -119,6 +120,45 @@ it:
         protetto da copyright, diritti correlati e diritti "sui generis" delle banche
         dati, con l'obiettivo di equilibrare i diritti degli autori e degli altri
         aventi diritto ed il diritto universale alla conoscenza e alla cultura.
+    official_text: "<p>Con quest’iniziativa si chiede l’adozione di un atto legislativo\
+      \ che preveda un permesso di diritto d’autore, diritti connessi e diritto sui\
+      \ generis del costitutore di banche di dati per persone fisiche che condividono\
+      \ file attraverso reti digitali per fini personali e senza scopo di lucro.</p><p>La\
+      \ condivisione di file ha inizio nel 1999 con Napster e negli anni le tecnologie\
+      \ hanno abilitato la condivisione distribuita (o peer-to-peer) di file in modalità\
+      \ sempre più efficienti (Gnutella, Freenet, BitTorrent, ecc.).</p><p>Sin dall’inizio\
+      \ le principali società titolari di diritti si sono opposte all’uso delle tecnologie\
+      \ di condivisione per le opere e gli altri materiali tutelati da diritto d’autore,\
+      \ diritti connessi e diritto sui generis del costitutore di banche di dati ed\
+      \ oggi il diritto è sostanzialmente conforme alle loro aspettative.</p><p>Ma\
+      \ resta aperta una domanda: è giusto che diritto d’autore, diritti connessi\
+      \ e diritto sui generis del costitutore di banche di dati vietino la condivisione\
+      \ di opere ed altri materiali?</p><p>Il diritto d’autore, i diritti connessi\
+      \ e il diritto sui generis del costitutore di banche di dati dovrebbero favorire\
+      \ la diffusione della cultura, l’innovazione ed il progresso sociale.</p><p>Il\
+      \ diritto vigente, che impedisce la condivisione di file che includono opere\
+      \ e altri materiali tutelati da diritto d’autore, diritti connessi e diritto\
+      \ sui generis del costitutore di banche di dati, causa un pesante sacrificio\
+      \ alla libertà di scienza e di cultura previsto dall’art. 27 co. I della Dichiarazione\
+      \ Universale dei Diritti dell’Uomo.</p><p>Il tema è ancor più rilevante oggi,\
+      \ dopo l’approvazione della direttiva (UE) 2019/790 del Parlamento europeo e\
+      \ del Consiglio del 17 aprile 2019 sul diritto d’autore e sui diritti connessi\
+      \ nel Mercato Unico Digitale.</p><p>La direttiva ha un effetto paradossale:\
+      \ l’art. 17 agevola i prestatori di servizi di condivisione di contenuti online\
+      \ nell’ottenere autorizzazione a diffondere contenuti tutelati dal diritto e\
+      \ quindi favorisce il loro ruolo di intermediari privilegiati e le loro pratiche\
+      \ di tecno-controllo e di profilazione dei cittadini; la condivisione di file,\
+      \ invece, non è permessa.</p><p>Con questa iniziativa si chiede che sia permesso\
+      \ ai cittadini direttamente di condividere attraverso reti peer-to-peer perché\
+      \ possano accedere alla scienza e alla cultura senza essere controllati e profilati:\
+      \ un atto legislativo dell’UE che lo consenta sarebbe perfettamente compatibile\
+      \ con la legislazione internazionale se i titolari dei diritti ricevessero un\
+      \ equo compenso.</p><p>È necessario mettere le persone e i diritti fondamentali\
+      \ al centro delle scelte politiche e legislative e quindi cambiare le norme\
+      \ che disciplinano la condivisione di file che contengono opere e altri materiali\
+      \ tutelati da diritto d’autore, diritti connessi e diritto sui generis del costitutore\
+      \ di banche di dati per abilitare il potenziale di libertà e di sviluppo sociale,\
+      \ culturale ed economico offerto dalle reti digitali.</p>\n"
   faq:
     acronym: FAQ
     title: Domande frequenti
