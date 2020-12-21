@@ -3,9 +3,10 @@ fr:
     home: Accueil principal
     press: Dans la presse
     contact: Contact
-    organizations: Soutiens d'organisations
+    organizations: Organisations de soutien
     privacy: Politique de confidentialité
     certification: Certification
+    languages: Langages
   home:
     hero:
       text: Nous avons besoin d’un million de signatures. Nous commencerons à collecter
@@ -30,10 +31,10 @@ fr:
         \ le matériel de communication, parlez-en, etc.\n"
     widget:
       steps:
-        one: Rejoins-nous !
+        one: Rejoins-nous!
         other: Signez-le !
     donate:
-      title: Aidez-nous
+      title: Faites un don
       open_collective: Faites un don à notre collectif
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.fr
@@ -93,12 +94,11 @@ fr:
       par email.
     This field is required.: Ce champ doit être complété.
   contact:
-    fiscal_code: Immatriculation fiscale
-    presentation: "Le GOIPE est une association sans profit, qui accorde à l'article\
-      \ 36 du Code Civil Italien fait spécialement par la proposition de l'organisation\
-      \ des Initiatives des Citoyens Européens (ECI).\nLa «libertée de partager»,\
-      \ l'ECI a bel et bien officiellement présenté à la Commission Européenne par\
-      \ des citoyens de huit pays Européens :\n"
+    fiscal_code: Code Fiscal
+    presentation: "GOIPE est une association à but non lucratif selon l'art. 36 du\
+      \ code civil italien, spécialement conçu dans le but d'organiser des initiatives\
+      \ citoyennes européennes.\nCette ICE «Liberté de partager» a été officiellement\
+      \ soumise à la Commission européenne par des citoyens de huit pays européens:\n"
   regions:
     transnational: Niveau européen / transnational
     germany: Allemagne
@@ -114,7 +114,7 @@ fr:
       >%{host}</a>\nle %{date}\n"
   faq:
     acronym: FAQ
-    title: Foire Aux Questions
+    title: Questions fréquemment posées
     entries:
       file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
         title: Les plateformes de partage de fichiers sont-elles des concurrents de
@@ -207,14 +207,13 @@ fr:
           "Culture libre" (2004), p. 307.</a>
         title: Ce n'est pas une nouvelle idée !
       why-should-i-sign-this-european-citizen-initiative:
-        title: Pourquoi je devrais signer pour cette Initiative Européenne Citoyenne
-          ?
-        body: Encourager le partage, et donc la diffusion, des œuvres de création,
-          des autres contenus et de la culture ; être libre d'accéder aux œuvres de
-          création sans avoir à être contrôlé et profilé.
+        title: Pourquoi devrais-je signer cette Initiative Européenne Citoyenne ?
+        body: Favoriser le partage, et donc la diffusion, des œuvres créatives, d'autres
+          contenus et de la culture; être libre d'accéder aux œuvres de création sans
+          avoir à être contrôlé et profilé.
       why-its-important-to-avoid-control-and-profiling-by-platforms:
-        title: Pourquoi c'est important d'éviter le contrôle et le profilage par les
-          plateformes ?
+        title: Pourquoi est-il important d'éviter le contrôle et le profilage par
+          les plates-formes?
         body: Parce que nous devons garder le droit d'être libre. Libre pour pouvoir
           regarder et trouver les travaux que nous voulons, conduit par nôtre curiosité
           et non pas par des bulles de filtrage algorithmiques qui décident pour vous,
@@ -281,6 +280,108 @@ fr:
       i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
         title: Je suis un citoyen d’un état membre de l’UE mais je vis dans un autre
           état membre de l’UE. Dans quel état membre dois-je signer ?
+        body: "Vous pouvez choisir de sélectionner le pays de votre citoyenneté ou\
+          \ le pays dans lequel vous vivez actuellement. Veuillez garder à l'esprit\
+          \ que vous ne pouvez vous inscrire qu'une seule fois à l'initiative «Liberté\
+          \ de partager». Les données que vous fournissez dans votre signature détermineront\
+          \ dans quel État membre votre signature sera comptée. Exemple: un citoyen\
+          \ autrichien résidant en Estonie peut soit: a) remplir le formulaire pour\
+          \ l'Estonie, en indiquant ses prénoms, noms de famille, adresse, date et\
+          \ lieu de naissance et nationalité - dans ce cas, sa signature sera vérifiée\
+          \ et donc comptés en Estonie, ou b) ou remplissez le formulaire pour l'Autriche,\
+          \ en fournissant en plus des données ci-dessus un numéro de document d'identification\
+          \ personnel de la liste acceptée par l'Autriche - dans ce cas, leur signature\
+          \ sera vérifiée et donc comptée en Autriche.\n"
+      what-is-the-sui-generis-database-right:
+        body: Le droit sui generis protège les bases de données, dans lesquelles il
+          y a eu un investissement substantiel pour obtenir, vérifier ou présenter
+          le contenu des données, contre l'extraction et la réutilisation non autorisées
+          de leur contenu. Il n'y a aucune exigence de créativité ou d'originalité.
+          Ce droit dure 15 ans à compter de la date de création de la base de données
+          non créative. Il est distinct et indépendant du droit d'auteur, qui protège
+          les œuvres originales. Sui Generis Database Right appartient à la famille
+          des «droits voisins», c'est-à-dire similaires mais indépendants du droit
+          d'auteur.
+        title: Qu'est-ce que la base de données Sui Generis?
+      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
+      : title: Cette proposition pourrait-elle être utilisée comme "couverture juridique"
+          pour la diffusion d'informations privées telles que des données personnelles,
+          des photos privées, etc.?
+        body: Non. Cette proposition ne concerne que la distribution des documents
+          publiés. Le partage de matériel non publié restera illégal. En plus de cela,
+          la distribution de données personnelles est illégale si elle n'est pas conforme
+          au RGPD.
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Le partage de tous les fichiers sera-t-il légal?
+        body: "Bien sûr que non. Nous proposons de modifier les droits d'auteur et\
+          \ les lois connexes. De nombreuses autres lois peuvent empêcher le partage\
+          \ de types spécifiques de fichiers: pensez aux secrets commerciaux, à la\
+          \ vie privée, etc.\n"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        title: OK j'ai compris. Que puis-je faire pour rendre le partage de fichiers
+          légal?
+        body: "N'oubliez pas de signer la campagne ECI. Cela contribuera à atteindre\
+          \ l'objectif d'un million de signatures qui obligera la Commission à prendre\
+          \ position sur notre initiative. Ensuite, vous pouvez aider par d'autres\
+          \ moyens: 1. diffuser la campagne avec vos amis et contacts (les écrire,\
+          \ diffuser les supports de communication, leur parler, etc. veuillez noter\
+          \ qu'il y aura 12 mois pour collecter 1 million d'abonnements) . 2. contactez-nous\
+          \ et contribuez à l'organisation et à la diffusion de la campagne dans votre\
+          \ pays en coordination avec d'autres militants. 3. Last but not least, vous\
+          \ pouvez également soutenir la campagne en faisant un don.\n"
+      what-is-file-sharing:
+        title: Qu'est-ce que le partage de fichiers?
+        body: Le partage de fichiers est l'acte de donner accès à une œuvre par des
+          méthodes numériques et de faire des copies de l'œuvre consultée. Cela fait
+          généralement référence à des pratiques telles que le partage entre pairs.
+          Mais cela peut inclure l'envoi d'une pièce jointe à un e-mail, l'utilisation
+          d'un support physique, etc.
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Une initiative citoyenne européenne est différente d'une pétition «normale»:\
+          \ il s'agit d'un instrument démocratique officiel qui permet aux citoyens\
+          \ de l'UE de contribuer à façonner l'Europe en demandant à la Commission\
+          \ européenne de proposer un acte législatif. Si nous parvenons à collecter\
+          \ un million de signatures (validées), la Commission européenne sera légalement\
+          \ tenue de répondre à nos demandes. Nous n'avons aucun contrôle sur les\
+          \ données nécessaires à la signature d'une initiative citoyenne européenne\
+          \ par les États membres. Les États membres respectifs de l'UE déterminent\
+          \ quelles données doivent être collectées, afin que les signatures soient\
+          \ valides et comptées. Pour cette raison, dans une ICE, il est nécessaire\
+          \ de fournir plus de données personnelles que celles auxquelles vous êtes\
+          \ habitué à partir d'autres «pétitions».\n"
+        title: Pourquoi dois-je fournir autant d'informations personnelles?
+      how-do-you-think-file-sharing-should-be-regulated:
+        title: Comment pensez-vous que le partage de fichiers devrait être réglementé?
+        body: Nous pensons que le partage de fichiers doit être gratuit pour un usage
+          privé par les citoyens; les auteurs et autres titulaires de droits devraient
+          recevoir une rémunération équitable pour l'utilisation de leurs œuvres par
+          les citoyens.
+      what-is-a-european-citizen-initiative:
+        title: Qu'est-ce qu'une initiative citoyenne européenne?
+        body: "Une ICE est l'opportunité donnée par la commission de l'Union européenne\
+          \ à ses citoyens de faire évoluer la législation. Lien vers la page wikipedia\
+          \ sur <a href=\"https://en.wikipedia.org/wiki/European_Citizens%27_Initiative\"\
+          > initiative citoyenne européenne </a>.\n"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "Cela dépend de la manière dont la proposition sera mise en œuvre dans\
+          \ la loi. Il existe différentes techniques juridiques: 1. à condition que\
+          \ les citoyens utilisant des réseaux de partage de fichiers doivent payer\
+          \ une licence pour être autorisés à partager des fichiers, y compris des\
+          \ œuvres. 2. prévoir une petite somme supplémentaire à payer par tous les\
+          \ citoyens qui accèdent à Internet (et éventuellement partagent des œuvres\
+          \ via des réseaux de partage de fichiers). 3. à condition qu'une juste rémunération\
+          \ soit payée par l'État (en utilisant les impôts payés par les citoyens).\n"
+        title: Je vois qu'il y a de l'argent en jeu. Qui va payer qui?
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        title: Je ne suis pas sûr d'avoir encore signé l'ICE. Puis-je signer une deuxième
+          fois ou ma signature est-elle invalidée?
+        body: Oui, connectez-vous à nouveau si vous n'êtes pas sûr. Votre signature
+          est valide et n'est comptée qu'une seule fois. Le logiciel détecte automatiquement
+          les doubles signatures et trie les doublons.
+      is-file-sharing-legal:
+        title: Le partage de fichiers est-il légal?
+        body: Le partage de fichiers sur des réseaux peer-to-peer n'est pas légal.
+          L’objectif de l’initiative est de modifier le droit de l’Union européenne.
   act:
     title: Agissez maintenant !
     content: "<p>Diffusez cette initiative auprès de vos amis et contacts : écrivez-les,\
@@ -299,3 +400,45 @@ fr:
         et à la culture.
       title: Description
     name: Nom de l'initiative Citoyenne Européenne
+    official_text: "<p> Notre initiative appelle à l'adoption d'un acte législatif\
+      \ prévoyant une renonciation au droit d'auteur, aux droits voisins et aux droits\
+      \ sui generis sur les bases de données pour les personnes physiques partageant\
+      \ des fichiers via des réseaux numériques à des fins personnelles et non lucratives.\
+      \ </p> < p> Le partage de fichiers a vu le jour en 1999, avec l'avènement de\
+      \ Napster. Au fil des ans, la technologie a rendu le partage de fichiers distribué\
+      \ (ou peer-to-peer) toujours plus efficace (par exemple, Gnutella, Freenet,\
+      \ BitTorrent). </p> <p> Dès le départ, les principales sociétés titulaires de\
+      \ droits se sont opposées à l'utilisation de partage de technologies pour les\
+      \ œuvres et autres éléments soumis au droit d'auteur, aux droits voisins et\
+      \ aux droits sui generis sur les bases de données, et la législation actuelle\
+      \ est globalement conforme à leurs souhaits. </p> <p> Cependant, une question\
+      \ demeure: est-ce équitable pour le droit d'auteur , les droits connexes et\
+      \ les droits sui generis sur les bases de données pour empêcher le partage d'œuvres\
+      \ et d'autres éléments? </p> <p> Le droit d'auteur, les droits connexes et les\
+      \ droits sui generis sur les bases de données devraient contribuer à favoriser\
+      \ la diffusion de la culture, l'innovation et le progrès social . </p> <p> La\
+      \ législation actuelle interdit le partage de fichiers contenant des œuvres\
+      \ et d'autres éléments soumis au droit d'auteur, aux droits voisins et aux droits\
+      \ sui generis sur les bases de données et restreint gravement la liberté d'accès\
+      \ à la science et à la culture consacrée à l'article 27, paragraphe 1 de la\
+      \ Déclaration universelle sur les droits de l'homme. </p> <p> Cette question\
+      \ est encore plus pertinente aujourd'hui, depuis l'adoption de la directive\
+      \ (UE) 2019/790 du Parlement européen et du Conseil du 17 avril 2019 sur le\
+      \ droit d'auteur et les droits voisins le marché unique numérique. </p> <p>\
+      \ La directive a l'effet inverse. D'une part, l'article 17 permet aux prestataires\
+      \ de services de partage de contenus en ligne d'obtenir plus facilement l'autorisation\
+      \ de diffuser des contenus protégés, facilitant ainsi leur rôle d'intermédiaires\
+      \ privilégiés et encourageant leurs pratiques de contrôle technique et de profilage\
+      \ citoyen. En revanche, le partage de fichiers reste interdit. </p> <p> Cette\
+      \ initiative demande que les citoyens soient autorisés à partager des fichiers\
+      \ directement via des réseaux peer-to-peer pour qu'ils aient accès à la science\
+      \ et à la culture sans être soumis à des contrôles et le profilage. La législation\
+      \ européenne permettant cela serait parfaitement compatible avec le droit international\
+      \ si les titulaires de droits recevaient une compensation équitable. </p> <p>\
+      \ Les personnes et les droits fondamentaux doivent être au cœur des décisions\
+      \ politiques et législatives. Il est donc nécessaire de modifier les règles\
+      \ actuelles régissant le partage de fichiers contenant des œuvres et d'autres\
+      \ éléments protégés par le droit d'auteur, les droits voisins et les droits\
+      \ sui generis sur les bases de données afin de permettre le potentiel de liberté\
+      \ et de développement social, culturel et économique offert par les réseaux\
+      \ numériques. </p>\n"
