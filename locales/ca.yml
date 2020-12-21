@@ -76,16 +76,16 @@ ca:
         per a ús personal i sense ànim de lucre.
     take_action:
       title: Actua
-      body: "Escampa aquesta iniciativa entre amics i contactes: escriu-los, difon\
-        \ els materials de comunicació, parla amb ells, etc.\n"
+      body: "Escampa aquesta iniciativa entre amistats i contactes: escriu-los, difon\
+        \ els materials de comunicació, parla'ls-en, etc.\n"
     donate:
       title: Dóna
       open_collective: Dóna al nostre col·lectiu
     hero2:
       action: Signa aquí!
-      text: <strong>Legalitzem l'intercanvi d'arxius</strong><br>Ens estem trobant
-        d'arreu d'Europa per a demanar a la Comissió Europea que adopti normes de
-        drets d'autor justes per als creadors i usuaris.
+      text: <strong>Legalitzem la compartició de fitxers!<strong><br>Arreu d'Europa,
+        ens unim per demanar a la Comissió Europea que adopti normes de drets d'autoria
+        justes per a qui crea obres i per a qui les utilitza.
     widget:
       steps:
         one: Uneix-te a nosaltres!
@@ -119,11 +119,11 @@ ca:
       >Weblate</a></p>\n<p>Dóna suport a la campanya fent un donatiu:</p>\n"
   eci:
     description:
-      body: Legalitzar l'ús compartit – a través de xarxes digitals, per a ús personal
-        i sense ànim de lucre – d'arxius que continguin obres i altres materials protegits
-        per drets d'autor, drets afins i drets sui generis de base de dades, amb vista
-        a aconseguir un equilibri entre els drets dels autors i altres titulars de
-        drets i el dret universal a la ciència i la cultura.
+      body: La legalització de la compartició —per mitjà de xarxes digitals, per a
+        ús personal i sense ànim de lucre— de fitxers que continguin obres i altres
+        materials protegits per drets d'autoria, drets afins i drets sui generis de
+        base de dades, amb vista a aconseguir un equilibri entre els drets d'autoria
+        i altres drets de titularitat i el dret universal a la ciència i la cultura.
       title: Descripció
     name: Nom de la Iniciativa Ciutadana Europea
     official_text: "<p>Aquesta iniciativa advoca per l’adopció d’una disposició legislativa\
