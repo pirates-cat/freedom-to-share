@@ -19,10 +19,48 @@ fi:
     text: Creative Commons lisenssi
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.fi
   press:
-    published_at: "Julkaistu\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\n\
-      on %{date}\n"
+    published_at: "Julkaistu\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\non %{date}\n"
   proca:
     consent:
       intro: '{{name}} voi ottaa minuun yhteyttä tärkeiden kampanjoiden suhteen'
       opt-in: Haluan tiedotteet sähköpostitse
       opt-out: En halua sähköposteja enkä tiedotteita päivityksistä
+  eci:
+    official_text: "<p>Aloitteessa vaaditaan säädöstä, jonka mukaisesti luovuttaisiin\
+      \ tekijänoikeuksista, lähioikeuksista ja sui generis -tietokantaoikeudesta silloin,\
+      \ kun luonnolliset henkilöt jakavat digitaalisten verkostojen kautta tiedostoja\
+      \ henkilökohtaiseen käyttöön ja voittoa tavoittelemattomiin tarkoituksiin.</p><p>Tiedostojen\
+      \ jakaminen alkoi vuonna 1999 Napster-ohjelman myötä. Tiedostonjakotekniikka\
+      \ (vertaisverkot) on vuosien mittaan tehostunut entisestään (esim. Gnutella,\
+      \ Freenet, BitTorrent).</p><p>Suurimmat oikeudenhaltijayritykset ovat alusta\
+      \ alkaen vastustaneet tekijänoikeuden, lähioikeuksien ja sui generis tietokantaoikeuksien\
+      \ suojaamien teosten ja muiden aineistojen jakamista tällaisella tekniikalla,\
+      \ ja voimassa oleva lainsäädäntö vastaa pitkälti niiden toiveita.</p><p>Yksi\
+      \ kysymys on kuitenkin vielä ratkaisematta: onko oikeudenmukaista, että tekijänoikeudet,\
+      \ lähioikeudet ja sui generis -tietokantaoikeudet estävät teosten ja muun aineiston\
+      \ jakamisen?</p><p>Tekijänoikeuksien, lähioikeuksien ja sui generis tietokantaoikeuksien\
+      \ olisi osaltaan edistettävä kulttuurin, innovaatioiden ja sosiaalisen edistyksen\
+      \ levittämistä.</p><p>Voimassa olevassa lainsäädännössä kielletään tiedostojen\
+      \ jakaminen, jos ne sisältävät tekijänoikeuksien, lähioikeuksien ja sui generis\
+      \ tietokantaoikeuksien suojaamia teoksia ja muita aineistoja, ja rajoitetaan\
+      \ voimakkaasti tiede- ja kulttuurisisältöjen vapaata saatavuutta, joka on kirjattu\
+      \ ihmisoikeuksien yleismaailmallisen julistuksen 27 artiklan 1 kohtaan.</p><p>Tämä\
+      \ kysymys on noussut entistäkin tärkeämmäksi tekijänoikeudesta ja lähioikeuksista\
+      \ digitaalisilla sisämarkkinoilla 17 huhtikuuta 2019 annetun Euroopan parlamentin\
+      \ ja neuvoston direktiiviin (EU) 2019/790 myötä.</p><p>Direktiivillä on ristiriitainen\
+      \ vaikutus. Yhtäältä 17 artiklan ansiosta sisällönjakopalvelujen tarjoajien\
+      \ on nyt helpompaa saada lupa suojatun sisällön levittämiseen, mikä vahvistaa\
+      \ niiden asemaa etuoikeutettuina välittäjinä ja suosii niiden harjoittamaa teknistä\
+      \ valvontaa ja kansalaisten profilointia. Toisaalta tiedostojen jakaminen on\
+      \ edelleen kielletty.</p><p>Aloitteessa vaaditaan, että kansalaiset voisivat\
+      \ jakaa tiedostoja suoraan vertaisverkoissa, jolloin he voisivat saada tiede-\
+      \ ja kulttuurisisältöjä käyttöönsä joutumatta tarkastusten ja profiloinnin kohteiksi.\
+      \ EU-lainsäädäntö, joka mahdollistaisi tämän, olisi täysin kansainvälisen oikeuden\
+      \ mukainen, jos oikeudenhaltijoille myönnettäisiin oikeudenmukainen hyvitys.</p><p>Ihmisten\
+      \ ja perusoikeuksien pitäisi olla poliittisten ja lainsäädännöllisten päätösten\
+      \ keskiössä. Siksi on tarpeen muuttaa nykyisiä sääntöjä, joilla säännellään\
+      \ tekijänoikeuksilla, lähioikeuksilla ja sui generis tietokantaoikeuksilla suojattuja\
+      \ teoksia ja muita aineistoja sisältävien tiedostojen jakamista, jotta voidaan\
+      \ hyödyntää digitaalisten verkkojen tarjoamat mahdollisuudet vapauteen ja yhteiskunnan,\
+      \ kulttuurin ja talouden kehitykseen.</p>\n"
