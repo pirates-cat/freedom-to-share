@@ -1,3 +1,217 @@
 hr:
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.hr
+    text: Creative Commons licenca (licenca zajedničkih kreativnih dobara)
+  faq:
+    entries:
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        title: Jesu li platforme za razmjenu datoteka konkurenti Netflix-u, Spotify-u
+          i drugim platformama za distribuciju sadržaja?
+        body: "Ne. Budući da su mreže, nema jedinstvenog konkurenta: mreže za dijeljenje\
+          \ datoteka su distribuirane (ne postoji obvezni posrednik). Mreže za razmjenu\
+          \ datoteka u vlasništvu su građana koji u njima sudjeluju.\n"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "Novac za korištenje svojih djela dobit će od dijeljivača datoteka.\
+          \ Štoviše, omogućit će građanima pristup njihovim djelima na način koji\
+          \ nije pod nadzorom trećih strana: autori će uživati u većoj slobodi i njihova\
+          \ će djela biti pri ruci.\n"
+        title: Kako će sloboda dijeljenja datoteka koristiti umjetnicima?
+      what-is-the-sui-generis-database-right:
+        title: Što je točno pravo na Sui generis bazu podataka?
+      what-are-related-rights:
+        body: U zakonu o autorskim pravima srodna prava su prava kreativnog djela
+          koja nisu povezana sa stvarnim autorom djela. Unutar Europske unije, prava
+          filmskih producenata (za razliku od redatelja) i stvaratelja baza podataka
+          također su zaštićena srodnim pravima. Praktična je definicija da su srodna
+          prava autorska prava koja nisu obuhvaćena Bernskom konvencijom.
+        title: Šta su «srodna prava»?
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Jer vam dijeljenje datoteka p2p omogućuje da budete zaista društveni:\
+          \ kada dijelite datoteke, istodobno dobivate datoteke od drugih ljudi. Interakcija\
+          \ s algoritmom nije društvenost. P2P ponekad optimizira protok podataka,\
+          \ kada preuzimate datoteku koja je dostupna mnogim drugim korisnicima, mnogi\
+          \ od njih vam mogu istovremeno poslati različite dijelove, što znatno smanjuje\
+          \ vrijeme prijenosa.\n"
+        title: Volim biti društven. Zašto bi razmjena datoteka p2p trebala biti bolja
+          od distribucijskih (trenutnih) platformi?
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: Slobodan je ne objavljivati svoje djelo i tada se njegovo djelo neće
+          dijeliti. Kad je djelo javno, svi građani imaju neko pravo (pjevati privatno,
+          izrađivati kopije za osobnu upotrebu i, vjerujemo, koristiti mreže za razmjenu
+          datoteka za osobnu upotrebu).
+        title: Što ako se autor ne složi s dijeljenjem njegovog djela putem mreža
+          za razmjenu datoteka?
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: Društva za naplatu već imaju različite metode kako podijeliti među autorima
+          i drugim nositeljima prava fer naknade (novac prikupljen od poreza na privatne
+          kopije, itd.). Vjerujemo da bi raspodjela poštene naknade prikupljene za
+          dijeljenje datoteka mogla biti vrlo poštena ako se pravilno izvede. Kao
+          primjer, moglo bi se razviti transparentne i poštene statistike o djelima
+          koja se dijele putem mreža za razmjenu datoteka, implementirajući siguran
+          "brojač" koji mjeri broj prijenosa za svaku datoteku i dijeli ukupan prikupljeni
+          iznos proporcionalno između kreatora sadržaja.
+        title: Kako novac treba raspodijeliti među autore i druge nositelje prava?
+      are-you-against-authors:
+        body: Nikako. Želimo ažurirati autorska prava tako da budu kompatibilna sa
+          suvremenom stvarnošću i preferencijama ljudi. Vjerujemo da je moderna tehnologija
+          prilika za autore, a ne problem. Također vjerujemo da je štetno za autore
+          ovisiti i podržavati vrlo nepravedan i nepopularan status kvo zakona o autorskim
+          pravima. Neke autore bi ljudi cijenili i znali puno više o njima zahvaljujući
+          dijeljenju datoteka.
+        title: Jeste li protiv autora?
+      are-you-against-digital-platforms:
+        body: Ne, ako ne zlorabe svoju moć nadzora i profiliranja ljudi. Razni internetski
+          servisi koji su dominirali digitalnom distribucijom naše kulture mogu se
+          smatrati pozitivnim jer čine distribuciju učinkovitijom. Uklanjanje posrednika
+          također može smanjiti količinu novca bačenu na posrednike koji ne proizvode
+          nikakvu dodatnu kulturu. Međutim, ne vidimo zašto bi golemi centralizirani
+          internetski servisi koje vodi nekoliko multinacionalnih kompanija trebali
+          kontrolirati kulturu u digitalnoj eri. Pokušaji poput članka 17. u direktivi
+          790/2019 ("filtri za prijenos") bili su pogrešni i neizbježno će propasti
+          jer nisu uspjeli napasti korijenski problem.
+        title: Jeste li protiv digitalnih platformi?
+      this-is-not-a-new-idea:
+        body: Priznajemo, to je uglavnom stara ideja. Najpoznatija varijanta je vjerojatno
+          Fisherov prijedlog zakonskog propisivanja licenci da bi se riješio problem
+          poput isključivanja Napstera, jer je uspio zaustaviti samo 99,4% kršenja
+          autorskih prava, ali ne i 100%. <a href="http://www.free-culture.cc/freeculture.pdf">Vidi
+          "Slobodna kultura" (2004.), str. 307. </a>
+        title: Ovo nije nova ideja!
+      why-should-i-sign-this-european-citizen-initiative:
+        title: Zašto bih trebao potpisati ovu Europsku građansku inicijativu?
+        body: Potaknuti dijeljenje, a time i širenje kreativnih djela, drugih sadržaja
+          i kulture; imati slobodan pristup kreativnim djelima bez potrebe za nadzorom
+          i profiliranjem.
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        title: Želite li uništiti postojeće kanale digitalne distribucije?
+        body: Ne. Usluge opstaju dugoročno jer ih potrošači vole, a ne zato što političari
+          pišu ovaj ili onaj zakon.
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        title: Zašto je važno izbjegavati kontrolu i profiliranje od strane platformi?
+        body: Jer imate pravo biti slobodni. Slobodni da pretražite i pronađete djela
+          koja želite, vođeni vlastitom znatiželjom, a ne algoritamskim filtrima koji
+          odlučuju umjesto vas, bez upisivanja onoga što preuzmete u baze podataka
+          dobavljača.
+      how-will-file-sharing-freedom-benefit-citizens:
+        title: Kako će sloboda dijeljenja datoteka koristiti građanima?
+        body: Moći će slobodno pristupiti djelima putem mreža za razmjenu datoteka,
+          bez potrebe da koriste platforme koje ih profiliraju.
+      how-much-will-it-cost-for-users:
+        title: Koliko će to koštati korisnike?
+        body: Postoji spektar mogućih provedbi našeg prijedloga. Vjerujemo da je moguće
+          modernim statističkim metodama i ekonomijom temeljenom na dokazima izračunati
+          pravičnu naknadu za različite scenarije.
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        title: Ako je dijeljenje datoteka besplatno, kako će umjetnici zaraditi novac?
+        body: Oni će dobiti dio poštene naknade prikupljene za upotrebu njihovih djela.
+          To će biti dodatak na njihove ostale naknade.
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        title: Što bi autori trebali učiniti kako bi bili sigurni da je njihovo djelo
+          dostupno za dijeljenje datotekama?
+        body: Da ga objave i pričekaju da ga građani podijele. Ako žele, svoj rad
+          mogu i osobno učiniti dostupnim putem mreža za razmjenu datoteka.
+      are-you-against-rightsholders:
+        title: Jeste li protiv nositelja prava?
+        body: Ne, sve dok slijede navedene ciljeve autorskog prava (i prava samog
+          autora), a to je promicanje kulture i društveni napredak. Mnogi su izgubili
+          priliku kada su napali Napster početkom 2000-ih; mogli su se prikloniti
+          tome i dobiti besplatnu mašinu za novac. Umjesto toga, propustili su desetljeće
+          i sada ovise o naknadama od Spotify-a, Apple-a itd. za njihov opstanak.
+          Naš je prijedlog prilika i za udruge za naplatu, izdavače, izdavačke kuće
+          i druge nositelje prava.
+      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
+      : title: Da li istinito dijeljenje datoteka daje priliku pronaći stvari koje
+          su vrlo rijetke / nema ih više na tržištu / koje se nalaze na nekom nepoznatom
+          mjestu, a teško ih je pronaći?
+        body: Da, sve dok ga ima neki dio mreže. Ponekad, kad uobičajeni kanal zakaže,
+          neke su stvari već spremne za prikupljanje. Danas je na nekim mrežama dostupno
+          10-40 milijuna datoteka s milijunom korisnika-čvorova.
+      this-is-only-a-dream:
+        title: Ovo je samo san!
+        body: Shvaćamo da je naš prijedlog jedini način da se krene prema autorskim
+          pravima zasnovanim na temeljnim pravima. Mislimo da je ponekad potrebna
+          takva ambicija.
+      you-want-to-violate-copyright:
+        title: Želite kršiti autorska prava!
+        body: Ne. Želimo promijeniti autorska prava i naš je prijedlog kompatibilan
+          s Bernskom konvencijom i srodnim ugovorima.
+    acronym: Često postavljana pitanja
+    title: Često postavljana pitanja
+  home:
+    hero:
+      action: Zaprati
+      text: Treba nam milijun potpisa. Počet ćemo ih prikupljati 15. studenog 2020.
+        <strong> Pridruži nam se! </strong>
+    hero2:
+      text: <strong> Legalizirajmo dijeljenje datoteka! </strong> <br> Okupljamo se
+        iz cijele Europe kako bismo zatražili od Europske komisije da usvoji pravila
+        o autorskim pravima koja su poštena i prema autorima i prema korisnicima.
+      action: Potpiši se ovdje!
+    cta: Pridružite se Europskoj građanskoj inicijativi za slobodu dijeljenja
+    official_text:
+      title: Pročitajte službeni tekst inicijative
+      body: Naša inicijativa poziva na usvajanje zakonodavnog akta kojim se predviđa
+        odustajanje od autorskih prava, srodnih prava i prava baze podataka sui generis
+        za fizičke osobe koje dijele datoteke putem digitalnih mreža za osobnu upotrebu
+        i neprofitne svrhe.
+    take_action:
+      title: Zauzmi stav
+      body: "Podijelite ovu inicijativu sa svojim prijateljima i kontaktima: pišite\
+        \ im, dijelite informativne materijale, razgovarajte s njima itd.\n"
+    donate:
+      title: Donirajte
+      open_collective: Donirajte našem cilju
+    widget:
+      steps:
+        one: Pridruži nam se!
+        few: Pridružite nam se!
+        other: Pridružite nam se!
+  eci:
+    description:
+      title: Opis
+      body: Ozakoniti dijeljenje - putem digitalnih mreža, za osobnu upotrebu i neprofitne
+        svrhe - datoteka koje sadrže djela i drugi materijal zaštićen autorskim pravima,
+        srodnim pravima i pravima baza podataka sui generis, u cilju postizanja ravnoteže
+        između prava autora i drugih nositelja prava i univerzalnog prava na znanost
+        i kulturu.
+    official_text: "<p> Naša inicijativa poziva na usvajanje zakonodavnog akta kojim\
+      \ se predviđa odustajanje od autorskih prava, srodnih prava i prava baza podataka\
+      \ sui generis za fizička lica koja dijele datoteke putem digitalnih mreža za\
+      \ osobnu upotrebu i neprofitne svrhe. </p> < p> Dijeljenje datoteka nastalo\
+      \ je 1999. godine, pojavom Napstera. Tijekom godina tehnologija je učinila distribuirano\
+      \ (ili peer-to-peer) dijeljenje datoteka sve učinkovitijim (npr. Gnutella, Freenet,\
+      \ BitTorrent). </p> <p> Od početka su se tvrtke koje su glavni nositelji prava\
+      \ usprotivile korištenju tehnologija za dijeljenje djela i drugih materijal\
+      \ koji su zaštićeni autorskim pravima, srodnim pravima i pravima na baze podataka\
+      \ sui generis, a trenutno je zakonodavstvo uglavnom u skladu s njihovim željama.\
+      \ </p> <p> Međutim, ostaje jedno pitanje: da li je pošteno da autorska prava,\
+      \ srodna prava i prava baza podataka sui generis spriječavaju dijeljenje djela\
+      \ i drugog materijala? </p> <p> Autorska prava, srodna prava i prava baze podataka\
+      \ sui generis trebali bi pomoći u poticanju širenja kulture, inovacija i društvenog\
+      \ napretka . </p> <p> Postojeće zakonodavstvo zabranjuje dijeljenje datoteka\
+      \ koje sadrže djela i drugi materijal koji je zaštićen autorskim pravima, srodnim\
+      \ pravima i pravima baze podataka sui generis i ozbiljno umanjuje slobodu pristupa\
+      \ znanosti i kulturi sadržanu u članku 27. stavku 1. Univerzalnog deklarata\
+      \ o ljudskim pravima. </p> <p> Ovo je pitanje danas još važnije od usvajanja\
+      \ Direktive (EU) 2019/790 Europskog parlamenta i Vijeća od 17. travnja 2019.\
+      \ o autorskim i srodnim pravima u jedinstvenom digitalnom tržištu. </p> <p>\
+      \ Direktiva ima suprotan učinak. S jedne strane, članak 17. pružateljima usluga\
+      \ internet razmjene sadržaja olakšava dobivanje odobrenja za širenje zaštićenog\
+      \ sadržaja, olakšavajući im tako ulogu privilegiranih posrednika i potičući\
+      \ njihovu praksu tehničke kontrole i profiliranja građana. S druge strane, dijeljenje\
+      \ datoteka i dalje je zabranjeno. </p> <p> Ova inicijativa traži da se građanima\
+      \ dozvoli izravno dijeljenje datoteka putem peer-to-peer mreža kako bi imali\
+      \ pristup znanosti i kulturi bez podvrgavanja provjerama i profiliranju. Zakonodavstvo\
+      \ EU-a koje bi to omogućilo bilo bi u potpunosti kompatibilno s međunarodnim\
+      \ pravom kad bi se nositeljima prava davala poštena naknada. </p> <p> Ljudi\
+      \ i temeljna prava moraju biti u središtu političkih i zakonodavnih odluka.\
+      \ Stoga je potrebno izmijeniti trenutna pravila koja reguliraju dijeljenje datoteka\
+      \ koja sadrže djela i drugi materijal zaštićen autorskim pravima, srodnim pravima\
+      \ i pravima baza podataka sui generis kako bi se ostvario potencijal za slobodu\
+      \ i socijalni, kulturni i ekonomski razvoj digitalnim mrežama. </p>\n"
+    name: Ime Europske građanske inicijative
+  contact:
+    presentation: "GOIPE je neprofitna udruga, u skladu s člankom 36. talijanskog\
+      \ građanskog zakonika, stvorena za organiziranje europske građanske inicijative.\n\
+      Našu europsku građansku inicijativu \"Sloboda dijeljenja\" službeno su predali\
+      \ Europskoj komisiji građani osam europskih zemalja.\n"
