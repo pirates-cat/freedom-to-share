@@ -48,13 +48,17 @@ lb:
     Download explanation: Däin Dokument ass prett. Mir schécken dir och eng Mail.
   contact:
     fiscal_code: Code fiscal
+    presentation: "De GOIPE ass eng ASBL, déi als Zil huet EU-Bierger-Initiativen\
+      \ z'organiséieren (nom Artikel 36 vum italienesche Code Civil).\nDës \"Freedom\
+      \ to Share\"–Initiative gouf offiziell vun europäesche Bierger aus 8 EU-Memberstaaten\
+      \ un d'EU-Kommissioun geschéckt.\n"
   creative-commons:
     text: Creative Commons Lizenz
     url: http://creativecommons.org/lizenzen/by-sa/4.0/
   home:
     hero:
-      text: Mir brauchen eng Millioun Ënnerschrëften. De 15. November 2020 geet et
-        lass; ab da sammele mir Signaturen. <strong>Maach mat!</strong>
+      text: Mir brauchen eng Millioun Ënnerschrëften. De 15te November 2020 geet et
+        lass; ab do sammele mir Ënnerschrëften. <strong>Maach mat!</strong>
       action: abonéier
   messages:
     missing_translations:
