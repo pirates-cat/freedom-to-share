@@ -48,6 +48,11 @@ cs:
     germany: Německo
     italy: Itálie
     sweden: Švédsko
+    spain: Španělsko
+    belgium: Belgie
+    estonia: Estonsko
+    france: Francie
+    netherlands: Nizozemí
   contact:
     fiscal_code: Daňový kód
   creative-commons:
@@ -58,17 +63,92 @@ cs:
       text: Potřebujeme jeden milion podpisů. Sbírat je začneme 15. listopadu 2020.
         <strong>Přidej se!</strong>
       action: Odebírat
+    official_text:
+      title: Přečti si oficiální text iniciativy
   messages:
     missing_translations:
       first: Naší stránce schází překlad do tvého jazyka.
       second: Pomoz nám!
     get_involved: Zapoj se
+    read_more: Přečíst více
   pages:
     press: Média
     organizations: Organizace, které nás podporují
     contact: Kontakty
     home: Domů
     privacy: Zásady ochrany osobních údajů
+    languages: Jazyky
+    certification: Certifikace
   press:
     published_at: "Zveřejněno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\ndne %{date}\n"
+  faq:
+    entries:
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        title: Nejsem si jist, jestli jsem ECI již podepsal. Mohu podepsat iniciativu
+          podruhé, nebo bude můj podpis neplatný?
+        body: Ano, podepiš iniciativu znovu, pokud si nejsi jistý. Tvůj podpis bude
+          platný a bude započítán pouze jednou. Software automaticky pozná opakované
+          podepsání iniciativy a duplicity odstraní.
+      why-do-i-have-to-provide-so-much-personal-information:
+        title: Proč musím poskytnout tolik osobních údajů?
+      why-should-i-sign-this-european-citizen-initiative:
+        title: Proč bych měl podepsat tuto evropskou občanskou iniciativu?
+      how-will-file-sharing-freedom-benefit-citizens:
+        title: Jaké výhody přinese svoboda sdílení souborů občanům?
+      how-will-freedom-to-share-files-benefit-artists:
+        title: Jaké výhody přinese svoboda sdílení souborů umělcům?
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        title: Pokud bude sdílení souborů bezplatné, jak budou umělci vydělávat peníze?
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Bude legální sdílet všechny soubory?
+      is-file-sharing-legal:
+        body: Sdílení souborů prostřednictvím peer-to-peer sítí není legální. Cílem
+          této iniciativy je změnit zákon v Evropské unii.
+        title: Je sdílení souborů legální?
+      how-do-you-think-file-sharing-should-be-regulated:
+        title: Jak by mělo být sdílení souborů dle Vás regulováno?
+        body: Věříme, že sdílení souborů by mělo být bezplatné pro soukromé použití
+          občany; Autoři a další držitelé práv by měli dostat spravedlivou odměnu
+          za využívání jejich díla občany.
+      what-is-file-sharing:
+        title: Co je to sdílení souborů?
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        title: Jak by se měly rozdělit peníze mezi autory a dalšími držiteli práv?
+      what-is-a-european-citizen-initiative:
+        title: Co je to Evropská občanská iniciativa?
+        body: "ECI je možnost, kterou dává komise Evropské unie občanům EU k navržení\
+          \ změn legislativy. Odkaz na stránku na Wikipedii pod <a href=\"https://cs.wikipedia.org/wiki/Evropsk%C3%A1_ob%C4%8Dansk%C3%A1_iniciativa\"\
+          >Evropská občanská iniciativa</a>.\n"
+      you-want-to-violate-copyright:
+        title: Chcete zničit autorská práva!
+        body: Nikoliv. Chceme změnit autorská práva a náš návrh je v souladu s Bernskou
+          úmluvou a souvisejícími smlouvami.
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        title: Jsem příslušníkem jednoho členského státu EU, žiji ale v jiném členském
+          státu EU. Který členský stát mám uvést při podpisu iniciativy?
+      are-you-against-digital-platforms:
+        title: Jste proti digitálním platformám?
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        title: Chcete zničit stávající digitální distribuční kanály?
+        body: Ne. Služby přežijí dlouhodobě, protože je zákazníci mají rádi, nikoliv
+          kvůli politikům, kteří schválí ten či onen zákon.
+      are-you-against-authors:
+        title: Jste proti autorům?
+      are-you-against-rightsholders:
+        title: Jste proti držitelům práv?
+      what-is-the-sui-generis-database-right:
+        title: Co jsou to databázová práva sui generis?
+      this-is-only-a-dream:
+        title: Je to jen sen!
+      this-is-not-a-new-idea:
+        title: To není žádný nový nápad!
+  eci:
+    name: Název evropské občanské iniciativy
+    description:
+      title: Popis
+      body: Za legalizaci sdílení (prostřednictvím digitálních sítí, pro osobní použití
+        a pro neziskové účely) souborů obsahujících díla a další materiály chráněné
+        autorským právem, souvisejícími právy a databázovými právy sui generis s cílem
+        nastolit rovnováhu mezi právy autorů a jinými nositeli práv a univerzálním
+        právem na vědu a kulturu.
