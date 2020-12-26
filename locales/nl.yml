@@ -6,6 +6,7 @@ nl:
     privacy: Privacy policy
     press: In de pers
     certification: Certificering
+    languages: Talen
   creative-commons:
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.nl
     text: Creative Commons Licentie
@@ -110,7 +111,7 @@ nl:
   faq:
     entries:
       why-should-i-sign-this-european-citizen-initiative:
-        title: Waarom zou ik dit Europees Burgerinitiatief moeten ondertekenen?
+        title: Waarom zou ik dit Europees burgerinitiatief moeten ondertekenen?
         body: Om het delen te bevorderen en daarmee het verspreiden van creatieve
           werken, andere werken en cultuur; om vrijelijk toegang te hebben tot creatieve
           werken, zonder onderworpen te worden aan regels en profilering.
@@ -160,7 +161,7 @@ nl:
           voor organisaties om de vergoeding op te halen voor uitgeverijen, platenmaatschappijen
           en andere rechthebbenden.
       are-you-against-digital-platforms:
-        title: Ben je tegen digitale platformen?
+        title: Zijn jullie tegen digitale platformen?
         body: Nee, zolang ze hun macht niet misbruiken om mensen onder controle te
           houden en te profileren. De verschillende internetdiensten die de digitale
           distributie van cultuur domineren, kunnen een positieve bijdrage leveren
@@ -172,7 +173,7 @@ nl:
           ("upload filters") zijn misleidend en zullen uiteindelijk falen, omdat ze
           niet de oorzaak van het probleem aanpakken.
       do-you-want-to-destroy-existing-digital-distribution-channels:
-        title: Wil je de huidige digitale distributiekanalen weg hebben?
+        title: Willen jullie de huidige digitale distributiekanalen weg hebben?
         body: Nee. Diensten blijven op lange termijn bestaan omdat consumenten ze
           willen, niet omdat politici een of andere wet voorschrijven.
       this-is-not-a-new-idea:
@@ -247,6 +248,106 @@ nl:
         title: Als file sharing gratis is, hoe verdienen artiesten dan nog geld?
         body: Zij ontvangen een deel van de eerlijke vergoeding die geïnd wordt voor
           het gebruik van hun werk. Dit komt bovenop hun gebruikelijke vergoedingen.
+      what-is-the-sui-generis-database-right:
+        title: Wat is een Sui Generis databank recht?
+        body: Het sui generis recht beschermt databanken, waar substantieel in geïnvesteerd
+          is in het verkrijgen, verifïeren of presenteren van de informatie en beschermt
+          tegen ongeauthoriseerd ophalen en hergebruik van de informatie. Er is geen
+          vereiste van creativiteit of originaliteit. Dit recht is 15 jaar geldig
+          vanaf het moment dat de niet-creatieve databank gemaakt is. Het is anders
+          en onafhankelijk van auteursrecht, dat het originele werk beschermt. Sui  Generis
+          databank recht hoort in de familie van «gerelateerde rechten», i.e. vergelijkbaar
+          maar onafahankelijk van auteursrecht.
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        title: Ik ben een EU burger die buiten de EU woont. Kan ik de ECI toch ondertekenen?
+        body: Dat hangt af van welk EU lidstaat je een burger bent. EU lidstaten mogen
+          verschillende eisen stellen, waardoor je wel of niet online kunt ondertekenen.
+          Sommige lidstaten vereisen dat je woont op een adres binnen de EU.
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        title: Ik ben een burger van een EU lidstaat, maar ik woon in een andere EU
+          lidstaat. In welke lidstaat kan ik ondertekenen?
+        body: "Je mag zelf kiezen of je tekent vanuit de EU lidstaat van je nationaliteit,\
+          \ of de EU lidstaat waar je woont. Hou er wel rekening mee dat je maar één\
+          \ keer kunt tekenen voor de ECI “Freedom to Share”. De ingevulde data voor\
+          \ de ondertekening bepaalt in welk land je handtekening telt. Bijvoorbeeld\
+          \ een burger van Oostenrijk die in Estland woont, kan kiezen om a) het formulier\
+          \ van Estland in te vullen met je volledige voornamen, achternaam, adres,\
+          \ geboortedatum, geboorteplaats en nationaliteit - in dit geval zal de ondertekening\
+          \ in Estland gecontroleerd en geteld worden, of b) het formulier voor Oostenrijk\
+          \ in te vullen en de eerder genoemde informatie aan te vullen met het registratienummer\
+          \ van een identificatiedocument die goedgekeurd is door Oosstenrijk - in\
+          \ dit geval zal de ondertekening in Oostenrijk gecontroleerd en geteld worden.\n"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        title: Ik weet niet zeker of ik de ECI al ondertekend heb. Kan ik nomgaals
+          ondertekenen, of wordt mijn ondertekening dan ongeldig?
+        body: Ja, teken nogmaals als je er niet zeker van bent. Ook al heb je meerdere
+          keren getekend, hij telt maar een keer mee. De software detecteert automatisch
+          dubbele handtekeningen en zal deze ontdubbelen.
+      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
+      : title: Kan dit vvorstel gebruikt worden als een overkoepelende wet voor de
+          distributie van persoonlijke informatie, zoals persoonsgegevens, privé foto's,
+          etc.?
+        body: Nee, dit voorstel gaat alleen over gepubliceerd materiaal. Het delen
+          van ongepubliceerd materiaal blijft illegaal. Bovendien zijn persoonsgegevens
+          beschermd door de AVG.
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Wordt het delen van alle bestanden hiermee legaal?
+        body: "Nee, wij stellen alleen een wijziging voor op het auteursrecht en aanverwante\
+          \ wetten. Er zijn nog vele andere wetten die specifieke gevallen verbieden:\
+          \ denk aan handelsgeheim, privacy, etc.\n"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Een Europees burgerinitiatief iss anders dan een \"normale\" petitie:\
+          \ het is een officieel democratisch insstrument die EU burgers de mogelijkheid\
+          \ geeft om Europa te veranderen door aan de Europese Commissie een wetsvoorstel\
+          \ te doen. Wanneer we een miljoen (geldige) handtekeningen verzamelen, dan\
+          \ moet de Europese Commissie ons voorstel behandelen. Wij bepalen niet welke\
+          \ informatie nodig is voor een Europees Burgerinitiatief, dat bepalen de\
+          \ lidstaten zelf. Elke EU lidstaat bepaalt zelf welke informatie nodig is\
+          \ en die informatie hebben we ndig voor geldige handtekeningen die geteld\
+          \ gaan worden. Daarom moet je voor een ECI meer persoonsgegevens invullen\
+          \ dan voor andere \"petities\".\n"
+        title: Waarom moet ik zoveel persoonlijke informatie invullen?
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Als eerste kun je de ECI ondertekenen. Dit brengt ons dichter bij het\
+          \ doel van een miljoen handtekeningen, zodat de Europese Commissie ons voorstel\
+          \ moet behandelen. Daarnaast kun je op andere manieren helpen: 1. verspreid\
+          \ deze campagne onder vrienden en andere contactpersonen (schrijf ze aan,\
+          \ verspreid campagnemateriaal, praat met ze, etc. Wij moeten binnen 12 maanden\
+          \ een miljoen handtekeningen verzamelen). 2. neem contact met ons op en\
+          \ help mee met de organisatie en verspreiding van de campagne in je land,\
+          \ gecoördineerd met andere vrijwilligers. 3. als laatste (maar zeker niet\
+          \ als minste) kun je een donatie geven aan deze campagne.\n"
+        title: Ok, ik snap het. Wat kan ik doen om filesharing legaal te maken?
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "Dat ligt er aan hoe ons voorstel tot wet verwerkt wordt. Er zijn verschillende\
+          \ mogelijkheden: 1. gebruikers moeten een licentie betalen om filesharing\
+          \ netwerken te mogen gebruiken om bestanden te delen die onder het auteursrecht\
+          \ (en gerelateerde rechten) vallen. 2. een kleine toeslag op het gebruik\
+          \ van internet (en daarmee filoesharing mogelijk te maken). 3. de overheid\
+          \ betaalt een vergoeding (vanuit belastingen, zoals de thuiskopieheffing).\n"
+        title: Ik zie dat er geld mee gemoeid is. Wie krijgt waar voor betaald?
+      is-file-sharing-legal:
+        title: Is filesharing legaal?
+        body: Filesharing via peer-to-peer netwerken is niet legaal. Dit initiatief
+          is gestart om de wet in de Europese Unie te veranderen, zodat het wel legaal
+          wordt.
+      how-do-you-think-file-sharing-should-be-regulated:
+        title: Hoe zou filesharing gereguleerd moeten worden?
+        body: Wij vinden dat filesharing mogelijk moet zijn voor privégebruik door
+          burgers; auteurs en andere rechthebbenden moeten een eerlijke vergoeding
+          krijgen voor hun werk vanuit de burgers.
+      what-is-file-sharing:
+        title: Wat is filesharing?
+        body: Filesharing is het beschikbaar stellen en kopiëren van bestanden op
+          een digitale manier. Meestal gaat het om peer-to-peer newerken, maar het
+          kan bijvoorbeeld ook via een email attachment of op een fysieke drager (USB
+          stick, etc.), etc.
+      what-is-a-european-citizen-initiative:
+        body: "Een ECI is een instrument van de Europese Unie om burgers de mogelijkheid\
+          \ te geven verandering in de wetgeving op te starten. Link naar Wikipedia\
+          \ over <a href=\"https://nl.wikipedia.org/wiki/Europees_burgerinitiatief\"\
+          >Europees burgerinitiatief</a>.\n"
+        title: Wat is een Europees burgerinitiatief?
     acronym: FAQ
     title: Veel Gestelde Vragen
   act:
