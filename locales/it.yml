@@ -14,9 +14,9 @@ it:
       action: Sottoscrivi
     hero2:
       action: Firna qui!
-      text: <strong>Legalizziamo il filesharing!</strong><br>Arriviamo insieme da
-        tutta Europa per chiedere alla Commissione Europea di adottare regole per
-        il Diritto d'Autore che siano giuste per creatori e utenti.
+      text: <strong>Legalizziamo il filesharing!</strong><br>Ci stiamo unendo da tutta
+        l'Europa per chiedere alla Commissione Europea di adottare norme sul diritto
+        d'autore che siano giuste per creatori e utenti.
     cta: Unisciti all'Iniziativa Europea dei Cittadini "Libertà di Condividere"
     official_text:
       title: Leggi il testo ufficiale dell'iniziativa
@@ -393,10 +393,9 @@ it:
           dell'iniziativa è quello di cambiare la legge nell'Unione Europea.
       how-do-you-think-file-sharing-should-be-regulated:
         title: Come pensate che debba essere regolamentata la condivisione dei file?
-        body: Riteniamo che il file sharing dovrebbe essere gratuito in caso d'uso
-          privato da parte dei cittadini; gli autori e gli altri titolari dei diritti
-          dovrebbero ricevere un'equa remunerazione per l'uso delle loro opere da
-          parte dei cittadini.
+        body: Riteniamo che il file sharing dovrebbe essere libero in caso d'uso privato
+          da parte dei cittadini; gli autori e gli altri titolari dei diritti dovrebbero
+          ricevere un'equa remunerazione per l'uso delle loro opere da parte dei cittadini.
       what-is-file-sharing:
         title: Cos'è il file sharing?
         body: La condivisione dei file è l'atto di fornire l'accesso a un'opera con
