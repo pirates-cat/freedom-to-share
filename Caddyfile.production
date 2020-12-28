@@ -6,6 +6,10 @@ http://freesharing.eu {
     @http header X-Forwarded-Proto http
     redir @http https://freesharing.eu{uri}
 
+    reverse_proxy /d/* https://sign.freesharing.eu {
+        header_up Host {http.reverse_proxy.upstream.host}
+    }
+
     root * /srv
     encode zstd gzip
     file_server

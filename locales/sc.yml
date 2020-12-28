@@ -1,12 +1,13 @@
-contact:
-  fiscal_code: Còdighe fiscale
+sc:
   contact:
-    presentation: "GOIPE est un'assòtziu sena iscopu de lucru segundu s'artìculu 36\
-      \ de su còdighe tzivile de s'Istadu italianu, nàschidu cun su propòsitu de organizare\
-      \ Initziativas Tzitadinas Europeas.\nS'initziativa \"Freedom to share\" est\
-      \ istada presentada in manera ufitziale a sa Cummissione Europea dae persones\
-      \ de oto paisos europeos:\n"
     fiscal_code: Còdighe fiscale
+    contact:
+      presentation: "GOIPE est un'assòtziu sena iscopu de lucru segundu s'artìculu 36\
+        \ de su còdighe tzivile de s'Istadu italianu, nàschidu cun su propòsitu de organizare\
+        \ Initziativas Tzitadinas Europeas.\nS'initziativa \"Freedom to share\" est\
+        \ istada presentada in manera ufitziale a sa Cummissione Europea dae persones\
+        \ de oto paisos europeos:\n"
+      fiscal_code: Còdighe fiscale
   creative-commons:
     text: Lissèntzia Creative Commons
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.it

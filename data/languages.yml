@@ -171,7 +171,7 @@ nl:
   code: nl
   name: Nederlands
   script: latin-ext
-  translated: false
+  translated: true
   country: nl
   dir: ltr
   widget: true

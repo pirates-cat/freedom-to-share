@@ -1,9 +1,9 @@
 <% content_for :head do %>
   <meta name="turbolinks-visit-control" content="reload">
   <% if data.languages[::I18n.locale]['widget'] %>
-    <script id="proca" defer src="https://sign.freesharing.eu/d/freedomtoshare/<%= ::I18n.locale %>/"></script>
+    <script id="proca" defer src="https://freesharing.eu/d/freedomtoshare/<%= ::I18n.locale %>/"></script>
   <% else %>
-    <script id="proca" defer src="https://sign.freesharing.eu/d/freedomtoshare/en/"></script>
+    <script id="proca" defer src="https://freesharing.eu/d/freedomtoshare/en/"></script>
   <% end %>
 <% end %>
 

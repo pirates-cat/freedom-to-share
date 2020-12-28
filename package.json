@@ -44,6 +44,8 @@
     "serve": "yarn run middleman:serve",
     "middleman:serve": "bundle exec middleman serve",
     "middleman:build": "bundle exec middleman build",
-    "import": "bundle exec ruby bin/wordpress-import.rb"
+    "import": "bundle exec ruby bin/wordpress-import.rb",
+    "deploy": "flyctl deploy",
+    "update": "yarn run import && yarn run middleman:build && yarn run deploy"
   }
 }

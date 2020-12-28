@@ -1,4 +1,15 @@
+{
+    debug
+}
+
 :8080
 
-root * /srv
+reverse_proxy /d/* https://sign.freesharing.eu {
+    header_up Host {http.reverse_proxy.upstream.host}
+}
+
+root /assets/* ./tmp/dist/assets
+root * ./build
+
+encode zstd gzip
 file_server
