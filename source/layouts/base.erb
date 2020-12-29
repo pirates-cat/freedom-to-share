@@ -93,7 +93,7 @@
         <%= yield %>
       </main>
       <footer class="text-white bg-primary">
-        <div class="container grid grid-cols-1 gap-6 py-8 md:py-16 place-items-center">
+        <div class="container grid grid-cols-1 gap-6 py-8 text-center md:py-16 place-items-center">
           <img src="/images/fts-white.png" width="88">
           <a rel="license" href="<%= t('creative-commons.url') %>">
             <img alt="<%= t('creative-commons.text') %>" style="border-width:0" src="/images/cc.png">
@@ -102,6 +102,9 @@
             <a href="<%= url_for('/privacy') %>"><%= t('pages.privacy') %></a>
             <a href="<%= url_for('/certification') %>"><%= t('pages.certification') %></a>
           </div>
+          <p class="max-w-screen-md text-black">
+            <%= t('footer.about') %>
+          </p>
         </div>
       </footer>
     </div>
