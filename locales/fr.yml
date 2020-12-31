@@ -20,7 +20,7 @@ fr:
     cta: Rejoignez l'initiative citoyenne européenne "Freedom to Share"
     official_text:
       title: Lisez le texte officiel de l'initiative
-      body: Nôtre initiative est un appel pour l'adoption d'un acte législatif qui
+      body: Notre initiative est un appel pour l'adoption d'un acte législatif qui
         vient pour renoncer aux droits d'auteurs, droits voisins et à la protection
         juridique des bases de données pour les personnes physiques qui partagent
         des fichiers via les plateformes numériques pour un usage personnel et dans
@@ -442,3 +442,7 @@ fr:
       \ sui generis sur les bases de données afin de permettre le potentiel de liberté\
       \ et de développement social, culturel et économique offert par les réseaux\
       \ numériques. </p>\n"
+  footer:
+    about: Ce site web est géré par GOIPE, une association dont la mission est de
+      proposer et promouvoir les Initiatives Citoyennes Européennes pour une meilleure
+      Europe.
