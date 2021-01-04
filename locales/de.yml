@@ -431,3 +431,7 @@ de:
       \ <a href=\"#proca_dialog\" data-turbolinks=\"false\">Abonniere!</a></p>\n<p>Hilf\
       \ bei der Übersetzung mit: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
       >Weblate</a></p>\n<p>Unterstütze die Kampagne mit einer Spende:</p>\n"
+  footer:
+    about: Diese Website wird von GOIPE verwaltet, einer gemeinnützigen Organisation,
+      deren Aufgabe es ist, europäische Bürgerinitiativen für ein besseres Europa
+      vorzuschlagen und zu fördern.
