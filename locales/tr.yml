@@ -10,7 +10,28 @@ tr:
     donate:
       title: Bağış yap
       open_collective: Kollektifimize bağış yap
+    hero:
+      action: Abone ol
+    widget:
+      steps:
+        one: Bize katıl!
+        other: Bize katılın!
+    official_text:
+      title: İnsıyatifin resmi metnini oku
   eci:
     name: Avrupa Birliği Vatandaş İnsiyatifinin Adı
     description:
       title: Açıklama
+  faq:
+    entries:
+      you-want-to-violate-copyright:
+        title: Sizler telif haklarını ihlal etmek istiyorsunuz!
+        body: Hayır. Biz telif hakkını değiştirmek istiyoruz ve teklif ettiğimiz,
+          Berne Konvensiyonu ve alakalı antlaşmalarla uyumlu.
+      what-is-the-sui-generis-database-right:
+        title: Sui Generis Veritabanı Hakkı nedir?
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        title: Eğer dosya paylaşmak serbest olursa, sanatçılar nasıl para kazanacak?
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        title: Mevcut dijital dağıtım kanallarını yok etmek mi istiyorsunuz?
+    title: Sık Sorulan Sorular
