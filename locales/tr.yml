@@ -3,3 +3,14 @@ tr:
     germany: Almanya
     italy: İtalya
     sweden: İsveç
+  home:
+    take_action:
+      body: "Bu insiyatifi arkadaşlarınla ve irtibatlarınla paylaş: onlara yaz, iletişim\
+        \ malzemelerini yay, onlarla konuş, vb.\n"
+    donate:
+      title: Bağış yap
+      open_collective: Kollektifimize bağış yap
+  eci:
+    name: Avrupa Birliği Vatandaş İnsiyatifinin Adı
+    description:
+      title: Açıklama
