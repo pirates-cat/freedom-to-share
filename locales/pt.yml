@@ -84,11 +84,20 @@ pt:
     take_action:
       body: "Divulgue esta iniciativa com os seus amigos e contactos: escreva-lhes,\
         \ divulgue o material de comunicação, fale com eles, etc.\n"
+      title: Atue
     official_text:
       title: Leia o texto oficial da iniciativa
+      body: A nossa iniciativa demanda a adoção de um marco legislativo que estabeleça
+        uma isenção aos direitos autorais, direitos afins e direitos de banco de dados
+        sui generis para pessoas físicas que compartilhem arquivos através de redes
+        digitais para uso pessoal e sem fins lucrativos.
     donate:
       title: Doar
       open_collective: Doar à nossa causa
+    widget:
+      steps:
+        one: Una-se a nós!
+        other: Unam-se a nós!
   press:
     published_at: "Publicado por\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nem %{date}\n"
