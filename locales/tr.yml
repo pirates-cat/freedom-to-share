@@ -7,6 +7,7 @@ tr:
     take_action:
       body: "Bu insiyatifi arkadaşlarınla ve irtibatlarınla paylaş: onlara yaz, iletişim\
         \ malzemelerini yay, onlarla konuş, vb.\n"
+      title: Harekete geç
     donate:
       title: Bağış yap
       open_collective: Kollektifimize bağış yap
@@ -18,6 +19,7 @@ tr:
         other: Bize katılın!
     official_text:
       title: İnsıyatifin resmi metnini oku
+    cta: Avrupa Vatandaşları'nın Paylaşma Hakkı İnsıyatifi'ni Destekle
   eci:
     name: Avrupa Birliği Vatandaş İnsiyatifinin Adı
     description:
