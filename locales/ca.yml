@@ -419,3 +419,7 @@ ca:
           \ per impulsar canvis en la legislació. Llegeix l'entrada de la Viquipèdia\
           \ <a href=\"https://ca.wikipedia.org/wiki/Iniciativa_Ciutadana_Europea\"\
           >Iniciativa Ciutadana Europea</a>.\n"
+  footer:
+    about: Aquest lloc web està gestionat per GOIPE, una organització sense ànim de
+      lucre amb la missió de proposar i promoure Iniciatives Ciutadanes Europees per
+      una Europa millor.
