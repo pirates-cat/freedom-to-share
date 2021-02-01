@@ -203,7 +203,7 @@ pt:
   code: pt
   name: português
   script: latin
-  translated: false
+  translated: true
   country: pt
   dir: ltr
   widget: true
@@ -227,7 +227,7 @@ sc:
   code: sc
   name: sardu
   script: latin
-  translated: false
+  translated: true
   country: it
   dir: ltr
   widget: false
