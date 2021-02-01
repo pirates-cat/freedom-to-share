@@ -93,6 +93,8 @@ ro:
         pentru utilizare personală și în scopuri non-profit.
     take_action:
       title: Acționează
+    donate:
+      title: Donează
   messages:
     missing_translations:
       first: Site-ul nostru are nevoie de traduceri in limba ta.
