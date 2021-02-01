@@ -40,6 +40,7 @@ sc:
     take_action:
       body: "Difunde custa initziativa cun is amistades e is cuntatos tuos: iscrie·ddis,\
         \ difunde is materiales de comunicatzione, chistiona·nde, etc.\n"
+      title: Assione
     donate:
       title: Faghe una donatzione
       open_collective: Faghe una donatzione a su colletivu nostru
