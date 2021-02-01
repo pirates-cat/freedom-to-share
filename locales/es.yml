@@ -427,3 +427,7 @@ es:
           \ para impulsar cambios en la legislación. Lee la entrada de la Wikipedia\
           \ <a href=\"https://es.wikipedia.org/wiki/Iniciativa_Ciudadana_Europea\"\
           >Iniciativa Ciudadana Europea</a>.\n"
+  footer:
+    about: Esta web está gestionada por GOIPE, una organización sin ánimo de lucro
+      cuya misión es propoenr y promover Iniciativas Ciudadanas Europeas para una
+      Europa mejor.
