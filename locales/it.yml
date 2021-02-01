@@ -418,3 +418,7 @@ it:
       \ data-turbolinks=\"false\">iscriviti!</a></p>\n<p>Aiuta a tradurre: <a href=\"\
       https://l10n.rio.hn/projects/freedom-to-share/web/\">Weblate</a></p>\n<p>Sostieni\
       \ la campagna facendo una donazione:</p>\n"
+  footer:
+    about: Questo sito è gestito da GOIPE, un'organizzazione no-profit la cui missione
+      è quella di proporre e promuovere iniziative dei cittadini europei per un'Europa
+      migliore.
