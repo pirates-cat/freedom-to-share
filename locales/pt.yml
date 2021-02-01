@@ -97,7 +97,7 @@ pt:
       title: Leia o texto oficial da iniciativa
       body: A nossa iniciativa demanda a adoção de um marco legislativo que estabeleça
         uma isenção aos direitos autorais, direitos afins e direitos de banco de dados
-        sui generis para pessoas físicas que compartilhem arquivos através de redes
+        sui generis para pessoas físicas que partilhem ficheiros através de redes
         digitais para uso pessoal e sem fins lucrativos.
     donate:
       title: Doar
@@ -143,7 +143,7 @@ pt:
         title: De que modo irá a liberdade de partilha de ficheiros beneficiar os
           artistas?
         body: "Os artistas receberão dinheiro pelo uso das suas obras por parte das\
-          \ pessoas que compartilham os arquivos. Além disso, permitirão que a cidadania\
+          \ pessoas que partilham os ficheiros. Além disso, permitirão que a cidadania\
           \ acesse as suas obras por meios que não estão sob controle de terceiras\
           \ partes: os autores terão mais liberdade e os seus trabalhos serão facilmente\
           \ acessíveis.\n"
@@ -360,8 +360,8 @@ pt:
     name: Nome da Iniciativa de Cidadania Europeia
     description:
       title: Descrição
-      body: A legalização do compartilhamento - por meio de redes sociais, para uso
-        pessoal e sem fins lucrativos - de arquivos que contenham obras e outros materiais
+      body: A legalização da partilha - por meio de redes sociais, para uso pessoal
+        e sem fins lucrativos - de ficheiros que contenham obras e outros materiais
         protegidos por direitos autorais, direitos afins e direitos sui generis de
         banco de dados, com a visão de conseguir um equilíbrio entre os direitos autorais
         e outros direitos de titularidade e o direito universal à ciência e à cultura.
