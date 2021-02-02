@@ -57,6 +57,7 @@ messages:
     first: Našej stránke chýba preklad do tvojho jazyka.
     second: Pomôž nám!
 regions:
+  czech-republic: Česká republika
   transnational: Európska / Nadnárodná úroveň
   germany: Nemecko
   italy: Taliansko

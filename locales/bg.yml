@@ -71,6 +71,7 @@ bg:
     published_at: "Публикувано от\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nна %{date}\n"
   regions:
+    czech-republic: Чехия
     germany: Германия
     italy: Италия
     transnational: Европейско / транснационално ниво

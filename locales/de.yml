@@ -106,6 +106,7 @@ de:
     published_at: "Veröffentlicht auf\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\nam %{date}\n"
   regions:
+    czech-republic: Tschechien
     transnational: Europäische / Transnationale Ebene
     germany: Deutschland
     italy: Italien

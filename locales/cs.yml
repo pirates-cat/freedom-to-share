@@ -44,6 +44,7 @@ cs:
     No Thanks: Ne, děkuji
     Download explanation: Váš dokument je nyní připraven. Posíláme Vám jej e-mailem.
   regions:
+    czech-republic: Česká republika
     transnational: Evropská / nadnárodní úroveň
     germany: Německo
     italy: Itálie

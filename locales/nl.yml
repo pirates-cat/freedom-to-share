@@ -99,6 +99,7 @@ nl:
     published_at: "Gepubliceerd op\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\non %{date}\n"
   regions:
+    czech-republic: Tsjechië
     transnational: Europees / Transnationaal niveau
     germany: Duitsland
     italy: Italië

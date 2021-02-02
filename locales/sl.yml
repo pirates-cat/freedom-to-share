@@ -91,6 +91,7 @@ sl:
     published_at: "Objavljeno na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\n%{date}\n"
   regions:
+    czech-republic: Češka
     transnational: Evropski / Nadnacionalni nivo
     germany: Nemčija
     italy: Italija

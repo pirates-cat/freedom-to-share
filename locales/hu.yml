@@ -69,6 +69,7 @@ hu:
     published_at: "Publikálta\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>,\n %{date}\n"
   regions:
+    czech-republic: Csehország
     transnational: Európai / Nemzetek közötti szint
     germany: Németország
     italy: Olaszország

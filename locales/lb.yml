@@ -75,6 +75,7 @@ lb:
     published_at: "Publizéiert um\n1<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}2</a>\num %{date}\n"
   regions:
+    czech-republic: Tschechesch Republik
     transnational: Europäeschen / Transnationale Level
     germany: Däitschland
     italy: Italien

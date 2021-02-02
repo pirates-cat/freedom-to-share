@@ -99,6 +99,7 @@ sv:
     published_at: "Publicerad\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\n den %{date}\n"
   regions:
+    czech-republic: Tjeckien
     transnational: Europeisk / internationell nivå
     germany: Tyskland
     italy: Italien

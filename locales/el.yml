@@ -72,6 +72,7 @@ el:
   contact:
     fiscal_code: Φορολογικός Κώδικας
   regions:
+    czech-republic: Τσεχία
     sweden: Σουηδία
     transnational: Ευρωπαϊκό / Διακρατικό Επίπεδο
     germany: Γερμανία
