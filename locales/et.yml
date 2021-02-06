@@ -45,35 +45,70 @@ et:
     Share on Twitter: Jaga Twitteris
     Download explanation: Sinu dokument on valmis ja saadame selle sulle meilile.
   messages:
-    get_involved: Löö kaasa
+    get_involved: Aita kaasa
     missing_translations:
       second: Aita meid siin!
       first: Meie saidil puudub tõlge sinu keelde.
+    read_more: Loe täpsemalt
   regions:
     czech-republic: Tšehhimaa
     germany: Saksamaa
     italy: Itaalia
     transnational: Euroopa / Rahvusvaheline tase
     sweden: Rootsi
+    spain: Hispaania
+    belgium: Belgia
+    france: Prantsusmaa
+    netherlands: Holland
+    estonia: Eesti
   pages:
     home: Algus
-    organizations: Toetavad organisatsioonid
+    organizations: Toetajad
     contact: Kontakt
-    press: Ajakirjanduses
+    press: Kajastus
     privacy: Privaatsuspoliitika
+    certification: Sertifitseering
+    languages: Keeled
   press:
-    published_at: "Avaldatud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\najatempliga %{date}\n"
+    published_at: "Avaldanud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\n %{date}\n"
   home:
     hero:
       text: Meil on vaja miljonit allkirja. Koguma hakkame neid 15. novembril 2020.
         <strong>Aita meile kaasa!</strong>
       action: Telli
+    cta: Toeta Euroopa kodanikualgatust "Vabadus jagada"
+    official_text:
+      title: Loe algatuse ametlikku teksti
+      body: Meie algatus taotleb õigusakti vastuvõtmist, millega nähakse ette autoriõiguste,
+        autoriõigusega kaasnevate õiguste ja sui generis andmebaasiõiguste järgimisest
+        vabastamine füüsiliste isikute puhul, kes jagavad faile digitaalvõrkude kaudu
+        isiklikuks kasutamiseks ja mittetulunduslikel eesmärkidel.
+    take_action:
+      body: "Levita seda algatust oma sõpradele ja tuttavatele: kirjuta neile, jaga\
+        \ selgitavaid materjale, räägi nendega jne.\n"
+      title: Aita kaasa
+    donate:
+      title: Anneta
+      open_collective: Annata meie kollektiivile
+    widget:
+      steps:
+        one: Liitu!
+        other: Allkirjasta!
+    hero2:
+      text: <strong>Failijagamine legaalseks!</strong><br>Koondame inimesi üle kogu
+        Euroopa, et nõuda Euroopa Komisjonilt autoriõiguse reegleid, mis on õiglased
+        nii loojate kui kasutajate suhtes.
+      action: Allkirjasta kohe!
   creative-commons:
     text: Creative Commonsi litsents
     url: https://creativecommons.org/licenses/by-sa/4.0/deed.et
   contact:
-    fiscal_code: Isikukood
+    fiscal_code: Registrikood
+    presentation: "GOIPE on Itaalia tsiviilseadustiku artiklile 36 vastav mittetulunduslik\
+      \ ühing, mis on loodud Euroopa kodanikualgatuste korraldamiseks.\nAlgatus \"\
+      Vabadus jagada\" on kaheksa Euroopa riigi kodanike poolt ametlikult esitatud\
+      \ Euroopa Komisjonile:\n"
   eci:
     official_text: "<p>Käesoleva algatusega taotletakse õigusakti vastuvõtmist, millega\
       \ nähakse ette autoriõiguste, autoriõigusega kaasnevate õiguste ja sui generis\
@@ -111,3 +146,31 @@ et:
       \ õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamist,\
       \ et võimaldada ära kasutada vabaduse ning sotsiaalse, kultuurilise ja majandusliku\
       \ arengu potentsiaali, mida digitaalvõrgud pakuvad.</p>\n"
+    description:
+      body: Seadustada autoriõiguse, seonduvate õiguste ja sui generis andmebaasiõigusega
+        kaitstud teoseid ja muud materjali sisaldavate failide jagamine isiklikuks
+        kasutamiseks või mittetulunduslikel eesmärkidel üle digitaalvõrkude sellega,
+        et leida tasakaalupunkt autorite ja teiste õiguste omajate õiguste ning üldise
+        õiguse vahel ligipääsuks teadmistele ja kultuurile.
+      title: Kirjeldus
+    name: Euroopa kodanikualgatuse nimi
+  faq:
+    title: Korduma kippuvad küsimused
+    acronym: KKK
+    entries:
+      why-should-i-sign-this-european-citizen-initiative:
+        title: Miks peaksin andma allkirja sellele Euroopa kodanikualgatusele?
+        body: Jagamise toetuseks, loometeoste, muu sisu ja laiemalt kultuuri levikule
+          kaasa aitamiseks, et tagada vabadus pääseda ligi loometeostele allutamata
+          kontrollile ja profileerimisele.
+  footer:
+    about: Seda veebisaiti haldab GOIPE, mittetulunduslik ühing, mille eesmärk on
+      pakkuda välja ja levitada Euroopa kodanikualgatusi, et muuta Euroopa paremaks.
+  act:
+    title: Anna oma panus!
+    content: "<p>Levita seda algatust oma sõpradele ja tuttavatele: kirjuta neile,\
+      \ jaga selgitavaid materjale, räägi nendega jne.</p>\n<p>Võta meiega ühendust\
+      \ ja anna oma panus organiseerimisse ning kampaania levitamisse oma riigis koordineerides\
+      \ teiste huvilistega: <a href=\"#proca_dialog\" data-turbolinks=\"false\">liitu!</a></p>\n\
+      <p>Aita tõlkida: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
+      >Weblate</a></p>\n<p>Toeta kampaaniat annetusega:</p>\n"
