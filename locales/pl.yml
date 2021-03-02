@@ -58,6 +58,10 @@ pl:
     text: Licencja Creative Commons
   contact:
     fiscal_code: Numer podatkowy
+    presentation: "GOIPE jest stowarzyszeniem non-profit działającym na podstawie\
+      \ art. 36 włoskiego kodeksu cywilnego utworzonym specjalnie w celu organizacji\
+      \ Europejskich Inicjatyw Obywatelskich.\nTa EIO „Wolność wymiany” została oficjalnie\
+      \ przekazana Komisji Europejskiej przez obywateli ośmiu państw europejskich:\n"
   messages:
     get_involved: Zaangażuj się
     missing_translations:
@@ -74,6 +78,30 @@ pl:
       action: Subskrybuj
       text: Potrzebujemy miliona podpisów. Rozpoczniemy ich zbieranie 15 listopada
         2020 roku. <strong>Dołącz do nas teraz!</strong>
+    hero2:
+      action: Podpisz tutaj!
+      text: <strong>Zalegalizujmy wymianę plików!</strong><br>Zbieramy się w całej
+        Europie, aby wezwać Komisję Europejską do przyjęcia takich reguł prawa autorskiego,
+        które są uczciwe dla twórców oraz dla użytkowników.
+    official_text:
+      title: Przeczytaj oficjalny tekst inicjatywy
+      body: W inicjatywie tej wzywa się do przyjęcia aktu ustawodawczego przewidującego
+        odstępstwo od praw autorskich, praw pokrewnych i praw do baz danych dla osób
+        fizycznych udostępniających pliki za pośrednictwem sieci cyfrowych do użytku
+        osobistego i w celach niekomercyjnych.
+    donate:
+      title: Złóż datek
+      open_collective: Wesprzyj nas datkiem
+    cta: Wesprzyj Europejską Inicjatywę Obywatelską «Wolność wymiany»
+    take_action:
+      title: Podejmij działanie
+      body: "Podziel się tą inicjatywą ze znajomymi: napisz do nich, roześlij materiały\
+        \ promocyjne, porozmawiaj z nimi, itd.\n"
+    widget:
+      steps:
+        one: Dołącz do nas!
+        few: Podpisz!
+        many: Podpisz!
   press:
     published_at: "Opublikowany na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
       >%{host}</a>\ndnia %{date}\n"
@@ -115,3 +143,58 @@ pl:
       \ utwory i inne materiały chronione prawem autorskim, prawami pokrewnymi i prawami\
       \ do bazy danych, tak aby uwolnić potencjał sieci cyfrowych w korzystaniu ze\
       \ swobód i w rozwoju społecznym, kulturalnym i gospodarczym.</p>\n"
+    description:
+      body: Zalegalizowanie wymiany – przez sieci cyfrowe, do użytku osobistego i
+        w celach niekomercyjnych – plików zawierających utwory i inne materiały chronione
+        prawem autorskim, prawami pokrewnymi i prawami do bazy danych, w celu osiągnięcia
+        równowagi między prawami autorów i innych uprawnionych podmiotów a powszechnym
+        prawem do nauki i kultury.
+      title: Opis
+    name: Nazwa Europejskiej Inicjatywy Obywatelskiej
+  act:
+    title: Podejmij działanie!
+    content: "<p>Podziel się tą inicjatywą ze znajomymi: napisz do nich, roześlij\
+      \ materiały promocyjne, porozmawiaj z nimi, itd.</p>\n<p>Skontaktuj się z nami\
+      \ i przyczyń się do organizacji i promocji kampanii w twoim kraju w koordynacji\
+      \ z innymi działaczami: <a href=\"#proca_dialog\" data-turbolinks=\"false\"\
+      >subskrybuj!</a></p>\n<p>Pomóż w tłumaczeniu: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
+      >Weblate</a></p>\n<p>Wesprzyj kampanię wpłacając datek:</p>\n"
+  faq:
+    entries:
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: Nie. Na dłuższą metę usługi przeżywają dzięki temu, że są doceniane
+          przez konsumentów, a nie dzięki takiemu czy innemu prawu pisanemu przez
+          polityków.
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Po pierwsze, pamiętaj, aby podpisać EIO. To pomoże nam osiągnąć cel\
+          \ miliona podpisów, co zobowiąże Komisję do przyjęcia stanowiska w sprawie\
+          \ naszej inicjatywy. Jak już to uczynisz, możesz pomóc na inne sposoby:\
+          \ 1. Podziel się tą inicjatywą ze znajomymi (napisz do nich, roześlij materiały\
+          \ promocyjne, porozmawiaj z nimi, itd.; weź pod uwagę, że na zebranie miliona\
+          \ podpisów będziemy mieli 12 miesięcy). 2. Skontaktuj się z nami i przyczyń\
+          \ się do organizacji i promocji kampanii w twoim kraju w koordynacji z innymi\
+          \ działaczami. 3. Możesz też wspomóc kampanię wpłacając datek.\n"
+      how-will-file-sharing-freedom-benefit-citizens:
+        title: Jakie korzyści przyniesie obywatelom wolność wymiany plików?
+        body: Będą mieć prawo do dostępu do treści poprzez sieci wymiany plików, bez
+          bycia zmuszonym do używania platform, które ich profilują.
+      what-are-related-rights:
+        title: Czym są «prawa pokrewne»?
+        body: W prawie autorskim prawa pokrewne są to prawa dotyczące utworów nie
+          powiązane z faktycznym autorem utworu. W Unii Europejskiej prawa producentów
+          filmowych (w odróżnieniu od reżyserów) i twórców baz danych są również chronione
+          prawami pokrewnymi. W praktycznej definicji prawa pokrewne są to prawa podobne
+          do praw autorskich nie objęte konwencją berneńską.
+      why-should-i-sign-this-european-citizen-initiative:
+        title: Dlaczego powinienem podpisać tą Europejską Inicjatywę Obywatelską?
+        body: Aby ułatwić wymianę, a przez to rozprzestrzenianie, twórczości, kultury
+          i innych treści; aby móc mieć dostęp do dóbr kultury bez konieczności bycia
+          kontrolowanym i profilowanym.
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: Ponieważ masz prawo do wolności. Wolności szukania i znajdowania treści,
+          które cię interesują, kierowany własną ciekawością, a nie bańkami przefiltrowanymi
+          przez algorytmy, które decydują za ciebie; bez gromadzenia danych o tym,
+          co ściągasz w bazach danych dostawców.
+        title: Dlaczego ważne jest unikanie kontrolowania i profilowania przez platformy?
+    acronym: Często zadawane pytania
+    title: Często zadawane pytania
