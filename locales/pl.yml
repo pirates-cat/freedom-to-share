@@ -247,6 +247,11 @@ pl:
           wynagrodzenie za użycie ich utworów przez obywateli.
       what-is-file-sharing:
         title: Czym jest wymiana plików?
+        body: Wymiana plików jest czynnością polegającą na udostępnianiu utworu za
+          pomocą technologii cyfrowej i jego kopiowaniu. Zwykle odnosi się to do wymiany
+          przez sieci „peer-to-peer”, ale można by do niej zaliczyć również przesłanie
+          w załączniku przez pocztę elektroniczną, a także przy pomocy zewnętrznego
+          nośnika danych itp.
       what-is-a-european-citizen-initiative:
         title: Czym jest Europejska Inicjatywa Obywatelska?
       file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
@@ -282,6 +287,17 @@ pl:
         body: Zdajemy sobie sprawę, że nasza propozycja to jedyna droga naprzód dla
           prawa autorskiego opartego na podstawowych prawach. Uważamy, że czasami
           potrzebna jest ambicja.
+      are-you-against-authors:
+        title: Czy jesteście przeciwko autorom?
+        body: W żadnym wypadku. Chcemy zaktualizować prawo autorskie, aby było zgodne
+          ze współczesną rzeczywistością i ludzkimi upodobaniami. Uważamy, że współczesna
+          technologia jest szansą dla autorów, a nie problemem. Uważamy również, że
+          jest szkodliwe dla autorów popieranie oraz poleganie na bardzo nieuczciwym
+          i powszechnie nielubianym prawie autorskim w bieżącej jego formie. Niektórzy
+          autorzy mogliby być dużo bardziej doceniani oraz znani dla ludzi dzięki
+          wymianie plików.
+      are-you-against-rightsholders:
+        title: Czy jesteście przeciwko posiadaczom praw?
     acronym: Często zadawane pytania
     title: Często zadawane pytania
   footer:
