@@ -173,6 +173,7 @@ pl:
         body: Nie. Na dłuższą metę usługi przeżywają dzięki temu, że są doceniane
           przez konsumentów, a nie dzięki takiemu czy innemu prawu pisanemu przez
           polityków.
+        title: Czy chcecie zniszczyć istniejące kanały cyfrowej dystrybucji?
       ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
         body: "Po pierwsze, pamiętaj, aby podpisać EIO. To pomoże nam osiągnąć cel\
           \ miliona podpisów, co zobowiąże Komisję do przyjęcia stanowiska w sprawie\
@@ -182,6 +183,7 @@ pl:
           \ podpisów będziemy mieli 12 miesięcy). 2. Skontaktuj się z nami i przyczyń\
           \ się do organizacji i promocji kampanii w twoim kraju w koordynacji z innymi\
           \ działaczami. 3. Możesz też wspomóc kampanię wpłacając datek.\n"
+        title: OK, rozumiem. Co mogę zrobić, aby wymiana plików stała się legalna?
       how-will-file-sharing-freedom-benefit-citizens:
         title: Jakie korzyści przyniesie obywatelom wolność wymiany plików?
         body: Będą mieć prawo do dostępu do utworów poprzez sieci wymiany plików,
@@ -298,6 +300,64 @@ pl:
           wymianie plików.
       are-you-against-rightsholders:
         title: Czy jesteście przeciwko posiadaczom praw?
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        title: Jestem obywatelem jednego państwa członkowskiego, ale mieszkam w innym
+          państwie członkowskim. W którym państwie powinienem złożyć podpis?
+        body: "Możesz wybrać albo państwo, którego jesteś obywatelem albo państwo,\
+          \ w którym obecnie mieszkasz. Weź pod uwagę, że możesz złożyć tylko jeden\
+          \ podpis pod inicjatywą „Wolność wymiany”. Dane, które podasz w podpisie\
+          \ zadecydują o tym, w którym państwie członkowskim twój podpis zostanie\
+          \ policzony. Na przykład: Obywatel Austrii mieszkający w Estonii może albo:\
+          \ a) wypełnić formularz dla Estonii, podając swoje pełne imiona, nazwiska,\
+          \ adres, datę i miejsce urodzenia oraz narodowość – w tym przypadku jego\
+          \ podpis zostanie zweryfikowany, a przez to policzony w Estonii, lub b)\
+          \ wypełnić formularz dla Austrii, podając dodatkowo do powyższych danych\
+          \ numer dokumentu tożsamości z listy dokumentów akceptowanych przez Austrię\
+          \ – w tym przypadku jego podpis zostanie zweryfikowany, a przez to policzony\
+          \ w Austrii.\n"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        title: Nie jestem pewien, czy już podpisałem EIO. Czy mogę podpisać po raz
+          drugi, czy mój podpis zostanie unieważniony?
+        body: Tak, podpisz ponownie jeśli nie masz pewności. Twój podpis jest ważny
+          i liczony tylko raz. Oprogramowanie automatycznie wykrywa podwójne podpisy
+          i odsiewa duplikaty.
+      is-it-going-to-be-legal-to-share-all-files:
+        title: Czy będzie legalne dzielenie się wszystkimi plikami?
+        body: "Oczywiście, że nie. Proponujemy poprawić prawo autorskie i powiązane\
+          \ prawa. Istnieje wiele innych praw, które zabraniają dzielenie się określonymi\
+          \ typami plików: związanych z tajemnicą handlową, prywatnością itd.\n"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        title: Widzę, że w grę wchodzą pieniądze. Kto komu będzie płacił?
+      what-is-the-sui-generis-database-right:
+        title: Czym jest prawo sui generis dotyczące baz danych?
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        title: Jestem obywatelem UE zamieszkałym poza UE. Czy mogę podpisać EIO?
+        body: To zależy od państwa członkowskiego, którego jesteś obywatelem. Zależnie
+          od wymogów danego państwa członkowskiego, możesz być w stanie podpisać lub
+          nie. Powodem tego jest fakt, że niektóre państwa członkowskie wymagają adresu
+          w UE.
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Europejska Inicjatywa Obywatelska różni się od „zwykłej” petycji: jest\
+          \ ona oficjalnym demokratycznym narzędziem, które pozwala obywatelom UE\
+          \ kształtować Europę, wnosząc do Komisji Europejskiej wniosek o zaproponowanie\
+          \ aktu ustawodawczego. Jeżeli uda się nam zebrać milion (potwierdzonych)\
+          \ podpisów, Komisja Europejska będzie prawnie zobowiązana rozpatrzyć nasze\
+          \ żądania. Nie mamy wpływu na to, jakie dane są wymagane przez państwa członkowskie\
+          \ do złożenia podpisu pod Europejską Inicjatywą Obywatelską. Poszczególne\
+          \ państwa członkowskie UE ustalają, jakie dane muszą być zebrane, aby podpisy\
+          \ były ważne i policzone. Z tego powodu dla EIO jest niezbędne podanie większej\
+          \ ilości danych osobowych niż w przypadku innych „petycji”, z którymi mogłeś\
+          \ się zetknąć.\n"
+        title: Dlaczego muszę podawać aż tyle danych osobowych?
+      are-you-against-digital-platforms:
+        title: Czy jesteście przeciwko platformom cyfrowym?
+      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
+      : title: Czy ta propozycja mogłaby być użyta jako „legalna przykrywka” dla dystrybucji
+          prywatnych informacji, takich jak dane osobowe, prywatne zdjęcia itp.?
+        body: Nie. Ta propozycja dotyczy wyłącznie dystrybucji opublikowanych materiałów.
+          Rozpowszechnianie nieopublikowanych materiałów pozostanie nielegalne. W
+          dodatku rozpowszechnianie danych osobowych jest nielegalne, jeśli nie jest
+          zgodne z RODO.
     acronym: Często zadawane pytania
     title: Często zadawane pytania
   footer:
