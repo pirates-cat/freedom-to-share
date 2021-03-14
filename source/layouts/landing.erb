@@ -1,0 +1,14 @@
+<% content_for :head do %>
+  <meta name="turbolinks-visit-control" content="reload">
+  <% if data.languages[::I18n.locale]['widget'] %>
+    <script id="proca" defer src="https://freesharing.eu/d/freedomtoshare/<%= ::I18n.locale %>/"></script>
+  <% else %>
+    <script id="proca" defer src="https://freesharing.eu/d/freedomtoshare/en/"></script>
+  <% end %>
+<% end %>
+
+<% wrap_layout :base do %>
+  <div id="home" class="container grid max-w-4xl grid-cols-1 p-4 leading-relaxed prose-lg text-gray-800 md:p-0 md:gap-6 md:grid-cols-2">
+    <%= yield %>
+  </div>
+<% end %>

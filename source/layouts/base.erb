@@ -15,6 +15,9 @@
     <meta property="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@freesharingeu">
     <meta name="twitter:image" content="https://freesharing.eu/images/social_banner.jpeg">
+    <% if content_for?(:head) %>
+      <%= yield_content :head %>
+    <% end %>
     <%= stylesheet_link_tag "site" %>
     <% if ::I18n.locale == :ar %>
       <%= stylesheet_link_tag "markazi-text" %>
@@ -36,9 +39,6 @@
     <link rel="icon" href="/images/favicon-192x.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="/images/favicon-180x.png" />
     <meta name="msapplication-TileImage" content="/images/favicon-270x.png" />
-    <% if content_for?(:head) %>
-      <%= yield_content :head %>
-    <% end %>
   </head>
   <body class="bg-primary" dir="<%= data.languages[::I18n.locale]['dir'] %>">
     <% unless current_page.data.try(:global) %>
