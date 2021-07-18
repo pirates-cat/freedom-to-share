@@ -1,5 +1,8 @@
-contact:
-  fiscal_code: Cód Fhioscach
+ga:
+  pages:
+    press: Newyddion
+  contact:
+    fiscal_code: Cód Fhioscach
   eci:
     official_text: "<p>Iarrtar leis an togra seo go glacfar gníomh reachtach lena\
       \ bhforálfar maidir le tarscaoileadh ar chóipcheart, cearta gaolmhara agus cearta\
@@ -41,5 +44,3 @@ contact:
       \ chosaint cóipchirt, cearta gaolmhara agus cearta ar bhunachar sonraí, ní mór\
       \ iad a athrú d’fhonn cur leis an tsaoirse agus leis an dul chun cinn eacnamaíoch,\
       \ cultúrtha agus sóisialta a chuirtear ar fáil trí líonraí digiteacha.</p>\n"
-  contact:
-    fiscal_code: Cód Fhioscach

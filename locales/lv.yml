@@ -1,113 +1,114 @@
-proca:
-  share:
-    message: Jums to vajadzētu parakstīt!
-    email:
-      subject: Jums vajadzētu parakstīt šo
-      body: "Sveiki, \nLūdzu, parakstiet, es domāju, ka vēlaties to atbalstīt"
-    title: Gandrīz pabeigts! Veikt nākamo soli.
-    intro: Lieliski, jūs esat parakstījies 👍. Lai vairotu savu ietekmi, dalieties
-      tālu un plaši, lai pārliecinātos, ka visi redz šo petīciju 🙏.
-  Sign: Parakstieties tūlīt!
-  progress: '{{count}} esat parakstījušies. Ejam uz {{goal}}'
-  consent:
-    intro: Es piekrītu {{name}} sazināties ar mani par svarīgām kampaņām
-    opt-in: Jā, informējiet mani pa e-pastu
-    opt-out: Nē, nesūtiet man e-pastus un neziņojiet man turpmāk
-    processing: Jūsu personiskā informācija tiks turēta privāti un droši. Iesniedzot
-      informāciju, jūs piekrītat datu un sīkdatņu izmantošanai saskaņā ar mūsu<1>privātuma
-      politika</1>
-    confirm: <0>Vai tu esi pārliecināts?</0><1>Izvēloties "Nē", jūs nevarēsiet uzzināt,
-      vai šī kampaņa ir veiksmīga, vai, ja mums ir jāveic vēl darbības, lai to uzvarētu.
-      Ja izvēlaties "Jā" mēs jūs informēsim par šo un citām steidzamajām kampaņām.</1><2>Jebkurā
-      laikā varat anulēt abonementu.</2>
-  Enter a number.: Ievadiet numuru.
-  Enter a valid email address.: Ievadiet derīgu epasta adresi.
-  Amount: Summa
-  First name: Vārds
-  Last name: Uzvārds
-  Email: E-pasts
-  Postal Code: Pasta indekss
-  Street: Iela
-  City: Pilsēta
-  Country: Valsts
-  Thanks!: Paldies!
-  Privacy: Privātums
-  No Thanks: Nē paldies
-  Stay in touch: Uzturēt kontaktus
-  Sign Up: Pierakstīties
-  Share on Facebook: Dalīties Facebook
-  Share on Twitter: Dalieties Twitter
-  Email_Share button: E-pasts
-  Donations must be %(amount)s or more: Ziedojumiem jābūt %(amount) vai vairāk
-  Legal: Legāls
-  This field is required.: Šis lauks ir obligāts.
-  Link_Share button: Saite
-  Download explanation: Jūsu dokuments tagad ir gatavs, mēs to nosūtām arī jums pa
-    e-pastu.
-messages:
-  get_involved: Iesaistīties
-  missing_translations:
-    first: Mūsu vietnē trūkst tulkojumu uz jūsu valodu.
-    second: Palīdziet mums šeit!
-pages:
-  home: Mājas
-  press: Presē
-  organizations: Atbalsta organizācijas
-  contact: Kontakts
-  privacy: Privātuma politika
-regions:
-  czech-republic: Čehija
-  sweden: Zviedrija
-  transnational: Eiropas / Transnacionālais līmenis
-  germany: Vācija
-  italy: Itālija
-creative-commons:
-  text: Creative Commons licence
-  url: http://creativecommons.org/licenses/by-sa/4.0/
-contact:
-  fiscal_code: Fiskālais kods
-home:
-  hero:
-    action: Abonēt
-    text: Mums vajag vienu miljonu parakstu. Mēs sāksim tos vākt 2020. gada 15. novembrī.
-      <strong>Pievienojies mums tagad!</strong>
-press:
-  published_at: "Publicēts vietnē\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>\n %{date}\n"
-eci:
-  official_text: "<p>Šia iniciatyva raginama priimti teisėkūros procedūra priimamą\
-    \ aktą, kuriuo būtų numatyta, kad fiziniams asmenims, kurie per skaitmeninius\
-    \ tinklus asmeniniam naudojimui ir ne pelno tikslais dalijasi rinkmenomis, nebūtų\
-    \ taikomos autorių teisės, gretutinės teisės ir sui generis duomenų bazių teisės.</p><p>Keitimasis\
-    \ rinkmenomis prasidėjo 1999 m., kai pradėjo veikti tinklas „Napster“. Einant\
-    \ metams paskirstytasis keitimasis rinkmenomis (angl. peer-to-peer) tapo dar veiksmingesnis\
-    \ (pvz., tinklai „Gnutella“, „Freenet“, „BitTorrent“ ir kt.).</p><p>Nuo pat pradžių\
-    \ pagrindinės įmonės teisių turėtojos nepritarė, kad keitimosi rinkmenomis technologijos\
-    \ būtų naudojamos kūriniams ir kitai medžiagai, kuriai taikomos autorių teisės,\
-    \ gretutinės teisės ir sui generis duomenų bazių teisės. Dabartiniai teisės aktai\
-    \ iš esmės atitinka šių įmonių lūkesčius.</p><p>Vis dėlto lieka vienas klausimas:\
-    \ ar teisinga, kad autorių teisės, gretutinės teisės ir sui generis duomenų bazių\
-    \ teisės užkerta kelią keitimuisi kūriniais ir kita medžiaga?</p><p>Autorių teisės,\
-    \ gretutinės teisės ir sui generis duomenų bazių teisės turėtų padėti skatinti\
-    \ kultūros, inovacijų ir socialinės pažangos sklaidą.</p><p>Pagal galiojančius\
-    \ teisės aktus draudžiama dalytis rinkmenomis, kuriose yra autorių teisių, gretutinių\
-    \ teisių ir sui generis duomenų bazių teisių saugomų kūrinių ir kitos medžiagos,\
-    \ o tai stipriai apriboja laisvę turėti prieigą prie mokslo ir kultūros turinio,\
-    \ kuri įtvirtinta Visuotinės žmogaus teisių deklaracijos 27 straipsnio 1 dalyje.</p><p>Po\
-    \ to, kai 2019 m. balandžio 17 d. buvo priimta Europos Parlamento ir Tarybos direktyva\
-    \ (ES) 2019/790 dėl autorių teisių ir gretutinių teisių bendrojoje skaitmeninėje\
-    \ rinkoje, šis klausimas tapo dar aktualesnis.</p><p>Ši direktyva veikia paradoksaliai:\
-    \ viena vertus, pagal jos 17 straipsnį turinio dalijimosi internetu paslaugų teikėjams\
-    \ lengviau gauti leidimą platinti saugomą turinį; taip jiems paprasčiau atlikti\
-    \ savo kaip privilegijuotų tarpininkų vaidmenį ir taikyti techninės kontrolės\
-    \ ir piliečių profiliavimo praktikas. Kita vertus, keistis rinkmenomis tebedraudžiama.</p><p>Šia\
-    \ iniciatyva siekiama, kad piliečiams būtų leista tiesiogiai keistis rinkmenomis\
-    \ per peer-to peer tinklus, kad jie be patikrinimų ir profiliavimo turėtų prieigą\
-    \ prie mokslo ir kultūros turinio. Tai leidžiantis ES teisėkūros procedūra priimamas\
-    \ aktas visiškai atitiktų tarptautinę teisę, jei teisių turėtojams būtų mokama\
-    \ teisinga kompensacija.</p><p>Būtina pasiekti, kad politiniai ir teisėkūros sprendimai\
-    \ pirmiausia orientuotųsi į žmones ir pagrindines teises.</p><p>Todėl svarbu pakeisti\
-    \ dabar galiojančias taisykles, taikomas keitimuisi rinkmenomis, kuriose yra autorių\
-    \ teisių, gretutinių teisių ir sui generis duomenų bazių teisių saugomų kūrinių\
-    \ ir kitos medžiagos ir taip atskleisti laisvės ir skaitmeninių tinklų teikiamo\
-    \ socialinio, kultūrinio ir ekonominio vystymosi potencialą.</p>\n"
+lv:
+  proca:
+    share:
+      message: Jums to vajadzētu parakstīt!
+      email:
+        subject: Jums vajadzētu parakstīt šo
+        body: "Sveiki, \nLūdzu, parakstiet, es domāju, ka vēlaties to atbalstīt"
+      title: Gandrīz pabeigts! Veikt nākamo soli.
+      intro: Lieliski, jūs esat parakstījies 👍. Lai vairotu savu ietekmi, dalieties
+        tālu un plaši, lai pārliecinātos, ka visi redz šo petīciju 🙏.
+    Sign: Parakstieties tūlīt!
+    progress: '{{count}} esat parakstījušies. Ejam uz {{goal}}'
+    consent:
+      intro: Es piekrītu {{name}} sazināties ar mani par svarīgām kampaņām
+      opt-in: Jā, informējiet mani pa e-pastu
+      opt-out: Nē, nesūtiet man e-pastus un neziņojiet man turpmāk
+      processing: Jūsu personiskā informācija tiks turēta privāti un droši. Iesniedzot
+        informāciju, jūs piekrītat datu un sīkdatņu izmantošanai saskaņā ar mūsu<1>privātuma
+        politika</1>
+      confirm: <0>Vai tu esi pārliecināts?</0><1>Izvēloties "Nē", jūs nevarēsiet uzzināt,
+        vai šī kampaņa ir veiksmīga, vai, ja mums ir jāveic vēl darbības, lai to uzvarētu.
+        Ja izvēlaties "Jā" mēs jūs informēsim par šo un citām steidzamajām kampaņām.</1><2>Jebkurā
+        laikā varat anulēt abonementu.</2>
+    Enter a number.: Ievadiet numuru.
+    Enter a valid email address.: Ievadiet derīgu epasta adresi.
+    Amount: Summa
+    First name: Vārds
+    Last name: Uzvārds
+    Email: E-pasts
+    Postal Code: Pasta indekss
+    Street: Iela
+    City: Pilsēta
+    Country: Valsts
+    Thanks!: Paldies!
+    Privacy: Privātums
+    No Thanks: Nē paldies
+    Stay in touch: Uzturēt kontaktus
+    Sign Up: Pierakstīties
+    Share on Facebook: Dalīties Facebook
+    Share on Twitter: Dalieties Twitter
+    Email_Share button: E-pasts
+    Donations must be %(amount)s or more: Ziedojumiem jābūt %(amount) vai vairāk
+    Legal: Legāls
+    This field is required.: Šis lauks ir obligāts.
+    Link_Share button: Saite
+    Download explanation: Jūsu dokuments tagad ir gatavs, mēs to nosūtām arī jums pa
+      e-pastu.
+  messages:
+    get_involved: Iesaistīties
+    missing_translations:
+      first: Mūsu vietnē trūkst tulkojumu uz jūsu valodu.
+      second: Palīdziet mums šeit!
+  pages:
+    home: Mājas
+    press: Ziņas
+    organizations: Atbalsta organizācijas
+    contact: Kontakts
+    privacy: Privātuma politika
+  regions:
+    czech-republic: Čehija
+    sweden: Zviedrija
+    transnational: Eiropas / Transnacionālais līmenis
+    germany: Vācija
+    italy: Itālija
+  creative-commons:
+    text: Creative Commons licence
+    url: http://creativecommons.org/licenses/by-sa/4.0/
+  contact:
+    fiscal_code: Fiskālais kods
+  home:
+    hero:
+      action: Abonēt
+      text: Mums vajag vienu miljonu parakstu. Mēs sāksim tos vākt 2020. gada 15. novembrī.
+        <strong>Pievienojies mums tagad!</strong>
+  press:
+    published_at: "Publicēts vietnē\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\n %{date}\n"
+  eci:
+    official_text: "<p>Šia iniciatyva raginama priimti teisėkūros procedūra priimamą\
+      \ aktą, kuriuo būtų numatyta, kad fiziniams asmenims, kurie per skaitmeninius\
+      \ tinklus asmeniniam naudojimui ir ne pelno tikslais dalijasi rinkmenomis, nebūtų\
+      \ taikomos autorių teisės, gretutinės teisės ir sui generis duomenų bazių teisės.</p><p>Keitimasis\
+      \ rinkmenomis prasidėjo 1999 m., kai pradėjo veikti tinklas „Napster“. Einant\
+      \ metams paskirstytasis keitimasis rinkmenomis (angl. peer-to-peer) tapo dar veiksmingesnis\
+      \ (pvz., tinklai „Gnutella“, „Freenet“, „BitTorrent“ ir kt.).</p><p>Nuo pat pradžių\
+      \ pagrindinės įmonės teisių turėtojos nepritarė, kad keitimosi rinkmenomis technologijos\
+      \ būtų naudojamos kūriniams ir kitai medžiagai, kuriai taikomos autorių teisės,\
+      \ gretutinės teisės ir sui generis duomenų bazių teisės. Dabartiniai teisės aktai\
+      \ iš esmės atitinka šių įmonių lūkesčius.</p><p>Vis dėlto lieka vienas klausimas:\
+      \ ar teisinga, kad autorių teisės, gretutinės teisės ir sui generis duomenų bazių\
+      \ teisės užkerta kelią keitimuisi kūriniais ir kita medžiaga?</p><p>Autorių teisės,\
+      \ gretutinės teisės ir sui generis duomenų bazių teisės turėtų padėti skatinti\
+      \ kultūros, inovacijų ir socialinės pažangos sklaidą.</p><p>Pagal galiojančius\
+      \ teisės aktus draudžiama dalytis rinkmenomis, kuriose yra autorių teisių, gretutinių\
+      \ teisių ir sui generis duomenų bazių teisių saugomų kūrinių ir kitos medžiagos,\
+      \ o tai stipriai apriboja laisvę turėti prieigą prie mokslo ir kultūros turinio,\
+      \ kuri įtvirtinta Visuotinės žmogaus teisių deklaracijos 27 straipsnio 1 dalyje.</p><p>Po\
+      \ to, kai 2019 m. balandžio 17 d. buvo priimta Europos Parlamento ir Tarybos direktyva\
+      \ (ES) 2019/790 dėl autorių teisių ir gretutinių teisių bendrojoje skaitmeninėje\
+      \ rinkoje, šis klausimas tapo dar aktualesnis.</p><p>Ši direktyva veikia paradoksaliai:\
+      \ viena vertus, pagal jos 17 straipsnį turinio dalijimosi internetu paslaugų teikėjams\
+      \ lengviau gauti leidimą platinti saugomą turinį; taip jiems paprasčiau atlikti\
+      \ savo kaip privilegijuotų tarpininkų vaidmenį ir taikyti techninės kontrolės\
+      \ ir piliečių profiliavimo praktikas. Kita vertus, keistis rinkmenomis tebedraudžiama.</p><p>Šia\
+      \ iniciatyva siekiama, kad piliečiams būtų leista tiesiogiai keistis rinkmenomis\
+      \ per peer-to peer tinklus, kad jie be patikrinimų ir profiliavimo turėtų prieigą\
+      \ prie mokslo ir kultūros turinio. Tai leidžiantis ES teisėkūros procedūra priimamas\
+      \ aktas visiškai atitiktų tarptautinę teisę, jei teisių turėtojams būtų mokama\
+      \ teisinga kompensacija.</p><p>Būtina pasiekti, kad politiniai ir teisėkūros sprendimai\
+      \ pirmiausia orientuotųsi į žmones ir pagrindines teises.</p><p>Todėl svarbu pakeisti\
+      \ dabar galiojančias taisykles, taikomas keitimuisi rinkmenomis, kuriose yra autorių\
+      \ teisių, gretutinių teisių ir sui generis duomenų bazių teisių saugomų kūrinių\
+      \ ir kitos medžiagos ir taip atskleisti laisvės ir skaitmeninių tinklų teikiamo\
+      \ socialinio, kultūrinio ir ekonominio vystymosi potencialą.</p>\n"

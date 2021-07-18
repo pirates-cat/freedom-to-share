@@ -1,110 +1,111 @@
-pages:
-  privacy: Zásady ochrany osobných údajov
-  press: Médiá
-  organizations: Organizácie, ktoré nás podporujú
-  contact: Kontakty
-  home: Domov
-press:
-  published_at: "Zverejnené na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-    >%{host}</a>\ndňa %{date}\n"
-proca:
-  share:
-    intro: Výborne, podpísali ste 👍. Aby ste znásobili svoj vplyv, zdielajte na všetky
-      strany, aby sa táto petícia dostala ku každému🙏.
-    message: Toto by ste mali podpísať!
-    email:
-      subject: Toto by ste mali podepísať
-      body: "Ahoj,\nProsím, podpíš sa; myslím, že toto rád podporíš"
-    title: Takmer hotovo! Prejsť na další krok.
-  Sign: Podpíš teraz!
-  progress: '{{count}} už podpísalo. Prejsť k {{goal}}'
-  This field is required.: Toto pole je povinné.
-  Enter a number.: Vložte číslo.
-  First name: Meno
-  Last name: Priezvisko
-  Email: Email
-  Postal Code: PSČ
-  Street: Ulica
-  City: Obec
-  Country: Štát
-  Thanks!: Ďakujeme!
-  Legal: Právne
-  Privacy: Súkromie
-  No Thanks: Nie, ďakujem
-  Stay in touch: Zostaňme v kontakte
-  Sign Up: Odoberať
-  Share on Facebook: Zdielať na Facebooku
-  Email_Share button: Email
-  Download explanation: Váš dokument je teraz pripravený. Posielame Vám ho emailom.
-  consent:
-    intro: Súhlasím, aby ma {{name}} kontaktovali ohladom dôležitých kampaní
-    opt-in: Áno, priebežne ma informujte e-mailem
-    opt-out: Nie, neposielajte mi e-maily ani ma v budúcnosti neinformujte
-    confirm: <0>Ste si istí?</0><1>Volbou 'Nie' se nedozviete, či je táto kampaň úspěšná,
-      resp. či je potrebné urobiť niečo viac, aby uspela. Ak zvolíte 'Áno', budeme
-      Vás priebežne informovat o tejto i dalších dôležitých kampaniach.</1><2>Súhlas
-      môžete kedykoľvek odvolať. </2>
-    processing: Vaše osobné údaje budú uchováné v tajnosti a bezpečí. Odoslaním informacií
-      súhlasíte s využitím dát a cookies v súladu s našimi <1>pravidlami pre súkromie</1>
-  Share on Twitter: Zdielať na Twitteri
-  Link_Share button: Odkaz
-  Enter a valid email address.: Zadajte platnú e-mailovú adresu.
-  Donations must be %(amount)s or more: Dary musia býť vo výške %(amount) alebo viac
-  Amount: Obnos
-messages:
-  get_involved: Zapoj sa
-  missing_translations:
-    first: Našej stránke chýba preklad do tvojho jazyka.
-    second: Pomôž nám!
-regions:
-  czech-republic: Česká republika
-  transnational: Európska / Nadnárodná úroveň
-  germany: Nemecko
-  italy: Taliansko
-  sweden: Švédsko
-contact:
-  fiscal_code: Daňové identifikačné číslo
-creative-commons:
-  text: Licencia Creative Commons
-  url: https://creativecommons.org/licenses/by-sa/4.0/deed.sl
-home:
-  hero:
-    action: Odoberať
-    text: Potrebujeme jeden milión podpisov. Zbierať ich začneme 15. novembra 2020.
-      <strong>Pridaj sa!</strong>
-eci:
-  official_text: "<p>Táto iniciatíva vyzýva na prijatie legislatívneho aktu, ktorým\
-    \ sa stanoví upustenie od autorského práva, práv súvisiacich s autorským právom\
-    \ a databázového práva sui generis pre fyzické osoby, ktoré zdieľajú súbory prostredníctvom\
-    \ digitálnych sietí na osobné použitie a neziskové účely.</p><p>Začiatok zdieľania\
-    \ súborov sa datuje do roku 1999, keď vznikla služba Napster, V priebehu rokov\
-    \ sa technológia zdieľania súborov (alebo peer-to-peer) postupne zdokonalila (napr.\
-    \ Gnutella, Freenet, BitTorrent).</p><p>Hlavní držitelia práv sa od samého začiatku\
-    \ stavajú proti používaniu technológie zdieľania diel a ďalších materiálov, na\
-    \ ktoré sa vzťahujú autorské práva, práva súvisiace s autorským právom a databázové\
-    \ právo sui generis, a súčasné právne predpisy sú vo všeobecnosti v súlade s ich\
-    \ želaniami.</p><p>Zostáva však jedna otázka: Je spravodlivé, aby autorské právo,\
-    \ práva súvisiace s autorským právom a databázové právo sui generis bránili zdieľaniu\
-    \ diel a ďalších materiálov?</p><p>Autorské právo, práva súvisiace s autorským\
-    \ právom a databázové právo sui generis by mali podporovať šírenie kultúry, inováciu\
-    \ a sociálny pokrok.</p><p>Súčasné právne predpisy zakazujú zdieľanie súborov\
-    \ obsahujúcich diela a ďalšie materiály podliehajúce autorskému právu, súvisiacim\
-    \ právam a databázovému právu sui generis a vážne obmedzujú slobodu prístupu k\
-    \ vede a kultúre zakotvenú v článku 27 ods. 1 Všeobecnej deklarácie ľudských práv.</p><p>Naliehavosť\
-    \ tejto problematiky sa zvýšila po prijatí smernice Európskeho parlamentu a Rady\
-    \ (EÚ) 2019/790 zo 17. apríla 2019 o autorskom práve a právach súvisiacich s autorským\
-    \ právom na digitálnom jednotnom trhu.</p><p>Uvedená smernica si protirečí: Na\
-    \ jednej strane článok 17 uľahčuje poskytovateľom služieb zdieľania online obsahu\
-    \ získať povolenie na šírenie chráneného obsahu, čím podporuje ich postavenie\
-    \ privilegovaných sprostredkovateľov a ich činnosť v oblasti technickej kontroly\
-    \ a profilovania občanov. Na druhej strane však zdieľanie súborov ostáva stále\
-    \ zakázané.</p><p>Táto iniciatíva požaduje, aby mohli občania zdieľať súbory priamo\
-    \ prostredníctvom sietí peer-to-peer, a tak získať prístup k vede a kultúre bez\
-    \ toho, aby podliehali kontrolám a profilovaniu. Právne predpisy EÚ, ktoré by\
-    \ to umožnili, by boli plne v súlade s medzinárodným právom, pokiaľ by nositelia\
-    \ práv dostali spravodlivú odmenu.</p><p>Pri prijímaní politických a legislatívnych\
-    \ rozhodnutí by sa mali zohľadňovať predovšetkým ľudia a základné práva. Preto\
-    \ je potrebné zmeniť súčasné pravidlá upravujúce zdieľanie súborov obsahujúcich\
-    \ diela a ďalšie materiály chránené autorským právom, právami súvisiacimi s autorským\
-    \ právom a databázovým právom sui generis, aby sa uvoľnil priestor pre slobodu\
-    \ a sociálny, kultúrny a hospodársky rozvoj, ktorý digitálne siete ponúkajú.</p>\n"
+sk:
+  pages:
+    privacy: Zásady ochrany osobných údajov
+    press: Novinky
+    organizations: Organizácie, ktoré nás podporujú
+    contact: Kontakty
+    home: Domov
+  press:
+    published_at: "Zverejnené na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
+      >%{host}</a>\ndňa %{date}\n"
+  proca:
+    share:
+      intro: Výborne, podpísali ste 👍. Aby ste znásobili svoj vplyv, zdielajte na všetky
+        strany, aby sa táto petícia dostala ku každému🙏.
+      message: Toto by ste mali podpísať!
+      email:
+        subject: Toto by ste mali podepísať
+        body: "Ahoj,\nProsím, podpíš sa; myslím, že toto rád podporíš"
+      title: Takmer hotovo! Prejsť na další krok.
+    Sign: Podpíš teraz!
+    progress: '{{count}} už podpísalo. Prejsť k {{goal}}'
+    This field is required.: Toto pole je povinné.
+    Enter a number.: Vložte číslo.
+    First name: Meno
+    Last name: Priezvisko
+    Email: Email
+    Postal Code: PSČ
+    Street: Ulica
+    City: Obec
+    Country: Štát
+    Thanks!: Ďakujeme!
+    Legal: Právne
+    Privacy: Súkromie
+    No Thanks: Nie, ďakujem
+    Stay in touch: Zostaňme v kontakte
+    Sign Up: Odoberať
+    Share on Facebook: Zdielať na Facebooku
+    Email_Share button: Email
+    Download explanation: Váš dokument je teraz pripravený. Posielame Vám ho emailom.
+    consent:
+      intro: Súhlasím, aby ma {{name}} kontaktovali ohladom dôležitých kampaní
+      opt-in: Áno, priebežne ma informujte e-mailem
+      opt-out: Nie, neposielajte mi e-maily ani ma v budúcnosti neinformujte
+      confirm: <0>Ste si istí?</0><1>Volbou 'Nie' se nedozviete, či je táto kampaň úspěšná,
+        resp. či je potrebné urobiť niečo viac, aby uspela. Ak zvolíte 'Áno', budeme
+        Vás priebežne informovat o tejto i dalších dôležitých kampaniach.</1><2>Súhlas
+        môžete kedykoľvek odvolať. </2>
+      processing: Vaše osobné údaje budú uchováné v tajnosti a bezpečí. Odoslaním informacií
+        súhlasíte s využitím dát a cookies v súladu s našimi <1>pravidlami pre súkromie</1>
+    Share on Twitter: Zdielať na Twitteri
+    Link_Share button: Odkaz
+    Enter a valid email address.: Zadajte platnú e-mailovú adresu.
+    Donations must be %(amount)s or more: Dary musia býť vo výške %(amount) alebo viac
+    Amount: Obnos
+  messages:
+    get_involved: Zapoj sa
+    missing_translations:
+      first: Našej stránke chýba preklad do tvojho jazyka.
+      second: Pomôž nám!
+  regions:
+    czech-republic: Česká republika
+    transnational: Európska / Nadnárodná úroveň
+    germany: Nemecko
+    italy: Taliansko
+    sweden: Švédsko
+  contact:
+    fiscal_code: Daňové identifikačné číslo
+  creative-commons:
+    text: Licencia Creative Commons
+    url: https://creativecommons.org/licenses/by-sa/4.0/deed.sl
+  home:
+    hero:
+      action: Odoberať
+      text: Potrebujeme jeden milión podpisov. Zbierať ich začneme 15. novembra 2020.
+        <strong>Pridaj sa!</strong>
+  eci:
+    official_text: "<p>Táto iniciatíva vyzýva na prijatie legislatívneho aktu, ktorým\
+      \ sa stanoví upustenie od autorského práva, práv súvisiacich s autorským právom\
+      \ a databázového práva sui generis pre fyzické osoby, ktoré zdieľajú súbory prostredníctvom\
+      \ digitálnych sietí na osobné použitie a neziskové účely.</p><p>Začiatok zdieľania\
+      \ súborov sa datuje do roku 1999, keď vznikla služba Napster, V priebehu rokov\
+      \ sa technológia zdieľania súborov (alebo peer-to-peer) postupne zdokonalila (napr.\
+      \ Gnutella, Freenet, BitTorrent).</p><p>Hlavní držitelia práv sa od samého začiatku\
+      \ stavajú proti používaniu technológie zdieľania diel a ďalších materiálov, na\
+      \ ktoré sa vzťahujú autorské práva, práva súvisiace s autorským právom a databázové\
+      \ právo sui generis, a súčasné právne predpisy sú vo všeobecnosti v súlade s ich\
+      \ želaniami.</p><p>Zostáva však jedna otázka: Je spravodlivé, aby autorské právo,\
+      \ práva súvisiace s autorským právom a databázové právo sui generis bránili zdieľaniu\
+      \ diel a ďalších materiálov?</p><p>Autorské právo, práva súvisiace s autorským\
+      \ právom a databázové právo sui generis by mali podporovať šírenie kultúry, inováciu\
+      \ a sociálny pokrok.</p><p>Súčasné právne predpisy zakazujú zdieľanie súborov\
+      \ obsahujúcich diela a ďalšie materiály podliehajúce autorskému právu, súvisiacim\
+      \ právam a databázovému právu sui generis a vážne obmedzujú slobodu prístupu k\
+      \ vede a kultúre zakotvenú v článku 27 ods. 1 Všeobecnej deklarácie ľudských práv.</p><p>Naliehavosť\
+      \ tejto problematiky sa zvýšila po prijatí smernice Európskeho parlamentu a Rady\
+      \ (EÚ) 2019/790 zo 17. apríla 2019 o autorskom práve a právach súvisiacich s autorským\
+      \ právom na digitálnom jednotnom trhu.</p><p>Uvedená smernica si protirečí: Na\
+      \ jednej strane článok 17 uľahčuje poskytovateľom služieb zdieľania online obsahu\
+      \ získať povolenie na šírenie chráneného obsahu, čím podporuje ich postavenie\
+      \ privilegovaných sprostredkovateľov a ich činnosť v oblasti technickej kontroly\
+      \ a profilovania občanov. Na druhej strane však zdieľanie súborov ostáva stále\
+      \ zakázané.</p><p>Táto iniciatíva požaduje, aby mohli občania zdieľať súbory priamo\
+      \ prostredníctvom sietí peer-to-peer, a tak získať prístup k vede a kultúre bez\
+      \ toho, aby podliehali kontrolám a profilovaniu. Právne predpisy EÚ, ktoré by\
+      \ to umožnili, by boli plne v súlade s medzinárodným právom, pokiaľ by nositelia\
+      \ práv dostali spravodlivú odmenu.</p><p>Pri prijímaní politických a legislatívnych\
+      \ rozhodnutí by sa mali zohľadňovať predovšetkým ľudia a základné práva. Preto\
+      \ je potrebné zmeniť súčasné pravidlá upravujúce zdieľanie súborov obsahujúcich\
+      \ diela a ďalšie materiály chránené autorským právom, právami súvisiacimi s autorským\
+      \ právom a databázovým právom sui generis, aby sa uvoľnil priestor pre slobodu\
+      \ a sociálny, kultúrny a hospodársky rozvoj, ktorý digitálne siete ponúkajú.</p>\n"
