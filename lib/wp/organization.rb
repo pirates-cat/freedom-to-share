@@ -17,7 +17,7 @@ module Wordpress
       {
         name: name,
         url: url,
-        region: region.first['slug'],
+        region: region,
         logo: @_image
       }.stringify_keys.to_yaml
     end
