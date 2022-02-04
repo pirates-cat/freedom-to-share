@@ -6,14 +6,6 @@ ar:
   country: lb
   dir: rtl
   widget: false
-oc-aranes:
-  code: oc-aranes
-  name: aranés
-  script: latin
-  translated: false
-  country: es
-  dir: ltr
-  widget: false
 bg:
   code: bg
   name: български

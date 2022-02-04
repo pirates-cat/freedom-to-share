@@ -1,438 +1,209 @@
+---
 de:
-  pages:
-    home: Hauptseite
-    press: Neuigkeiten
-    organizations: Unterstützende Organisationen
-    contact: Kontakt
-    privacy: Datenschutzerklärung
-    certification: Zertifikation
-    languages: Sprachen
+  act:
+    content: "<p>Teile diese Initiative mit deinen Freunden und Bekannten: Schreibe ihnen, verbreite die Kommunikationsmaterialien, sprich mit ihnen, etc.</p>\n<p>Setze dich mit uns in Verbindung und trage zur Organisation und Verbreitung der Kampagne in deinem Land bei, indem du dich mit anderen Mitstreitern abstimmst: <a href=\"#proca_dialog\" data-turbolinks=\"false\">Abonniere!</a></p>\n<p>Hilf bei der Übersetzung mit: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Unterstütze die Kampagne mit einer Spende:</p>\n"
+    title: "Jetzt handeln!"
+  contact:
+    fiscal_code: "Steuernummer"
+    presentation: "GOIPE ist ein gemeinnütziger Verein nach Artikel 36 des italienischen Zivilgesetzbuches, der speziell zum Zweck der Organisation von Europäischen Bürgerinitiativen gegründet wurde.\nDiese \"Freedom to share\" EBI wurde von Bürgern aus acht europäischen Ländern offiziell bei der Europäischen Kommission eingereicht:\n"
+  creative-commons:
+    text: "Creative-Commons-Lizenz"
+    url: "http://creativecommons.org/licenses/by-sa/4.0/deed.de"
+  eci:
+    description:
+      body: "Legalisierung der gemeinsamen, zu persönlichen und gemeinnützigen Zwecken über digitale Netze erfolgenden Nutzung von Dateien, die urheberrechtlich, durch verwandte Schutzrechte und durch spezifische Datenbankrechte geschützte Werke und sonstige Materialien enthalten, um ein Gleichgewicht zwischen den Rechten der Urheber und anderer Rechteinhaber und dem universellen Recht auf Wissenschaft und Kultur herzustellen."
+      title: "Beschreibung"
+    name: "Name der Europäischen Bürgerinitiative"
+    official_text: "<p>Mit dieser Initiative fordern wir den Erlass eines Rechtsakts, der für natürliche Personen die Erlaubnis vorsieht‚ durch Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte geschützte Dateien zu persönlichen und gemeinnützigen Zwecken über digitale Netze gemeinsam zu nutzen.</p><p>Die erste Filesharing-Plattform wurde 1999 mit Napster ins Leben gerufen; im Laufe der Jahre ermöglichten neue Technologien ein immer effizienteres Peer-to-Peer-Filesharing (Gnutella, Freenet, BitTorrent, usw.).</p><p>Von Anfang an waren die größten Urheberrechtsgesellschaften dagegen, dass durch Urheberrechte, verwandte Schutzrechte oder spezifische Datenbankrechte geschützte Werke und sonstige Materialien über digitale Netzwerke geteilt werden; heute entspricht das Recht im Wesentlichen ihren Wünschen.</p><p>Es stellt sich jedoch die Frage: Ist es richtig, dass Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte das Teilen von Werken und sonstigen Materialien verhindern?</p><p>Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte sollten die Verbreitung von Kultur, Innovation und sozialem Fortschritt fördern.</p><p>Das geltende Recht verbietet das Teilen von Dateien, die durch Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte geschützte Werke und sonstige Materialien enthalten, und stellt somit einen schweren Eingriff in die Freiheit von Wissenschaft und Kultur im Sinne von Artikel 27 Absatz 1 der Allgemeinen Erklärung der Menschenrechte dar.</p><p>Heute, nach der Annahme der Richtlinie (EU) 2019/790 des Europäischen Parlaments und des Rates vom 17. April 2019 über das Urheberrecht und die verwandten Schutzrechte im digitalen Binnenmarkt, hat das Thema noch an Bedeutung gewonnen.</p><p>Die Richtlinie hat eine paradoxe Wirkung: Artikel 17 sieht bei der Einholung der Erlaubnis der Rechteinhaber Erleichterungen für Diensteanbieter für das Teilen von Online-Inhalten vor; damit werden sie in ihrer Rolle als privilegierte Mittler gestärkt, und ihren Verfahren der technischen Kontrolle und der Erstellung der Profile der Bürgerinnen und Bürger wird Vorschub geleistet; das Teilen von Dateien ist hingegen nicht erlaubt.</p><p>Mit dieser Initiative wird für Bürgerinnen und Bürger die Erlaubnis zur Teilung von Dateien über Peer-to-Peer-Netze gefordert, damit sie sich Zugang zu Wissenschaft und Kultur verschaffen können, ohne Kontrolle und Profiling zu unterliegen: Ein Rechtsakt der EU, der dies erlaubt, wäre mit dem internationalen Recht in vollem Umfang vereinbar, wenn Rechteinhaber dafür ein angemessenes Entgelt erhielten.</p><p>Die Menschen und ihre Grundrechte müssen in den Mittelpunkt der politischen und legislativen Entscheidungen gerückt werden. Daher müssen auch die Normen geändert werden, denen das Teilen von Dateien unterliegt, die durch Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte geschützte Werke und sonstige Materialien enthalten, damit das Potenzial der digitalen Netze für die Freiheit und den sozialen, kulturellen und wirtschaftlichen Fortschritt ausgeschöpft werden kann.</p>\n"
+  faq:
+    acronym: "FAQ"
+    entries:
+      are-you-against-authors:
+        body: "Ganz und gar nicht. Wir wollen das Urheberrecht so aktualisieren, dass es mit der modernen Realität und den Vorlieben der Menschen kompatibel ist. Wir glauben, dass moderne Technologie eine Chance für Autoren ist, nicht ein Problem. Wir glauben auch, dass es für Autoren schädlich ist, sich auf den sehr unfairen und unpopulären Status Quo des Urheberrechts zu verlassen und diesen zu unterstützen. Einige Autoren könnten dank Filesharing von den Menschen viel mehr geschätzt und bekannt sein."
+        title: "Seid ihr gegen Autoren?"
+      are-you-against-digital-platforms:
+        body: "Nein, wenn sie ihre Macht nicht missbrauchen, um Menschen zu kontrollieren und zu profilieren. Die verschiedenen Internetdienste, die mittlerweile die digitale Verteilung von Kultur dominieren, können ein Nettopositiv sein, weil sie die Verteilung effizienter machen. Die Disintermediation kann auch die Menge an Geldern, die an Mittelsmänner verschwendet werden, die keine zusätzliche Kultur produzieren, reduzieren. Wir sehen jedoch nicht ein, warum riesige zentralisierte Internetdienste, die von wenigen multinationalen Unternehmen betrieben werden, die Kontrolle über die Kultur im digitalen Zeitalter haben sollten. Bemühungen wie Artikel 17 in der Richtlinie 790/2019 (\"Upload-Filter\") waren fehlgeleitet und werden unweigerlich scheitern, weil sie das eigentliche Problem nicht angehen."
+        title: "Seid ihr gegen digitale Platformen?"
+      are-you-against-rightsholders:
+        body: "Nein, solange sie die erklärten Ziele des Urheberrechts (und der Autorenrechte) verfolgen, also die Förderung von Kultur und sozialem Fortschritt. Die Majors haben eine Chance verpasst, als sie Anfang 2000 Napster angriffen; sie hätten sich auf dessen Seite schlagen und eine kostenlose Geldmaschine gewinnen können. Stattdessen haben sie ein Jahrzehnt verpasst und sind jetzt für ihr Überleben auf Tantiemen von Spotify, Apple usw. angewiesen. Unser Vorschlag ist auch eine Chance für Verwertungsgesellschaften, Verlage, Plattenfirmen und andere Rechteinhaber."
+        title: "Seid ihr gegen Rechteinhaber?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "Nein. Dieser Vorschlag betrifft nur die Verbreitung von veröffentlichtem Material. Die Weitergabe von unveröffentlichtem Material bleibt illegal. Darüber hinaus ist die Weitergabe von personenbezogenen Daten illegal, wenn sie nicht mit der DSGVO übereinstimmen."
+        title: "Könnte dieser Vorschlag als \"legaler Deckmantel\" für die Verbreitung privater Informationen wie persönlicher Daten, privater Bilder usw. verwendet werden?"
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: "Nein. Dienste überleben langfristig, weil Konsumenten sie mögen, nicht wegen der Politiker, die dieses oder jenes Gesetz erlassen."
+        title: "Wollt ihr bestehende digitale Vertriebskanäle zerstören?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "Nein. Da es sich um Netzwerke handelt, gibt es keinen einzelnen Wettbewerber: Filesharing-Netzwerke sind dezentralisiert (es gibt keinen obligatorischen Vermittler). Filesharing-Netzwerke sind im Besitz der Bürger, die daran teilnehmen.\n"
+        title: "Stehen Filesharingplatfomen in Konkurrenz zu Netflix, Spotify und anderen Diensten?"
+      how-do-you-think-file-sharing-should-be-regulated:
+        body: "Wir sind der Meinung, dass Filesharing für die private Nutzung durch Bürger kostenlos sein sollte; Autoren und andere Rechteinhaber sollten eine faire Vergütung für die Nutzung ihrer Werke durch Bürger erhalten."
+        title: "Wie sollte Filesharing Ihrer Meinung nach geregelt werden?"
+      how-much-will-it-cost-for-users:
+        body: "Es gibt ein Spektrum von möglichen Umsetzungen unseres Vorschlags. Wir glauben, dass es mit modernen empirischen Methoden und evidenzbasierter Ökonomie möglich ist, die faire Vergütung für die verschiedenen Szenarien zu berechnen."
+        title: "Wie hoch sind die Kosten für die Anwender?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Verwertungsgesellschaften haben bereits verschiedene Methoden, um die eingezogene Vergütung unter Urhebern und anderen Rechteinhabern fair aufzuteilen (Geld aus der Privatkopieabgabe etc.). Wir glauben, dass die Verteilung der für Filesharing eingenommenen fairen Vergütungen sehr fair sein könnte, wenn sie richtig durchgeführt wird. Zum Beispiel könnte es möglich sein, transparente und faire Statistiken über die durch Filesharing-Netzwerke geteilten Werke zu erstellen, indem man einen sicheren \"Zähler\" einführt, der die Anzahl der Übertragungen für jede Datei misst und den gesammelten Gesamtbetrag anteilig unter den Urhebern der Inhalte verteilt."
+        title: "Wie soll das Geld unter den Autoren und anderen Rechteinhabern verteilt werden?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "Sie können über Filesharing-Netzwerke frei auf Werke zugreifen, ohne Plattformen nutzen zu müssen, die Nutzungsprofile erstellen."
+        title: "Wie wird die Freiheit des Filesharing den Bürgern zugute kommen?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "Sie werden Geld für die Nutzung ihrer Werke von Filesharern erhalten. Außerdem werden sie den Bürgern den Zugang zu ihren Werken über Mittel ermöglichen, die nicht unter der Kontrolle von Dritten stehen: Die Autoren werden mehr Freiheit genießen und ihre Werke weiter verbreitet.\n"
+        title: "Wie wird die Freiheit, Dateien zu teilen, den Künstlern zugute kommen?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "Du kannst wählen: entweder das Land deiner Staatsbürgerschaft oder das Land, in dem du derzeit lebst. Bitte beachte, dass du dich nur einmal für die Initiative \"Freedom to Share\" unterschreiben kannst. Die Daten, die du in deiner Unterschrift angibst, bestimmen, in welchem Mitgliedsstaat deine Unterschrift gezählt wird. Beispiel: Ein österreichischer Staatsbürger, der in Estland lebt, kann entweder: a) das Formular für Estland ausfüllen, indem er seinen vollständigen Vor- und Nachnamen, seine Adresse, sein Geburtsdatum und seinen Geburtsort sowie seine Staatsangehörigkeit angibt - in diesem Fall wird seine Unterschrift verifiziert und somit in Estland gezählt, oder b) das Formular für Österreich ausfüllen, indem er zusätzlich zu den oben genannten Daten eine persönliche Ausweisnummer aus der von Österreich akzeptierten Liste angibt - in diesem Fall wird seine Unterschrift verifiziert und somit in Österreich gezählt.\n"
+        title: "Ich bin Staatsangehöriger eines EU-Mitgliedstaates, lebe aber in einem anderen EU-Mitgliedstaat. In welchem Mitgliedsstaat muss ich unterschreiben?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "Dies hängt von dem Mitgliedsstaat ab, dessen Staatsangehörigkeit du besitzt. Je nachdem, welche Anforderungen die Mitgliedsstaaten stellen, kannst du die EBI online unterzeichnen oder auch nicht. Dies ist darauf zurückzuführen, dass einige Mitgliedsstaaten eine EU-Adresse verlangen."
+        title: "Ich bin EU-Bürger mit Wohnsitz außerhalb der EU. Kann ich die EBI unterschreiben?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Weil p2p-Filesharing es dir ermöglicht, wirklich sozial zu sein: Wenn du Dateien teilst, bekommst du gleichzeitig Dateien von anderen Leuten. Mit einem Algorithmus zu interagieren ist nicht sozial. P2p optimiert manchmal die Bandbreitennutzung, denn wenn du eine Datei lädst, die bei vielen anderen Clients verfügbar ist, können viele von ihnen dir verschiedene Teile gleichzeitig schicken, was die Übertragungszeit erheblich reduziert.\n"
+        title: "Ich mag es, sozial zu sein. Warum sollte p2p-Filesharing besser sein als Vertriebsplattformen?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "Es kommt darauf an, wie der Vorschlag rechtlich umgesetzt werden soll. Es gibt verschiedene juristische Techniken: 1. Vorsehen, dass Bürger, die Filesharing-Netzwerke nutzen, eine Lizenz bezahlen müssen, um Dateien einschließlich Werke teilen zu dürfen. 2. Es wird ein zusätzlicher kleiner Geldbetrag eingeführt, der von allen Bürgern gezahlt werden muss, die auf das Internet zugreifen (und eventuell Werke über Filesharing-Netzwerke austauschen). 3. Vorgabe, dass eine faire Vergütung vom Staat gezahlt wird (mit Hilfe der von den Bürgern gezahlten Steuern).\n"
+        title: "Ich sehe, es ist Geld im Spiel. Wer wird wen bezahlen?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "Sie erhalten einen Anteil an der angemessenen Vergütung, die von den Nutzern für den Zugriff auf ihre Werke gezahlt wird. Dies wird zu ihren üblichen Vergütungsmitteln hinzukommen."
+        title: "Wenn Filesharing frei ist, wie sollen Künstler dann Geld verdienen?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Ja, unterschreib erneut, wenn du unsicher bist. Deine Unterschrift ist nur einmal gültig und wird nur einmal gezählt. Die Software erkennt automatisch doppelte Unterschriften und sortiert Duplikate aus."
+        title: "Ich bin mir nicht sicher, ob ich die EBI schon unterschrieben habe. Kann ich ein zweites Mal unterschreiben oder wird meine Unterschrift ungültig?"
+      is-file-sharing-legal:
+        body: "Filesharing in Peer-to-Peer-Netzwerken ist nicht legal. Das Ziel der Initiative ist es, das Gesetz in der Europäischen Union zu ändern."
+        title: "Ist das Filesharing legal?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Nein, natürlich nicht. Wir schlagen vor, das Urheberrecht und verwandte Gesetze zu ändern. Viele andere Gesetze können die Weitergabe bestimmter Arten von Dateien verhindern: denken Sie an Geschäftsgeheimnisse, Datenschutz und so weiter.\n"
+        title: "Wird es legal sein alle Dateien zu teilen?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Ja, solange ein Teil des Netzwerks es hat. Manchmal, wenn der übliche Kanal ausfällt, ist manches schon da, bereit, abgeholt zu werden. In einigen Netzwerken sind heutzutage 10-40 Millionen Dateien verfügbar, mit Millionen von Knoten-Nutzern."
+        title: "Ist es wahr, dass Filesharing die Möglichkeit bietet Dinge zu finden, die sehr selten, nicht mehr auf dem Markt oder sonst schwer zu finden sind?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Denk bitte zunächst daran, die ECI-Kampagne zu unterschreiben. Dies wird dazu beitragen, das Ziel von einer Million Unterschriften zu erreichen, das die Kommission dazu zwingen wird, zu unserer Initiative Stellung zu nehmen. Dann kannst du auf andere Weise helfen: 1. Verbreite die Kampagne mit deinen Freunden und Bekannten (schreib ihnen, teile die Kommunikationsmaterialien, sprich mit ihnen, usw. Bitte beachte, dass wir 12 Monate Zeit haben werden, um 1 Million Unterschriften zu sammeln). 2. setze dich mit uns in Verbindung und trage zur Organisation und Verbreitung der Kampagne in deinem Land bei, indem du dich mit anderen Mitstreitern vernetztst. 3. zu guter Letzt kannst du die Kampagne auch durch eine Spende unterstützen.\n"
+        title: "OK, ich hab's. Was kann ich tun, um Filesharing legal zu machen?"
+      this-is-not-a-new-idea:
+        body: "Zugegeben, die Idee ist größtenteils alt. Die berühmteste Variante ist wohl Fishers Vorschlag einer gesetzlichen Lizenz, um Probleme wie die Abschaltung von Napster zu lösen, weil es nur 99,4 % der Urheberrechtsverletzungen stoppen konnte, aber nicht 100 %. <a href=\"http://www.free-culture.cc/freeculture.pdf\">Siehe \"Freie Kultur\" (2004), S. 307.</a>"
+        title: "Das ist keine neue Idee!"
+      this-is-only-a-dream:
+        body: "Uns ist klar, dass unser Vorschlag der einzige Weg ist, um ein auf Grundrechten basierendes Urheberrecht voranzutreiben. Wir denken, dass manchmal ein solcher Ehrgeiz notwendig ist."
+        title: "Das ist bloß ein Traum!"
+      what-are-related-rights:
+        body: "Im Urheberrecht sind verwandte Schutzrechte die Rechte an einem kreativen Werk, die nicht mit dem eigentlichen Urheber des Werks verbunden sind. Innerhalb der Europäischen Union werden auch die Rechte von Filmproduzenten (im Gegensatz zu Regisseuren) und Datenbankerstellern durch verwandte Rechte geschützt. Eine praktische Definition besagt, dass verwandte Rechte urheberrechtsähnliche Rechte sind, die nicht von der Berner Übereinkunft abgedeckt werden."
+        title: "Was sind «verwandte Schutzrechte»?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "Es steht ihm frei, sein Werk nicht zu veröffentlichen und dann wird sein Werk auch nicht geteilt. Sobald ein Werk öffentlich ist, haben alle Bürger gewisse Rechte (privat zu singen, Kopien für den persönlichen Gebrauch anzufertigen und, wie wir glauben, Filesharing-Netzwerke für den persönlichen Gebrauch zu nutzen)."
+        title: "Was ist, wenn ein Autor nicht damit einverstanden ist, dass sein Werk über Filesharing-Netzwerke weitergegeben wird?"
+      what-is-a-european-citizen-initiative:
+        body: "Eine EBI ist die Möglichkeit, die die Kommission der Europäischen Union ihren Bürgern gibt, um Änderungen in der Gesetzgebung anzuregen. Link zur Wikipedia-Seite über <a href=\"https://de.wikipedia.org/wiki/Europ%C3%A4ische_B%C3%BCrgerinitiative\">Europäische Bürgerinitiative</a>.\n"
+        title: "Was ist eine Europäische Bürgerinitiative?"
+      what-is-file-sharing:
+        body: "Unter Filesharing versteht man die Bereitstellung des Zugriffs auf ein Werk durch digitale Methoden und das Anfertigen von Kopien des abgerufenen Werks. Normalerweise bezieht es sich auf Praktiken wie Peer-to-Peer-Sharing. Es kann aber auch das Versenden eines E-Mail-Anhangs, die Verwendung eines physischen Trägers usw. umfassen."
+        title: "Was ist Filesharing?"
+      what-is-the-sui-generis-database-right:
+        body: "Das Schutzrecht sui generis schützt Datenbanken, in die eine erhebliche Investition zur Beschaffung, Überprüfung oder Darstellung der Dateninhalte getätigt wurde, gegen die unerlaubte Entnahme und Weiterverwendung ihres Inhalts. Es gibt kein Erfordernis für Kreativität oder Originalität. Dieses Recht besteht für einen Zeitraum von 15 Jahren ab dem Datum, an dem die nicht-kreative Datenbank erstellt wurde. Es ist verschieden und unabhängig vom Urheberrecht, das Originalwerke schützt.  Das Sui Generis Datenbankrecht gehört zur Familie der \"verwandten Schutzrechte\", d.h. es ist ähnlich, aber unabhängig vom Urheberrecht."
+        title: "Was ist das Sui Generis Datenbankrecht?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Veröffentlichen und darauf warten, dass die Bürger es teilen. Wenn sie wollen, können sie ihre Arbeit auch persönlich über Filesharing-Netzwerke zur Verfügung stellen."
+        title: "Was sollten Autoren tun, um sicherzustellen, dass ihre Arbeit für das Filesharing verfügbar ist?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Eine Europäische Bürgerinitiative unterscheidet sich von einer \"normalen\" Petition: Sie ist ein offizielles demokratisches Instrument, das es EU-Bürgern ermöglicht, Europa mitzugestalten, indem sie die Europäische Kommission auffordern, einen Rechtsakt vorzuschlagen. Wenn wir es schaffen, eine Million (validierte) Unterschriften zu sammeln, ist die EU-Kommission rechtlich verpflichtet, sich mit unseren Forderungen zu befassen. Wir haben keinen Einfluss darauf, welche Daten für die Unterzeichnung einer Europäischen Bürgerinitiative von den Mitgliedsstaaten benötigt werden. Die jeweiligen EU-Mitgliedsstaaten bestimmen, welche Daten erhoben werden müssen, damit die Unterschriften gültig sind und gezählt werden. Aus diesem Grund ist es bei einer EBI notwendig, mehr persönliche Daten anzugeben, als du es von anderen \"Petitionen\" gewohnt bist.\n"
+        title: "Warum muss ich so viele persönliche Informationen angeben?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "Weil du das Recht hast, frei zu sein. Frei, die Werke zu suchen und zu finden, die du willst, getrieben von eigener Neugier und nicht von algorithmischen Filterblasen, die für dich entscheiden, ohne aufzuschreiben, was du in den Datenbanken der Anbieter herunterlädst."
+        title: "Warum ist es wichtig, Kontrolle und Profiling durch Plattformen zu vermeiden?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "Das Teilen und damit die Verbreitung von kreativen Werken, anderen Inhalten und Kultur zu fördern; die Freiheit, auf kreative Werke zugreifen zu können, ohne kontrolliert und überwacht werden zu müssen."
+        title: "Warum sollte ich diese Europäische Bürgerinitiative unterschreiben?"
+      you-want-to-violate-copyright:
+        body: "Nein. Wir wollen das Urheberrecht ändern und unser Vorschlag ist mit der Berner Übereinkunft und verwandten Verträgen vereinbar."
+        title: "Ihr wollt das Urheberrecht verletzen!"
+    title: "Oft gestellte Fragen"
+  footer:
+    about: "Diese Website wird von GOIPE verwaltet, einer gemeinnützigen Organisation, deren Aufgabe es ist, europäische Bürgerinitiativen für ein besseres Europa vorzuschlagen und zu fördern."
   home:
-    hero:
-      text: Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020
-        mit dem Sammeln von Unterschriften beginnen. <strong>Machen Sie jetzt mit!</strong>
-      action: Abonnieren
-    hero2:
-      text: <strong>Legalisiert Filesharing!</strong><br>Wir kommen aus ganz Europa
-        zusammen, um von der Europäische Kommission ein Urheberrecht zu fordern, das
-        fair für Künstler und Nutzer ist.
-      action: Hier unterschreiben!
-    cta: Mach mit bei der "Freedom to Share" Europäischen Bürgerinitiative
-    official_text:
-      body: Mit dieser Initiative fordern wir den Erlass eines Rechtsakts, der für
-        natürliche Personen die Erlaubnis vorsieht‚ durch Urheberrechte, verwandte
-        Schutzrechte und spezifische Datenbankrechte geschützte Dateien zu persönlichen
-        und gemeinnützigen Zwecken über digitale Netze gemeinsam zu nutzen.
-      title: Lies den offiziellen Text der Initiative
+    cta: "Mach mit bei der \"Freedom to Share\" Europäischen Bürgerinitiative"
     donate:
-      title: Spenden
-      open_collective: Spenden an unseren Kollektiv
+      open_collective: "Spenden an unseren Kollektiv"
+      title: "Spenden"
+    hero:
+      action: "Abonnieren"
+      text: "Wir brauchen eine Million Unterschriften. Wir werden am 15. November 2020 mit dem Sammeln von Unterschriften beginnen. <strong>Machen Sie jetzt mit!</strong>"
+    hero2:
+      action: "Hier unterschreiben!"
+      text: "<strong>Legalisiert Filesharing!</strong><br>Wir kommen aus ganz Europa zusammen, um von der Europäische Kommission ein Urheberrecht zu fordern, das fair für Künstler und Nutzer ist."
+    official_text:
+      body: "Mit dieser Initiative fordern wir den Erlass eines Rechtsakts, der für natürliche Personen die Erlaubnis vorsieht‚ durch Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte geschützte Dateien zu persönlichen und gemeinnützigen Zwecken über digitale Netze gemeinsam zu nutzen."
+      title: "Lies den offiziellen Text der Initiative"
     take_action:
-      title: Mach was
-      body: "Verbreite diese Initiative mit deinen Freunden und Kontakten: schreibe\
-        \ ihnen, teile die Kommunikationsmaterialien, sprich mit ihnen, etc.\n"
+      body: "Verbreite diese Initiative mit deinen Freunden und Kontakten: schreibe ihnen, teile die Kommunikationsmaterialien, sprich mit ihnen, etc.\n"
+      title: "Mach was"
     widget:
       steps:
-        one: Mach mit!
-        other: Unterschreibe!
-  proca:
-    consent:
-      intro: Ich bin einverstanden, dass {{name}} mich über wichtige Neuigkeiten informieren
-        darf
-      opt-in: Ja, informiere mich über Email
-      opt-out: Nein, sende mir keine Emails, ich möchte in Zukunft nicht mehr informiert
-        werden
-      confirm: <0>Bist du dir sicher?</0><1>Wenn du 'Nein' auswählst, wirst du nicht
-        in der Lage sein herauszufinden, ob die Kampagnie erfolgreich gewesen ist,
-        oder ob es noch mehr Aktionen braucht, die wir Zusammen unternehmen müssen
-        um gemeinsam zu gewinnen. Wenn du 'Ja' auswählst, werden wir dich über diese
-        und andere dringliche Kampagnien auf dem Laufenden halten.</1><2>Du kannst
-        dich jederzeit abmelden.</2>
-      processing: Deine persönliche Daten werden geheimgehalten und sicher gespeichert.
-        Wenn du die Informationen übermittelst, stimmst du der Verwendung von Daten
-        und Cookies zu in übereinstimmung mit unserer <1>Datenschutzerklärung</1>
-    share:
-      title: Fast fertig! Zum nächsten Schritt.
-      intro: Danke, du hast unterschrieben 👍. Die Bürgerinitiative wird dann zum Erfolg
-        werden, wenn mehr Menschen unterschreiben. Bitte unterstütze uns, indem Du
-        die Kampagne mit Deiner Familie und Deinen Freunden teilst. Vielen Dank! 🙏.
-      message: Unterschreibe hier!
-      email:
-        subject: Unterschreibe hier
-        body: "Hi, \nbitte trage dich ein, ich glaube du willst uns unterstützen"
-    Donations must be %(amount)s or more: Spenden müssen mindestens %(amount) betragen
-    Sign: Jetzt unterschreiben!
-    progress: '{{count}} haben unterschrieben. Nächstes Ziel {{goal}}'
-    This field is required.: Bitte dieses Feld ausfüllen.
-    Enter a number.: trage eine Zahl ein.
-    Enter a valid email address.: Trage eine gülltige Emailadresse ein.
-    Share on Facebook: Auf Facebook teilen
-    Share on Twitter: Auf Twitter teilen
-    Email_Share button: Email
-    Link_Share button: Link
-    Download explanation: Dein Dokument ist bereit zum herunterladen, wir senden es
-      dir auch per Email.
-    Amount: Betrag
-    First name: Vorname
-    Last name: Nachname
-    Email: Email
-    Postal Code: Postleitzahl
-    Street: Straße
-    City: Ort
-    Country: Land
-    Thanks!: Danke!
-    Legal: Rechtliches
-    Privacy: Privatsphäre
-    No Thanks: Nein danke
-    Stay in touch: in Kontakt bleiben
-    Sign Up: Aboniere
+        one: "Mach mit!"
+        other: "Unterschreibe!"
   messages:
-    get_involved: Mitmachen
+    get_involved: "Mitmachen"
     missing_translations:
-      first: Auf unserer Website fehlt die Übersetzung in Ihre Sprache.
-      second: Hilf uns hier!
-    read_more: Weiter lesen
-  contact:
-    fiscal_code: Steuernummer
-    presentation: "GOIPE ist ein gemeinnütziger Verein nach Artikel 36 des italienischen\
-      \ Zivilgesetzbuches, der speziell zum Zweck der Organisation von Europäischen\
-      \ Bürgerinitiativen gegründet wurde.\nDiese \"Freedom to share\" EBI wurde von\
-      \ Bürgern aus acht europäischen Ländern offiziell bei der Europäischen Kommission\
-      \ eingereicht:\n"
-  creative-commons:
-    text: Creative-Commons-Lizenz
-    url: http://creativecommons.org/licenses/by-sa/4.0/deed.de
+      first: "Auf unserer Website fehlt die Übersetzung in Ihre Sprache."
+      second: "Hilf uns hier!"
+    read_more: "Weiter lesen"
+  pages:
+    certification: "Zertifikation"
+    contact: "Kontakt"
+    home: "Hauptseite"
+    languages: "Sprachen"
+    organizations: "Unterstützende Organisationen"
+    press: "Neuigkeiten"
+    privacy: "Datenschutzerklärung"
   press:
-    published_at: "Veröffentlicht auf\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\nam %{date}\n"
+    published_at: "Veröffentlicht auf\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\nam %{date}\n"
+  proca:
+    Amount: "Betrag"
+    City: "Ort"
+    Country: "Land"
+    Donations must be %(amount)s or more: "Spenden müssen mindestens %(amount) betragen"
+    Download explanation: "Dein Dokument ist bereit zum herunterladen, wir senden es dir auch per Email."
+    Email: "Email"
+    Email_Share button: "Email"
+    Enter a number.: "trage eine Zahl ein."
+    Enter a valid email address.: "Trage eine gülltige Emailadresse ein."
+    First name: "Vorname"
+    Last name: "Nachname"
+    Legal: "Rechtliches"
+    Link_Share button: "Link"
+    No Thanks: "Nein danke"
+    Postal Code: "Postleitzahl"
+    Privacy: "Privatsphäre"
+    Share on Facebook: "Auf Facebook teilen"
+    Share on Twitter: "Auf Twitter teilen"
+    Sign: "Jetzt unterschreiben!"
+    Sign Up: "Aboniere"
+    Stay in touch: "in Kontakt bleiben"
+    Street: "Straße"
+    Thanks!: "Danke!"
+    This field is required.: "Bitte dieses Feld ausfüllen."
+    consent:
+      confirm: "<0>Bist du dir sicher?</0><1>Wenn du 'Nein' auswählst, wirst du nicht in der Lage sein herauszufinden, ob die Kampagnie erfolgreich gewesen ist, oder ob es noch mehr Aktionen braucht, die wir Zusammen unternehmen müssen um gemeinsam zu gewinnen. Wenn du 'Ja' auswählst, werden wir dich über diese und andere dringliche Kampagnien auf dem Laufenden halten.</1><2>Du kannst dich jederzeit abmelden.</2>"
+      intro: "Ich bin einverstanden, dass {{name}} mich über wichtige Neuigkeiten informieren darf"
+      opt-in: "Ja, informiere mich über Email"
+      opt-out: "Nein, sende mir keine Emails, ich möchte in Zukunft nicht mehr informiert werden"
+      processing: "Deine persönliche Daten werden geheimgehalten und sicher gespeichert. Wenn du die Informationen übermittelst, stimmst du der Verwendung von Daten und Cookies zu in übereinstimmung mit unserer <1>Datenschutzerklärung</1>"
+    progress: "{{count}} haben unterschrieben. Nächstes Ziel {{goal}}"
+    share:
+      email:
+        body: "Hi, \nbitte trage dich ein, ich glaube du willst uns unterstützen"
+        subject: "Unterschreibe hier"
+      intro: "Danke, du hast unterschrieben \U0001f44d. Die Bürgerinitiative wird dann zum Erfolg werden, wenn mehr Menschen unterschreiben. Bitte unterstütze uns, indem Du die Kampagne mit Deiner Familie und Deinen Freunden teilst. Vielen Dank! \U0001f64f."
+      message: "Unterschreibe hier!"
+      title: "Fast fertig! Zum nächsten Schritt."
   regions:
-    czech-republic: Tschechien
-    transnational: Europäische / Transnationale Ebene
-    germany: Deutschland
-    italy: Italien
-    sweden: Schweden
-    netherlands: Niederlande
-    spain: Spanien
-    belgium: Belgien
-    estonia: Estland
-    france: Frankreich
-  faq:
-    entries:
-      how-will-freedom-to-share-files-benefit-artists:
-        title: Wie wird die Freiheit, Dateien zu teilen, den Künstlern zugute kommen?
-        body: "Sie werden Geld für die Nutzung ihrer Werke von Filesharern erhalten.\
-          \ Außerdem werden sie den Bürgern den Zugang zu ihren Werken über Mittel\
-          \ ermöglichen, die nicht unter der Kontrolle von Dritten stehen: Die Autoren\
-          \ werden mehr Freiheit genießen und ihre Werke weiter verbreitet.\n"
-      if-file-sharing-is-free-how-will-artists-earn-money:
-        title: Wenn Filesharing frei ist, wie sollen Künstler dann Geld verdienen?
-        body: Sie erhalten einen Anteil an der angemessenen Vergütung, die von den
-          Nutzern für den Zugriff auf ihre Werke gezahlt wird. Dies wird zu ihren
-          üblichen Vergütungsmitteln hinzukommen.
-      what-are-related-rights:
-        body: Im Urheberrecht sind verwandte Schutzrechte die Rechte an einem kreativen
-          Werk, die nicht mit dem eigentlichen Urheber des Werks verbunden sind. Innerhalb
-          der Europäischen Union werden auch die Rechte von Filmproduzenten (im Gegensatz
-          zu Regisseuren) und Datenbankerstellern durch verwandte Rechte geschützt.
-          Eine praktische Definition besagt, dass verwandte Rechte urheberrechtsähnliche
-          Rechte sind, die nicht von der Berner Übereinkunft abgedeckt werden.
-        title: Was sind «verwandte Schutzrechte»?
-      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
-        body: "Weil p2p-Filesharing es dir ermöglicht, wirklich sozial zu sein: Wenn\
-          \ du Dateien teilst, bekommst du gleichzeitig Dateien von anderen Leuten.\
-          \ Mit einem Algorithmus zu interagieren ist nicht sozial. P2p optimiert\
-          \ manchmal die Bandbreitennutzung, denn wenn du eine Datei lädst, die bei\
-          \ vielen anderen Clients verfügbar ist, können viele von ihnen dir verschiedene\
-          \ Teile gleichzeitig schicken, was die Übertragungszeit erheblich reduziert.\n"
-        title: Ich mag es, sozial zu sein. Warum sollte p2p-Filesharing besser sein
-          als Vertriebsplattformen?
-      how-much-will-it-cost-for-users:
-        body: Es gibt ein Spektrum von möglichen Umsetzungen unseres Vorschlags. Wir
-          glauben, dass es mit modernen empirischen Methoden und evidenzbasierter
-          Ökonomie möglich ist, die faire Vergütung für die verschiedenen Szenarien
-          zu berechnen.
-        title: Wie hoch sind die Kosten für die Anwender?
-      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
-        body: Es steht ihm frei, sein Werk nicht zu veröffentlichen und dann wird
-          sein Werk auch nicht geteilt. Sobald ein Werk öffentlich ist, haben alle
-          Bürger gewisse Rechte (privat zu singen, Kopien für den persönlichen Gebrauch
-          anzufertigen und, wie wir glauben, Filesharing-Netzwerke für den persönlichen
-          Gebrauch zu nutzen).
-        title: Was ist, wenn ein Autor nicht damit einverstanden ist, dass sein Werk
-          über Filesharing-Netzwerke weitergegeben wird?
-      how-should-money-be-distributed-among-authors-and-other-right-holders:
-        body: Verwertungsgesellschaften haben bereits verschiedene Methoden, um die
-          eingezogene Vergütung unter Urhebern und anderen Rechteinhabern fair aufzuteilen
-          (Geld aus der Privatkopieabgabe etc.). Wir glauben, dass die Verteilung
-          der für Filesharing eingenommenen fairen Vergütungen sehr fair sein könnte,
-          wenn sie richtig durchgeführt wird. Zum Beispiel könnte es möglich sein,
-          transparente und faire Statistiken über die durch Filesharing-Netzwerke
-          geteilten Werke zu erstellen, indem man einen sicheren "Zähler" einführt,
-          der die Anzahl der Übertragungen für jede Datei misst und den gesammelten
-          Gesamtbetrag anteilig unter den Urhebern der Inhalte verteilt.
-        title: Wie soll das Geld unter den Autoren und anderen Rechteinhabern verteilt
-          werden?
-      why-should-i-sign-this-european-citizen-initiative:
-        title: Warum sollte ich diese Europäische Bürgerinitiative unterschreiben?
-        body: Das Teilen und damit die Verbreitung von kreativen Werken, anderen Inhalten
-          und Kultur zu fördern; die Freiheit, auf kreative Werke zugreifen zu können,
-          ohne kontrolliert und überwacht werden zu müssen.
-      why-its-important-to-avoid-control-and-profiling-by-platforms:
-        title: Warum ist es wichtig, Kontrolle und Profiling durch Plattformen zu
-          vermeiden?
-        body: Weil du das Recht hast, frei zu sein. Frei, die Werke zu suchen und
-          zu finden, die du willst, getrieben von eigener Neugier und nicht von algorithmischen
-          Filterblasen, die für dich entscheiden, ohne aufzuschreiben, was du in den
-          Datenbanken der Anbieter herunterlädst.
-      how-will-file-sharing-freedom-benefit-citizens:
-        title: Wie wird die Freiheit des Filesharing den Bürgern zugute kommen?
-        body: Sie können über Filesharing-Netzwerke frei auf Werke zugreifen, ohne
-          Plattformen nutzen zu müssen, die Nutzungsprofile erstellen.
-      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
-        title: Was sollten Autoren tun, um sicherzustellen, dass ihre Arbeit für das
-          Filesharing verfügbar ist?
-        body: Veröffentlichen und darauf warten, dass die Bürger es teilen. Wenn sie
-          wollen, können sie ihre Arbeit auch persönlich über Filesharing-Netzwerke
-          zur Verfügung stellen.
-      are-you-against-authors:
-        title: Seid ihr gegen Autoren?
-        body: Ganz und gar nicht. Wir wollen das Urheberrecht so aktualisieren, dass
-          es mit der modernen Realität und den Vorlieben der Menschen kompatibel ist.
-          Wir glauben, dass moderne Technologie eine Chance für Autoren ist, nicht
-          ein Problem. Wir glauben auch, dass es für Autoren schädlich ist, sich auf
-          den sehr unfairen und unpopulären Status Quo des Urheberrechts zu verlassen
-          und diesen zu unterstützen. Einige Autoren könnten dank Filesharing von
-          den Menschen viel mehr geschätzt und bekannt sein.
-      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
-        title: Stehen Filesharingplatfomen in Konkurrenz zu Netflix, Spotify und anderen
-          Diensten?
-        body: "Nein. Da es sich um Netzwerke handelt, gibt es keinen einzelnen Wettbewerber:\
-          \ Filesharing-Netzwerke sind dezentralisiert (es gibt keinen obligatorischen\
-          \ Vermittler). Filesharing-Netzwerke sind im Besitz der Bürger, die daran\
-          \ teilnehmen.\n"
-      are-you-against-rightsholders:
-        body: Nein, solange sie die erklärten Ziele des Urheberrechts (und der Autorenrechte)
-          verfolgen, also die Förderung von Kultur und sozialem Fortschritt. Die Majors
-          haben eine Chance verpasst, als sie Anfang 2000 Napster angriffen; sie hätten
-          sich auf dessen Seite schlagen und eine kostenlose Geldmaschine gewinnen
-          können. Stattdessen haben sie ein Jahrzehnt verpasst und sind jetzt für
-          ihr Überleben auf Tantiemen von Spotify, Apple usw. angewiesen. Unser Vorschlag
-          ist auch eine Chance für Verwertungsgesellschaften, Verlage, Plattenfirmen
-          und andere Rechteinhaber.
-        title: Seid ihr gegen Rechteinhaber?
-      do-you-want-to-destroy-existing-digital-distribution-channels:
-        body: Nein. Dienste überleben langfristig, weil Konsumenten sie mögen, nicht
-          wegen der Politiker, die dieses oder jenes Gesetz erlassen.
-        title: Wollt ihr bestehende digitale Vertriebskanäle zerstören?
-      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
-      : title: Ist es wahr, dass Filesharing die Möglichkeit bietet Dinge zu finden,
-          die sehr selten, nicht mehr auf dem Markt oder sonst schwer zu finden sind?
-        body: Ja, solange ein Teil des Netzwerks es hat. Manchmal, wenn der übliche
-          Kanal ausfällt, ist manches schon da, bereit, abgeholt zu werden. In einigen
-          Netzwerken sind heutzutage 10-40 Millionen Dateien verfügbar, mit Millionen
-          von Knoten-Nutzern.
-      this-is-only-a-dream:
-        title: Das ist bloß ein Traum!
-        body: Uns ist klar, dass unser Vorschlag der einzige Weg ist, um ein auf Grundrechten
-          basierendes Urheberrecht voranzutreiben. Wir denken, dass manchmal ein solcher
-          Ehrgeiz notwendig ist.
-      are-you-against-digital-platforms:
-        title: Seid ihr gegen digitale Platformen?
-        body: Nein, wenn sie ihre Macht nicht missbrauchen, um Menschen zu kontrollieren
-          und zu profilieren. Die verschiedenen Internetdienste, die mittlerweile
-          die digitale Verteilung von Kultur dominieren, können ein Nettopositiv sein,
-          weil sie die Verteilung effizienter machen. Die Disintermediation kann auch
-          die Menge an Geldern, die an Mittelsmänner verschwendet werden, die keine
-          zusätzliche Kultur produzieren, reduzieren. Wir sehen jedoch nicht ein,
-          warum riesige zentralisierte Internetdienste, die von wenigen multinationalen
-          Unternehmen betrieben werden, die Kontrolle über die Kultur im digitalen
-          Zeitalter haben sollten. Bemühungen wie Artikel 17 in der Richtlinie 790/2019
-          ("Upload-Filter") waren fehlgeleitet und werden unweigerlich scheitern,
-          weil sie das eigentliche Problem nicht angehen.
-      this-is-not-a-new-idea:
-        title: Das ist keine neue Idee!
-        body: Zugegeben, die Idee ist größtenteils alt. Die berühmteste Variante ist
-          wohl Fishers Vorschlag einer gesetzlichen Lizenz, um Probleme wie die Abschaltung
-          von Napster zu lösen, weil es nur 99,4 % der Urheberrechtsverletzungen stoppen
-          konnte, aber nicht 100 %. <a href="http://www.free-culture.cc/freeculture.pdf">Siehe
-          "Freie Kultur" (2004), S. 307.</a>
-      you-want-to-violate-copyright:
-        title: Ihr wollt das Urheberrecht verletzen!
-        body: Nein. Wir wollen das Urheberrecht ändern und unser Vorschlag ist mit
-          der Berner Übereinkunft und verwandten Verträgen vereinbar.
-      what-is-the-sui-generis-database-right:
-        title: Was ist das Sui Generis Datenbankrecht?
-        body: Das Schutzrecht sui generis schützt Datenbanken, in die eine erhebliche
-          Investition zur Beschaffung, Überprüfung oder Darstellung der Dateninhalte
-          getätigt wurde, gegen die unerlaubte Entnahme und Weiterverwendung ihres
-          Inhalts. Es gibt kein Erfordernis für Kreativität oder Originalität. Dieses
-          Recht besteht für einen Zeitraum von 15 Jahren ab dem Datum, an dem die
-          nicht-kreative Datenbank erstellt wurde. Es ist verschieden und unabhängig
-          vom Urheberrecht, das Originalwerke schützt.  Das Sui Generis Datenbankrecht
-          gehört zur Familie der "verwandten Schutzrechte", d.h. es ist ähnlich, aber
-          unabhängig vom Urheberrecht.
-      is-it-going-to-be-legal-to-share-all-files:
-        title: Wird es legal sein alle Dateien zu teilen?
-        body: "Nein, natürlich nicht. Wir schlagen vor, das Urheberrecht und verwandte\
-          \ Gesetze zu ändern. Viele andere Gesetze können die Weitergabe bestimmter\
-          \ Arten von Dateien verhindern: denken Sie an Geschäftsgeheimnisse, Datenschutz\
-          \ und so weiter.\n"
-      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
-        title: Ich bin EU-Bürger mit Wohnsitz außerhalb der EU. Kann ich die EBI unterschreiben?
-        body: Dies hängt von dem Mitgliedsstaat ab, dessen Staatsangehörigkeit du
-          besitzt. Je nachdem, welche Anforderungen die Mitgliedsstaaten stellen,
-          kannst du die EBI online unterzeichnen oder auch nicht. Dies ist darauf
-          zurückzuführen, dass einige Mitgliedsstaaten eine EU-Adresse verlangen.
-      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
-        title: Ich bin Staatsangehöriger eines EU-Mitgliedstaates, lebe aber in einem
-          anderen EU-Mitgliedstaat. In welchem Mitgliedsstaat muss ich unterschreiben?
-        body: "Du kannst wählen: entweder das Land deiner Staatsbürgerschaft oder\
-          \ das Land, in dem du derzeit lebst. Bitte beachte, dass du dich nur einmal\
-          \ für die Initiative \"Freedom to Share\" unterschreiben kannst. Die Daten,\
-          \ die du in deiner Unterschrift angibst, bestimmen, in welchem Mitgliedsstaat\
-          \ deine Unterschrift gezählt wird. Beispiel: Ein österreichischer Staatsbürger,\
-          \ der in Estland lebt, kann entweder: a) das Formular für Estland ausfüllen,\
-          \ indem er seinen vollständigen Vor- und Nachnamen, seine Adresse, sein\
-          \ Geburtsdatum und seinen Geburtsort sowie seine Staatsangehörigkeit angibt\
-          \ - in diesem Fall wird seine Unterschrift verifiziert und somit in Estland\
-          \ gezählt, oder b) das Formular für Österreich ausfüllen, indem er zusätzlich\
-          \ zu den oben genannten Daten eine persönliche Ausweisnummer aus der von\
-          \ Österreich akzeptierten Liste angibt - in diesem Fall wird seine Unterschrift\
-          \ verifiziert und somit in Österreich gezählt.\n"
-      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
-        title: Ich bin mir nicht sicher, ob ich die EBI schon unterschrieben habe.
-          Kann ich ein zweites Mal unterschreiben oder wird meine Unterschrift ungültig?
-        body: Ja, unterschreib erneut, wenn du unsicher bist. Deine Unterschrift ist
-          nur einmal gültig und wird nur einmal gezählt. Die Software erkennt automatisch
-          doppelte Unterschriften und sortiert Duplikate aus.
-      why-do-i-have-to-provide-so-much-personal-information:
-        title: Warum muss ich so viele persönliche Informationen angeben?
-        body: "Eine Europäische Bürgerinitiative unterscheidet sich von einer \"normalen\"\
-          \ Petition: Sie ist ein offizielles demokratisches Instrument, das es EU-Bürgern\
-          \ ermöglicht, Europa mitzugestalten, indem sie die Europäische Kommission\
-          \ auffordern, einen Rechtsakt vorzuschlagen. Wenn wir es schaffen, eine\
-          \ Million (validierte) Unterschriften zu sammeln, ist die EU-Kommission\
-          \ rechtlich verpflichtet, sich mit unseren Forderungen zu befassen. Wir\
-          \ haben keinen Einfluss darauf, welche Daten für die Unterzeichnung einer\
-          \ Europäischen Bürgerinitiative von den Mitgliedsstaaten benötigt werden.\
-          \ Die jeweiligen EU-Mitgliedsstaaten bestimmen, welche Daten erhoben werden\
-          \ müssen, damit die Unterschriften gültig sind und gezählt werden. Aus diesem\
-          \ Grund ist es bei einer EBI notwendig, mehr persönliche Daten anzugeben,\
-          \ als du es von anderen \"Petitionen\" gewohnt bist.\n"
-      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
-      : title: Könnte dieser Vorschlag als "legaler Deckmantel" für die Verbreitung
-          privater Informationen wie persönlicher Daten, privater Bilder usw. verwendet
-          werden?
-        body: Nein. Dieser Vorschlag betrifft nur die Verbreitung von veröffentlichtem
-          Material. Die Weitergabe von unveröffentlichtem Material bleibt illegal.
-          Darüber hinaus ist die Weitergabe von personenbezogenen Daten illegal, wenn
-          sie nicht mit der DSGVO übereinstimmen.
-      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
-        title: OK, ich hab's. Was kann ich tun, um Filesharing legal zu machen?
-        body: "Denk bitte zunächst daran, die ECI-Kampagne zu unterschreiben. Dies\
-          \ wird dazu beitragen, das Ziel von einer Million Unterschriften zu erreichen,\
-          \ das die Kommission dazu zwingen wird, zu unserer Initiative Stellung zu\
-          \ nehmen. Dann kannst du auf andere Weise helfen: 1. Verbreite die Kampagne\
-          \ mit deinen Freunden und Bekannten (schreib ihnen, teile die Kommunikationsmaterialien,\
-          \ sprich mit ihnen, usw. Bitte beachte, dass wir 12 Monate Zeit haben werden,\
-          \ um 1 Million Unterschriften zu sammeln). 2. setze dich mit uns in Verbindung\
-          \ und trage zur Organisation und Verbreitung der Kampagne in deinem Land\
-          \ bei, indem du dich mit anderen Mitstreitern vernetztst. 3. zu guter Letzt\
-          \ kannst du die Kampagne auch durch eine Spende unterstützen.\n"
-      i-see-there-is-money-involved-who-is-going-to-pay-who:
-        title: Ich sehe, es ist Geld im Spiel. Wer wird wen bezahlen?
-        body: "Es kommt darauf an, wie der Vorschlag rechtlich umgesetzt werden soll.\
-          \ Es gibt verschiedene juristische Techniken: 1. Vorsehen, dass Bürger,\
-          \ die Filesharing-Netzwerke nutzen, eine Lizenz bezahlen müssen, um Dateien\
-          \ einschließlich Werke teilen zu dürfen. 2. Es wird ein zusätzlicher kleiner\
-          \ Geldbetrag eingeführt, der von allen Bürgern gezahlt werden muss, die\
-          \ auf das Internet zugreifen (und eventuell Werke über Filesharing-Netzwerke\
-          \ austauschen). 3. Vorgabe, dass eine faire Vergütung vom Staat gezahlt\
-          \ wird (mit Hilfe der von den Bürgern gezahlten Steuern).\n"
-      is-file-sharing-legal:
-        title: Ist das Filesharing legal?
-        body: Filesharing in Peer-to-Peer-Netzwerken ist nicht legal. Das Ziel der
-          Initiative ist es, das Gesetz in der Europäischen Union zu ändern.
-      how-do-you-think-file-sharing-should-be-regulated:
-        title: Wie sollte Filesharing Ihrer Meinung nach geregelt werden?
-        body: Wir sind der Meinung, dass Filesharing für die private Nutzung durch
-          Bürger kostenlos sein sollte; Autoren und andere Rechteinhaber sollten eine
-          faire Vergütung für die Nutzung ihrer Werke durch Bürger erhalten.
-      what-is-file-sharing:
-        title: Was ist Filesharing?
-        body: Unter Filesharing versteht man die Bereitstellung des Zugriffs auf ein
-          Werk durch digitale Methoden und das Anfertigen von Kopien des abgerufenen
-          Werks. Normalerweise bezieht es sich auf Praktiken wie Peer-to-Peer-Sharing.
-          Es kann aber auch das Versenden eines E-Mail-Anhangs, die Verwendung eines
-          physischen Trägers usw. umfassen.
-      what-is-a-european-citizen-initiative:
-        title: Was ist eine Europäische Bürgerinitiative?
-        body: "Eine EBI ist die Möglichkeit, die die Kommission der Europäischen Union\
-          \ ihren Bürgern gibt, um Änderungen in der Gesetzgebung anzuregen. Link\
-          \ zur Wikipedia-Seite über <a href=\"https://de.wikipedia.org/wiki/Europ%C3%A4ische_B%C3%BCrgerinitiative\"\
-          >Europäische Bürgerinitiative</a>.\n"
-    acronym: FAQ
-    title: Oft gestellte Fragen
-  eci:
-    name: Name der Europäischen Bürgerinitiative
-    description:
-      title: Beschreibung
-      body: Legalisierung der gemeinsamen, zu persönlichen und gemeinnützigen Zwecken
-        über digitale Netze erfolgenden Nutzung von Dateien, die urheberrechtlich,
-        durch verwandte Schutzrechte und durch spezifische Datenbankrechte geschützte
-        Werke und sonstige Materialien enthalten, um ein Gleichgewicht zwischen den
-        Rechten der Urheber und anderer Rechteinhaber und dem universellen Recht auf
-        Wissenschaft und Kultur herzustellen.
-    official_text: "<p>Mit dieser Initiative fordern wir den Erlass eines Rechtsakts,\
-      \ der für natürliche Personen die Erlaubnis vorsieht‚ durch Urheberrechte, verwandte\
-      \ Schutzrechte und spezifische Datenbankrechte geschützte Dateien zu persönlichen\
-      \ und gemeinnützigen Zwecken über digitale Netze gemeinsam zu nutzen.</p><p>Die\
-      \ erste Filesharing-Plattform wurde 1999 mit Napster ins Leben gerufen; im Laufe\
-      \ der Jahre ermöglichten neue Technologien ein immer effizienteres Peer-to-Peer-Filesharing\
-      \ (Gnutella, Freenet, BitTorrent, usw.).</p><p>Von Anfang an waren die größten\
-      \ Urheberrechtsgesellschaften dagegen, dass durch Urheberrechte, verwandte Schutzrechte\
-      \ oder spezifische Datenbankrechte geschützte Werke und sonstige Materialien\
-      \ über digitale Netzwerke geteilt werden; heute entspricht das Recht im Wesentlichen\
-      \ ihren Wünschen.</p><p>Es stellt sich jedoch die Frage: Ist es richtig, dass\
-      \ Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte das\
-      \ Teilen von Werken und sonstigen Materialien verhindern?</p><p>Urheberrechte,\
-      \ verwandte Schutzrechte und spezifische Datenbankrechte sollten die Verbreitung\
-      \ von Kultur, Innovation und sozialem Fortschritt fördern.</p><p>Das geltende\
-      \ Recht verbietet das Teilen von Dateien, die durch Urheberrechte, verwandte\
-      \ Schutzrechte und spezifische Datenbankrechte geschützte Werke und sonstige\
-      \ Materialien enthalten, und stellt somit einen schweren Eingriff in die Freiheit\
-      \ von Wissenschaft und Kultur im Sinne von Artikel 27 Absatz 1 der Allgemeinen\
-      \ Erklärung der Menschenrechte dar.</p><p>Heute, nach der Annahme der Richtlinie\
-      \ (EU) 2019/790 des Europäischen Parlaments und des Rates vom 17. April 2019\
-      \ über das Urheberrecht und die verwandten Schutzrechte im digitalen Binnenmarkt,\
-      \ hat das Thema noch an Bedeutung gewonnen.</p><p>Die Richtlinie hat eine paradoxe\
-      \ Wirkung: Artikel 17 sieht bei der Einholung der Erlaubnis der Rechteinhaber\
-      \ Erleichterungen für Diensteanbieter für das Teilen von Online-Inhalten vor;\
-      \ damit werden sie in ihrer Rolle als privilegierte Mittler gestärkt, und ihren\
-      \ Verfahren der technischen Kontrolle und der Erstellung der Profile der Bürgerinnen\
-      \ und Bürger wird Vorschub geleistet; das Teilen von Dateien ist hingegen nicht\
-      \ erlaubt.</p><p>Mit dieser Initiative wird für Bürgerinnen und Bürger die Erlaubnis\
-      \ zur Teilung von Dateien über Peer-to-Peer-Netze gefordert, damit sie sich\
-      \ Zugang zu Wissenschaft und Kultur verschaffen können, ohne Kontrolle und Profiling\
-      \ zu unterliegen: Ein Rechtsakt der EU, der dies erlaubt, wäre mit dem internationalen\
-      \ Recht in vollem Umfang vereinbar, wenn Rechteinhaber dafür ein angemessenes\
-      \ Entgelt erhielten.</p><p>Die Menschen und ihre Grundrechte müssen in den Mittelpunkt\
-      \ der politischen und legislativen Entscheidungen gerückt werden. Daher müssen\
-      \ auch die Normen geändert werden, denen das Teilen von Dateien unterliegt,\
-      \ die durch Urheberrechte, verwandte Schutzrechte und spezifische Datenbankrechte\
-      \ geschützte Werke und sonstige Materialien enthalten, damit das Potenzial der\
-      \ digitalen Netze für die Freiheit und den sozialen, kulturellen und wirtschaftlichen\
-      \ Fortschritt ausgeschöpft werden kann.</p>\n"
-  act:
-    title: Jetzt handeln!
-    content: "<p>Teile diese Initiative mit deinen Freunden und Bekannten: Schreibe\
-      \ ihnen, verbreite die Kommunikationsmaterialien, sprich mit ihnen, etc.</p>\n\
-      <p>Setze dich mit uns in Verbindung und trage zur Organisation und Verbreitung\
-      \ der Kampagne in deinem Land bei, indem du dich mit anderen Mitstreitern abstimmst:\
-      \ <a href=\"#proca_dialog\" data-turbolinks=\"false\">Abonniere!</a></p>\n<p>Hilf\
-      \ bei der Übersetzung mit: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
-      >Weblate</a></p>\n<p>Unterstütze die Kampagne mit einer Spende:</p>\n"
-  footer:
-    about: Diese Website wird von GOIPE verwaltet, einer gemeinnützigen Organisation,
-      deren Aufgabe es ist, europäische Bürgerinitiativen für ein besseres Europa
-      vorzuschlagen und zu fördern.
+    belgium: "Belgien"
+    czech-republic: "Tschechien"
+    estonia: "Estland"
+    france: "Frankreich"
+    germany: "Deutschland"
+    italy: "Italien"
+    netherlands: "Niederlande"
+    spain: "Spanien"
+    sweden: "Schweden"
+    transnational: "Europäische / Transnationale Ebene"

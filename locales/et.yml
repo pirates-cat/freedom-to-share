@@ -1,178 +1,209 @@
+---
 et:
-  proca:
-    This field is required.: See on nõutud väli.
-    Enter a valid email address.: Sisesta korrektne meiliaadress.
-    Street: Tänav
-    share:
-      title: Peaaegu valmis! Nüüd järgmine samm.
-      message: Võiksid allkirjastada selle siin!
-      email:
-        subject: Palun, allkirjasta see
-        body: "Tere, \nMa arvan, et tahad seda toetada. Anna, palun, oma allkiri"
-      intro: Suurepärane, et andsid allkirja 👍. Mõju suurendamiseks jaga seda teistega
-        ning veendu, et petitsioon jõuab võimalikult paljudeni 🙏.
-    progress: '{{count}} allkirja. Kas saame {{goal}} täis?'
-    Stay in touch: Püsi kursis
-    Thanks!: Aitäh!
-    Share on Facebook: Jaga Facebookis
-    Country: Riik
-    Sign Up: Loo konto
-    Email_Share button: Meiliaadress
-    Sign: Allkirjasta!
-    Donations must be %(amount)s or more: Annetused peavad olema %(amount)s või rohkem
-    Amount: Summa
-    consent:
-      confirm: <0>Oled kindel?</0><1>Kui valid 'Ei', siis jäävad sul saamata teated
-        kampaania edukusest või vajalikest järgmistest sammudest, millega sellele
-        kaasa aidata. Kui valid 'Jah', siis hoiame sind selle ja teiste oluliste kampaaniatega
-        kursis.</1><2>Saad uuenduste saamisest loobuda millal iganes soovid.</2>
-      opt-in: Jah, palun hoidke mind meili teel kursis
-      processing: Sinu isikuandmed säilitatakse turvaliselt ning hoitakse salajas.
-        Teabe esitamisel nõustud andmete ja küpsiste kasutamisega vastavalt meie <1>isikuandmete
-        kaitse põhimõtetele</1>
-      opt-out: Ei, palun mulle tulevikus e-maile mitte saata
-      intro: Luban, et {{name}} võtab muga oluliste kampaaniatega seoses ühendust
-    No Thanks: Tänan, ei
-    Postal Code: Postiindeks
-    Legal: Juriidika
-    Email: E-mail
-    Privacy: Privaatsus
-    Last name: Perekonnanimi
-    Link_Share button: Link
-    City: Linn
-    First name: Eesnimi
-    Enter a number.: Sisesta arv.
-    Share on Twitter: Jaga Twitteris
-    Download explanation: Sinu dokument on valmis ja saadame selle sulle meilile.
-  messages:
-    get_involved: Aita kaasa
-    missing_translations:
-      second: Aita meid siin!
-      first: Meie saidil puudub tõlge sinu keelde.
-    read_more: Loe täpsemalt
-  regions:
-    czech-republic: Tšehhimaa
-    germany: Saksamaa
-    italy: Itaalia
-    transnational: Euroopa / Rahvusvaheline tase
-    sweden: Rootsi
-    spain: Hispaania
-    belgium: Belgia
-    france: Prantsusmaa
-    netherlands: Holland
-    estonia: Eesti
-  pages:
-    home: Algus
-    organizations: Toetajad
-    contact: Kontakt
-    press: Uudised
-    privacy: Privaatsuspoliitika
-    certification: Sertifitseering
-    languages: Keeled
-  press:
-    published_at: "Avaldanud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\n %{date}\n"
+  act:
+    content: "<p>Levita seda algatust oma sõpradele ja tuttavatele: kirjuta neile, jaga selgitavaid materjale, räägi nendega jne.</p>\n<p>Võta meiega ühendust ja anna oma panus organiseerimisse ning kampaania levitamisse oma riigis koordineerides teiste huvilistega: <a href=\"#proca_dialog\" data-turbolinks=\"false\">liitu!</a></p>\n<p>Aita tõlkida: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Toeta kampaaniat annetusega:</p>\n"
+    title: "Anna oma panus!"
+  contact:
+    fiscal_code: "Registrikood"
+    presentation: "GOIPE on Itaalia tsiviilseadustiku artiklile 36 vastav mittetulunduslik ühing, mis on loodud Euroopa kodanikualgatuste korraldamiseks.\nAlgatus \"Vabadus jagada\" on kaheksa Euroopa riigi kodanike poolt ametlikult esitatud Euroopa Komisjonile:\n"
+  creative-commons:
+    text: "Creative Commonsi litsents"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.et"
+  eci:
+    description:
+      body: "Seadustada autoriõiguse, seonduvate õiguste ja sui generis andmebaasiõigusega kaitstud teoseid ja muud materjali sisaldavate failide jagamine isiklikuks kasutamiseks või mittetulunduslikel eesmärkidel üle digitaalvõrkude sellega, et leida tasakaalupunkt autorite ja teiste õiguste omajate õiguste ning üldise õiguse vahel ligipääsuks teadmistele ja kultuurile."
+      title: "Kirjeldus"
+    name: "Euroopa kodanikualgatuse nimi"
+    official_text: "<p>Käesoleva algatusega taotletakse õigusakti vastuvõtmist, millega nähakse ette autoriõiguste, autoriõigusega kaasnevate õiguste ja sui generis andmebaasiõiguste järgimisest vabastamine füüsiliste isikute puhul, kes jagavad faile digitaalvõrkude kaudu isiklikuks kasutamiseks ja mittetulunduslikel eesmärkidel.</p><p>Failivahetus sai alguse aastal 1999 Napsteriga. Aastatega on tehnoloogia muutnud vastastikuse failide jagamise aina tõhusamaks (Gnutella, Freenet, BitTorrent jne).</p><p>Algusest peale on peamised autoriõiguse ühingud olnud vastu autoriõiguse, sellega kaasnevate õiguste ja sui generis andmebaasi tegija õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamise tehnoloogiate kasutamisele ja praegu on õigusnormid nende soovidega üldjoontes kooskõlas.</p><p>Aga püsima jääb üks küsimus: kas on õiglane, et autoriõiguste, autoriõigusega kaasnevate õiguste ja sui generis andmebaasiõiguste alusel keelatakse teoste ja muude materjalide jagamine?</p><p>Autoriõigused, autoriõigusega kaasnevad õigused ja sui generis andmebaasiõigused peaksid soodustama kultuuri, uuenduste ja sotsiaalse progressi levikut.</p><p>Kehtivad õigusnormid, millega keelatakse autoriõiguse, sellega kaasnevate õiguste ja sui generis andmebaasi tegija õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamine, piiravad oluliselt teaduse ja kultuuri vabadust, mis on sätestatud inimõiguste ülddeklaratsiooni artikli 27 lõikes 1.</p><p>See küsimus on veelgi olulisem praegu, pärast Euroopa Parlamendi ja nõukogu 17. aprilli 2019. aasta direktiivi (EL) 2019/790 (mis käsitleb autoriõigust ja autoriõigusega kaasnevaid õigusi digitaalsel ühtsel turul) vastuvõtmist.</p><p>Direktiivil on vastuoluline mõju: ühest küljest lihtsustab artikkel 17 veebisisu jagamise teenuse osutajate jaoks loa saamist autoriõigusega kaitstud sisu levitamiseks ja seega soodustab nende rolli eelistatud vahendajana ning tehnilise kontrolli ja kodanike profiilianalüüsi tegijana; failijagamine seevastu ei ole lubatud.</p><p>Käesoleva algatuse eesmärk on võimaldada kodanikel jagada faile otse kasutajalt kasutajale suunatud võrkude kaudu, et neil oleks juurdepääs teadusele ja kultuurile, ilma et nende suhtes peaks kohaldama kontrolli ja profiilianalüüsi: seda võimaldav ELi õigusakt oleks rahvusvaheliste õigusnormidega kooskõlas, juhul kui õiguste omajad saaksid õiglase hüvitise.</p><p>Inimesed ja põhiõigused tuleb seada poliitiliste ja õigusalaste otsuste keskmesse ja seega tuleb muuta õigusnorme, mis reguleerivad autoriõiguse, sellega kaasnevate õiguste ja sui generis andmebaasi tegija õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamist, et võimaldada ära kasutada vabaduse ning sotsiaalse, kultuurilise ja majandusliku arengu potentsiaali, mida digitaalvõrgud pakuvad.</p>\n"
+  faq:
+    acronym: "KKK"
+    entries:
+      are-you-against-authors:
+        body: "Not at all. We want to update copyright so that it's compatible with modern reality and people's preferences. We believe modern technology is an opportunity for authors, not a problem. We also believe that it's harmful for authors to depend on and support very unfair and unpopular status quo of copyright laws. Some authors might be appreciated and know by people much more thanks to file sharing."
+        title: "Are you against authors?"
+      are-you-against-digital-platforms:
+        body: "No, if they do not abuse of their power to control and profile people. The various internet services which have come to dominate the digital distribution of culture can be a net positive because they make distribution more efficient. Disintermediation can also reduce the amount of money wasted on middlemen who do not produce any additional culture. However, we don't see why giant centralised internet services run by few multinationals should be in control of culture in the digital era. Efforts like article 17 in directive 790/2019 (\"upload filters\") were misguided, and will inevitably fail, because they failed to attack the root problem."
+        title: "Are you against digital platforms?"
+      are-you-against-rightsholders:
+        body: "No, as long as they pursue the stated objectives of copyright (and author rights), that is the promotion of culture and social progress. Majors lost an opportunity when they attacked Napster in the early 2000; they could have sided with it and gained a free money machine. Instead they missed a decade and now they depend on royalties from Spotify, Apple, etc. for their survival. Our proposal is an opportunity for collecting societies, publishers, record labels and other rightsholders too."
+        title: "Are you against rightsholders?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "No. This proposal only concerns the distribution of published material. Sharing unpublished materials will remain illegal. In addition to that, distribution of personal data is illegal if does not comply with the GDPR."
+        title: "Could this proposal be used as a \"legal blanket\" for the distribution of private information such as personal data, private pictures, etc.?"
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: "No. Services survive in the long run because consumers like them, not because politicians write this or that law."
+        title: "Do you want to destroy existing digital distribution channels?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "No. Because they are networks, there is no single competitor: file sharing networks are distributed (there is no mandatory intermediary). File sharing networks are owned by the citizens that participate in it.\n"
+        title: "Are file sharing platforms competitors of Netflix, Spotify and other content distribution platforms?"
+      how-do-you-think-file-sharing-should-be-regulated:
+        body: "We believe file sharing should be free for private use by citizens; authors and other right holders should receive a fair remuneration for the use of their works by citizens."
+        title: "How do you think file sharing should be regulated?"
+      how-much-will-it-cost-for-users:
+        body: "There is a spectrum of possible implementations of our proposal. We believe it's possible, with modern empirical methods and evidence-based economics, to calculate the fair compensation for the various scenarios."
+        title: "Kui palju see kasutajatele maksab?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Collecting societies already have different methods to share among authors and other right holders the fair remuneration collected (money collected from the private copy levy, etc.). We believe that distribution of fair compensation collected for file sharing could be very fair if done properly. As way of example, it could be possible to develop transparent and fair statistics on the works shared through file sharing networks implementing a safe \"counter\" measuring the number of transfers for each file and dividing the total amount collected proportionally between content creators."
+        title: "How should money be distributed among authors and other right holders?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "They will be free to access works through file sharing networks without being required to use platforms that profile them."
+        title: "How will file sharing freedom benefit citizens?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "They will receive money for the use of their works from file sharers. Moreover they will allow citizens to access their works by means that are not under control of third parties: authors will enjoy more freedom and their works will be at hand.\n"
+        title: "How will freedom to share files benefit artists?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "You can choose to select either the country of your citizenship or the country where you currently live in. Please bear in mind, that you can sign up only once for the initiative “Freedom to Share”. The data which you provide in your signature will determine in which member state your signature will be counted. Example: an Austrian citizen living in Estonia can either: a) fill in the form for Estonia, providing their full first names, family names, address, date and place of birth and nationality - in this case, their signature will be verified and therefore counted in Estonia, or b) or fill in the form for Austria, providing in addition to the above data a personal identification document number from the list accepted by Austria – in this case, their signature will be verified and therefore counted in Austria.\n"
+        title: "I am a national of one EU member state but living in another EU member state. In which member state do I sign?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "This depends on the member state of which you are national. Depending on the requirements asked by the member states, you may or may not be able to sign up online. This is due to the fact that some member states require an EU address."
+        title: "I am EU citizen resident outside of the EU. Can I sign the ECI?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Because p2p file sharing allows you to be really social: when you share files, at the same time you get files from other people. Interacting with an algorithm is not being social. P2p sometimes optimizes bandwith usage, when you are collecting a file that is available at many other clients, many of them might send you different parts at the same time, considerably reducing transfer time.\n"
+        title: "I like being social. Why p2p file sharing should be better than distribution platforms?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "It depends on how the proposal will be implemented in law. There are different legal techniques: 1. providing that citizens using file sharing networks have to pay a license to be allowed to share files including works. 2. providing for an additional small amount of money to be paid by all citizens that access the internet (and eventually share works through file sharing networks). 3. providing that a fair remuneration is paid by the state (using taxes paid by citizens).\n"
+        title: "I see there is money involved. Who is going to pay who?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "They will receive a share of the fair remuneration collected for use of their works. This will add to their usual means of remuneration."
+        title: "If file sharing is free how will artists earn money?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Yes, sign again if you're unsure. Your signature is valid and is counted only once. The software automatically detects double signatures and sorts out duplicates."
+        title: "I'm not sure I've signed the ECI yet. Can I sign a second time or is my signature invalidated?"
+      is-file-sharing-legal:
+        body: "File sharing on peer-to-peer networks is not legal. The objective of the initiative is to change the law in the European Union."
+        title: "Is file sharing legal?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Of course not. We are proposing to amend copyright and related laws. Many other laws may prevent sharing specific kinds of files: think of trade secrets, privacy and so on.\n"
+        title: "Is it going to be legal to share all files?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Yes, as long as some part of the network has it. Sometimes, when usual channel fail, some stuff is already there, ready to be collected. On some networks nowaday, there are 10-40 million files available, with million nodes-users."
+        title: "Is it true file sharing gives the opportunity to find stuff very rare / no more on the market /located in some unknown place, difficult to find?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "First, remember to sign the ECI campaign. This will contribute to reach the one million signature goal that will oblige the Commission to take a position on our initiative. Then, you can help in other ways: 1. spread the campaign with your friends and contacts (write them, spread the communication materials, talk to them, etc. please note there will be 12 months time in order to collect 1 million subscriptions). 2. get in touch with us and contribute to the organization and spreading of the campaign in your country coordinating with other campaigners. 3. last but not least, you can also support the campaign making a donation.\n"
+        title: "OK, I got it. What can I do to make file sharing legal?"
+      this-is-not-a-new-idea:
+        body: "Admittedly, it's mostly an old idea. The most famous variant is probably Fisher's proposal of a statutory license to solve problems like Napster being shut down because it was only able to stop 99,4 % of copyright infringement but not 100 %. <a href=\"http://www.free-culture.cc/freeculture.pdf\">See \"Free culture\" (2004), p. 307.</a>"
+        title: "This is not a new idea!"
+      this-is-only-a-dream:
+        body: "We realise that our proposal is the only way to go ahead for a copyright based on fundamental rights. We think sometimes such ambition is needed."
+        title: "This is only a dream!"
+      what-are-related-rights:
+        body: "In copyright law, related rights are the rights of a creative work not connected with the work's actual author. Within the European Union, the rights of film producers (as opposed to directors) and database creators are also protected by related rights. A practical definition is that related rights are copyright-type rights that are not covered by the Berne Convention."
+        title: "What are «related rights»?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "He is free to not publish his work and then his work will not be shared. Once a work is public, all citizens have some right (sing privately, make copies for personal use and, we believe, use file sharing networks for personal use)."
+        title: "What if an author does not agree to have his work shared through file sharing networks?"
+      what-is-a-european-citizen-initiative:
+        body: "An ECI is the opportunity given by European Union's commission to it's citizens to impulse changes in legislation. Link to wikipedia's page on <a href=\"https://en.wikipedia.org/wiki/European_Citizens%27_Initiative\">European citizens' initiative</a>.\n"
+        title: "What is a European Citizen Initiative?"
+      what-is-file-sharing:
+        body: "File sharing is the act of providing access to a work by digital methods and making copies of the work accessed. Usually it refers to practices like peer-to-peer sharing. But it may include sending an email attachment, using a physical support and so on."
+        title: "What is file sharing?"
+      what-is-the-sui-generis-database-right:
+        body: "The sui generis right protects databases, in which there has been a substantial investment in obtaining, verifying or presenting the data contents, against unauthorised extraction and re-utilisation of their content. There is no requirement for creativity or originality. This right lasts 15 years from the date the non-creative database was made. It is distinct and independent from copyright, which protects original works.  Sui Generis Database Right belongs to the family of «related rights», i.e. similar but independent from copyright."
+        title: "What is the Sui Generis Database Right?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Publish it and wait for citizens to share it. If they want, they can also personally make available their work through file sharing networks."
+        title: "What should authors do to make sure that their work is available for file sharing?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "A European Citizens' Initiative is different from a \"normal\" petition: it is an official democratic instrument that enables EU citizens to help shape Europe by asking the European Commission to propose a legislative act. If we manage to collect one million (validated) signatures, the EU Commission will be legally obliged to deal with our demands. We have no control over what data is required for the signing of a European Citizens' Initiative by the member states. The respective EU member states determine which data must be collected, so that the signatures are valid and counted. For this reason, in an ECI it is necessary to give more personal data than you are used to from other \"petitions\".\n"
+        title: "Why do I have to provide so much personal information?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "Because you have the right to be free. Free to look for and find the works that you want, driven by your own curiosity and not by algorithmic filter bubbles that decide for you, without listing what you download in the supplier's databases."
+        title: "Why it's important to avoid control and profiling by platforms?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "Jagamise toetuseks, loometeoste, muu sisu ja laiemalt kultuuri levikule kaasa aitamiseks, et tagada vabadus pääseda ligi loometeostele allutamata kontrollile ja profileerimisele."
+        title: "Miks peaksin andma allkirja sellele Euroopa kodanikualgatusele?"
+      you-want-to-violate-copyright:
+        body: "No. We want to change copyright and our proposal is compatible with the Berne convention and related treaties."
+        title: "You want to violate copyright!"
+    title: "Korduma kippuvad küsimused"
+  footer:
+    about: "Seda veebisaiti haldab GOIPE, mittetulunduslik ühing, mille eesmärk on pakkuda välja ja levitada Euroopa kodanikualgatusi, et muuta Euroopa paremaks."
   home:
-    hero:
-      text: Meil on vaja miljonit allkirja. Koguma hakkame neid 15. novembril 2020.
-        <strong>Aita meile kaasa!</strong>
-      action: Telli
-    cta: Toeta Euroopa kodanikualgatust "Vabadus jagada"
-    official_text:
-      title: Loe algatuse ametlikku teksti
-      body: Meie algatus taotleb õigusakti vastuvõtmist, millega nähakse ette autoriõiguste,
-        autoriõigusega kaasnevate õiguste ja sui generis andmebaasiõiguste järgimisest
-        vabastamine füüsiliste isikute puhul, kes jagavad faile digitaalvõrkude kaudu
-        isiklikuks kasutamiseks ja mittetulunduslikel eesmärkidel.
-    take_action:
-      body: "Levita seda algatust oma sõpradele ja tuttavatele: kirjuta neile, jaga\
-        \ selgitavaid materjale, räägi nendega jne.\n"
-      title: Aita kaasa
+    cta: "Toeta Euroopa kodanikualgatust \"Vabadus jagada\""
     donate:
-      title: Anneta
-      open_collective: Annata meie kollektiivile
+      open_collective: "Annata meie kollektiivile"
+      title: "Anneta"
+    hero:
+      action: "Telli"
+      text: "Meil on vaja miljonit allkirja. Koguma hakkame neid 15. novembril 2020. <strong>Aita meile kaasa!</strong>"
+    hero2:
+      action: "Allkirjasta kohe!"
+      text: "<strong>Failijagamine legaalseks!</strong><br>Koondame inimesi üle kogu Euroopa, et nõuda Euroopa Komisjonilt autoriõiguse reegleid, mis on õiglased nii loojate kui kasutajate suhtes."
+    official_text:
+      body: "Meie algatus taotleb õigusakti vastuvõtmist, millega nähakse ette autoriõiguste, autoriõigusega kaasnevate õiguste ja sui generis andmebaasiõiguste järgimisest vabastamine füüsiliste isikute puhul, kes jagavad faile digitaalvõrkude kaudu isiklikuks kasutamiseks ja mittetulunduslikel eesmärkidel."
+      title: "Loe algatuse ametlikku teksti"
+    take_action:
+      body: "Levita seda algatust oma sõpradele ja tuttavatele: kirjuta neile, jaga selgitavaid materjale, räägi nendega jne.\n"
+      title: "Aita kaasa"
     widget:
       steps:
-        one: Liitu!
-        other: Allkirjasta!
-    hero2:
-      text: <strong>Failijagamine legaalseks!</strong><br>Koondame inimesi üle kogu
-        Euroopa, et nõuda Euroopa Komisjonilt autoriõiguse reegleid, mis on õiglased
-        nii loojate kui kasutajate suhtes.
-      action: Allkirjasta kohe!
-  creative-commons:
-    text: Creative Commonsi litsents
-    url: https://creativecommons.org/licenses/by-sa/4.0/deed.et
-  contact:
-    fiscal_code: Registrikood
-    presentation: "GOIPE on Itaalia tsiviilseadustiku artiklile 36 vastav mittetulunduslik\
-      \ ühing, mis on loodud Euroopa kodanikualgatuste korraldamiseks.\nAlgatus \"\
-      Vabadus jagada\" on kaheksa Euroopa riigi kodanike poolt ametlikult esitatud\
-      \ Euroopa Komisjonile:\n"
-  eci:
-    official_text: "<p>Käesoleva algatusega taotletakse õigusakti vastuvõtmist, millega\
-      \ nähakse ette autoriõiguste, autoriõigusega kaasnevate õiguste ja sui generis\
-      \ andmebaasiõiguste järgimisest vabastamine füüsiliste isikute puhul, kes jagavad\
-      \ faile digitaalvõrkude kaudu isiklikuks kasutamiseks ja mittetulunduslikel\
-      \ eesmärkidel.</p><p>Failivahetus sai alguse aastal 1999 Napsteriga. Aastatega\
-      \ on tehnoloogia muutnud vastastikuse failide jagamise aina tõhusamaks (Gnutella,\
-      \ Freenet, BitTorrent jne).</p><p>Algusest peale on peamised autoriõiguse ühingud\
-      \ olnud vastu autoriõiguse, sellega kaasnevate õiguste ja sui generis andmebaasi\
-      \ tegija õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamise\
-      \ tehnoloogiate kasutamisele ja praegu on õigusnormid nende soovidega üldjoontes\
-      \ kooskõlas.</p><p>Aga püsima jääb üks küsimus: kas on õiglane, et autoriõiguste,\
-      \ autoriõigusega kaasnevate õiguste ja sui generis andmebaasiõiguste alusel\
-      \ keelatakse teoste ja muude materjalide jagamine?</p><p>Autoriõigused, autoriõigusega\
-      \ kaasnevad õigused ja sui generis andmebaasiõigused peaksid soodustama kultuuri,\
-      \ uuenduste ja sotsiaalse progressi levikut.</p><p>Kehtivad õigusnormid, millega\
-      \ keelatakse autoriõiguse, sellega kaasnevate õiguste ja sui generis andmebaasi\
-      \ tegija õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamine,\
-      \ piiravad oluliselt teaduse ja kultuuri vabadust, mis on sätestatud inimõiguste\
-      \ ülddeklaratsiooni artikli 27 lõikes 1.</p><p>See küsimus on veelgi olulisem\
-      \ praegu, pärast Euroopa Parlamendi ja nõukogu 17. aprilli 2019. aasta direktiivi\
-      \ (EL) 2019/790 (mis käsitleb autoriõigust ja autoriõigusega kaasnevaid õigusi\
-      \ digitaalsel ühtsel turul) vastuvõtmist.</p><p>Direktiivil on vastuoluline\
-      \ mõju: ühest küljest lihtsustab artikkel 17 veebisisu jagamise teenuse osutajate\
-      \ jaoks loa saamist autoriõigusega kaitstud sisu levitamiseks ja seega soodustab\
-      \ nende rolli eelistatud vahendajana ning tehnilise kontrolli ja kodanike profiilianalüüsi\
-      \ tegijana; failijagamine seevastu ei ole lubatud.</p><p>Käesoleva algatuse\
-      \ eesmärk on võimaldada kodanikel jagada faile otse kasutajalt kasutajale suunatud\
-      \ võrkude kaudu, et neil oleks juurdepääs teadusele ja kultuurile, ilma et nende\
-      \ suhtes peaks kohaldama kontrolli ja profiilianalüüsi: seda võimaldav ELi õigusakt\
-      \ oleks rahvusvaheliste õigusnormidega kooskõlas, juhul kui õiguste omajad saaksid\
-      \ õiglase hüvitise.</p><p>Inimesed ja põhiõigused tuleb seada poliitiliste ja\
-      \ õigusalaste otsuste keskmesse ja seega tuleb muuta õigusnorme, mis reguleerivad\
-      \ autoriõiguse, sellega kaasnevate õiguste ja sui generis andmebaasi tegija\
-      \ õigustega kaitstud teoseid ja muid materjale sisaldavate failide jagamist,\
-      \ et võimaldada ära kasutada vabaduse ning sotsiaalse, kultuurilise ja majandusliku\
-      \ arengu potentsiaali, mida digitaalvõrgud pakuvad.</p>\n"
-    description:
-      body: Seadustada autoriõiguse, seonduvate õiguste ja sui generis andmebaasiõigusega
-        kaitstud teoseid ja muud materjali sisaldavate failide jagamine isiklikuks
-        kasutamiseks või mittetulunduslikel eesmärkidel üle digitaalvõrkude sellega,
-        et leida tasakaalupunkt autorite ja teiste õiguste omajate õiguste ning üldise
-        õiguse vahel ligipääsuks teadmistele ja kultuurile.
-      title: Kirjeldus
-    name: Euroopa kodanikualgatuse nimi
-  faq:
-    title: Korduma kippuvad küsimused
-    acronym: KKK
-    entries:
-      why-should-i-sign-this-european-citizen-initiative:
-        title: Miks peaksin andma allkirja sellele Euroopa kodanikualgatusele?
-        body: Jagamise toetuseks, loometeoste, muu sisu ja laiemalt kultuuri levikule
-          kaasa aitamiseks, et tagada vabadus pääseda ligi loometeostele allutamata
-          kontrollile ja profileerimisele.
-      how-much-will-it-cost-for-users:
-        title: Kui palju see kasutajatele maksab?
-  footer:
-    about: Seda veebisaiti haldab GOIPE, mittetulunduslik ühing, mille eesmärk on
-      pakkuda välja ja levitada Euroopa kodanikualgatusi, et muuta Euroopa paremaks.
-  act:
-    title: Anna oma panus!
-    content: "<p>Levita seda algatust oma sõpradele ja tuttavatele: kirjuta neile,\
-      \ jaga selgitavaid materjale, räägi nendega jne.</p>\n<p>Võta meiega ühendust\
-      \ ja anna oma panus organiseerimisse ning kampaania levitamisse oma riigis koordineerides\
-      \ teiste huvilistega: <a href=\"#proca_dialog\" data-turbolinks=\"false\">liitu!</a></p>\n\
-      <p>Aita tõlkida: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
-      >Weblate</a></p>\n<p>Toeta kampaaniat annetusega:</p>\n"
+        one: "Liitu!"
+        other: "Allkirjasta!"
+  messages:
+    get_involved: "Aita kaasa"
+    missing_translations:
+      first: "Meie saidil puudub tõlge sinu keelde."
+      second: "Aita meid siin!"
+    read_more: "Loe täpsemalt"
+  pages:
+    certification: "Sertifitseering"
+    contact: "Kontakt"
+    home: "Algus"
+    languages: "Keeled"
+    organizations: "Toetajad"
+    press: "Uudised"
+    privacy: "Privaatsuspoliitika"
+  press:
+    published_at: "Avaldanud \n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\n %{date}\n"
+  proca:
+    Amount: "Summa"
+    City: "Linn"
+    Country: "Riik"
+    Donations must be %(amount)s or more: "Annetused peavad olema %(amount)s või rohkem"
+    Download explanation: "Sinu dokument on valmis ja saadame selle sulle meilile."
+    Email: "E-mail"
+    Email_Share button: "Meiliaadress"
+    Enter a number.: "Sisesta arv."
+    Enter a valid email address.: "Sisesta korrektne meiliaadress."
+    First name: "Eesnimi"
+    Last name: "Perekonnanimi"
+    Legal: "Juriidika"
+    Link_Share button: "Link"
+    No Thanks: "Tänan, ei"
+    Postal Code: "Postiindeks"
+    Privacy: "Privaatsus"
+    Share on Facebook: "Jaga Facebookis"
+    Share on Twitter: "Jaga Twitteris"
+    Sign: "Allkirjasta!"
+    Sign Up: "Loo konto"
+    Stay in touch: "Püsi kursis"
+    Street: "Tänav"
+    Thanks!: "Aitäh!"
+    This field is required.: "See on nõutud väli."
+    consent:
+      confirm: "<0>Oled kindel?</0><1>Kui valid 'Ei', siis jäävad sul saamata teated kampaania edukusest või vajalikest järgmistest sammudest, millega sellele kaasa aidata. Kui valid 'Jah', siis hoiame sind selle ja teiste oluliste kampaaniatega kursis.</1><2>Saad uuenduste saamisest loobuda millal iganes soovid.</2>"
+      intro: "Luban, et {{name}} võtab muga oluliste kampaaniatega seoses ühendust"
+      opt-in: "Jah, palun hoidke mind meili teel kursis"
+      opt-out: "Ei, palun mulle tulevikus e-maile mitte saata"
+      processing: "Sinu isikuandmed säilitatakse turvaliselt ning hoitakse salajas. Teabe esitamisel nõustud andmete ja küpsiste kasutamisega vastavalt meie <1>isikuandmete kaitse põhimõtetele</1>"
+    progress: "{{count}} allkirja. Kas saame {{goal}} täis?"
+    share:
+      email:
+        body: "Tere, \nMa arvan, et tahad seda toetada. Anna, palun, oma allkiri"
+        subject: "Palun, allkirjasta see"
+      intro: "Suurepärane, et andsid allkirja \U0001f44d. Mõju suurendamiseks jaga seda teistega ning veendu, et petitsioon jõuab võimalikult paljudeni \U0001f64f."
+      message: "Võiksid allkirjastada selle siin!"
+      title: "Peaaegu valmis! Nüüd järgmine samm."
+  regions:
+    belgium: "Belgia"
+    czech-republic: "Tšehhimaa"
+    estonia: "Eesti"
+    france: "Prantsusmaa"
+    germany: "Saksamaa"
+    italy: "Itaalia"
+    netherlands: "Holland"
+    spain: "Hispaania"
+    sweden: "Rootsi"
+    transnational: "Euroopa / Rahvusvaheline tase"

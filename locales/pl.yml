@@ -1,366 +1,209 @@
+---
 pl:
+  act:
+    content: "<p>Podziel się tą inicjatywą ze znajomymi: napisz do nich, roześlij materiały promocyjne, porozmawiaj z nimi, itd.</p>\n<p>Skontaktuj się z nami i przyczyń się do organizacji i promocji kampanii w twoim kraju w koordynacji z innymi działaczami: <a href=\"#proca_dialog\" data-turbolinks=\"false\">subskrybuj!</a></p>\n<p>Pomóż w tłumaczeniu: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Wesprzyj kampanię wpłacając datek:</p>\n"
+    title: "Podejmij działanie!"
+  contact:
+    fiscal_code: "Numer podatkowy"
+    presentation: "GOIPE jest stowarzyszeniem non-profit działającym na podstawie art. 36 włoskiego kodeksu cywilnego utworzonym specjalnie w celu organizacji Europejskich Inicjatyw Obywatelskich.\nTa EIO „Wolność wymiany” została oficjalnie przekazana Komisji Europejskiej przez obywateli ośmiu państw europejskich:\n"
+  creative-commons:
+    text: "Licencja Creative Commons"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.pl"
+  eci:
+    description:
+      body: "Zalegalizowanie wymiany – przez sieci cyfrowe, do użytku osobistego i w celach niekomercyjnych – plików zawierających utwory i inne materiały chronione prawem autorskim, prawami pokrewnymi i prawami do bazy danych, w celu osiągnięcia równowagi między prawami autorów i innych uprawnionych podmiotów a powszechnym prawem do nauki i kultury."
+      title: "Opis"
+    name: "Nazwa Europejskiej Inicjatywy Obywatelskiej"
+    official_text: "<p>W inicjatywie tej wzywa się do przyjęcia aktu ustawodawczego przewidującego odstępstwo od praw autorskich, praw pokrewnych i praw do do bazy danych dla osób fizycznych udostępniających pliki za pośrednictwem sieci cyfrowych do użytku osobistego i w celach niekomercyjnych.</p><p>Wymiana plików rozpoczęła się w 1999 r. wraz z powstaniem Napstera. Z biegiem czasu technologia umożliwiła rozproszone udostępnianie plików („peer-to-peer”) w sposób coraz bardziej skuteczny (Gnutella, Freenet, BitTorrent, itp.).</p><p>Od samego początku największe spółki będące właścicielami praw autorskich sprzeciwiały się wykorzystaniu technologii do udostępniania utworów i innych materiałów chronionych prawem autorskim, prawami pokrewnymi i prawami do bazy danych. Dzisiejsze przepisy zasadniczo odpowiadają ich postulatom.</p><p>Pozostaje jednak otwarte pytanie: czy jest to słuszne, żeby prawa autorskie, prawa pokrewne i prawa do bazy danych uniemożliwiały udostępnianie utworów i innych materiałów?</p><p>Prawa autorskie, prawa pokrewne i prawa do bazy danych powinny służyć upowszechnianiu kultury, innowacji i postępu społecznego.</p><p>Obowiązujące przepisy, które uniemożliwiają udostępnianie plików zawierających utwory i inne materiały chronione prawem autorskim, prawami pokrewnymi i prawami do bazy danych, znacznie ograniczają swobodę dostępu do nauki i kultury, przewidzianą w art. 27 ust. 1 Powszechnej deklaracji praw człowieka.</p><p>Kwestia ta ma jeszcze większe znaczenie dzisiaj, po przyjęciu dyrektywy Parlamentu Europejskiego i Rady (UE) 2019/790 z dnia 17 kwietnia 2019 r. w sprawie prawa autorskiego i praw pokrewnych na jednolitym rynku cyfrowym.</p><p>Dyrektywa ma paradoksalne skutki. Z jednej strony art. 17 ułatwia dostawcom usług udostępniania treści online uzyskanie zezwolenia na rozpowszechnianie treści chronionych i w ten sposób potwierdza pełnioną przez nich rolę uprzywilejowanych pośredników oraz faworyzuje ich praktyki kontroli technicznej i profilowania użytkowników. Z drugiej strony udostępnianie plików jest nadal niedozwolone.</p><p>W inicjatywie tej wzywa się do umożliwienia obywatelom bezpośredniego udostępniania plików za pośrednictwem sieci peer-to-peer, aby mieli oni dostęp do nauki i kultury bez podlegania kontrolom i profilowaniu. Akt ustawodawczy UE wprowadzający takie rozwiązanie byłby w pełni zgodny z przepisami międzynarodowymi, jeśli posiadacze praw otrzymaliby godziwe wynagrodzenie.</p><p>Niezbędne jest, aby człowiek i jego prawa podstawowe były drogowskazem w podejmowaniu decyzji politycznych i legislacyjnych. Konieczna jest zatem zmiana przepisów regulujących udostępnianie plików zawierających utwory i inne materiały chronione prawem autorskim, prawami pokrewnymi i prawami do bazy danych, tak aby uwolnić potencjał sieci cyfrowych w korzystaniu ze swobód i w rozwoju społecznym, kulturalnym i gospodarczym.</p>\n"
+  faq:
+    acronym: "Często zadawane pytania"
+    entries:
+      are-you-against-authors:
+        body: "W żadnym wypadku. Chcemy zaktualizować prawo autorskie, aby było zgodne ze współczesną rzeczywistością i ludzkimi upodobaniami. Uważamy, że współczesna technologia jest szansą dla autorów, a nie problemem. Uważamy również, że jest szkodliwe dla autorów popieranie oraz poleganie na bardzo nieuczciwym i powszechnie nielubianym prawie autorskim w bieżącej jego formie. Niektórzy autorzy mogliby być dużo bardziej doceniani oraz znani dla ludzi dzięki wymianie plików."
+        title: "Czy jesteście przeciwko autorom?"
+      are-you-against-digital-platforms:
+        body: "No, if they do not abuse of their power to control and profile people. The various internet services which have come to dominate the digital distribution of culture can be a net positive because they make distribution more efficient. Disintermediation can also reduce the amount of money wasted on middlemen who do not produce any additional culture. However, we don't see why giant centralised internet services run by few multinationals should be in control of culture in the digital era. Efforts like article 17 in directive 790/2019 (\"upload filters\") were misguided, and will inevitably fail, because they failed to attack the root problem."
+        title: "Czy jesteście przeciwko platformom cyfrowym?"
+      are-you-against-rightsholders:
+        body: "No, as long as they pursue the stated objectives of copyright (and author rights), that is the promotion of culture and social progress. Majors lost an opportunity when they attacked Napster in the early 2000; they could have sided with it and gained a free money machine. Instead they missed a decade and now they depend on royalties from Spotify, Apple, etc. for their survival. Our proposal is an opportunity for collecting societies, publishers, record labels and other rightsholders too."
+        title: "Czy jesteście przeciwko posiadaczom praw?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "Nie. Ta propozycja dotyczy wyłącznie dystrybucji opublikowanych materiałów. Rozpowszechnianie nieopublikowanych materiałów pozostanie nielegalne. W dodatku rozpowszechnianie danych osobowych jest nielegalne, jeśli nie jest zgodne z RODO."
+        title: "Czy ta propozycja mogłaby być użyta jako „legalna przykrywka” dla dystrybucji prywatnych informacji, takich jak dane osobowe, prywatne zdjęcia itp.?"
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: "Nie. Na dłuższą metę usługi przeżywają dzięki temu, że są doceniane przez konsumentów, a nie dzięki takiemu czy innemu prawu pisanemu przez polityków."
+        title: "Czy chcecie zniszczyć istniejące kanały cyfrowej dystrybucji?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "Nie. Ponieważ są to sieci, nie ma jednego konkurenta: sieci wymiany plików są rozproszone (nie wymagany jest pośrednik). Sieci wymiany plików są w posiadaniu obywateli, którzy w nich uczestniczą.\n"
+        title: "Czy platformy wymiany plików są konkurentami Netflix, Spotify i innych platform dystrybucji treści?"
+      how-do-you-think-file-sharing-should-be-regulated:
+        body: "Uważamy, że wymiana plików powinna być nieograniczona dla osobistego użytku obywateli; autorzy i inni posiadacze praw powinni otrzymywać godziwe wynagrodzenie za użycie ich utworów przez obywateli."
+        title: "How do you think file sharing should be regulated?"
+      how-much-will-it-cost-for-users:
+        body: "Naszą propozycję można wprowadzić w życie na różne sposoby. Wierzymy, że używając nowoczesnych, empirycznych metod i ekonomii opartej na dowodach jest możliwe wyliczenie godziwego wynagrodzenia w różnych scenariuszach."
+        title: "Ile będzie to kosztowało użytkowników?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Organizacje zbiorowego zarządzania dysponują już różnymi metodami podziału pobranego godziwego wynagrodzenia (pieniędzy pobranych poprzez opłatę reprograficzną itd.) pomiędzy autorów i innych posiadaczy praw. Uważamy, że dobrze zorganizowany podział pobranego godziwego wynagrodzenia za wymianę plików mógłby być bardzo uczciwy. Na przykład mogłoby być możliwe opracowanie jawnych i uczciwych statystyk dotyczących utworów przesyłanych w sieciach wymiany plików zawierających „licznik” mierzący ilość transferów każdego pliku i proporcjonalne dzielenie pobranej sumy pomiędzy ich autorów."
+        title: "Jak pieniądze powinny zostać rozdzielone pomiędzy autorów i innych posiadaczy praw?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "Będą mieć prawo do dostępu do utworów poprzez sieci wymiany plików, bez bycia zmuszonym do używania platform, które ich profilują."
+        title: "Jakie korzyści przyniesie obywatelom wolność wymiany plików?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "Otrzymają wynagrodzenie za użycie ich utworów od ludzi, którzy się nimi wymieniają. Ponadto pozwolą obywatelom uzyskać dostęp do ich utworów w sposób, który nie jest pod kontrolą stron trzecich: autorzy będą się cieszyć większą swobodą, a ich utwory będą w zasięgu ręki.\n"
+        title: "jakie korzyści wolność wymiany plików przyniesie artystom?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "Możesz wybrać albo państwo, którego jesteś obywatelem albo państwo, w którym obecnie mieszkasz. Weź pod uwagę, że możesz złożyć tylko jeden podpis pod inicjatywą „Wolność wymiany”. Dane, które podasz w podpisie zadecydują o tym, w którym państwie członkowskim twój podpis zostanie policzony. Na przykład: Obywatel Austrii mieszkający w Estonii może albo: a) wypełnić formularz dla Estonii, podając swoje pełne imiona, nazwiska, adres, datę i miejsce urodzenia oraz narodowość – w tym przypadku jego podpis zostanie zweryfikowany, a przez to policzony w Estonii, lub b) wypełnić formularz dla Austrii, podając dodatkowo do powyższych danych numer dokumentu tożsamości z listy dokumentów akceptowanych przez Austrię – w tym przypadku jego podpis zostanie zweryfikowany, a przez to policzony w Austrii.\n"
+        title: "Jestem obywatelem jednego państwa członkowskiego, ale mieszkam w innym państwie członkowskim. W którym państwie powinienem złożyć podpis?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "To zależy od państwa członkowskiego, którego jesteś obywatelem. Zależnie od wymogów danego państwa członkowskiego, możesz być w stanie podpisać lub nie. Powodem tego jest fakt, że niektóre państwa członkowskie wymagają adresu w UE."
+        title: "Jestem obywatelem UE zamieszkałym poza UE. Czy mogę podpisać EIO?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Because p2p file sharing allows you to be really social: when you share files, at the same time you get files from other people. Interacting with an algorithm is not being social. P2p sometimes optimizes bandwith usage, when you are collecting a file that is available at many other clients, many of them might send you different parts at the same time, considerably reducing transfer time.\n"
+        title: "I like being social. Why p2p file sharing should be better than distribution platforms?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "It depends on how the proposal will be implemented in law. There are different legal techniques: 1. providing that citizens using file sharing networks have to pay a license to be allowed to share files including works. 2. providing for an additional small amount of money to be paid by all citizens that access the internet (and eventually share works through file sharing networks). 3. providing that a fair remuneration is paid by the state (using taxes paid by citizens).\n"
+        title: "Widzę, że w grę wchodzą pieniądze. Kto komu będzie płacił?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "Otrzymają przydział godziwego wynagrodzenia pobranego za użycie ich utworów. Będzie to dodatek do ich dotychczasowych źródeł wynagrodzenia."
+        title: "Jeśli wymiana plików jest nieograniczona, jak zarobią artyści?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Tak, podpisz ponownie jeśli nie masz pewności. Twój podpis jest ważny i liczony tylko raz. Oprogramowanie automatycznie wykrywa podwójne podpisy i odsiewa duplikaty."
+        title: "Nie jestem pewien, czy już podpisałem EIO. Czy mogę podpisać po raz drugi, czy mój podpis zostanie unieważniony?"
+      is-file-sharing-legal:
+        body: "Wymiana plików przez sieci wymiany plików między użytkownikami („peer-to-peer”) nie jest legalna. Celem tej inicjatywy jest zmiana prawa w Unii Europejskiej."
+        title: "Is file sharing legal?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Oczywiście, że nie. Proponujemy poprawić prawo autorskie i powiązane prawa. Istnieje wiele innych praw, które zabraniają dzielenie się określonymi typami plików: związanych z tajemnicą handlową, prywatnością itd.\n"
+        title: "Czy będzie legalne dzielenie się wszystkimi plikami?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Tak, o ile ktoś w sieci je posiada. Kiedy typowe kanały zawodzą, pewne rzeczy mogą być dostępne w sieciach, gotowe do pobrania. Dziś w niektórych sieciach jest dostępne 10-40 milionów plików, z milionami węzłów-użytkowników."
+        title: "Czy to prawda, że wymiana plików daje szansę na znalezienie rzeczy, które są bardzo rzadkie, nie są już w sprzedaży lub znajdują się w jakimś nieznanym miejscu i są trudne do znalezienia?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Po pierwsze, pamiętaj, aby podpisać EIO. To pomoże nam osiągnąć cel miliona podpisów, co zobowiąże Komisję do przyjęcia stanowiska w sprawie naszej inicjatywy. Jak już to uczynisz, możesz pomóc na inne sposoby: 1. Podziel się tą inicjatywą ze znajomymi (napisz do nich, roześlij materiały promocyjne, porozmawiaj z nimi, itd.; weź pod uwagę, że na zebranie miliona podpisów będziemy mieli 12 miesięcy). 2. Skontaktuj się z nami i przyczyń się do organizacji i promocji kampanii w twoim kraju w koordynacji z innymi działaczami. 3. Możesz też wspomóc kampanię wpłacając datek.\n"
+        title: "OK, rozumiem. Co mogę zrobić, aby wymiana plików stała się legalna?"
+      this-is-not-a-new-idea:
+        body: "Trzeba przyznać, że jest to generalnie stary pomysł. Najbardziej znanym wariantem jest zapewne licencja ustawowa zaproponowana przez Fishera w celu rozwiązania problemów pokroju Napstera, który został zamknięty, ponieważ był w stanie powstrzymać 99,4% przypadków naruszeń praw autorskich, ale nie 100%. <a href=\"http://www.free-culture.cc/freeculture.pdf\">Patrz: \"Free culture\" (2004), strona 307.</a>"
+        title: "To nie jest nowy pomysł!"
+      this-is-only-a-dream:
+        body: "Zdajemy sobie sprawę, że nasza propozycja to jedyna droga naprzód dla prawa autorskiego opartego na podstawowych prawach. Uważamy, że czasami potrzebna jest ambicja."
+        title: "To tylko marzenie!"
+      what-are-related-rights:
+        body: "W prawie autorskim prawa pokrewne są to prawa dotyczące utworów nie powiązane z faktycznym autorem utworu. W Unii Europejskiej prawa producentów filmowych (w odróżnieniu od reżyserów) i twórców baz danych są również chronione prawami pokrewnymi. W praktycznej definicji prawa pokrewne są to prawa podobne do praw autorskich nie objęte konwencją berneńską."
+        title: "Czym są «prawa pokrewne»?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "Może nie publikować swojego utworu, wtedy nie będzie on rozpowszechniany. Gdy utwór jest opublikowany, wszyscy obywatele mają pewne prawa (śpiewać prywatnie, kopiować dla osobistego użytku, a także, jak uważamy, używać sieci wymiany plików dla osobistego użytku)."
+        title: "Co, jeśli autor nie zgadza się na rozpowszechnianie jego utworu w sieciach wymiany plików?"
+      what-is-a-european-citizen-initiative:
+        body: "An ECI is the opportunity given by European Union's commission to it's citizens to impulse changes in legislation. Link to wikipedia's page on <a href=\"https://en.wikipedia.org/wiki/European_Citizens%27_Initiative\">European citizens' initiative</a>.\n"
+        title: "Czym jest Europejska Inicjatywa Obywatelska?"
+      what-is-file-sharing:
+        body: "Wymiana plików jest czynnością polegającą na udostępnianiu utworu za pomocą technologii cyfrowej i jego kopiowaniu. Zwykle odnosi się to do wymiany przez sieci „peer-to-peer”, ale można by do niej zaliczyć również przesłanie w załączniku przez pocztę elektroniczną, a także przy pomocy zewnętrznego nośnika danych itp."
+        title: "Czym jest wymiana plików?"
+      what-is-the-sui-generis-database-right:
+        body: "The sui generis right protects databases, in which there has been a substantial investment in obtaining, verifying or presenting the data contents, against unauthorised extraction and re-utilisation of their content. There is no requirement for creativity or originality. This right lasts 15 years from the date the non-creative database was made. It is distinct and independent from copyright, which protects original works.  Sui Generis Database Right belongs to the family of «related rights», i.e. similar but independent from copyright."
+        title: "Czym jest prawo sui generis dotyczące baz danych?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Opublikować je i zaczekać, aż obywatele się nim podzielą. Jeżeli chcą, mogą też osobiście udostępnić swój utwór w sieciach wymainy plików."
+        title: "Co powinni zrobić autorzy, aby ich utwór był dostępny w drodze wymiany?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Europejska Inicjatywa Obywatelska różni się od „zwykłej” petycji: jest ona oficjalnym demokratycznym narzędziem, które pozwala obywatelom UE kształtować Europę, wnosząc do Komisji Europejskiej wniosek o zaproponowanie aktu ustawodawczego. Jeżeli uda się nam zebrać milion (potwierdzonych) podpisów, Komisja Europejska będzie prawnie zobowiązana rozpatrzyć nasze żądania. Nie mamy wpływu na to, jakie dane są wymagane przez państwa członkowskie do złożenia podpisu pod Europejską Inicjatywą Obywatelską. Poszczególne państwa członkowskie UE ustalają, jakie dane muszą być zebrane, aby podpisy były ważne i policzone. Z tego powodu dla EIO jest niezbędne podanie większej ilości danych osobowych niż w przypadku innych „petycji”, z którymi mogłeś się zetknąć.\n"
+        title: "Dlaczego muszę podawać aż tyle danych osobowych?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "Ponieważ masz prawo do wolności. Wolności szukania i znajdowania utworów, które cię interesują, kierowany własną ciekawością, a nie bańkami przefiltrowanymi przez algorytmy, które decydują za ciebie; bez gromadzenia danych o tym, co ściągasz w bazach danych dostawców."
+        title: "Dlaczego ważne jest unikanie kontrolowania i profilowania przez platformy?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "Aby ułatwić wymianę, a przez to rozprzestrzenianie, utworów, innych treści oraz kultury; aby móc mieć dostęp do dóbr kultury bez konieczności bycia kontrolowanym i profilowanym."
+        title: "Dlaczego powinienem podpisać tą Europejską Inicjatywę Obywatelską?"
+      you-want-to-violate-copyright:
+        body: "Nie. Chcemy zmienić prawo autorskie, a nasza propozycja jest zgodna z konwencją berneńską i powiązanymi traktatami."
+        title: "Chcecie łamać prawo autorskie!"
+    title: "Często zadawane pytania"
+  footer:
+    about: "Ta strona jest zarządzana przez GOIPE, organizację non-profit, której misją jest proponowanie i promowanie Europejskich Inicjatyw Obywatelskich dla lepszej Europy."
+  home:
+    cta: "Wesprzyj Europejską Inicjatywę Obywatelską «Wolność wymiany»"
+    donate:
+      open_collective: "Wesprzyj nas datkiem"
+      title: "Złóż datek"
+    hero:
+      action: "Subskrybuj"
+      text: "Potrzebujemy miliona podpisów. Rozpoczniemy ich zbieranie 15 listopada 2020 roku. <strong>Dołącz do nas teraz!</strong>"
+    hero2:
+      action: "Podpisz tutaj!"
+      text: "<strong>Zalegalizujmy wymianę plików!</strong><br>Zbieramy się w całej Europie, aby wezwać Komisję Europejską do przyjęcia takich reguł prawa autorskiego, które są uczciwe dla twórców oraz dla użytkowników."
+    official_text:
+      body: "W inicjatywie tej wzywa się do przyjęcia aktu ustawodawczego przewidującego odstępstwo od praw autorskich, praw pokrewnych i praw do baz danych dla osób fizycznych udostępniających pliki za pośrednictwem sieci cyfrowych do użytku osobistego i w celach niekomercyjnych."
+      title: "Przeczytaj oficjalny tekst inicjatywy"
+    take_action:
+      body: "Podziel się tą inicjatywą ze znajomymi: napisz do nich, roześlij materiały promocyjne, porozmawiaj z nimi, itd.\n"
+      title: "Podejmij działanie"
+    widget:
+      steps:
+        one: "Dołącz do nas!"
+        other: "Sign it!"
+  messages:
+    get_involved: "Zaangażuj się"
+    missing_translations:
+      first: "Na naszej stronie brakuje tłumaczeń na twój język."
+      second: "Pomóż nam tutaj!"
+    read_more: "Czytaj dalej"
+  pages:
+    certification: "Zaświadczenie"
+    contact: "Kontakt"
+    home: "Strona główna"
+    languages: "Języki"
+    organizations: "Organizacje wspierające"
+    press: "Nowości"
+    privacy: "Polityka prywatności"
+  press:
+    published_at: "Opublikowany na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\ndnia %{date}\n"
   proca:
-    First name: Imię
-    Email: E-mail
-    Postal Code: Kod pocztowy
-    Street: Ulica
-    City: Miejscowość
-    Country: Kraj
-    Thanks!: Dziękujemy!
-    Last name: Nazwisko
+    Amount: "Wartość"
+    City: "Miejscowość"
+    Country: "Kraj"
+    Donations must be %(amount)s or more: "Wartość darowizn musi wynosić %(amount) lub więcej"
+    Download explanation: "Twój dokument jest już gotowy, wysyłamy go również na twój e-mail."
+    Email: "E-mail"
+    Email_Share button: "E-mail"
+    Enter a number.: "Wpisz numer."
+    Enter a valid email address.: "Wpisz prawidłowy adres e-mail."
+    First name: "Imię"
+    Last name: "Nazwisko"
+    Legal: "Prawo"
+    Link_Share button: "Odnośnik"
+    No Thanks: "Nie, dziękuję"
+    Postal Code: "Kod pocztowy"
+    Privacy: "Prywatność"
+    Share on Facebook: "Podziel się przez Facebook"
+    Share on Twitter: "Podziel się przez Twitter"
+    Sign: "Podpisz teraz!"
+    Sign Up: "Zapisz się"
+    Stay in touch: "Pozostań w kontakcie"
+    Street: "Ulica"
+    Thanks!: "Dziękujemy!"
+    This field is required.: "To pole jest obowiązkowe."
+    consent:
+      confirm: "<0>Czy na pewno?</0><1>Jeśli wybierzesz „Nie”, nie dowiesz się, czy ta kampania odniosła sukces, ani czy nie potrzebujemy podjąć wspólnie dodatkowych działań, aby osiągnąć cel. Jeśli wybierzesz „Tak”, będziemy powiadamiać cię o tej kampanii, a także o innych naszych pilnych kampaniach.</1><2>Możesz zrezygnować w każdej chwili.</2>"
+      intro: "Zgadzam się, aby {{name}} powiadamiał mnie o ważnych kampaniach"
+      opt-in: "Tak, informuj mnie przez e-mail"
+      opt-out: "Nie, nie wysyłaj mi e-maili ani nie powiadamiaj mnie w przyszłości"
+      processing: "Twoje dane osobowe będą traktowane poufnie i przechowywane bezpiecznie. Podając dane zgadzasz się na wykorzystywanie ich, a także plików cookie, zgodnie z naszą <1>polityką prywatniości</1>"
+    progress: "{{count}} podpisało. Osiągnijmy {{goal}}"
     share:
       email:
         body: "Witaj, \nProszę, podpisz; myślę, że chciałbyś to poprzeć"
-        subject: Powinieneś to podpisać
-      title: Prawie koniec! Jeszcze jeden krok.
-      intro: Znakomicie, twój podpis został złożony 👍. Aby zwielokrotnić swój wpływ,
-        roześlij tą petycję wzdłuż i wszerz, aby wszyscy ją zobaczyli 🙏.
-      message: Powinieneś to podpisać!
-    Sign: Podpisz teraz!
-    progress: '{{count}} podpisało. Osiągnijmy {{goal}}'
-    This field is required.: To pole jest obowiązkowe.
-    Enter a number.: Wpisz numer.
-    Enter a valid email address.: Wpisz prawidłowy adres e-mail.
-    Donations must be %(amount)s or more: Wartość darowizn musi wynosić %(amount)
-      lub więcej
-    Amount: Wartość
-    Legal: Prawo
-    Privacy: Prywatność
-    No Thanks: Nie, dziękuję
-    Share on Facebook: Podziel się przez Facebook
-    Share on Twitter: Podziel się przez Twitter
-    Email_Share button: E-mail
-    Link_Share button: Odnośnik
-    Download explanation: Twój dokument jest już gotowy, wysyłamy go również na twój
-      e-mail.
-    consent:
-      intro: Zgadzam się, aby {{name}} powiadamiał mnie o ważnych kampaniach
-      opt-in: Tak, informuj mnie przez e-mail
-      opt-out: Nie, nie wysyłaj mi e-maili ani nie powiadamiaj mnie w przyszłości
-      confirm: <0>Czy na pewno?</0><1>Jeśli wybierzesz „Nie”, nie dowiesz się, czy
-        ta kampania odniosła sukces, ani czy nie potrzebujemy podjąć wspólnie dodatkowych
-        działań, aby osiągnąć cel. Jeśli wybierzesz „Tak”, będziemy powiadamiać cię
-        o tej kampanii, a także o innych naszych pilnych kampaniach.</1><2>Możesz
-        zrezygnować w każdej chwili.</2>
-      processing: Twoje dane osobowe będą traktowane poufnie i przechowywane bezpiecznie.
-        Podając dane zgadzasz się na wykorzystywanie ich, a także plików cookie, zgodnie
-        z naszą <1>polityką prywatniości</1>
-    Stay in touch: Pozostań w kontakcie
-    Sign Up: Zapisz się
+        subject: "Powinieneś to podpisać"
+      intro: "Znakomicie, twój podpis został złożony \U0001f44d. Aby zwielokrotnić swój wpływ, roześlij tą petycję wzdłuż i wszerz, aby wszyscy ją zobaczyli \U0001f64f."
+      message: "Powinieneś to podpisać!"
+      title: "Prawie koniec! Jeszcze jeden krok."
   regions:
-    czech-republic: Czechy
-    germany: Niemcy
-    italy: Włochy
-    transnational: Poziom europejski / ponadnarodowy
-    sweden: Szwecja
-    belgium: Belgia
-    estonia: Estonia
-    france: Francja
-    netherlands: Holandia
-    spain: Hiszpania
-  creative-commons:
-    url: https://creativecommons.org/licenses/by-sa/4.0/deed.pl
-    text: Licencja Creative Commons
-  contact:
-    fiscal_code: Numer podatkowy
-    presentation: "GOIPE jest stowarzyszeniem non-profit działającym na podstawie\
-      \ art. 36 włoskiego kodeksu cywilnego utworzonym specjalnie w celu organizacji\
-      \ Europejskich Inicjatyw Obywatelskich.\nTa EIO „Wolność wymiany” została oficjalnie\
-      \ przekazana Komisji Europejskiej przez obywateli ośmiu państw europejskich:\n"
-  messages:
-    get_involved: Zaangażuj się
-    missing_translations:
-      first: Na naszej stronie brakuje tłumaczeń na twój język.
-      second: Pomóż nam tutaj!
-    read_more: Czytaj dalej
-  pages:
-    home: Strona główna
-    press: Nowości
-    organizations: Organizacje wspierające
-    contact: Kontakt
-    privacy: Polityka prywatności
-    certification: Zaświadczenie
-    languages: Języki
-  home:
-    hero:
-      action: Subskrybuj
-      text: Potrzebujemy miliona podpisów. Rozpoczniemy ich zbieranie 15 listopada
-        2020 roku. <strong>Dołącz do nas teraz!</strong>
-    hero2:
-      action: Podpisz tutaj!
-      text: <strong>Zalegalizujmy wymianę plików!</strong><br>Zbieramy się w całej
-        Europie, aby wezwać Komisję Europejską do przyjęcia takich reguł prawa autorskiego,
-        które są uczciwe dla twórców oraz dla użytkowników.
-    official_text:
-      title: Przeczytaj oficjalny tekst inicjatywy
-      body: W inicjatywie tej wzywa się do przyjęcia aktu ustawodawczego przewidującego
-        odstępstwo od praw autorskich, praw pokrewnych i praw do baz danych dla osób
-        fizycznych udostępniających pliki za pośrednictwem sieci cyfrowych do użytku
-        osobistego i w celach niekomercyjnych.
-    donate:
-      title: Złóż datek
-      open_collective: Wesprzyj nas datkiem
-    cta: Wesprzyj Europejską Inicjatywę Obywatelską «Wolność wymiany»
-    take_action:
-      title: Podejmij działanie
-      body: "Podziel się tą inicjatywą ze znajomymi: napisz do nich, roześlij materiały\
-        \ promocyjne, porozmawiaj z nimi, itd.\n"
-    widget:
-      steps:
-        one: Dołącz do nas!
-        few: Podpisz!
-        many: Podpisz!
-  press:
-    published_at: "Opublikowany na\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\ndnia %{date}\n"
-  eci:
-    official_text: "<p>W inicjatywie tej wzywa się do przyjęcia aktu ustawodawczego\
-      \ przewidującego odstępstwo od praw autorskich, praw pokrewnych i praw do do\
-      \ bazy danych dla osób fizycznych udostępniających pliki za pośrednictwem sieci\
-      \ cyfrowych do użytku osobistego i w celach niekomercyjnych.</p><p>Wymiana plików\
-      \ rozpoczęła się w 1999 r. wraz z powstaniem Napstera. Z biegiem czasu technologia\
-      \ umożliwiła rozproszone udostępnianie plików („peer-to-peer”) w sposób coraz\
-      \ bardziej skuteczny (Gnutella, Freenet, BitTorrent, itp.).</p><p>Od samego\
-      \ początku największe spółki będące właścicielami praw autorskich sprzeciwiały\
-      \ się wykorzystaniu technologii do udostępniania utworów i innych materiałów\
-      \ chronionych prawem autorskim, prawami pokrewnymi i prawami do bazy danych.\
-      \ Dzisiejsze przepisy zasadniczo odpowiadają ich postulatom.</p><p>Pozostaje\
-      \ jednak otwarte pytanie: czy jest to słuszne, żeby prawa autorskie, prawa pokrewne\
-      \ i prawa do bazy danych uniemożliwiały udostępnianie utworów i innych materiałów?</p><p>Prawa\
-      \ autorskie, prawa pokrewne i prawa do bazy danych powinny służyć upowszechnianiu\
-      \ kultury, innowacji i postępu społecznego.</p><p>Obowiązujące przepisy, które\
-      \ uniemożliwiają udostępnianie plików zawierających utwory i inne materiały\
-      \ chronione prawem autorskim, prawami pokrewnymi i prawami do bazy danych, znacznie\
-      \ ograniczają swobodę dostępu do nauki i kultury, przewidzianą w art. 27 ust.\
-      \ 1 Powszechnej deklaracji praw człowieka.</p><p>Kwestia ta ma jeszcze większe\
-      \ znaczenie dzisiaj, po przyjęciu dyrektywy Parlamentu Europejskiego i Rady\
-      \ (UE) 2019/790 z dnia 17 kwietnia 2019 r. w sprawie prawa autorskiego i praw\
-      \ pokrewnych na jednolitym rynku cyfrowym.</p><p>Dyrektywa ma paradoksalne skutki.\
-      \ Z jednej strony art. 17 ułatwia dostawcom usług udostępniania treści online\
-      \ uzyskanie zezwolenia na rozpowszechnianie treści chronionych i w ten sposób\
-      \ potwierdza pełnioną przez nich rolę uprzywilejowanych pośredników oraz faworyzuje\
-      \ ich praktyki kontroli technicznej i profilowania użytkowników. Z drugiej strony\
-      \ udostępnianie plików jest nadal niedozwolone.</p><p>W inicjatywie tej wzywa\
-      \ się do umożliwienia obywatelom bezpośredniego udostępniania plików za pośrednictwem\
-      \ sieci peer-to-peer, aby mieli oni dostęp do nauki i kultury bez podlegania\
-      \ kontrolom i profilowaniu. Akt ustawodawczy UE wprowadzający takie rozwiązanie\
-      \ byłby w pełni zgodny z przepisami międzynarodowymi, jeśli posiadacze praw\
-      \ otrzymaliby godziwe wynagrodzenie.</p><p>Niezbędne jest, aby człowiek i jego\
-      \ prawa podstawowe były drogowskazem w podejmowaniu decyzji politycznych i legislacyjnych.\
-      \ Konieczna jest zatem zmiana przepisów regulujących udostępnianie plików zawierających\
-      \ utwory i inne materiały chronione prawem autorskim, prawami pokrewnymi i prawami\
-      \ do bazy danych, tak aby uwolnić potencjał sieci cyfrowych w korzystaniu ze\
-      \ swobód i w rozwoju społecznym, kulturalnym i gospodarczym.</p>\n"
-    description:
-      body: Zalegalizowanie wymiany – przez sieci cyfrowe, do użytku osobistego i
-        w celach niekomercyjnych – plików zawierających utwory i inne materiały chronione
-        prawem autorskim, prawami pokrewnymi i prawami do bazy danych, w celu osiągnięcia
-        równowagi między prawami autorów i innych uprawnionych podmiotów a powszechnym
-        prawem do nauki i kultury.
-      title: Opis
-    name: Nazwa Europejskiej Inicjatywy Obywatelskiej
-  act:
-    title: Podejmij działanie!
-    content: "<p>Podziel się tą inicjatywą ze znajomymi: napisz do nich, roześlij\
-      \ materiały promocyjne, porozmawiaj z nimi, itd.</p>\n<p>Skontaktuj się z nami\
-      \ i przyczyń się do organizacji i promocji kampanii w twoim kraju w koordynacji\
-      \ z innymi działaczami: <a href=\"#proca_dialog\" data-turbolinks=\"false\"\
-      >subskrybuj!</a></p>\n<p>Pomóż w tłumaczeniu: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
-      >Weblate</a></p>\n<p>Wesprzyj kampanię wpłacając datek:</p>\n"
-  faq:
-    entries:
-      do-you-want-to-destroy-existing-digital-distribution-channels:
-        body: Nie. Na dłuższą metę usługi przeżywają dzięki temu, że są doceniane
-          przez konsumentów, a nie dzięki takiemu czy innemu prawu pisanemu przez
-          polityków.
-        title: Czy chcecie zniszczyć istniejące kanały cyfrowej dystrybucji?
-      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
-        body: "Po pierwsze, pamiętaj, aby podpisać EIO. To pomoże nam osiągnąć cel\
-          \ miliona podpisów, co zobowiąże Komisję do przyjęcia stanowiska w sprawie\
-          \ naszej inicjatywy. Jak już to uczynisz, możesz pomóc na inne sposoby:\
-          \ 1. Podziel się tą inicjatywą ze znajomymi (napisz do nich, roześlij materiały\
-          \ promocyjne, porozmawiaj z nimi, itd.; weź pod uwagę, że na zebranie miliona\
-          \ podpisów będziemy mieli 12 miesięcy). 2. Skontaktuj się z nami i przyczyń\
-          \ się do organizacji i promocji kampanii w twoim kraju w koordynacji z innymi\
-          \ działaczami. 3. Możesz też wspomóc kampanię wpłacając datek.\n"
-        title: OK, rozumiem. Co mogę zrobić, aby wymiana plików stała się legalna?
-      how-will-file-sharing-freedom-benefit-citizens:
-        title: Jakie korzyści przyniesie obywatelom wolność wymiany plików?
-        body: Będą mieć prawo do dostępu do utworów poprzez sieci wymiany plików,
-          bez bycia zmuszonym do używania platform, które ich profilują.
-      what-are-related-rights:
-        title: Czym są «prawa pokrewne»?
-        body: W prawie autorskim prawa pokrewne są to prawa dotyczące utworów nie
-          powiązane z faktycznym autorem utworu. W Unii Europejskiej prawa producentów
-          filmowych (w odróżnieniu od reżyserów) i twórców baz danych są również chronione
-          prawami pokrewnymi. W praktycznej definicji prawa pokrewne są to prawa podobne
-          do praw autorskich nie objęte konwencją berneńską.
-      why-should-i-sign-this-european-citizen-initiative:
-        title: Dlaczego powinienem podpisać tą Europejską Inicjatywę Obywatelską?
-        body: Aby ułatwić wymianę, a przez to rozprzestrzenianie, utworów, innych
-          treści oraz kultury; aby móc mieć dostęp do dóbr kultury bez konieczności
-          bycia kontrolowanym i profilowanym.
-      why-its-important-to-avoid-control-and-profiling-by-platforms:
-        body: Ponieważ masz prawo do wolności. Wolności szukania i znajdowania utworów,
-          które cię interesują, kierowany własną ciekawością, a nie bańkami przefiltrowanymi
-          przez algorytmy, które decydują za ciebie; bez gromadzenia danych o tym,
-          co ściągasz w bazach danych dostawców.
-        title: Dlaczego ważne jest unikanie kontrolowania i profilowania przez platformy?
-      how-much-will-it-cost-for-users:
-        title: Ile będzie to kosztowało użytkowników?
-        body: Naszą propozycję można wprowadzić w życie na różne sposoby. Wierzymy,
-          że używając nowoczesnych, empirycznych metod i ekonomii opartej na dowodach
-          jest możliwe wyliczenie godziwego wynagrodzenia w różnych scenariuszach.
-      how-will-freedom-to-share-files-benefit-artists:
-        title: jakie korzyści wolność wymiany plików przyniesie artystom?
-        body: "Otrzymają wynagrodzenie za użycie ich utworów od ludzi, którzy się\
-          \ nimi wymieniają. Ponadto pozwolą obywatelom uzyskać dostęp do ich utworów\
-          \ w sposób, który nie jest pod kontrolą stron trzecich: autorzy będą się\
-          \ cieszyć większą swobodą, a ich utwory będą w zasięgu ręki.\n"
-      if-file-sharing-is-free-how-will-artists-earn-money:
-        title: Jeśli wymiana plików jest nieograniczona, jak zarobią artyści?
-        body: Otrzymają przydział godziwego wynagrodzenia pobranego za użycie ich
-          utworów. Będzie to dodatek do ich dotychczasowych źródeł wynagrodzenia.
-      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
-        title: Co powinni zrobić autorzy, aby ich utwór był dostępny w drodze wymiany?
-        body: Opublikować je i zaczekać, aż obywatele się nim podzielą. Jeżeli chcą,
-          mogą też osobiście udostępnić swój utwór w sieciach wymainy plików.
-      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
-        body: Może nie publikować swojego utworu, wtedy nie będzie on rozpowszechniany.
-          Gdy utwór jest opublikowany, wszyscy obywatele mają pewne prawa (śpiewać
-          prywatnie, kopiować dla osobistego użytku, a także, jak uważamy, używać
-          sieci wymiany plików dla osobistego użytku).
-        title: Co, jeśli autor nie zgadza się na rozpowszechnianie jego utworu w sieciach
-          wymiany plików?
-      how-should-money-be-distributed-among-authors-and-other-right-holders:
-        body: Organizacje zbiorowego zarządzania dysponują już różnymi metodami podziału
-          pobranego godziwego wynagrodzenia (pieniędzy pobranych poprzez opłatę reprograficzną
-          itd.) pomiędzy autorów i innych posiadaczy praw. Uważamy, że dobrze zorganizowany
-          podział pobranego godziwego wynagrodzenia za wymianę plików mógłby być bardzo
-          uczciwy. Na przykład mogłoby być możliwe opracowanie jawnych i uczciwych
-          statystyk dotyczących utworów przesyłanych w sieciach wymiany plików zawierających
-          „licznik” mierzący ilość transferów każdego pliku i proporcjonalne dzielenie
-          pobranej sumy pomiędzy ich autorów.
-        title: Jak pieniądze powinny zostać rozdzielone pomiędzy autorów i innych
-          posiadaczy praw?
-      how-do-you-think-file-sharing-should-be-regulated:
-        body: Uważamy, że wymiana plików powinna być nieograniczona dla osobistego
-          użytku obywateli; autorzy i inni posiadacze praw powinni otrzymywać godziwe
-          wynagrodzenie za użycie ich utworów przez obywateli.
-      what-is-file-sharing:
-        title: Czym jest wymiana plików?
-        body: Wymiana plików jest czynnością polegającą na udostępnianiu utworu za
-          pomocą technologii cyfrowej i jego kopiowaniu. Zwykle odnosi się to do wymiany
-          przez sieci „peer-to-peer”, ale można by do niej zaliczyć również przesłanie
-          w załączniku przez pocztę elektroniczną, a także przy pomocy zewnętrznego
-          nośnika danych itp.
-      what-is-a-european-citizen-initiative:
-        title: Czym jest Europejska Inicjatywa Obywatelska?
-      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
-        title: Czy platformy wymiany plików są konkurentami Netflix, Spotify i innych
-          platform dystrybucji treści?
-        body: "Nie. Ponieważ są to sieci, nie ma jednego konkurenta: sieci wymiany\
-          \ plików są rozproszone (nie wymagany jest pośrednik). Sieci wymiany plików\
-          \ są w posiadaniu obywateli, którzy w nich uczestniczą.\n"
-      is-file-sharing-legal:
-        body: Wymiana plików przez sieci wymiany plików między użytkownikami („peer-to-peer”)
-          nie jest legalna. Celem tej inicjatywy jest zmiana prawa w Unii Europejskiej.
-      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
-      : body: Tak, o ile ktoś w sieci je posiada. Kiedy typowe kanały zawodzą, pewne
-          rzeczy mogą być dostępne w sieciach, gotowe do pobrania. Dziś w niektórych
-          sieciach jest dostępne 10-40 milionów plików, z milionami węzłów-użytkowników.
-        title: Czy to prawda, że wymiana plików daje szansę na znalezienie rzeczy,
-          które są bardzo rzadkie, nie są już w sprzedaży lub znajdują się w jakimś
-          nieznanym miejscu i są trudne do znalezienia?
-      you-want-to-violate-copyright:
-        title: Chcecie łamać prawo autorskie!
-        body: Nie. Chcemy zmienić prawo autorskie, a nasza propozycja jest zgodna
-          z konwencją berneńską i powiązanymi traktatami.
-      this-is-not-a-new-idea:
-        body: 'Trzeba przyznać, że jest to generalnie stary pomysł. Najbardziej znanym
-          wariantem jest zapewne licencja ustawowa zaproponowana przez Fishera w celu
-          rozwiązania problemów pokroju Napstera, który został zamknięty, ponieważ
-          był w stanie powstrzymać 99,4% przypadków naruszeń praw autorskich, ale
-          nie 100%. <a href="http://www.free-culture.cc/freeculture.pdf">Patrz: "Free
-          culture" (2004), strona 307.</a>'
-        title: To nie jest nowy pomysł!
-      this-is-only-a-dream:
-        title: To tylko marzenie!
-        body: Zdajemy sobie sprawę, że nasza propozycja to jedyna droga naprzód dla
-          prawa autorskiego opartego na podstawowych prawach. Uważamy, że czasami
-          potrzebna jest ambicja.
-      are-you-against-authors:
-        title: Czy jesteście przeciwko autorom?
-        body: W żadnym wypadku. Chcemy zaktualizować prawo autorskie, aby było zgodne
-          ze współczesną rzeczywistością i ludzkimi upodobaniami. Uważamy, że współczesna
-          technologia jest szansą dla autorów, a nie problemem. Uważamy również, że
-          jest szkodliwe dla autorów popieranie oraz poleganie na bardzo nieuczciwym
-          i powszechnie nielubianym prawie autorskim w bieżącej jego formie. Niektórzy
-          autorzy mogliby być dużo bardziej doceniani oraz znani dla ludzi dzięki
-          wymianie plików.
-      are-you-against-rightsholders:
-        title: Czy jesteście przeciwko posiadaczom praw?
-      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
-        title: Jestem obywatelem jednego państwa członkowskiego, ale mieszkam w innym
-          państwie członkowskim. W którym państwie powinienem złożyć podpis?
-        body: "Możesz wybrać albo państwo, którego jesteś obywatelem albo państwo,\
-          \ w którym obecnie mieszkasz. Weź pod uwagę, że możesz złożyć tylko jeden\
-          \ podpis pod inicjatywą „Wolność wymiany”. Dane, które podasz w podpisie\
-          \ zadecydują o tym, w którym państwie członkowskim twój podpis zostanie\
-          \ policzony. Na przykład: Obywatel Austrii mieszkający w Estonii może albo:\
-          \ a) wypełnić formularz dla Estonii, podając swoje pełne imiona, nazwiska,\
-          \ adres, datę i miejsce urodzenia oraz narodowość – w tym przypadku jego\
-          \ podpis zostanie zweryfikowany, a przez to policzony w Estonii, lub b)\
-          \ wypełnić formularz dla Austrii, podając dodatkowo do powyższych danych\
-          \ numer dokumentu tożsamości z listy dokumentów akceptowanych przez Austrię\
-          \ – w tym przypadku jego podpis zostanie zweryfikowany, a przez to policzony\
-          \ w Austrii.\n"
-      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
-        title: Nie jestem pewien, czy już podpisałem EIO. Czy mogę podpisać po raz
-          drugi, czy mój podpis zostanie unieważniony?
-        body: Tak, podpisz ponownie jeśli nie masz pewności. Twój podpis jest ważny
-          i liczony tylko raz. Oprogramowanie automatycznie wykrywa podwójne podpisy
-          i odsiewa duplikaty.
-      is-it-going-to-be-legal-to-share-all-files:
-        title: Czy będzie legalne dzielenie się wszystkimi plikami?
-        body: "Oczywiście, że nie. Proponujemy poprawić prawo autorskie i powiązane\
-          \ prawa. Istnieje wiele innych praw, które zabraniają dzielenie się określonymi\
-          \ typami plików: związanych z tajemnicą handlową, prywatnością itd.\n"
-      i-see-there-is-money-involved-who-is-going-to-pay-who:
-        title: Widzę, że w grę wchodzą pieniądze. Kto komu będzie płacił?
-      what-is-the-sui-generis-database-right:
-        title: Czym jest prawo sui generis dotyczące baz danych?
-      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
-        title: Jestem obywatelem UE zamieszkałym poza UE. Czy mogę podpisać EIO?
-        body: To zależy od państwa członkowskiego, którego jesteś obywatelem. Zależnie
-          od wymogów danego państwa członkowskiego, możesz być w stanie podpisać lub
-          nie. Powodem tego jest fakt, że niektóre państwa członkowskie wymagają adresu
-          w UE.
-      why-do-i-have-to-provide-so-much-personal-information:
-        body: "Europejska Inicjatywa Obywatelska różni się od „zwykłej” petycji: jest\
-          \ ona oficjalnym demokratycznym narzędziem, które pozwala obywatelom UE\
-          \ kształtować Europę, wnosząc do Komisji Europejskiej wniosek o zaproponowanie\
-          \ aktu ustawodawczego. Jeżeli uda się nam zebrać milion (potwierdzonych)\
-          \ podpisów, Komisja Europejska będzie prawnie zobowiązana rozpatrzyć nasze\
-          \ żądania. Nie mamy wpływu na to, jakie dane są wymagane przez państwa członkowskie\
-          \ do złożenia podpisu pod Europejską Inicjatywą Obywatelską. Poszczególne\
-          \ państwa członkowskie UE ustalają, jakie dane muszą być zebrane, aby podpisy\
-          \ były ważne i policzone. Z tego powodu dla EIO jest niezbędne podanie większej\
-          \ ilości danych osobowych niż w przypadku innych „petycji”, z którymi mogłeś\
-          \ się zetknąć.\n"
-        title: Dlaczego muszę podawać aż tyle danych osobowych?
-      are-you-against-digital-platforms:
-        title: Czy jesteście przeciwko platformom cyfrowym?
-      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
-      : title: Czy ta propozycja mogłaby być użyta jako „legalna przykrywka” dla dystrybucji
-          prywatnych informacji, takich jak dane osobowe, prywatne zdjęcia itp.?
-        body: Nie. Ta propozycja dotyczy wyłącznie dystrybucji opublikowanych materiałów.
-          Rozpowszechnianie nieopublikowanych materiałów pozostanie nielegalne. W
-          dodatku rozpowszechnianie danych osobowych jest nielegalne, jeśli nie jest
-          zgodne z RODO.
-    acronym: Często zadawane pytania
-    title: Często zadawane pytania
-  footer:
-    about: Ta strona jest zarządzana przez GOIPE, organizację non-profit, której misją
-      jest proponowanie i promowanie Europejskich Inicjatyw Obywatelskich dla lepszej
-      Europy.
+    belgium: "Belgia"
+    czech-republic: "Czechy"
+    estonia: "Estonia"
+    france: "Francja"
+    germany: "Niemcy"
+    italy: "Włochy"
+    netherlands: "Holandia"
+    spain: "Hiszpania"
+    sweden: "Szwecja"
+    transnational: "Poziom europejski / ponadnarodowy"

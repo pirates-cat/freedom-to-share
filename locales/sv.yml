@@ -1,295 +1,209 @@
+---
 sv:
-  proca:
-    This field is required.: Fältet måste vara ifyllt.
-    Enter a valid email address.: Fyll i giltig e-mailadress.
-    Donations must be %(amount)s or more: Donationer måste vara %(amount) eller mer
-    Amount: Summa
-    First name: Förnamn
-    Last name: Efternamn
-    Email: E-mail
-    Postal Code: Postnummer
-    Street: Adress
-    City: Ort
-    Country: Land
-    Thanks!: Tack!
-    Enter a number.: Använd bara siffror.
-    Share on Twitter: Dela på Twitter
-    Email_Share button: E-mail
-    Link_Share button: Länk
-    consent:
-      intro: Jag godkänner att {{name}} kontaktar mig gällande viktiga kampanjer
-      opt-in: Ja, håll mig uppdaterad via e-mejl
-      opt-out: Nej, jag vill inte få e-mejl eller nyheter skickade till mig i framtiden
-      confirm: <0>Är du säker?</0><1>Genom att välja 'Nej' så kommer du inte uppdateras
-        om ifall kampanjen är framgångsrik, eller ifall vi behöver andra åtgärder
-        för att nå våra mål. Om du istället väljer 'Ja' så kommer vi hålla dig uppdaterad
-        om både denna och kommande kampanjer</1><2>Du kan avregistrera prenumerationen
-        när som helst.</2>
-      processing: Din personliga information är säker och kommer inte att spridas.
-        Genom att skicka information samtycker du till användning av data och kakor
-        i enlighet med vår <1>integritetspolicy</1>
-    share:
-      title: Nästan klar! Ta nästa steg.
-      intro: Bra, du har skrivit under👍. Stärk din påverkan genom att sprida så att
-        fler ser denna kampanj🙏.
-      message: Du borde skriva under det här!
-      email:
-        subject: Du borde skriva under det här
-        body: "Hej, \nSnälla skriv under, jag tror du vill stödja det här initiativet"
-    Sign: Signera nu!
-    progress: '{{count}} har signerat. Gå till{{goal}}'
-    Legal: Juridiskt
-    Privacy: Integritetspolicy
-    Sign Up: Prenumerera
-    Share on Facebook: Dela på Facebook
-    No Thanks: Nej, tack
-    Download explanation: Ditt dokument är nu redo - vi mailar det till dig.
-    Stay in touch: Håll kontakten
+  act:
+    content: "<p>Sprid det här initiativet till dina vänner och kontakter: skriv till dem, sprid vårt kommunikationsmaterial, prata med dem, och så vidare.</p>\n<p>Kom i kontakt med oss och bidra till organisationen och spridandet av kampanjen i ditt land: <a href=\"#proca_dialog\" data-turbolinks=\"false\">prenumerera!</a></p>\n<p>Hjälp oss med översättningar: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Stötta kampanjen genom att donera:</p>\n"
+    title: "Agera nu!"
   contact:
-    fiscal_code: Personnummer
-    presentation: "GOIPE är en ideell förening, registrerad i enlighet med artikel\
-      \ 36 i den italienska lagstiftningen för bildandet av europeiska medborgarinitiativ.\n\
-      \"Freedom to Share\"-initiativet har formellt lämnats till EU-kommissionen av\
-      \ medborgare från åtta europeiska länder.\n"
+    fiscal_code: "Personnummer"
+    presentation: "GOIPE är en ideell förening, registrerad i enlighet med artikel 36 i den italienska lagstiftningen för bildandet av europeiska medborgarinitiativ.\n\"Freedom to Share\"-initiativet har formellt lämnats till EU-kommissionen av medborgare från åtta europeiska länder.\n"
   creative-commons:
-    text: Creative Commons-licens
-    url: https://creativecommons.org/licenses/by-sa/4.0/deed.sv
+    text: "Creative Commons-licens"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.sv"
+  eci:
+    description:
+      body: "Att legalisera delning - via digitala nätverk, för personligt och icke-kommersiellt bruk - av filer som innehåller verk och annat material som skyddas av upphovsrätt, närstående rättigheter och sui generis databasrättigheter, med målet att hitta en balans mellan skaparnas rättigheter och medborgarens rätt till tillgång till vetenskap och kultur."
+      title: "Beskrivning"
+    name: "Det europeiska medborgarinitiativets namn"
+    official_text: "<p>Med det här initiativet uppmanar vi kommissionen att anta en rättsakt om undantag för upphovsrätt, närstående rättigheter och databasrätt för fysiska personer som delar filer via digitala nät för personligt bruk utan vinstsyfte.</p><p>Det första fildelningsprogrammet Napster lanserades 1999 och sedan dess har det utvecklats allt effektivare fildelningstjänster (t.ex. Gnutella, Freenet och BitTorrent).</p><p>Redan från början motsatte sig de största upphovsrättsinnehavarna fildelning av verk och annat material som skyddas av upphovsrätt, närstående rättigheter och databasrätt, och gällande lagstiftning är i stort sett i linje med deras förväntningar.</p><p>Men en fråga kvarstår: är det rätt att upphovsrätt, närstående rättigheter och databasrätt förbjuder delning av verk och annat material?</p><p>Dessa rättigheter borde i stället främja spridningen av kultur, innovation och sociala framsteg.</p><p>Gällande lagstiftning som förbjuder delning av filer som innehåller verk eller annat material som skyddas av upphovsrätt, närstående rättigheter och databasrätt begränsar kraftigt rätten att ta del av forskning och kultur, som är inskriven i artikel 27 i den allmänna förklaringen om de mänskliga rättigheterna.</p><p>Frågan är ännu mer relevant i dag, efter antagandet av Europaparlamentets och rådets direktiv (EU) 2019/790 av den 17 april 2019 om upphovsrätt och närstående rättigheter på den digitala inre marknaden.</p><p>Direktivet har en paradoxal effekt: Artikel 17 underlättar för leverantörer av delningstjänster för innehåll på nätet att få tillstånd att sprida upphovsrättsskyddat innehåll och gynnar därmed deras roll som privilegierade förmedlare och deras metoder för teknisk kontroll och profilering av invånarna. Fildelning är däremot inte tillåten.</p><p>Målet med det här initiativet är att privatpersoner ska kunna dela filer direkt via peer-to-peer-nät så att de får tillgång till vetenskap och kultur utan att utsättas för kontroller och profilering. En EU-rättsakt som tillåter detta skulle vara helt förenlig med internationell rätt om rättighetsinnehavarna fick en rimlig ersättning.</p><p>Människor och deras grundläggande rättigheter måste stå i centrum för politiken och lagstiftningen. Det är därför nödvändigt att ändra reglerna för delning av filer som innehåller verk och annat material som skyddas av upphovsrätt, närstående rättigheter och databasrätt för att frigöra den potential för frihet och social, kulturell och ekonomisk utveckling som de digitala näten erbjuder.</p>\n"
+  faq:
+    acronym: "FAQ"
+    entries:
+      are-you-against-authors:
+        body: "Inte alls. Vi vill uppdatera upphovsrätten så att den är kompatibel med vårt moderna samhälle. Vi tror att ny teknik är en möjlighet för kreatörer och inte ett problem. Vi tror också att det är skadligt för kreatörer att vara beroende av och stötta den orättvis och impopulära gällande upphovsrätten. Vissa kreatörer är mer uppskattade och kända på grund av fildelningen."
+        title: "Är ni emot kreatörer?"
+      are-you-against-digital-platforms:
+        body: "Nej, inte ifall de inte missbrukar sin makt för att kontrollera och övervaka människor. De nätplattformar som kommit att dominera den digitala förmedlingen av kultur kan vara positiva aktörer genom att effektivisera distributionen av kultur. Att kapa mellanled i distributionen innebär också mindre pengar som slösas på mellanhänder, vilka inte själva producerar någon kultur. Vi ser dock inte varför gigantiska, centraliserade nätplattformar som ägs och drivs av en handfull konglomerat ska kontrollera det digitala samhällets kulturliv. Sådant som artikel 17 (tidigare 13) från 2019 års upphovsrättsdirektiv (\"uppladdningsfilter\") är olämpliga åtgärder som oundvikligen kommer misslyckas."
+        title: "Är ni emot digitala plattformar?"
+      are-you-against-rightsholders:
+        body: "Nej, så länge de eftersträvar de uttalade målsättningarna med upphovsrätten och dess närstående rättigheter, alltså främjandet av kulturella och sociala framsteg. De stora skivbolagen gick miste om en möjlighet när de attackerade Napster under det tidiga 2000-talet; de hade kunnat alliera sig med Napster för en gratis penningmaskin. Istället gick de miste om ett decenniums utveckling och är nu beroende av royalties från Spotify, Apple, etc. för sin överlevnad. Vårt förslag är även en möjlighet för insamlingssällskap, förlag, skivbolag och andra rättighetshavare."
+        title: "Är ni emot rättighetshavare?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "No. This proposal only concerns the distribution of published material. Sharing unpublished materials will remain illegal. In addition to that, distribution of personal data is illegal if does not comply with the GDPR."
+        title: "Could this proposal be used as a \"legal blanket\" for the distribution of private information such as personal data, private pictures, etc.?"
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: "Nej. Tjänster överlever på lång sikt för att konsumenter gillar dem, inte för att politiker skrev den ena eller andra lagen."
+        title: "Vill ni förstöra existerande digitala distributionsmetoder?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "Nej. Eftersom de är decentraliserade nätverk finns ingen enskild konkurrent till plattformarna. Fildelningsnätverk ägs av medborgarna som deltar i dem, inte något företag som konkurrerar med Netflix eller Spotify.\n"
+        title: "Är fildelningsnätverk konkurrenter till Netflix, Spotify och andra plattformar för förmedling av kultur?"
+      how-do-you-think-file-sharing-should-be-regulated:
+        body: "We believe file sharing should be free for private use by citizens; authors and other right holders should receive a fair remuneration for the use of their works by citizens."
+        title: "How do you think file sharing should be regulated?"
+      how-much-will-it-cost-for-users:
+        body: "Det finns flera olika möjliga implementationer av vårt förslag. Vi tror att det med moderna empiriska metoder och evidensbaserad forskning är möjligt att räkna ut rättvis kompensation för olika scenarier."
+        title: "Hur mycket kommer det kosta för användare?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Insamlingssällskap har redan olika metoder för att fördela inkomster mellan kreatörer och andra rättighetshavare, som de använder för bland annat de pengar som samlas in genom privatkopieringsavgiften. Vi tror att fördelning av ersättningar för fildelning kan göras rättvis om den görs korrekt. Till exempel så skulle det vara möjligt att utveckla transparent och rättvisande statistik över vilka verk som delas i fildelningsnätverk genom att mäta antalet överföringar per fil och så dela upp ersättningen proportionerligt mellan kreatörer."
+        title: "Hur ska pengar fördelas mellan kreatörer och andra rättighetshavare (t.ex. skivbolag)?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "De kommer ha fri tillgång till verk genom fildelningsnätverk utan att tvingas använda plattformar som övervakar och profilerar dem."
+        title: "Hur kommer frihet att fildela gagna medborgare?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "De kommer erhålla pengar för fildelarnas användning av deras verk. Dessutom kommer de tillåta medborgare att komma åt deras verk utan mellanhänders kontroll. Kreatörer kommer åtnjuta större frihet och deras verk kommer vara mer tillgängliga.\n"
+        title: "Hur kommer frihet att dela filer gynna kreatörer?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "You can choose to select either the country of your citizenship or the country where you currently live in. Please bear in mind, that you can sign up only once for the initiative “Freedom to Share”. The data which you provide in your signature will determine in which member state your signature will be counted. Example: an Austrian citizen living in Estonia can either: a) fill in the form for Estonia, providing their full first names, family names, address, date and place of birth and nationality - in this case, their signature will be verified and therefore counted in Estonia, or b) or fill in the form for Austria, providing in addition to the above data a personal identification document number from the list accepted by Austria – in this case, their signature will be verified and therefore counted in Austria.\n"
+        title: "I am a national of one EU member state but living in another EU member state. In which member state do I sign?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "This depends on the member state of which you are national. Depending on the requirements asked by the member states, you may or may not be able to sign up online. This is due to the fact that some member states require an EU address."
+        title: "I am EU citizen resident outside of the EU. Can I sign the ECI?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "För att peer-2-peer fildelning ger dig möjligheten att verkligen vara social. När du delar filer tar du också emot filer från andra människor. Att interagera med en algoritm är inte socialt.\n\nIbland effektiviserar peer-2-peer-teknik fildelningen, så att olika personer kan ge dig olika delar av samma fil samtidigt, så att nätverket blir effektivare.\n"
+        title: "Jag gillar att vara social. Varför skulle peer-2-peer fildelningsnätverk vara bättre än nuvarande plattformar för distribution?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "It depends on how the proposal will be implemented in law. There are different legal techniques: 1. providing that citizens using file sharing networks have to pay a license to be allowed to share files including works. 2. providing for an additional small amount of money to be paid by all citizens that access the internet (and eventually share works through file sharing networks). 3. providing that a fair remuneration is paid by the state (using taxes paid by citizens).\n"
+        title: "I see there is money involved. Who is going to pay who?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "De kommer erhålla en andel av den ersättning som betalas av användare för att ha tillgång till deras verk. Detta läggs till deras vanliga medel för ersättning."
+        title: "Om vi legaliserar fildelning, hur ska då kreatörer tjäna pengar?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Yes, sign again if you're unsure. Your signature is valid and is counted only once. The software automatically detects double signatures and sorts out duplicates."
+        title: "I'm not sure I've signed the ECI yet. Can I sign a second time or is my signature invalidated?"
+      is-file-sharing-legal:
+        body: "File sharing on peer-to-peer networks is not legal. The objective of the initiative is to change the law in the European Union."
+        title: "Is file sharing legal?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Of course not. We are proposing to amend copyright and related laws. Many other laws may prevent sharing specific kinds of files: think of trade secrets, privacy and so on.\n"
+        title: "Is it going to be legal to share all files?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Ja, så länge någon del av nätverket har materialet. Ibland när den vanliga distributionskanalen inte längre fungerar finns materialet redan på plats i nätverket, redo att hämtas. På vissa nätverk delas redan idag 10-40 miljoner filer av miljontals olika användare."
+        title: "Är det sant att fildelning ger en möjlighet att hitta material som är väldigt ovanligt/inte längre finns på marknaden/svårt att hitta?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "First, remember to sign the ECI campaign. This will contribute to reach the one million signature goal that will oblige the Commission to take a position on our initiative. Then, you can help in other ways: 1. spread the campaign with your friends and contacts (write them, spread the communication materials, talk to them, etc. please note there will be 12 months time in order to collect 1 million subscriptions). 2. get in touch with us and contribute to the organization and spreading of the campaign in your country coordinating with other campaigners. 3. last but not least, you can also support the campaign making a donation.\n"
+        title: "OK, I got it. What can I do to make file sharing legal?"
+      this-is-not-a-new-idea:
+        body: "Vi erkänner att detta är en mestadels gammal idé. Den mest berömda varianten är antagligen Fishers förslag om en lagstadgad licens för att lösa problem som att Napster stängdes ner för att bara kunna stoppa 99,4% av upphovsrättsintrång, men inte 100%. <a href=\"http://www.free-culture.cc/freeculture.pdf\">Se \"Free culture\" (2004), p. 307.</a>"
+        title: "Det här är inte någon ny idé!"
+      this-is-only-a-dream:
+        body: "Vi inser att vårt förslag är den enda vägen framåt för en upphovsrätt grundad i medborgerliga rättigheter. Ibland behövs den här sortens ambition."
+        title: "Det här är bara en dröm!"
+      what-are-related-rights:
+        body: "Inom upphovsrättslagen är närstående rättigheter sådana rättigheter till ett kreativt verk som inte är kopplade till verkets faktiska skapare. Inom EU skyddas också rättigheter för filmproducenter (till skillnad från regissörer) och databasskapare genom närstående rättigheter. En praktisk definition är att närstående rättigheter är upphovsrättsliknande rättigheter som inte omfattas av Bernkonventionen."
+        title: "Vad är \"närstående rättigheter\"?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "Kreatörer är fria att inte publicera sina verk - då kommer de inte heller att delas. När ett verk är offentliggjort har alla medborgare vissa rättigheter (sjunga privat, göra privata kopior, och om vi får som vi vill, dela i fildelningsnätverk för privat och icke-kommersiellt bruk)."
+        title: "Vad händer om en kreatör inte vill att dess verk delas i fildelningsnätverk?"
+      what-is-a-european-citizen-initiative:
+        body: "An ECI is the opportunity given by European Union's commission to it's citizens to impulse changes in legislation. Link to wikipedia's page on <a href=\"https://en.wikipedia.org/wiki/European_Citizens%27_Initiative\">European citizens' initiative</a>.\n"
+        title: "What is a European Citizen Initiative?"
+      what-is-file-sharing:
+        body: "File sharing is the act of providing access to a work by digital methods and making copies of the work accessed. Usually it refers to practices like peer-to-peer sharing. But it may include sending an email attachment, using a physical support and so on."
+        title: "What is file sharing?"
+      what-is-the-sui-generis-database-right:
+        body: "The sui generis right protects databases, in which there has been a substantial investment in obtaining, verifying or presenting the data contents, against unauthorised extraction and re-utilisation of their content. There is no requirement for creativity or originality. This right lasts 15 years from the date the non-creative database was made. It is distinct and independent from copyright, which protects original works.  Sui Generis Database Right belongs to the family of «related rights», i.e. similar but independent from copyright."
+        title: "Vad är Sui Generis databas rättigheten?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Publicera det och vänta på att medborgare delar det. Om de vill kan det såklart personligen se till att verken finns tillgängliga i fildelningsnätverken."
+        title: "Vad ska kreatörer göra för att säkerställa att deras verk är möjliga att fildela?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "A European Citizens' Initiative is different from a \"normal\" petition: it is an official democratic instrument that enables EU citizens to help shape Europe by asking the European Commission to propose a legislative act. If we manage to collect one million (validated) signatures, the EU Commission will be legally obliged to deal with our demands. We have no control over what data is required for the signing of a European Citizens' Initiative by the member states. The respective EU member states determine which data must be collected, so that the signatures are valid and counted. For this reason, in an ECI it is necessary to give more personal data than you are used to from other \"petitions\".\n"
+        title: "Why do I have to provide so much personal information?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "För att du har rätten att vara fri. Fri att leta efter och hitta de verk du vill, styrd av din egen nyfikenhet och inte algoritmiska filterbubblor, utan att ditt letande övervakas och kategoriseras i databaser."
+        title: "Varför är det viktigt att undvika plattformarnas kontroll och profilering?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "För att uppmuntra spridningen av kreativt skapande och kultur; för att ha fri tillgång till kultur utan att behöva bli kontrollerade och profilerade."
+        title: "Varför ska jag skriva under det här medborgarinitiativet?"
+      you-want-to-violate-copyright:
+        body: "Nej. Vi vill ändra upphovsrätten på ett sätt som är kompatibelt med Bernkonventionen och andra fördrag."
+        title: "Ni vill bryta mot upphovsrätten!"
+    title: "Vanliga frågor"
+  footer:
+    about: "This website is managed by GOIPE, a non-profit organization whose mission is to propose and promote European Citizens' Initiatives for a better Europe."
   home:
-    hero:
-      text: Vi behöver en miljon underskrifter. Insamlingen börjar den 15 November
-        2020. <strong>Delta nu!</strong>
-      action: Prenumerera
-    hero2:
-      text: <strong>Legalisera fildelning!</strong><br>Vi förenar medborgare från
-        hela Europa för att uppmana EU-kommissionen att reformera upphovsrätten så
-        att den blir rättvis för kreatörer och användare.
-      action: Skriv under här!
-    cta: Bli en del av det europeiska medborgarinitiativet Freedom to Share
-    official_text:
-      title: Läs den officiella texten som initiativet lämnat till EU-kommissionen
-      body: Vårt initiativ uppmanar till antagandet av lagstiftning som innebär ett
-        undantag från upphovsrätt, närstående rättigheter och sui generis-databasrättigheter,
-        för fysiska personer som via digitala nätverk delar filer för personligt och
-        icke-kommersiellt bruk.
-    take_action:
-      title: Agera
-      body: "Dela det här initiativet med dina vänner och kontakter: skriv till dem,\
-        \ dela vårt kommunikationsmaterial, prata med dem, etc.\n"
+    cta: "Bli en del av det europeiska medborgarinitiativet Freedom to Share"
     donate:
-      title: Donera
-      open_collective: Donera till vårt kollektiv
+      open_collective: "Donera till vårt kollektiv"
+      title: "Donera"
+    hero:
+      action: "Prenumerera"
+      text: "Vi behöver en miljon underskrifter. Insamlingen börjar den 15 November 2020. <strong>Delta nu!</strong>"
+    hero2:
+      action: "Skriv under här!"
+      text: "<strong>Legalisera fildelning!</strong><br>Vi förenar medborgare från hela Europa för att uppmana EU-kommissionen att reformera upphovsrätten så att den blir rättvis för kreatörer och användare."
+    official_text:
+      body: "Vårt initiativ uppmanar till antagandet av lagstiftning som innebär ett undantag från upphovsrätt, närstående rättigheter och sui generis-databasrättigheter, för fysiska personer som via digitala nätverk delar filer för personligt och icke-kommersiellt bruk."
+      title: "Läs den officiella texten som initiativet lämnat till EU-kommissionen"
+    take_action:
+      body: "Dela det här initiativet med dina vänner och kontakter: skriv till dem, dela vårt kommunikationsmaterial, prata med dem, etc.\n"
+      title: "Agera"
     widget:
       steps:
-        one: Gå med oss!
-        other: Skriv under!
+        one: "Gå med oss!"
+        other: "Skriv under!"
   messages:
+    get_involved: "Engagera dig"
     missing_translations:
-      first: Sidan saknar översättning till ditt språk.
-      second: Hjälp oss här!
-    get_involved: Engagera dig
-    read_more: Läs mer
+      first: "Sidan saknar översättning till ditt språk."
+      second: "Hjälp oss här!"
+    read_more: "Läs mer"
   pages:
-    press: Nyhet
-    organizations: Samarbeten
-    contact: Kontakt
-    home: Hem
-    privacy: Integritetspolicy
-    certification: Certifiering
+    certification: "Certifiering"
+    contact: "Kontakt"
+    home: "Hem"
+    languages: "Languages"
+    organizations: "Samarbeten"
+    press: "Nyhet"
+    privacy: "Integritetspolicy"
   press:
-    published_at: "Publicerad\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\n den %{date}\n"
+    published_at: "Publicerad\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\n den %{date}\n"
+  proca:
+    Amount: "Summa"
+    City: "Ort"
+    Country: "Land"
+    Donations must be %(amount)s or more: "Donationer måste vara %(amount) eller mer"
+    Download explanation: "Ditt dokument är nu redo - vi mailar det till dig."
+    Email: "E-mail"
+    Email_Share button: "E-mail"
+    Enter a number.: "Använd bara siffror."
+    Enter a valid email address.: "Fyll i giltig e-mailadress."
+    First name: "Förnamn"
+    Last name: "Efternamn"
+    Legal: "Juridiskt"
+    Link_Share button: "Länk"
+    No Thanks: "Nej, tack"
+    Postal Code: "Postnummer"
+    Privacy: "Integritetspolicy"
+    Share on Facebook: "Dela på Facebook"
+    Share on Twitter: "Dela på Twitter"
+    Sign: "Signera nu!"
+    Sign Up: "Prenumerera"
+    Stay in touch: "Håll kontakten"
+    Street: "Adress"
+    Thanks!: "Tack!"
+    This field is required.: "Fältet måste vara ifyllt."
+    consent:
+      confirm: "<0>Är du säker?</0><1>Genom att välja 'Nej' så kommer du inte uppdateras om ifall kampanjen är framgångsrik, eller ifall vi behöver andra åtgärder för att nå våra mål. Om du istället väljer 'Ja' så kommer vi hålla dig uppdaterad om både denna och kommande kampanjer</1><2>Du kan avregistrera prenumerationen när som helst.</2>"
+      intro: "Jag godkänner att {{name}} kontaktar mig gällande viktiga kampanjer"
+      opt-in: "Ja, håll mig uppdaterad via e-mejl"
+      opt-out: "Nej, jag vill inte få e-mejl eller nyheter skickade till mig i framtiden"
+      processing: "Din personliga information är säker och kommer inte att spridas. Genom att skicka information samtycker du till användning av data och kakor i enlighet med vår <1>integritetspolicy</1>"
+    progress: "{{count}} har signerat. Gå till{{goal}}"
+    share:
+      email:
+        body: "Hej, \nSnälla skriv under, jag tror du vill stödja det här initiativet"
+        subject: "Du borde skriva under det här"
+      intro: "Bra, du har skrivit under\U0001f44d. Stärk din påverkan genom att sprida så att fler ser denna kampanj\U0001f64f."
+      message: "Du borde skriva under det här!"
+      title: "Nästan klar! Ta nästa steg."
   regions:
-    czech-republic: Tjeckien
-    transnational: Europeisk / internationell nivå
-    germany: Tyskland
-    italy: Italien
-    sweden: Sverige
-    belgium: Belgien
-    estonia: Estland
-    france: Frankrike
-    netherlands: Nederländerna
-    spain: Spanien
-  faq:
-    entries:
-      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
-        title: Är fildelningsnätverk konkurrenter till Netflix, Spotify och andra
-          plattformar för förmedling av kultur?
-        body: "Nej. Eftersom de är decentraliserade nätverk finns ingen enskild konkurrent\
-          \ till plattformarna. Fildelningsnätverk ägs av medborgarna som deltar i\
-          \ dem, inte något företag som konkurrerar med Netflix eller Spotify.\n"
-      what-are-related-rights:
-        body: Inom upphovsrättslagen är närstående rättigheter sådana rättigheter
-          till ett kreativt verk som inte är kopplade till verkets faktiska skapare.
-          Inom EU skyddas också rättigheter för filmproducenter (till skillnad från
-          regissörer) och databasskapare genom närstående rättigheter. En praktisk
-          definition är att närstående rättigheter är upphovsrättsliknande rättigheter
-          som inte omfattas av Bernkonventionen.
-        title: Vad är "närstående rättigheter"?
-      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
-        title: Jag gillar att vara social. Varför skulle peer-2-peer fildelningsnätverk
-          vara bättre än nuvarande plattformar för distribution?
-        body: "För att peer-2-peer fildelning ger dig möjligheten att verkligen vara\
-          \ social. När du delar filer tar du också emot filer från andra människor.\
-          \ Att interagera med en algoritm är inte socialt.\n\nIbland effektiviserar\
-          \ peer-2-peer-teknik fildelningen, så att olika personer kan ge dig olika\
-          \ delar av samma fil samtidigt, så att nätverket blir effektivare.\n"
-      how-will-freedom-to-share-files-benefit-artists:
-        body: "De kommer erhålla pengar för fildelarnas användning av deras verk.\
-          \ Dessutom kommer de tillåta medborgare att komma åt deras verk utan mellanhänders\
-          \ kontroll. Kreatörer kommer åtnjuta större frihet och deras verk kommer\
-          \ vara mer tillgängliga.\n"
-        title: Hur kommer frihet att dela filer gynna kreatörer?
-      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
-        body: Kreatörer är fria att inte publicera sina verk - då kommer de inte heller
-          att delas. När ett verk är offentliggjort har alla medborgare vissa rättigheter
-          (sjunga privat, göra privata kopior, och om vi får som vi vill, dela i fildelningsnätverk
-          för privat och icke-kommersiellt bruk).
-        title: Vad händer om en kreatör inte vill att dess verk delas i fildelningsnätverk?
-      how-should-money-be-distributed-among-authors-and-other-right-holders:
-        body: Insamlingssällskap har redan olika metoder för att fördela inkomster
-          mellan kreatörer och andra rättighetshavare, som de använder för bland annat
-          de pengar som samlas in genom privatkopieringsavgiften. Vi tror att fördelning
-          av ersättningar för fildelning kan göras rättvis om den görs korrekt. Till
-          exempel så skulle det vara möjligt att utveckla transparent och rättvisande
-          statistik över vilka verk som delas i fildelningsnätverk genom att mäta
-          antalet överföringar per fil och så dela upp ersättningen proportionerligt
-          mellan kreatörer.
-        title: Hur ska pengar fördelas mellan kreatörer och andra rättighetshavare
-          (t.ex. skivbolag)?
-      are-you-against-rightsholders:
-        body: Nej, så länge de eftersträvar de uttalade målsättningarna med upphovsrätten
-          och dess närstående rättigheter, alltså främjandet av kulturella och sociala
-          framsteg. De stora skivbolagen gick miste om en möjlighet när de attackerade
-          Napster under det tidiga 2000-talet; de hade kunnat alliera sig med Napster
-          för en gratis penningmaskin. Istället gick de miste om ett decenniums utveckling
-          och är nu beroende av royalties från Spotify, Apple, etc. för sin överlevnad.
-          Vårt förslag är även en möjlighet för insamlingssällskap, förlag, skivbolag
-          och andra rättighetshavare.
-        title: Är ni emot rättighetshavare?
-      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
-      : body: Ja, så länge någon del av nätverket har materialet. Ibland när den vanliga
-          distributionskanalen inte längre fungerar finns materialet redan på plats
-          i nätverket, redo att hämtas. På vissa nätverk delas redan idag 10-40 miljoner
-          filer av miljontals olika användare.
-        title: Är det sant att fildelning ger en möjlighet att hitta material som
-          är väldigt ovanligt/inte längre finns på marknaden/svårt att hitta?
-      this-is-not-a-new-idea:
-        body: Vi erkänner att detta är en mestadels gammal idé. Den mest berömda varianten
-          är antagligen Fishers förslag om en lagstadgad licens för att lösa problem
-          som att Napster stängdes ner för att bara kunna stoppa 99,4% av upphovsrättsintrång,
-          men inte 100%. <a href="http://www.free-culture.cc/freeculture.pdf">Se "Free
-          culture" (2004), p. 307.</a>
-        title: Det här är inte någon ny idé!
-      why-should-i-sign-this-european-citizen-initiative:
-        title: Varför ska jag skriva under det här medborgarinitiativet?
-        body: För att uppmuntra spridningen av kreativt skapande och kultur; för att
-          ha fri tillgång till kultur utan att behöva bli kontrollerade och profilerade.
-      why-its-important-to-avoid-control-and-profiling-by-platforms:
-        title: Varför är det viktigt att undvika plattformarnas kontroll och profilering?
-        body: För att du har rätten att vara fri. Fri att leta efter och hitta de
-          verk du vill, styrd av din egen nyfikenhet och inte algoritmiska filterbubblor,
-          utan att ditt letande övervakas och kategoriseras i databaser.
-      how-will-file-sharing-freedom-benefit-citizens:
-        title: Hur kommer frihet att fildela gagna medborgare?
-        body: De kommer ha fri tillgång till verk genom fildelningsnätverk utan att
-          tvingas använda plattformar som övervakar och profilerar dem.
-      how-much-will-it-cost-for-users:
-        title: Hur mycket kommer det kosta för användare?
-        body: Det finns flera olika möjliga implementationer av vårt förslag. Vi tror
-          att det med moderna empiriska metoder och evidensbaserad forskning är möjligt
-          att räkna ut rättvis kompensation för olika scenarier.
-      if-file-sharing-is-free-how-will-artists-earn-money:
-        title: Om vi legaliserar fildelning, hur ska då kreatörer tjäna pengar?
-        body: De kommer erhålla en andel av den ersättning som betalas av användare
-          för att ha tillgång till deras verk. Detta läggs till deras vanliga medel
-          för ersättning.
-      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
-        title: Vad ska kreatörer göra för att säkerställa att deras verk är möjliga
-          att fildela?
-        body: Publicera det och vänta på att medborgare delar det. Om de vill kan
-          det såklart personligen se till att verken finns tillgängliga i fildelningsnätverken.
-      are-you-against-authors:
-        title: Är ni emot kreatörer?
-        body: Inte alls. Vi vill uppdatera upphovsrätten så att den är kompatibel
-          med vårt moderna samhälle. Vi tror att ny teknik är en möjlighet för kreatörer
-          och inte ett problem. Vi tror också att det är skadligt för kreatörer att
-          vara beroende av och stötta den orättvis och impopulära gällande upphovsrätten.
-          Vissa kreatörer är mer uppskattade och kända på grund av fildelningen.
-      are-you-against-digital-platforms:
-        title: Är ni emot digitala plattformar?
-        body: Nej, inte ifall de inte missbrukar sin makt för att kontrollera och
-          övervaka människor. De nätplattformar som kommit att dominera den digitala
-          förmedlingen av kultur kan vara positiva aktörer genom att effektivisera
-          distributionen av kultur. Att kapa mellanled i distributionen innebär också
-          mindre pengar som slösas på mellanhänder, vilka inte själva producerar någon
-          kultur. Vi ser dock inte varför gigantiska, centraliserade nätplattformar
-          som ägs och drivs av en handfull konglomerat ska kontrollera det digitala
-          samhällets kulturliv. Sådant som artikel 17 (tidigare 13) från 2019 års
-          upphovsrättsdirektiv ("uppladdningsfilter") är olämpliga åtgärder som oundvikligen
-          kommer misslyckas.
-      do-you-want-to-destroy-existing-digital-distribution-channels:
-        title: Vill ni förstöra existerande digitala distributionsmetoder?
-        body: Nej. Tjänster överlever på lång sikt för att konsumenter gillar dem,
-          inte för att politiker skrev den ena eller andra lagen.
-      this-is-only-a-dream:
-        title: Det här är bara en dröm!
-        body: Vi inser att vårt förslag är den enda vägen framåt för en upphovsrätt
-          grundad i medborgerliga rättigheter. Ibland behövs den här sortens ambition.
-      you-want-to-violate-copyright:
-        title: Ni vill bryta mot upphovsrätten!
-        body: Nej. Vi vill ändra upphovsrätten på ett sätt som är kompatibelt med
-          Bernkonventionen och andra fördrag.
-      what-is-the-sui-generis-database-right:
-        title: Vad är Sui Generis databas rättigheten?
-    acronym: FAQ
-    title: Vanliga frågor
-  act:
-    content: "<p>Sprid det här initiativet till dina vänner och kontakter: skriv till\
-      \ dem, sprid vårt kommunikationsmaterial, prata med dem, och så vidare.</p>\n\
-      <p>Kom i kontakt med oss och bidra till organisationen och spridandet av kampanjen\
-      \ i ditt land: <a href=\"#proca_dialog\" data-turbolinks=\"false\">prenumerera!</a></p>\n\
-      <p>Hjälp oss med översättningar: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
-      >Weblate</a></p>\n<p>Stötta kampanjen genom att donera:</p>\n"
-    title: Agera nu!
-  eci:
-    name: Det europeiska medborgarinitiativets namn
-    description:
-      title: Beskrivning
-      body: Att legalisera delning - via digitala nätverk, för personligt och icke-kommersiellt
-        bruk - av filer som innehåller verk och annat material som skyddas av upphovsrätt,
-        närstående rättigheter och sui generis databasrättigheter, med målet att hitta
-        en balans mellan skaparnas rättigheter och medborgarens rätt till tillgång
-        till vetenskap och kultur.
-    official_text: "<p>Med det här initiativet uppmanar vi kommissionen att anta en\
-      \ rättsakt om undantag för upphovsrätt, närstående rättigheter och databasrätt\
-      \ för fysiska personer som delar filer via digitala nät för personligt bruk\
-      \ utan vinstsyfte.</p><p>Det första fildelningsprogrammet Napster lanserades\
-      \ 1999 och sedan dess har det utvecklats allt effektivare fildelningstjänster\
-      \ (t.ex. Gnutella, Freenet och BitTorrent).</p><p>Redan från början motsatte\
-      \ sig de största upphovsrättsinnehavarna fildelning av verk och annat material\
-      \ som skyddas av upphovsrätt, närstående rättigheter och databasrätt, och gällande\
-      \ lagstiftning är i stort sett i linje med deras förväntningar.</p><p>Men en\
-      \ fråga kvarstår: är det rätt att upphovsrätt, närstående rättigheter och databasrätt\
-      \ förbjuder delning av verk och annat material?</p><p>Dessa rättigheter borde\
-      \ i stället främja spridningen av kultur, innovation och sociala framsteg.</p><p>Gällande\
-      \ lagstiftning som förbjuder delning av filer som innehåller verk eller annat\
-      \ material som skyddas av upphovsrätt, närstående rättigheter och databasrätt\
-      \ begränsar kraftigt rätten att ta del av forskning och kultur, som är inskriven\
-      \ i artikel 27 i den allmänna förklaringen om de mänskliga rättigheterna.</p><p>Frågan\
-      \ är ännu mer relevant i dag, efter antagandet av Europaparlamentets och rådets\
-      \ direktiv (EU) 2019/790 av den 17 april 2019 om upphovsrätt och närstående\
-      \ rättigheter på den digitala inre marknaden.</p><p>Direktivet har en paradoxal\
-      \ effekt: Artikel 17 underlättar för leverantörer av delningstjänster för innehåll\
-      \ på nätet att få tillstånd att sprida upphovsrättsskyddat innehåll och gynnar\
-      \ därmed deras roll som privilegierade förmedlare och deras metoder för teknisk\
-      \ kontroll och profilering av invånarna. Fildelning är däremot inte tillåten.</p><p>Målet\
-      \ med det här initiativet är att privatpersoner ska kunna dela filer direkt\
-      \ via peer-to-peer-nät så att de får tillgång till vetenskap och kultur utan\
-      \ att utsättas för kontroller och profilering. En EU-rättsakt som tillåter detta\
-      \ skulle vara helt förenlig med internationell rätt om rättighetsinnehavarna\
-      \ fick en rimlig ersättning.</p><p>Människor och deras grundläggande rättigheter\
-      \ måste stå i centrum för politiken och lagstiftningen. Det är därför nödvändigt\
-      \ att ändra reglerna för delning av filer som innehåller verk och annat material\
-      \ som skyddas av upphovsrätt, närstående rättigheter och databasrätt för att\
-      \ frigöra den potential för frihet och social, kulturell och ekonomisk utveckling\
-      \ som de digitala näten erbjuder.</p>\n"
+    belgium: "Belgien"
+    czech-republic: "Tjeckien"
+    estonia: "Estland"
+    france: "Frankrike"
+    germany: "Tyskland"
+    italy: "Italien"
+    netherlands: "Nederländerna"
+    spain: "Spanien"
+    sweden: "Sverige"
+    transnational: "Europeisk / internationell nivå"

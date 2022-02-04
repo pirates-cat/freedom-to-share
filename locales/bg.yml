@@ -1,117 +1,209 @@
+---
 bg:
-  pages:
-    home: Начало
-    press: Новини́
-    organizations: Поддържащи организации
-    contact: Връзка с нас
-    privacy: Политика за поверителност
-  proca:
-    Privacy: Поверителност
-    No Thanks: Не, благодаря
-    consent:
-      opt-in: Дръжте ме в течение по електронната поща
-      opt-out: Не ми изпращайте повече съобщения в бъдеще
-      intro: Съгласявам се {{name}} да се свързва с мен за важни кампании
-      processing: Вашата лична информация ще бъде съхранявана сигурно. С изпращането
-        на информацията вие се съгласявате с използването на данни и бисквитки в съответствие
-        с нашата <1> политика за поверителност </1>
-      confirm: <0>Сигурни ли сте?</0><1>Ако изберете 'Не', няма да можете да разберете
-        дали тази кампания е успешна или има още нещо, което можем да направим заедно
-        за да победим. Ако изберете 'Да' ще ви уведомяваме за тази и други важни капмании.</1><2>Можете
-        да се отпишете си по всяко време.</2>
-    Donations must be %(amount)s or more: Даренията трябва да са на стойност от %(amount)
-      или повече
-    Amount: Сума
-    First name: Име
-    Last name: Фамилия
-    Email: Е-мейл
-    Postal Code: Пощенски код
-    Street: Улица
-    City: Град
-    Country: Държава
-    Enter a valid email address.: Въведете валиден е-мейл адрес.
-    Thanks!: Благодарим!
-    Legal: Правни въпроси
-    Stay in touch: Останете във връзка с нас
-    Sign Up: Записване
-    Share on Facebook: Споделяне във Фейсбук
-    Share on Twitter: Споделяне в Twitter
-    Email_Share button: Е-мейл
-    Link_Share button: Връзка
-    Download explanation: Документът ви е готов. Ще ви го изпратим по е-мейла.
-    share:
-      title: Почти готово! Направете следващата стъпка.
-      intro: Чудесно, вече подписахте 👍. За да умножите въздействието си, споделете
-        тази петиция с други 🙏.
-      message: Трябва да подпишете това!
-      email:
-        subject: Трябва да подпишете това
-        body: "Здравейте, \nМоля подпишете тази петиция. Мисля, че ще искате да я\
-          \ подкрепите"
-    Sign: Подпишете сега!
-    progress: '{{count}} вече подписаха. Хайде заедно да стигнем до {{goal}}'
-    This field is required.: Това поле е задължително.
-    Enter a number.: Веведете число.
-  messages:
-    get_involved: Включи се
-    missing_translations:
-      first: Липсва превод на вашия език.
-      second: Помогнете ни от тук!
-  home:
-    hero:
-      action: Записване
-      text: Нуждаем се от един милион подписа. Ще започнем събирането им на 15 ноември
-        2020. <strong>Включи се сега!</strong>
+  act:
+    content: "<p>Spread this inititative with your friends and contacts: write them, spread the communication materials, talk to them, etc.</p>\n<p>Get in touch with us and contribute to the organization and spreading of the campaign in your country coordinating with other campaigners: <a href=\"#proca_dialog\" data-turbolinks=\"false\">subscribe!</a></p>\n<p>Help to translate: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Support the campaign making a donation:</p>\n"
+    title: "Take action now!"
   contact:
-    fiscal_code: Фискален код
+    fiscal_code: "Фискален код"
+    presentation: "GOIPE is a no-profit association according to art. 36 of Italian civil code made especially for the purpose of organizing European Citizen Initiatives.\nThis \"Freedom to share\" ECI has been officially submitted to the European Commission by citizens from eight European countries:\n"
   creative-commons:
-    url: https://creativecommons.org/licenses/by-sa/4.0/deed.bg
-    text: Creative Commons Лиценз
-  press:
-    published_at: "Публикувано от\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\nна %{date}\n"
-  regions:
-    czech-republic: Чехия
-    germany: Германия
-    italy: Италия
-    transnational: Европейско / транснационално ниво
-    sweden: Швеция
+    text: "Creative Commons Лиценз"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.bg"
   eci:
-    official_text: "<p>С тази инициатива се цели да бъде приет законодателен акт,\
-      \ предвиждащ изключение от авторското право, сродните му права и правата sui\
-      \ generis върху бази данни за физически лица, които споделят файлове чрез цифрови\
-      \ мрежи за лична употреба и с нестопанска цел.</p><p>Споделянето на файлове\
-      \ започва през 1999 г. с Napster и с времето технологиите осигуряват пряко споделяне\
-      \ на файлове чрез мрежи от типа peer-to-peer (за пряк обмен на файлове между\
-      \ потребителите) с все по-ефективни способи (Gnutella, Freenet, BitTorrent и\
-      \ др.).</p><p>От самото начало основните дружества носители на права възразиха\
-      \ на използването на технологии за споделяне на произведения и други материали,\
-      \ защитени от авторско право, сродните му права и права sui generis върху бази\
-      \ данни.</p><p>Днес законодателството в общи линии е в съответствие с техните\
-      \ очаквания.</p><p>Остава открит въпросът: справедливо ли е авторското право,\
-      \ сродните му права и правата sui generis върху бази данни да забраняват споделянето\
-      \ на произведения и други материали?</p><p>Авторското право, сродните му права\
-      \ и правата sui generis върху бази данни следва да насърчават разпространението\
-      \ на културата, иновациите и социалния напредък Действащото законодателство,\
-      \ което не допуска споделяне на файлове, съдържащи произведения и други материали,\
-      \ защитени с авторско право, сродните му права и права sui generis върху бази\
-      \ данни, води до сериозни нарушения на свободата в областта на науката и културата,\
-      \ предвидена в чл. 27 от Всеобщата декларация за правата на човека.</p><p>Темата\
-      \ е още по-актуална днес, след приемането на Директива (ЕС) 2019/790 на Европейския\
-      \ парламент и на Съвета от 17 април 2019 година относно авторското право и сродните\
-      \ му права в цифровия единен пазар.</p><p>Директивата има парадоксален ефект:\
-      \ с член 17 се улесняват доставчиците на услуги за споделяне на онлайн съдържание\
-      \ при получаването на разрешение за разпространение на съдържание, защитено\
-      \ с авторско право, и следователно ролята им на привилегировани посредници,\
-      \ както и практиките на технически контрол и профилиране на гражданите. Споделянето\
-      \ на файлове обаче не е разрешено.</p><p>С тази инициатива се призовава гражданите\
-      \ да могат директно да споделят чрез мрежи от типа peer-to-peer, така че да\
-      \ имат достъп до науката и културата, без да бъдат проверявани и профилирани:\
-      \ законодателен акт на ЕС, позволяващ това, би бил напълно съвместим с международното\
-      \ право, ако носителите на права получават справедливо обезщетение.</p><p>Необходимо\
-      \ е хората и основните им права да бъдат поставени в центъра на политическите\
-      \ и законодателните решения и затова следва да се изменят настоящите правила\
-      \ за споделяне на файлове, съдържащи произведения и други материали, защитени\
-      \ с авторско право и сродните му права, както и права sui generis върху бази\
-      \ данни, така че да се позволи и разшири свободата и социалното, културно и\
-      \ икономическо развитие, които са възможни благодарение на цифровите мрежи.</p>\n"
+    description:
+      body: "To legalise sharing – via digital networks, for personal use and non-profit purposes – of files containing works and other material protected by copyright, related rights and sui generis database rights, with a view to striking a balance between the rights of authors and other rightholders and the universal right to science and culture."
+      title: "Description"
+    name: "Name of the European Citizen Initiative"
+    official_text: "<p>С тази инициатива се цели да бъде приет законодателен акт, предвиждащ изключение от авторското право, сродните му права и правата sui generis върху бази данни за физически лица, които споделят файлове чрез цифрови мрежи за лична употреба и с нестопанска цел.</p><p>Споделянето на файлове започва през 1999 г. с Napster и с времето технологиите осигуряват пряко споделяне на файлове чрез мрежи от типа peer-to-peer (за пряк обмен на файлове между потребителите) с все по-ефективни способи (Gnutella, Freenet, BitTorrent и др.).</p><p>От самото начало основните дружества носители на права възразиха на използването на технологии за споделяне на произведения и други материали, защитени от авторско право, сродните му права и права sui generis върху бази данни.</p><p>Днес законодателството в общи линии е в съответствие с техните очаквания.</p><p>Остава открит въпросът: справедливо ли е авторското право, сродните му права и правата sui generis върху бази данни да забраняват споделянето на произведения и други материали?</p><p>Авторското право, сродните му права и правата sui generis върху бази данни следва да насърчават разпространението на културата, иновациите и социалния напредък Действащото законодателство, което не допуска споделяне на файлове, съдържащи произведения и други материали, защитени с авторско право, сродните му права и права sui generis върху бази данни, води до сериозни нарушения на свободата в областта на науката и културата, предвидена в чл. 27 от Всеобщата декларация за правата на човека.</p><p>Темата е още по-актуална днес, след приемането на Директива (ЕС) 2019/790 на Европейския парламент и на Съвета от 17 април 2019 година относно авторското право и сродните му права в цифровия единен пазар.</p><p>Директивата има парадоксален ефект: с член 17 се улесняват доставчиците на услуги за споделяне на онлайн съдържание при получаването на разрешение за разпространение на съдържание, защитено с авторско право, и следователно ролята им на привилегировани посредници, както и практиките на технически контрол и профилиране на гражданите. Споделянето на файлове обаче не е разрешено.</p><p>С тази инициатива се призовава гражданите да могат директно да споделят чрез мрежи от типа peer-to-peer, така че да имат достъп до науката и културата, без да бъдат проверявани и профилирани: законодателен акт на ЕС, позволяващ това, би бил напълно съвместим с международното право, ако носителите на права получават справедливо обезщетение.</p><p>Необходимо е хората и основните им права да бъдат поставени в центъра на политическите и законодателните решения и затова следва да се изменят настоящите правила за споделяне на файлове, съдържащи произведения и други материали, защитени с авторско право и сродните му права, както и права sui generis върху бази данни, така че да се позволи и разшири свободата и социалното, културно и икономическо развитие, които са възможни благодарение на цифровите мрежи.</p>\n"
+  faq:
+    acronym: "FAQ"
+    entries:
+      are-you-against-authors:
+        body: "Not at all. We want to update copyright so that it's compatible with modern reality and people's preferences. We believe modern technology is an opportunity for authors, not a problem. We also believe that it's harmful for authors to depend on and support very unfair and unpopular status quo of copyright laws. Some authors might be appreciated and know by people much more thanks to file sharing."
+        title: "Are you against authors?"
+      are-you-against-digital-platforms:
+        body: "No, if they do not abuse of their power to control and profile people. The various internet services which have come to dominate the digital distribution of culture can be a net positive because they make distribution more efficient. Disintermediation can also reduce the amount of money wasted on middlemen who do not produce any additional culture. However, we don't see why giant centralised internet services run by few multinationals should be in control of culture in the digital era. Efforts like article 17 in directive 790/2019 (\"upload filters\") were misguided, and will inevitably fail, because they failed to attack the root problem."
+        title: "Are you against digital platforms?"
+      are-you-against-rightsholders:
+        body: "No, as long as they pursue the stated objectives of copyright (and author rights), that is the promotion of culture and social progress. Majors lost an opportunity when they attacked Napster in the early 2000; they could have sided with it and gained a free money machine. Instead they missed a decade and now they depend on royalties from Spotify, Apple, etc. for their survival. Our proposal is an opportunity for collecting societies, publishers, record labels and other rightsholders too."
+        title: "Are you against rightsholders?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "No. This proposal only concerns the distribution of published material. Sharing unpublished materials will remain illegal. In addition to that, distribution of personal data is illegal if does not comply with the GDPR."
+        title: "Could this proposal be used as a \"legal blanket\" for the distribution of private information such as personal data, private pictures, etc.?"
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: "No. Services survive in the long run because consumers like them, not because politicians write this or that law."
+        title: "Do you want to destroy existing digital distribution channels?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "No. Because they are networks, there is no single competitor: file sharing networks are distributed (there is no mandatory intermediary). File sharing networks are owned by the citizens that participate in it.\n"
+        title: "Are file sharing platforms competitors of Netflix, Spotify and other content distribution platforms?"
+      how-do-you-think-file-sharing-should-be-regulated:
+        body: "We believe file sharing should be free for private use by citizens; authors and other right holders should receive a fair remuneration for the use of their works by citizens."
+        title: "How do you think file sharing should be regulated?"
+      how-much-will-it-cost-for-users:
+        body: "There is a spectrum of possible implementations of our proposal. We believe it's possible, with modern empirical methods and evidence-based economics, to calculate the fair compensation for the various scenarios."
+        title: "How much will it cost for users?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Collecting societies already have different methods to share among authors and other right holders the fair remuneration collected (money collected from the private copy levy, etc.). We believe that distribution of fair compensation collected for file sharing could be very fair if done properly. As way of example, it could be possible to develop transparent and fair statistics on the works shared through file sharing networks implementing a safe \"counter\" measuring the number of transfers for each file and dividing the total amount collected proportionally between content creators."
+        title: "How should money be distributed among authors and other right holders?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "They will be free to access works through file sharing networks without being required to use platforms that profile them."
+        title: "How will file sharing freedom benefit citizens?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "They will receive money for the use of their works from file sharers. Moreover they will allow citizens to access their works by means that are not under control of third parties: authors will enjoy more freedom and their works will be at hand.\n"
+        title: "How will freedom to share files benefit artists?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "You can choose to select either the country of your citizenship or the country where you currently live in. Please bear in mind, that you can sign up only once for the initiative “Freedom to Share”. The data which you provide in your signature will determine in which member state your signature will be counted. Example: an Austrian citizen living in Estonia can either: a) fill in the form for Estonia, providing their full first names, family names, address, date and place of birth and nationality - in this case, their signature will be verified and therefore counted in Estonia, or b) or fill in the form for Austria, providing in addition to the above data a personal identification document number from the list accepted by Austria – in this case, their signature will be verified and therefore counted in Austria.\n"
+        title: "I am a national of one EU member state but living in another EU member state. In which member state do I sign?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "This depends on the member state of which you are national. Depending on the requirements asked by the member states, you may or may not be able to sign up online. This is due to the fact that some member states require an EU address."
+        title: "I am EU citizen resident outside of the EU. Can I sign the ECI?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Because p2p file sharing allows you to be really social: when you share files, at the same time you get files from other people. Interacting with an algorithm is not being social. P2p sometimes optimizes bandwith usage, when you are collecting a file that is available at many other clients, many of them might send you different parts at the same time, considerably reducing transfer time.\n"
+        title: "I like being social. Why p2p file sharing should be better than distribution platforms?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "It depends on how the proposal will be implemented in law. There are different legal techniques: 1. providing that citizens using file sharing networks have to pay a license to be allowed to share files including works. 2. providing for an additional small amount of money to be paid by all citizens that access the internet (and eventually share works through file sharing networks). 3. providing that a fair remuneration is paid by the state (using taxes paid by citizens).\n"
+        title: "I see there is money involved. Who is going to pay who?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "They will receive a share of the fair remuneration collected for use of their works. This will add to their usual means of remuneration."
+        title: "If file sharing is free how will artists earn money?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Yes, sign again if you're unsure. Your signature is valid and is counted only once. The software automatically detects double signatures and sorts out duplicates."
+        title: "I'm not sure I've signed the ECI yet. Can I sign a second time or is my signature invalidated?"
+      is-file-sharing-legal:
+        body: "File sharing on peer-to-peer networks is not legal. The objective of the initiative is to change the law in the European Union."
+        title: "Is file sharing legal?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Of course not. We are proposing to amend copyright and related laws. Many other laws may prevent sharing specific kinds of files: think of trade secrets, privacy and so on.\n"
+        title: "Is it going to be legal to share all files?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Yes, as long as some part of the network has it. Sometimes, when usual channel fail, some stuff is already there, ready to be collected. On some networks nowaday, there are 10-40 million files available, with million nodes-users."
+        title: "Is it true file sharing gives the opportunity to find stuff very rare / no more on the market /located in some unknown place, difficult to find?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "First, remember to sign the ECI campaign. This will contribute to reach the one million signature goal that will oblige the Commission to take a position on our initiative. Then, you can help in other ways: 1. spread the campaign with your friends and contacts (write them, spread the communication materials, talk to them, etc. please note there will be 12 months time in order to collect 1 million subscriptions). 2. get in touch with us and contribute to the organization and spreading of the campaign in your country coordinating with other campaigners. 3. last but not least, you can also support the campaign making a donation.\n"
+        title: "OK, I got it. What can I do to make file sharing legal?"
+      this-is-not-a-new-idea:
+        body: "Admittedly, it's mostly an old idea. The most famous variant is probably Fisher's proposal of a statutory license to solve problems like Napster being shut down because it was only able to stop 99,4 % of copyright infringement but not 100 %. <a href=\"http://www.free-culture.cc/freeculture.pdf\">See \"Free culture\" (2004), p. 307.</a>"
+        title: "This is not a new idea!"
+      this-is-only-a-dream:
+        body: "We realise that our proposal is the only way to go ahead for a copyright based on fundamental rights. We think sometimes such ambition is needed."
+        title: "This is only a dream!"
+      what-are-related-rights:
+        body: "In copyright law, related rights are the rights of a creative work not connected with the work's actual author. Within the European Union, the rights of film producers (as opposed to directors) and database creators are also protected by related rights. A practical definition is that related rights are copyright-type rights that are not covered by the Berne Convention."
+        title: "What are «related rights»?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "He is free to not publish his work and then his work will not be shared. Once a work is public, all citizens have some right (sing privately, make copies for personal use and, we believe, use file sharing networks for personal use)."
+        title: "What if an author does not agree to have his work shared through file sharing networks?"
+      what-is-a-european-citizen-initiative:
+        body: "An ECI is the opportunity given by European Union's commission to it's citizens to impulse changes in legislation. Link to wikipedia's page on <a href=\"https://en.wikipedia.org/wiki/European_Citizens%27_Initiative\">European citizens' initiative</a>.\n"
+        title: "What is a European Citizen Initiative?"
+      what-is-file-sharing:
+        body: "File sharing is the act of providing access to a work by digital methods and making copies of the work accessed. Usually it refers to practices like peer-to-peer sharing. But it may include sending an email attachment, using a physical support and so on."
+        title: "What is file sharing?"
+      what-is-the-sui-generis-database-right:
+        body: "The sui generis right protects databases, in which there has been a substantial investment in obtaining, verifying or presenting the data contents, against unauthorised extraction and re-utilisation of their content. There is no requirement for creativity or originality. This right lasts 15 years from the date the non-creative database was made. It is distinct and independent from copyright, which protects original works.  Sui Generis Database Right belongs to the family of «related rights», i.e. similar but independent from copyright."
+        title: "What is the Sui Generis Database Right?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Publish it and wait for citizens to share it. If they want, they can also personally make available their work through file sharing networks."
+        title: "What should authors do to make sure that their work is available for file sharing?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "A European Citizens' Initiative is different from a \"normal\" petition: it is an official democratic instrument that enables EU citizens to help shape Europe by asking the European Commission to propose a legislative act. If we manage to collect one million (validated) signatures, the EU Commission will be legally obliged to deal with our demands. We have no control over what data is required for the signing of a European Citizens' Initiative by the member states. The respective EU member states determine which data must be collected, so that the signatures are valid and counted. For this reason, in an ECI it is necessary to give more personal data than you are used to from other \"petitions\".\n"
+        title: "Why do I have to provide so much personal information?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "Because you have the right to be free. Free to look for and find the works that you want, driven by your own curiosity and not by algorithmic filter bubbles that decide for you, without listing what you download in the supplier's databases."
+        title: "Why it's important to avoid control and profiling by platforms?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "To foster sharing, and thus spreading, of creative works, other contents, and culture; to be free to access creative works without having to be controlled and profiled."
+        title: "Why should I sign this European Citizen Initiative?"
+      you-want-to-violate-copyright:
+        body: "No. We want to change copyright and our proposal is compatible with the Berne convention and related treaties."
+        title: "You want to violate copyright!"
+    title: "Frequently Asked Questions"
+  footer:
+    about: "This website is managed by GOIPE, a non-profit organization whose mission is to propose and promote European Citizens' Initiatives for a better Europe."
+  home:
+    cta: "Support the Freedom to Share European Citizens' Initiative"
+    donate:
+      open_collective: "Donate to our collective"
+      title: "Donate"
+    hero:
+      action: "Записване"
+      text: "Нуждаем се от един милион подписа. Ще започнем събирането им на 15 ноември 2020. <strong>Включи се сега!</strong>"
+    hero2:
+      action: "Sign here!"
+      text: "<strong>Legalize Filesharing!</strong><br>We are coming together from across Europe to call on the European Commission to adopt copyright rules that are fair to creators and users."
+    official_text:
+      body: "Our initiative calls for the adoption of a legislative act providing for a waiver of copyright, related rights, and sui generis database rights for natural persons sharing files via digital networks for personal use and non-profit purposes."
+      title: "Read the official text of the initiative"
+    take_action:
+      body: "Spread this initiative with your friends and contacts: write to them, spread the communication materials, talk to them, etc.\n"
+      title: "Take action"
+    widget:
+      steps:
+        one: "Join us!"
+        other: "Sign it!"
+  messages:
+    get_involved: "Включи се"
+    missing_translations:
+      first: "Липсва превод на вашия език."
+      second: "Помогнете ни от тук!"
+    read_more: "Read more"
+  pages:
+    certification: "Certification"
+    contact: "Връзка с нас"
+    home: "Начало"
+    languages: "Languages"
+    organizations: "Поддържащи организации"
+    press: "Новини́"
+    privacy: "Политика за поверителност"
+  press:
+    published_at: "Публикувано от\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\nна %{date}\n"
+  proca:
+    Amount: "Сума"
+    City: "Град"
+    Country: "Държава"
+    Donations must be %(amount)s or more: "Даренията трябва да са на стойност от %(amount) или повече"
+    Download explanation: "Документът ви е готов. Ще ви го изпратим по е-мейла."
+    Email: "Е-мейл"
+    Email_Share button: "Е-мейл"
+    Enter a number.: "Веведете число."
+    Enter a valid email address.: "Въведете валиден е-мейл адрес."
+    First name: "Име"
+    Last name: "Фамилия"
+    Legal: "Правни въпроси"
+    Link_Share button: "Връзка"
+    No Thanks: "Не, благодаря"
+    Postal Code: "Пощенски код"
+    Privacy: "Поверителност"
+    Share on Facebook: "Споделяне във Фейсбук"
+    Share on Twitter: "Споделяне в Twitter"
+    Sign: "Подпишете сега!"
+    Sign Up: "Записване"
+    Stay in touch: "Останете във връзка с нас"
+    Street: "Улица"
+    Thanks!: "Благодарим!"
+    This field is required.: "Това поле е задължително."
+    consent:
+      confirm: "<0>Сигурни ли сте?</0><1>Ако изберете 'Не', няма да можете да разберете дали тази кампания е успешна или има още нещо, което можем да направим заедно за да победим. Ако изберете 'Да' ще ви уведомяваме за тази и други важни капмании.</1><2>Можете да се отпишете си по всяко време.</2>"
+      intro: "Съгласявам се {{name}} да се свързва с мен за важни кампании"
+      opt-in: "Дръжте ме в течение по електронната поща"
+      opt-out: "Не ми изпращайте повече съобщения в бъдеще"
+      processing: "Вашата лична информация ще бъде съхранявана сигурно. С изпращането на информацията вие се съгласявате с използването на данни и бисквитки в съответствие с нашата <1> политика за поверителност </1>"
+    progress: "{{count}} вече подписаха. Хайде заедно да стигнем до {{goal}}"
+    share:
+      email:
+        body: "Здравейте, \nМоля подпишете тази петиция. Мисля, че ще искате да я подкрепите"
+        subject: "Трябва да подпишете това"
+      intro: "Чудесно, вече подписахте \U0001f44d. За да умножите въздействието си, споделете тази петиция с други \U0001f64f."
+      message: "Трябва да подпишете това!"
+      title: "Почти готово! Направете следващата стъпка."
+  regions:
+    belgium: "Belgium"
+    czech-republic: "Чехия"
+    estonia: "Estonia"
+    france: "France"
+    germany: "Германия"
+    italy: "Италия"
+    netherlands: "Netherlands"
+    spain: "Spain"
+    sweden: "Швеция"
+    transnational: "Европейско / транснационално ниво"

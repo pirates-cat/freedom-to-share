@@ -1,426 +1,209 @@
+---
 ca:
-  proca:
-    consent:
-      opt-in: Sí, manteniu-me al dia per correu
-      opt-out: No, no m'envieu correus
-      processing: La teva informació personal es mantindrà privada i segura. En enviar
-        informació, acceptes l’ús de dades i galetes d’acord amb la nostra <1> política
-        de privadesa </1>
-      intro: Accepto que {{name}} em contacti sobre campanyes importants
-      confirm: <0>N'estàs segur?</0><1>Si selecciones "No", no podràs esbrinar si
-        aquesta campanya té èxit o si cal fer més accions per assolir-la. Si seleccioneu
-        "Sí", et mantindrem informat sobre aquesta i altres campanyes urgents.</1><2>Pots
-        donar-te de baixa en qualsevol moment.</2>
-    share:
-      title: Pràcticament ja ho tens! Fes el següent pas.
-      message: Has de signar això!
-      email:
-        subject: Hauries de signar això
-        body: "Hola,\nSi us plau, signa això. Crec que hi voldràs donar suport"
-      intro: Genial, has signat 👍 Per multiplicar el teu impacte, comparteix-lo a
-        tot arreu per assegurar-nos que tothom vegi aquesta petició 🙏.
-    Sign: Signa ara!
-    progress: '{{count}} han signat. Volem arribar a {{goal}}'
-    This field is required.: Aquest camp és obligatori.
-    Enter a number.: Escriu un número.
-    Enter a valid email address.: Escriu una adreça de correu vàlida.
-    Amount: Quantitat
-    Donations must be %(amount)s or more: Els donatius han de ser %(amount)s o superior
-    First name: Nom
-    Last name: Cognoms
-    Email: Correu
-    Postal Code: Codi postal
-    Street: Carrer
-    City: Municipi
-    Country: País
-    Thanks!: Gràcies!
-    Legal: Legal
-    Privacy: Privacitat
-    No Thanks: No, gràcies
-    Stay in touch: Estigues en contacte
-    Sign Up: Registra't
-    Share on Facebook: Compartir a Facebook
-    Share on Twitter: Compartir a Twitter
-    Email_Share button: Correu
-    Link_Share button: Enllaç
-    Download explanation: El teu documentat està enllestit i l'enviem al teu correu
-      també.
-  pages:
-    home: Inici
-    press: Notícies
-    organizations: Suports
-    contact: Contacte
-    privacy: Política de privadesa
-    certification: Certificació
-    languages: Idiomes
-  contact:
-    fiscal_code: Codi fiscal
-    presentation: "GOIPE és una associació sense ànim de lucre segons l'art. 36 del\
-      \ codi civil italià creada especialment amb el propòsit d'organitzar Iniciatives\
-      \ Ciutadanes Europees.\nLa ICE \"Freedom to share\" ha estat presentada oficialment\
-      \ a la Comissió Europea per persones de vuit països europeus:\n"
-  creative-commons:
-    text: Llicència de Creative Commons
-    url: https://creativecommons.org/licenses/by-sa/4.0/deed.ca
-  home:
-    hero:
-      text: Necessitem un milió de signatures. Les començarem a recollir el 15 de
-        novembre del 2020. <strong>Uneix-t'hi!</strong>
-      action: Subscriu-t'hi
-    cta: Dóna suport a la Iniciativa Ciutadana Europea Freedom to share
-    official_text:
-      title: Llegeix el text oficial de la iniciativa
-      body: La nostra iniciativa demana l'adopció d'un marc legislatiu que estableixi
-        una exempció als drets d'autor, drets afins i drets de base de dades sui generis
-        per a persones físiques que comparteixen arxius a través de xarxes digitals
-        per a ús personal i sense ànim de lucre.
-    take_action:
-      title: Actua
-      body: "Escampa aquesta iniciativa entre amistats i contactes: escriu-los, difon\
-        \ els materials de comunicació, parla'ls-en, etc.\n"
-    donate:
-      title: Dóna
-      open_collective: Dóna al nostre col·lectiu
-    hero2:
-      action: Signa aquí!
-      text: <strong>Legalitzem la compartició de fitxers!<strong><br>Arreu d'Europa,
-        ens unim per demanar a la Comissió Europea que adopti normes de drets d'autoria
-        justes per a qui crea obres i per a qui les utilitza.
-    widget:
-      steps:
-        one: Uneix-te a nosaltres!
-        other: Signa-la!
-  press:
-    published_at: "Publicat a\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\nel %{date}\n"
-  messages:
-    missing_translations:
-      first: La nostra web no té traduccions al teu idioma.
-      second: Ajuda'ns aquí!
-    get_involved: Uneix-t'hi
-    read_more: Llegeix més
-  regions:
-    czech-republic: Txèquia
-    transnational: Àmbit europeu o transnacional
-    germany: Alemanya
-    italy: Itàlia
-    sweden: Suècia
-    belgium: Bèlgica
-    france: França
-    netherlands: Països Baixos
-    spain: Espanya
-    estonia: Estònia
   act:
-    title: Actua ara!
-    content: "<p>Escampa la iniciativa entre amics i contactes: escriu-los, difon\
-      \ els materials de comunicació, parla amb ells, etc.</p>\n<p>Posa't en contacte\
-      \ amb nosaltres i contribueix a l'organització i difusió de la campanya al teu\
-      \ país coordinant-te amb altres activistes: <a href=\"#proca_dialog\" data-turbolinks=\"\
-      false\">subscriu-t'hi!</a></p>\n<p>Ajuda a traduir: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
-      >Weblate</a></p>\n<p>Dóna suport a la campanya fent un donatiu:</p>\n"
+    content: "<p>Escampa la iniciativa entre amics i contactes: escriu-los, difon els materials de comunicació, parla amb ells, etc.</p>\n<p>Posa't en contacte amb nosaltres i contribueix a l'organització i difusió de la campanya al teu país coordinant-te amb altres activistes: <a href=\"#proca_dialog\" data-turbolinks=\"false\">subscriu-t'hi!</a></p>\n<p>Ajuda a traduir: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Dóna suport a la campanya fent un donatiu:</p>\n"
+    title: "Actua ara!"
+  contact:
+    fiscal_code: "Codi fiscal"
+    presentation: "GOIPE és una associació sense ànim de lucre segons l'art. 36 del codi civil italià creada especialment amb el propòsit d'organitzar Iniciatives Ciutadanes Europees.\nLa ICE \"Freedom to share\" ha estat presentada oficialment a la Comissió Europea per persones de vuit països europeus:\n"
+  creative-commons:
+    text: "Llicència de Creative Commons"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.ca"
   eci:
     description:
-      body: La legalització de la compartició —per mitjà de xarxes digitals, per a
-        ús personal i sense ànim de lucre— de fitxers que continguin obres i altres
-        materials protegits per drets d'autoria, drets afins i drets sui generis de
-        base de dades, amb vista a aconseguir un equilibri entre els drets d'autoria
-        i altres drets de titularitat i el dret universal a la ciència i la cultura.
-      title: Descripció
-    name: Nom de la Iniciativa Ciutadana Europea
-    official_text: "<p>Aquesta iniciativa advoca per l’adopció d’una disposició legislativa\
-      \ que prevegi una exempció dels drets d’autoria, drets afins i drets sui generis\
-      \ del fabricant de bases de dades per a les persones físiques que comparteixen\
-      \ fitxers per mitjà de xarxes digitals per a fins personals i sense ànim de\
-      \ lucre.</p><p>L’intercanvi de fitxers va aparèixer el 1999 amb Napster, i al\
-      \ llarg dels anys, la tecnologia ha permès l’intercanvi distribuït de fitxers\
-      \ (peer-to-peer) de manera cada vegada més eficaç (Gnutella, Freenet, BitTorrent,\
-      \ etc.).</p><p>Des del principi, les principals societats titulars de drets\
-      \ d'han oposat a la utilització de les tecnologies d’intercanvi en el cas de\
-      \ les obres i altres materials subjectes a drets d’autor, drets afins i drets\
-      \ sui generis del fabricant de bases de dades, i avui dia la llei correspon\
-      \ en gran manera a les seves expectatives.</p><p>No obstant això, continua plantejant-se\
-      \ l’interrogant: és just que els drets d’autor, drets afins i drets sui generis\
-      \ dels fabricants de bancs de dades impedeixin l’intercanvi d’obres i altres\
-      \ materials?</p><p>Els drets d’autor, drets afins i drets sui generis del fabricant\
-      \ de bases de dades haurien d’afavorir la difusió de la cultura, la innovació\
-      \ i el progrés social. La legislació vigent, que impedeix intercanviar arxius\
-      \ que incloguin obres i altres materials subjectes a drets d’autor, drets afins\
-      \ i drets sui generis del fabricant de bases de dades, suposa un ardu sacrifici\
-      \ de la llibertat de les ciències i de la cultura contemplada en l’article 27,\
-      \ apartat 1, de la Declaració Universal de Drets Humans.</p><p>La qüestió revesteix\
-      \ avui dia encara major interès atesa l’aprovació de la Directiva (UE) 2019/790\
-      \ del Parlament Europeu i del Consell, de 17 d’abril de 2019, sobre els drets\
-      \ d’autor i drets afins en el mercat únic digital.</p><p>La Directiva té un\
-      \ efecte paradoxal: l’article 17 facilita als proveïdors de serveis d’intercanvi\
-      \ de continguts en línia l’obtenció d’autorització per a distribuir continguts\
-      \ subjectes a drets i, per tant, n'afavoreix el paper d'intermediaris privilegiats\
-      \ i les seves pràctiques de control tecnològic i elaboració de perfils dels\
-      \ ciutadans; en canvi, l’intercanvi d’arxius no es permet.</p><p>Aquesta iniciativa\
-      \ advoca per permetre als ciutadans l’intercanvi directe a través de les xarxes\
-      \ entre iguals (peer-to-peer) perquè puguin accedir a la ciència i la cultura\
-      \ sense veure’s controlats i sotmesos a l’elaboració de perfils: una disposició\
-      \ legislativa de la UE que ho permetés seria plenament compatible amb la legislació\
-      \ internacional si els titulars de drets rebessin una compensació equitativa.</p><p>Cal\
-      \ posar a les persones i els drets fonamentals en el centre de les decisions\
-      \ polítiques i legislatives i, per tant, canviar les normes que regulen l’intercanvi\
-      \ d’arxius que contenen obres i altres materials subjectes a drets d’autor,\
-      \ drets afins i drets sui generis del fabricant de bases de dades per a alliberar\
-      \ el potencial de llibertat i desenvolupament social, cultural i econòmic, cultural\
-      \ i econòmic que ofereixen les xarxes digitals.</p>\n"
+      body: "La legalització de la compartició —per mitjà de xarxes digitals, per a ús personal i sense ànim de lucre— de fitxers que continguin obres i altres materials protegits per drets d'autoria, drets afins i drets sui generis de base de dades, amb vista a aconseguir un equilibri entre els drets d'autoria i altres drets de titularitat i el dret universal a la ciència i la cultura."
+      title: "Descripció"
+    name: "Nom de la Iniciativa Ciutadana Europea"
+    official_text: "<p>Aquesta iniciativa advoca per l’adopció d’una disposició legislativa que prevegi una exempció dels drets d’autoria, drets afins i drets sui generis del fabricant de bases de dades per a les persones físiques que comparteixen fitxers per mitjà de xarxes digitals per a fins personals i sense ànim de lucre.</p><p>L’intercanvi de fitxers va aparèixer el 1999 amb Napster, i al llarg dels anys, la tecnologia ha permès l’intercanvi distribuït de fitxers (peer-to-peer) de manera cada vegada més eficaç (Gnutella, Freenet, BitTorrent, etc.).</p><p>Des del principi, les principals societats titulars de drets d'han oposat a la utilització de les tecnologies d’intercanvi en el cas de les obres i altres materials subjectes a drets d’autor, drets afins i drets sui generis del fabricant de bases de dades, i avui dia la llei correspon en gran manera a les seves expectatives.</p><p>No obstant això, continua plantejant-se l’interrogant: és just que els drets d’autor, drets afins i drets sui generis dels fabricants de bancs de dades impedeixin l’intercanvi d’obres i altres materials?</p><p>Els drets d’autor, drets afins i drets sui generis del fabricant de bases de dades haurien d’afavorir la difusió de la cultura, la innovació i el progrés social. La legislació vigent, que impedeix intercanviar arxius que incloguin obres i altres materials subjectes a drets d’autor, drets afins i drets sui generis del fabricant de bases de dades, suposa un ardu sacrifici de la llibertat de les ciències i de la cultura contemplada en l’article 27, apartat 1, de la Declaració Universal de Drets Humans.</p><p>La qüestió revesteix avui dia encara major interès atesa l’aprovació de la Directiva (UE) 2019/790 del Parlament Europeu i del Consell, de 17 d’abril de 2019, sobre els drets d’autor i drets afins en el mercat únic digital.</p><p>La Directiva té un efecte paradoxal: l’article 17 facilita als proveïdors de serveis d’intercanvi de continguts en línia l’obtenció d’autorització per a distribuir continguts subjectes a drets i, per tant, n'afavoreix el paper d'intermediaris privilegiats i les seves pràctiques de control tecnològic i elaboració de perfils dels ciutadans; en canvi, l’intercanvi d’arxius no es permet.</p><p>Aquesta iniciativa advoca per permetre als ciutadans l’intercanvi directe a través de les xarxes entre iguals (peer-to-peer) perquè puguin accedir a la ciència i la cultura sense veure’s controlats i sotmesos a l’elaboració de perfils: una disposició legislativa de la UE que ho permetés seria plenament compatible amb la legislació internacional si els titulars de drets rebessin una compensació equitativa.</p><p>Cal posar a les persones i els drets fonamentals en el centre de les decisions polítiques i legislatives i, per tant, canviar les normes que regulen l’intercanvi d’arxius que contenen obres i altres materials subjectes a drets d’autor, drets afins i drets sui generis del fabricant de bases de dades per a alliberar el potencial de llibertat i desenvolupament social, cultural i econòmic, cultural i econòmic que ofereixen les xarxes digitals.</p>\n"
   faq:
-    acronym: PMF
-    title: Preguntes Més Freqüents
+    acronym: "PMF"
     entries:
-      what-are-related-rights:
-        body: En la llei sobre drets d'autoria, els drets afins són els drets d'una
-          obra de creació sense relació amb l'autoria real de l'obra. A la Unió Europea,
-          els drets de producció de pel·lícules (a diferència als de direcció) i de
-          creació de bases de dades també estan protegits pels drets afins. Una definició
-          pràctica és que els drets afins són un tipus de drets d'autoria que no estan
-          coberts per la Convenció de Berna.
-        title: Què són els «drets afins»?
-      why-should-i-sign-this-european-citizen-initiative:
-        title: Per què he de signar aquesta Iniciativa Ciutadana Europea?
-        body: Per incrementar la compartició, i per tant la difusió, d'obres de creació
-          (o altres continguts) i de la cultura; per tenir la llibertat d'accedir
-          a obres de creació sense cap subjecció a mecanismes de control ni de perfilació.
-      why-its-important-to-avoid-control-and-profiling-by-platforms:
-        body: Perquè tens dret a la llibertat. Llibertat per cercar i trobar les obres
-          que vulguis, amb la guia de la teva pròpia curiositat i no la dels filtres
-          bombolla que els algoritmes decideixin per tu, sense que les teves descàrregues
-          quedin enregistrades a les bases de dades d'una empresa proveïdora.
-        title: Per què és important evitar el control i la perfilació per part de
-          plataformes?
-      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
-        body: "Perquè les plataformes de compartició entre iguals permeten una interacció\
-          \ social real: quan es comparteixen fitxers, alhora es reben fitxers d'altres\
-          \ persones. La interacció amb un algoritme no és interacció social. La compartició\
-          \ entre iguals sol optimitzar l'ús de l'amplada de banda: quan es rep un\
-          \ fitxer que és disponible en diversos clients, cadascun n'envia una part\
-          \ diferent al mateix temps, i així se'n redueix el temps de transferència\
-          \ de manera notable.\n"
-        title: A mi ja m'agrada, el contacte social. Per què la compartició de fitxers
-          entre iguals (p2p) és millor que les plataformes de distribució?
-      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
-        body: Pots publicar-la i esperar que la ciutadania la comparteixi. També pots
-          compartir-la en xarxes de compartició de fitxers.
-        title: Què cal fer per assegurar que la teva obra es pot compartir entre iguals?
-      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
-        title: Les plataformes de compartició de fitxers són competència de Netflix,
-          Spotify i altres plataformes de distribució de continguts?
-        body: "No. Pel fet que es tracta de xarxes, no hi ha cap competència en concret:\
-          \ les xarxes de compartició de fitxers són distribuïdes (no necessàriament\
-          \ hi ha intermediació). Les xarxes de compartició de fitxers són propietat\
-          \ de les persones que hi participen.\n"
-      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
-        body: 'Si decideix de no publicar-la, la seva obra no es podrà compartir.
-          Quan una obra és pública, la ciutadania en té alguns drets: cantar-la en
-          privat, fer-ne còpies per a ús personal i —això defensem nosaltres— fer
-          servir xarxes de compartició de fitxers per a ús personal.'
-        title: Què passa si algú no està d'acord que la seva obra sigui compartida
-          en xarxes de compartició de fitxers?
-      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
-      : title: És cert que la compartició de fitxers permet trobar coses poc habituals,
-          que ja no es troben al mercat, situades en un lloc remot o difícils de trobar?
-        body: Sí, en la mesura que una part de la xarxa en disposi. A vegades, quan
-          el canal habitual falla, hi ha coses que ja són allà, a punt per ser recollides.
-          En algunes xarxes, avui dia, hi ha entre deu i quaranta milions de fitxers,
-          amb milions de persones que fan de node.
-      this-is-only-a-dream:
-        title: Això és un somni!
-        body: Som conscients que la nostra proposta és l'única manera d'avançar cap
-          a un dret d'autoria basat en drets fonamentals. Pensem que a vegades cal
-          aquesta ambició.
-      this-is-not-a-new-idea:
-        title: No és una idea nova!
-        body: No, és una idea antiga. La variant més famosa és probablement la proposta
-          de Fisher d'una llicència legal per resoldre problemes com el tancament
-          de Napster, perquè només va poder frenar el 99,4% de les violacions de drets
-          d'autoria, i no el 100%. <a href="http://www.free-culture.cc/freeculture.pdf">Vegeu
-          "Cultura lliure" (2004), p. 307.</a>
-      are-you-against-rightsholders:
-        title: Esteu en contra de la titularitat de drets?
-        body: No, mentre persegueixin els objectius declarats dels drets d'autoria,
-          és a dir, la promoció de la cultura i del progrés social. Les grans productores
-          ("majors") van perdre una oportunitat quan van atacar Napster a la primeria
-          del 2000. S'hi podrien haver sumat i haurien guanyat una màquina de fer
-          diners de manera gratuïta. Però han perdut una dècada i ara depenen dels
-          drets d'autoria de Spotify, Apple, etc. per a la seva supervivència. La
-          nostra proposta és una oportunitat per les societats de gestió col·lectiva,
-          segells discogràfics, empreses editorials i altres persones amb drets sobre
-          les obres.
-      how-should-money-be-distributed-among-authors-and-other-right-holders:
-        body: Les societats de gestió col·lectiva ja tenen diversos mètodes de compartició
-          de la justa remuneració entre qui crea una obra i altres persones que en
-          tinguin drets (compensacions per les còpies privades, etc.). Nosaltres creiem
-          que la distribució d'una justa remuneració per la compartició de fitxers
-          podria ser molt justa si es fa correctament. Per exemple, es podrien desenvolupar
-          estadístiques transparents i justes per a les obres compartides en xarxes
-          de compartició de fitxers mitjançant un "comptador" segur que mesurés el
-          nombre de transferències per a cada fitxer i posteriorment dividir-ne el
-          total recaptat de manera proporcional entre les persones que hagin participat
-          de l'autoria.
-        title: Com cal distribuir els diners entre qui crea l'obra i altres persones
-          que en tinguin drets?
-      are-you-against-digital-platforms:
-        body: No, mentre no facin un abús de poder per controlar i perfilar les persones.
-          Els diversos serveis d'internet que han acabat dominant la distribució digital
-          de cultura poden ser una xarxa positiva perquè permeten una distribució
-          més eficient. Eliminar la intermediació pot reduir la quantitat de diners
-          malbaratada en perfils intermediaris que no afegeixen cap valor cultural.
-          En qualsevol cas, tampoc no entenem per quin motiu els gegantins serveis
-          d'internet centralitzats gestionats per poques multinacionals haurien de
-          tenir el control de l'era digital. Iniciatives com l'article 17 de la directiva
-          790/2019 ("filtres de càrrega") eren errònies i estan destinades a fracassar,
-          perquè aborden l'arrel del problema.
-        title: Esteu en contra de les plataformes digitals?
-      what-is-the-sui-generis-database-right:
-        body: El dret sui generis empara les bases de dades en les quals hi hagi hagut
-          una inversió rellevant per obtenir, verificar o presentar les dades que
-          contenen, i les protegeix de l'extracció i la reutilització de continguts
-          sense permís. No hi ha cap requisit de creativitat o originalitat. Aquest
-          dret té efectes durant els quinze anys posteriors a la creació de la base
-          de dades no creativa. És diferent i independent del dret d'autoria, que
-          protegeix obres originals. El dret sui generis sobre les bases de dades
-          pertany a la família de "drets relatius", és a dir semblants però independents
-          dels drets d'autoria.
-        title: Què és el dret sui generis sobre les bases de dades?
-      how-will-file-sharing-freedom-benefit-citizens:
-        title: De quina manera la llibertat de compartició de fitxers pot portar beneficis
-          a la ciutadania?
-        body: La ciutadania serà lliure d'accedir a obres per mitjà de xarxes de compartició
-          de fitxers sense que se l'obligui a fer servir plataformes que perfilin
-          les persones.
-      how-much-will-it-cost-for-users:
-        title: I això quant costa?
-        body: La nostra proposta preveu una sèrie de possibles implementacions. Creiem
-          que és possible, amb mètodes empírics moderns i amb dades econòmiques basades
-          en proves, calcular una compensació justa per a cada escenari.
-      how-will-freedom-to-share-files-benefit-artists:
-        body: "Rebran diners a canvi de l'ús de les obres per part de les persones\
-          \ que en comparteixin els fitxers. A més, permetran que la ciutadania accedeixi\
-          \ a les seves obres per mitjans fora del control de terceres parts: les\
-          \ persones que creïn obres tindran més llibertat i els seus treballs seran\
-          \ més disponibles per a tothom.\n"
-        title: De quina manera la llibertat de compartir fitxers beneficiarà les persones
-          que fan art?
-      if-file-sharing-is-free-how-will-artists-earn-money:
-        title: Si la compartició de fitxers és gratuïta, com guanyaran diners les
-          persones que fan art?
-        body: Rebran una part de la justa remuneració recollida per l'ús de les seves
-          obres que s'afegirà als seus mitjans de remuneració habituals.
       are-you-against-authors:
-        title: Esteu en contra de l'autoria?
-        body: Gens ni mica. Volem actualitzar els drets d'autoria perquè siguin compatibles
-          amb la realitat d'avui i amb les preferències de la gent. Creiem que la
-          tecnologia moderna és una oportunitat per a les persones que creen obres,
-          i no pas un problema. També creiem que és perjudicial per a aquestes persones
-          haver de dependre d'un statu quo legal injust i impopular pel que fa als
-          drets d'autoria. La compartició de fitxers pot incrementar la difusió i
-          el reconeixement de les obres i de les persones que les creen.
-      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
-        body: "Pots triar tant el país de la teva ciutadania com el país on vius.\
-          \ Tingues en compte que només pots signar un cop la iniciativa \"Llibertat\
-          \ per compartir\". Les dades que proporcionis a la signatura determinaran\
-          \ a quin estat membre es compta la teva signatura. Per exemple: una persona\
-          \ amb ciutadania d'Àustria que visqui a Estònia pot: a) emplenar el formulari\
-          \ per a Estònia, i proporcionar la llista completa de nom, cognom, adreça,\
-          \ data i lloc de naixement i nacionalitat (en aquest cas, la signatura serà\
-          \ verificada i per tant comptada a Estònia), o b) emplenar el formulari\
-          \ per a Àustria, i proporcionar a més de les dades esmentades el número\
-          \ de document d'identificació personal de la llista acceptada per Àustria\
-          \ (en aquest cas, la signatura serà verificada i per tant comptada a Àustria).\n"
-        title: Tinc la ciutadania d'un dels estats membre de la UE però visc en un
-          altre estat membre de la UE. En quin estat membre he de signar?
-      why-do-i-have-to-provide-so-much-personal-information:
-        body: "Les iniciatives ciutadanes europees són diferents de les peticions\
-          \ \"normals\": són un instrument democràtic oficial que permet a la ciutadania\
-          \ col·laborar a modelar Europa demanant a la Comissió Europea que proposi\
-          \ un acte legislatiu. Si podrem recollir un milió de signatures (validades),\
-          \ la Comissió serà obligada legalment a atendre les nostres demandes. No\
-          \ tenim control sobre quines dades calen per a signar una Iniciativa Ciutadana\
-          \ Europea per part dels estats membre. Cada estat determina quines dades\
-          \ cal recollir per tal que les signatures siguin valides i comptades. Així,\
-          \ en una ICE, cal donar més dades personals que les que cal donar en altres\
-          \ \"peticions\".\n"
-        title: Per què he de donar tantes dades personals?
+        body: "Gens ni mica. Volem actualitzar els drets d'autoria perquè siguin compatibles amb la realitat d'avui i amb les preferències de la gent. Creiem que la tecnologia moderna és una oportunitat per a les persones que creen obres, i no pas un problema. També creiem que és perjudicial per a aquestes persones haver de dependre d'un statu quo legal injust i impopular pel que fa als drets d'autoria. La compartició de fitxers pot incrementar la difusió i el reconeixement de les obres i de les persones que les creen."
+        title: "Esteu en contra de l'autoria?"
+      are-you-against-digital-platforms:
+        body: "No, mentre no facin un abús de poder per controlar i perfilar les persones. Els diversos serveis d'internet que han acabat dominant la distribució digital de cultura poden ser una xarxa positiva perquè permeten una distribució més eficient. Eliminar la intermediació pot reduir la quantitat de diners malbaratada en perfils intermediaris que no afegeixen cap valor cultural. En qualsevol cas, tampoc no entenem per quin motiu els gegantins serveis d'internet centralitzats gestionats per poques multinacionals haurien de tenir el control de l'era digital. Iniciatives com l'article 17 de la directiva 790/2019 (\"filtres de càrrega\") eren errònies i estan destinades a fracassar, perquè aborden l'arrel del problema."
+        title: "Esteu en contra de les plataformes digitals?"
+      are-you-against-rightsholders:
+        body: "No, mentre persegueixin els objectius declarats dels drets d'autoria, és a dir, la promoció de la cultura i del progrés social. Les grans productores (\"majors\") van perdre una oportunitat quan van atacar Napster a la primeria del 2000. S'hi podrien haver sumat i haurien guanyat una màquina de fer diners de manera gratuïta. Però han perdut una dècada i ara depenen dels drets d'autoria de Spotify, Apple, etc. per a la seva supervivència. La nostra proposta és una oportunitat per les societats de gestió col·lectiva, segells discogràfics, empreses editorials i altres persones amb drets sobre les obres."
+        title: "Esteu en contra de la titularitat de drets?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "No. Aquesta proposta només afecta la distribució de material publicada. La compartició de material inèdit continuarà essent il·legal. A més, la distribució de dades personals és il·legal si no compleix amb la GDPR."
+        title: "Aquesta proposta es podria utilitzar com un paraigua legal per la distribució d'informació privada com ara dades personals, imatges privades, etc.?"
       do-you-want-to-destroy-existing-digital-distribution-channels:
-        title: Voleu destruir els canals de distribució digital existents?
-        body: No. Els serveis sobreviuen a llarg termini perquè les persones els utilitzen
-          i els agraden, no perquè la política ho determini en una llei o una altra.
-      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
-        body: "Abans que tot, recorda't de signar la campanya ICE. Així ajudaràs a\
-          \ arribar a l'objectiu d'un milió de signatures que obligarà la Comissió\
-          \ a posicionar-se sobre la nostra iniciativa. Després, pots ajudar d'altres\
-          \ maneres: 1. Fes difusió de la campanya amb les teves amistats (escriu-los,\
-          \ difon els materials de comunicació de la campanya, parla'n, etc. Recorda\
-          \ que tindrem dotze mesos per recollir un milió de signatures). 2. Posa't\
-          \ en contacte amb nosaltres i contribueix a l'organització i la difusió\
-          \ de la campanya al teu país en coordinació amb altres activistes. 3. Per\
-          \ últim, però no menys important, dóna suport a la campanya mitjançant una\
-          \ donació.\n"
-        title: Entesos, ja ho entenc. Què puc fer perquè es legalitzi la compartició
-          de fitxers?
-      i-see-there-is-money-involved-who-is-going-to-pay-who:
-        body: "Depèn de com s'implementarà la proposta. Hi ha diverses tècniques legals:\
-          \ 1. Establir que les persones que utilitzen xarxes de compartició de fitxers\
-          \ hagin de pagar una llicència per poder compartir els fitxers que inclouen\
-          \ obres. 2. Establir que tota la ciutadania amb accés a internet (i amb\
-          \ accés a la compartició d'obres per mitjà de xarxes de compartició de fitxers)\
-          \ paguin una petita quantitat addicional. 3. Establir que l'estat pagui\
-          \ una justa remuneració (utilitzant els impostos pagats per la ciutadania).\n"
-        title: Veig que hi ha diners en joc. Qui pagarà a qui?
-      what-is-file-sharing:
-        body: La compartició de fitxers és l'acte de proporcionar accés a una obra
-          amb mètodes digitals i de fer-ne còpies. Normalment fa referència a pràctiques
-          com ara la compartició entre iguals (peer-to-peer), però pot incloure l'enviament
-          d'un adjunt per correu electrònic o l'ús d'un suport físic, entre altres.
-        title: Què és la compartició de fitxers?
-      you-want-to-violate-copyright:
-        title: El que voleu és infringir els drets d'autoria!
-        body: No. El que volem és canviar el dret d'autoria i la nostra proposta és
-          compatible amb la convenció de Berna i els tractats relacionats.
-      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
-        title: Tinc la ciutadania de la UE però sóc resident a fora de la UE. Puc
-          signar la ICE?
-        body: Depèn de l'estat membre del qual tens la ciutadania. Dependrà dels requisits
-          imposats per cada estat membre que puguis signar en línia, perquè alguns
-          estats requereixen una adreça UE.
-      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
-        title: No recordo si he signat l'ICE. Puc signar un altre cop o la meva signatura
-          serà invalidada?
-        body: Sí, torna a signar si no ho recordes. La teva signatura és vàlida i
-          es compta només un cop. El programa detecta automàticament les signatures
-          dobles i elimina les repeticions.
-      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
-      : title: Aquesta proposta es podria utilitzar com un paraigua legal per la distribució
-          d'informació privada com ara dades personals, imatges privades, etc.?
-        body: No. Aquesta proposta només afecta la distribució de material publicada.
-          La compartició de material inèdit continuarà essent il·legal. A més, la
-          distribució de dades personals és il·legal si no compleix amb la GDPR.
-      is-it-going-to-be-legal-to-share-all-files:
-        title: Serà legal compartir tota mena de fitxers?
-        body: "Per descomptat que no. Proposem la modificació del dret d'autoria i\
-          \ de les lleis relacionades. Moltes altres lleis poden impedir la compartició\
-          \ de tipus específics de fitxers, com ara secrets comercials, privadesa,\
-          \ etc.\n"
-      is-file-sharing-legal:
-        title: És legal, la compartició de fitxers?
-        body: La compartició de fitxers en xarxes entre iguals (peer-to-peer) no és
-          legal. L'objectiu de la iniciativa és canviar la llei a la Unió Europea.
+        body: "No. Els serveis sobreviuen a llarg termini perquè les persones els utilitzen i els agraden, no perquè la política ho determini en una llei o una altra."
+        title: "Voleu destruir els canals de distribució digital existents?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "No. Pel fet que es tracta de xarxes, no hi ha cap competència en concret: les xarxes de compartició de fitxers són distribuïdes (no necessàriament hi ha intermediació). Les xarxes de compartició de fitxers són propietat de les persones que hi participen.\n"
+        title: "Les plataformes de compartició de fitxers són competència de Netflix, Spotify i altres plataformes de distribució de continguts?"
       how-do-you-think-file-sharing-should-be-regulated:
-        title: Com creieu que cal regular la compartició de fitxers?
-        body: Creiem que la compartició de fitxers hauria de ser gratuïta en cas d'ús
-          privat per part de la ciutadania; les persones amb drets d'autoria o altres
-          drets sobre les obres haurien de rebre una justa remuneració a canvi de
-          l'ús de les seves obres per part de la ciutadania.
+        body: "Creiem que la compartició de fitxers hauria de ser gratuïta en cas d'ús privat per part de la ciutadania; les persones amb drets d'autoria o altres drets sobre les obres haurien de rebre una justa remuneració a canvi de l'ús de les seves obres per part de la ciutadania."
+        title: "Com creieu que cal regular la compartició de fitxers?"
+      how-much-will-it-cost-for-users:
+        body: "La nostra proposta preveu una sèrie de possibles implementacions. Creiem que és possible, amb mètodes empírics moderns i amb dades econòmiques basades en proves, calcular una compensació justa per a cada escenari."
+        title: "I això quant costa?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Les societats de gestió col·lectiva ja tenen diversos mètodes de compartició de la justa remuneració entre qui crea una obra i altres persones que en tinguin drets (compensacions per les còpies privades, etc.). Nosaltres creiem que la distribució d'una justa remuneració per la compartició de fitxers podria ser molt justa si es fa correctament. Per exemple, es podrien desenvolupar estadístiques transparents i justes per a les obres compartides en xarxes de compartició de fitxers mitjançant un \"comptador\" segur que mesurés el nombre de transferències per a cada fitxer i posteriorment dividir-ne el total recaptat de manera proporcional entre les persones que hagin participat de l'autoria."
+        title: "Com cal distribuir els diners entre qui crea l'obra i altres persones que en tinguin drets?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "La ciutadania serà lliure d'accedir a obres per mitjà de xarxes de compartició de fitxers sense que se l'obligui a fer servir plataformes que perfilin les persones."
+        title: "De quina manera la llibertat de compartició de fitxers pot portar beneficis a la ciutadania?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "Rebran diners a canvi de l'ús de les obres per part de les persones que en comparteixin els fitxers. A més, permetran que la ciutadania accedeixi a les seves obres per mitjans fora del control de terceres parts: les persones que creïn obres tindran més llibertat i els seus treballs seran més disponibles per a tothom.\n"
+        title: "De quina manera la llibertat de compartir fitxers beneficiarà les persones que fan art?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "Pots triar tant el país de la teva ciutadania com el país on vius. Tingues en compte que només pots signar un cop la iniciativa \"Llibertat per compartir\". Les dades que proporcionis a la signatura determinaran a quin estat membre es compta la teva signatura. Per exemple: una persona amb ciutadania d'Àustria que visqui a Estònia pot: a) emplenar el formulari per a Estònia, i proporcionar la llista completa de nom, cognom, adreça, data i lloc de naixement i nacionalitat (en aquest cas, la signatura serà verificada i per tant comptada a Estònia), o b) emplenar el formulari per a Àustria, i proporcionar a més de les dades esmentades el número de document d'identificació personal de la llista acceptada per Àustria (en aquest cas, la signatura serà verificada i per tant comptada a Àustria).\n"
+        title: "Tinc la ciutadania d'un dels estats membre de la UE però visc en un altre estat membre de la UE. En quin estat membre he de signar?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "Depèn de l'estat membre del qual tens la ciutadania. Dependrà dels requisits imposats per cada estat membre que puguis signar en línia, perquè alguns estats requereixen una adreça UE."
+        title: "Tinc la ciutadania de la UE però sóc resident a fora de la UE. Puc signar la ICE?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Perquè les plataformes de compartició entre iguals permeten una interacció social real: quan es comparteixen fitxers, alhora es reben fitxers d'altres persones. La interacció amb un algoritme no és interacció social. La compartició entre iguals sol optimitzar l'ús de l'amplada de banda: quan es rep un fitxer que és disponible en diversos clients, cadascun n'envia una part diferent al mateix temps, i així se'n redueix el temps de transferència de manera notable.\n"
+        title: "A mi ja m'agrada, el contacte social. Per què la compartició de fitxers entre iguals (p2p) és millor que les plataformes de distribució?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "Depèn de com s'implementarà la proposta. Hi ha diverses tècniques legals: 1. Establir que les persones que utilitzen xarxes de compartició de fitxers hagin de pagar una llicència per poder compartir els fitxers que inclouen obres. 2. Establir que tota la ciutadania amb accés a internet (i amb accés a la compartició d'obres per mitjà de xarxes de compartició de fitxers) paguin una petita quantitat addicional. 3. Establir que l'estat pagui una justa remuneració (utilitzant els impostos pagats per la ciutadania).\n"
+        title: "Veig que hi ha diners en joc. Qui pagarà a qui?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "Rebran una part de la justa remuneració recollida per l'ús de les seves obres que s'afegirà als seus mitjans de remuneració habituals."
+        title: "Si la compartició de fitxers és gratuïta, com guanyaran diners les persones que fan art?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Sí, torna a signar si no ho recordes. La teva signatura és vàlida i es compta només un cop. El programa detecta automàticament les signatures dobles i elimina les repeticions."
+        title: "No recordo si he signat l'ICE. Puc signar un altre cop o la meva signatura serà invalidada?"
+      is-file-sharing-legal:
+        body: "La compartició de fitxers en xarxes entre iguals (peer-to-peer) no és legal. L'objectiu de la iniciativa és canviar la llei a la Unió Europea."
+        title: "És legal, la compartició de fitxers?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Per descomptat que no. Proposem la modificació del dret d'autoria i de les lleis relacionades. Moltes altres lleis poden impedir la compartició de tipus específics de fitxers, com ara secrets comercials, privadesa, etc.\n"
+        title: "Serà legal compartir tota mena de fitxers?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Sí, en la mesura que una part de la xarxa en disposi. A vegades, quan el canal habitual falla, hi ha coses que ja són allà, a punt per ser recollides. En algunes xarxes, avui dia, hi ha entre deu i quaranta milions de fitxers, amb milions de persones que fan de node."
+        title: "És cert que la compartició de fitxers permet trobar coses poc habituals, que ja no es troben al mercat, situades en un lloc remot o difícils de trobar?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Abans que tot, recorda't de signar la campanya ICE. Així ajudaràs a arribar a l'objectiu d'un milió de signatures que obligarà la Comissió a posicionar-se sobre la nostra iniciativa. Després, pots ajudar d'altres maneres: 1. Fes difusió de la campanya amb les teves amistats (escriu-los, difon els materials de comunicació de la campanya, parla'n, etc. Recorda que tindrem dotze mesos per recollir un milió de signatures). 2. Posa't en contacte amb nosaltres i contribueix a l'organització i la difusió de la campanya al teu país en coordinació amb altres activistes. 3. Per últim, però no menys important, dóna suport a la campanya mitjançant una donació.\n"
+        title: "Entesos, ja ho entenc. Què puc fer perquè es legalitzi la compartició de fitxers?"
+      this-is-not-a-new-idea:
+        body: "No, és una idea antiga. La variant més famosa és probablement la proposta de Fisher d'una llicència legal per resoldre problemes com el tancament de Napster, perquè només va poder frenar el 99,4% de les violacions de drets d'autoria, i no el 100%. <a href=\"http://www.free-culture.cc/freeculture.pdf\">Vegeu \"Cultura lliure\" (2004), p. 307.</a>"
+        title: "No és una idea nova!"
+      this-is-only-a-dream:
+        body: "Som conscients que la nostra proposta és l'única manera d'avançar cap a un dret d'autoria basat en drets fonamentals. Pensem que a vegades cal aquesta ambició."
+        title: "Això és un somni!"
+      what-are-related-rights:
+        body: "En la llei sobre drets d'autoria, els drets afins són els drets d'una obra de creació sense relació amb l'autoria real de l'obra. A la Unió Europea, els drets de producció de pel·lícules (a diferència als de direcció) i de creació de bases de dades també estan protegits pels drets afins. Una definició pràctica és que els drets afins són un tipus de drets d'autoria que no estan coberts per la Convenció de Berna."
+        title: "Què són els «drets afins»?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "Si decideix de no publicar-la, la seva obra no es podrà compartir. Quan una obra és pública, la ciutadania en té alguns drets: cantar-la en privat, fer-ne còpies per a ús personal i —això defensem nosaltres— fer servir xarxes de compartició de fitxers per a ús personal."
+        title: "Què passa si algú no està d'acord que la seva obra sigui compartida en xarxes de compartició de fitxers?"
       what-is-a-european-citizen-initiative:
-        title: Què són les Iniciatives Ciutadanes Europees?
-        body: "Una ICE és la via que la comissió de la Unió Europea ofereix a la ciutadania\
-          \ per impulsar canvis en la legislació. Llegeix l'entrada de la Viquipèdia\
-          \ <a href=\"https://ca.wikipedia.org/wiki/Iniciativa_Ciutadana_Europea\"\
-          >Iniciativa Ciutadana Europea</a>.\n"
+        body: "Una ICE és la via que la comissió de la Unió Europea ofereix a la ciutadania per impulsar canvis en la legislació. Llegeix l'entrada de la Viquipèdia <a href=\"https://ca.wikipedia.org/wiki/Iniciativa_Ciutadana_Europea\">Iniciativa Ciutadana Europea</a>.\n"
+        title: "Què són les Iniciatives Ciutadanes Europees?"
+      what-is-file-sharing:
+        body: "La compartició de fitxers és l'acte de proporcionar accés a una obra amb mètodes digitals i de fer-ne còpies. Normalment fa referència a pràctiques com ara la compartició entre iguals (peer-to-peer), però pot incloure l'enviament d'un adjunt per correu electrònic o l'ús d'un suport físic, entre altres."
+        title: "Què és la compartició de fitxers?"
+      what-is-the-sui-generis-database-right:
+        body: "El dret sui generis empara les bases de dades en les quals hi hagi hagut una inversió rellevant per obtenir, verificar o presentar les dades que contenen, i les protegeix de l'extracció i la reutilització de continguts sense permís. No hi ha cap requisit de creativitat o originalitat. Aquest dret té efectes durant els quinze anys posteriors a la creació de la base de dades no creativa. És diferent i independent del dret d'autoria, que protegeix obres originals. El dret sui generis sobre les bases de dades pertany a la família de \"drets relatius\", és a dir semblants però independents dels drets d'autoria."
+        title: "Què és el dret sui generis sobre les bases de dades?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Pots publicar-la i esperar que la ciutadania la comparteixi. També pots compartir-la en xarxes de compartició de fitxers."
+        title: "Què cal fer per assegurar que la teva obra es pot compartir entre iguals?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Les iniciatives ciutadanes europees són diferents de les peticions \"normals\": són un instrument democràtic oficial que permet a la ciutadania col·laborar a modelar Europa demanant a la Comissió Europea que proposi un acte legislatiu. Si podrem recollir un milió de signatures (validades), la Comissió serà obligada legalment a atendre les nostres demandes. No tenim control sobre quines dades calen per a signar una Iniciativa Ciutadana Europea per part dels estats membre. Cada estat determina quines dades cal recollir per tal que les signatures siguin valides i comptades. Així, en una ICE, cal donar més dades personals que les que cal donar en altres \"peticions\".\n"
+        title: "Per què he de donar tantes dades personals?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "Perquè tens dret a la llibertat. Llibertat per cercar i trobar les obres que vulguis, amb la guia de la teva pròpia curiositat i no la dels filtres bombolla que els algoritmes decideixin per tu, sense que les teves descàrregues quedin enregistrades a les bases de dades d'una empresa proveïdora."
+        title: "Per què és important evitar el control i la perfilació per part de plataformes?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "Per incrementar la compartició, i per tant la difusió, d'obres de creació (o altres continguts) i de la cultura; per tenir la llibertat d'accedir a obres de creació sense cap subjecció a mecanismes de control ni de perfilació."
+        title: "Per què he de signar aquesta Iniciativa Ciutadana Europea?"
+      you-want-to-violate-copyright:
+        body: "No. El que volem és canviar el dret d'autoria i la nostra proposta és compatible amb la convenció de Berna i els tractats relacionats."
+        title: "El que voleu és infringir els drets d'autoria!"
+    title: "Preguntes Més Freqüents"
   footer:
-    about: Aquest lloc web està gestionat per GOIPE, una organització sense ànim de
-      lucre amb la missió de proposar i promoure Iniciatives Ciutadanes Europees per
-      una Europa millor.
+    about: "Aquest lloc web està gestionat per GOIPE, una organització sense ànim de lucre amb la missió de proposar i promoure Iniciatives Ciutadanes Europees per una Europa millor."
+  home:
+    cta: "Dóna suport a la Iniciativa Ciutadana Europea Freedom to share"
+    donate:
+      open_collective: "Dóna al nostre col·lectiu"
+      title: "Dóna"
+    hero:
+      action: "Subscriu-t'hi"
+      text: "Necessitem un milió de signatures. Les començarem a recollir el 15 de novembre del 2020. <strong>Uneix-t'hi!</strong>"
+    hero2:
+      action: "Signa aquí!"
+      text: "<strong>Legalitzem la compartició de fitxers!<strong><br>Arreu d'Europa, ens unim per demanar a la Comissió Europea que adopti normes de drets d'autoria justes per a qui crea obres i per a qui les utilitza."
+    official_text:
+      body: "La nostra iniciativa demana l'adopció d'un marc legislatiu que estableixi una exempció als drets d'autor, drets afins i drets de base de dades sui generis per a persones físiques que comparteixen arxius a través de xarxes digitals per a ús personal i sense ànim de lucre."
+      title: "Llegeix el text oficial de la iniciativa"
+    take_action:
+      body: "Escampa aquesta iniciativa entre amistats i contactes: escriu-los, difon els materials de comunicació, parla'ls-en, etc.\n"
+      title: "Actua"
+    widget:
+      steps:
+        one: "Uneix-te a nosaltres!"
+        other: "Signa-la!"
+  messages:
+    get_involved: "Uneix-t'hi"
+    missing_translations:
+      first: "La nostra web no té traduccions al teu idioma."
+      second: "Ajuda'ns aquí!"
+    read_more: "Llegeix més"
+  pages:
+    certification: "Certificació"
+    contact: "Contacte"
+    home: "Inici"
+    languages: "Idiomes"
+    organizations: "Suports"
+    press: "Notícies"
+    privacy: "Política de privadesa"
+  press:
+    published_at: "Publicat a\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\nel %{date}\n"
+  proca:
+    Amount: "Quantitat"
+    City: "Municipi"
+    Country: "País"
+    Donations must be %(amount)s or more: "Els donatius han de ser %(amount)s o superior"
+    Download explanation: "El teu documentat està enllestit i l'enviem al teu correu també."
+    Email: "Correu"
+    Email_Share button: "Correu"
+    Enter a number.: "Escriu un número."
+    Enter a valid email address.: "Escriu una adreça de correu vàlida."
+    First name: "Nom"
+    Last name: "Cognoms"
+    Legal: "Avís legal"
+    Link_Share button: "Enllaç"
+    No Thanks: "No, gràcies"
+    Postal Code: "Codi postal"
+    Privacy: "Privacitat"
+    Share on Facebook: "Compartir a Facebook"
+    Share on Twitter: "Compartir a Twitter"
+    Sign: "Signa ara!"
+    Sign Up: "Registra't"
+    Stay in touch: "Estigues en contacte"
+    Street: "Carrer"
+    Thanks!: "Gràcies!"
+    This field is required.: "Aquest camp és obligatori."
+    consent:
+      confirm: "<0>N'estàs segur?</0><1>Si selecciones \"No\", no podràs esbrinar si aquesta campanya té èxit o si cal fer més accions per assolir-la. Si seleccioneu \"Sí\", et mantindrem informat sobre aquesta i altres campanyes urgents.</1><2>Pots donar-te de baixa en qualsevol moment.</2>"
+      intro: "Accepto que {{name}} em contacti sobre campanyes importants"
+      opt-in: "Sí, manteniu-me al dia per correu"
+      opt-out: "No, no m'envieu correus"
+      processing: "La teva informació personal es mantindrà privada i segura. En enviar informació, acceptes l’ús de dades i galetes d’acord amb la nostra <1> política de privadesa </1>"
+    progress: "{{count}} han signat. Volem arribar a {{goal}}"
+    share:
+      email:
+        body: "Hola,\nSi us plau, signa això. Crec que hi voldràs donar suport"
+        subject: "Hauries de signar això"
+      intro: "Genial, has signat \U0001f44d Per multiplicar el teu impacte, comparteix-lo a tot arreu per assegurar-nos que tothom vegi aquesta petició \U0001f64f."
+      message: "Has de signar això!"
+      title: "Pràcticament ja ho tens! Fes el següent pas."
+  regions:
+    belgium: "Bèlgica"
+    czech-republic: "Txèquia"
+    estonia: "Estònia"
+    france: "França"
+    germany: "Alemanya"
+    italy: "Itàlia"
+    netherlands: "Països Baixos"
+    spain: "Espanya"
+    sweden: "Suècia"
+    transnational: "Àmbit europeu o transnacional"

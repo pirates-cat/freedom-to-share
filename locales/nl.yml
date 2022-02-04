@@ -1,410 +1,209 @@
+---
 nl:
-  pages:
-    home: Hoofdpagina
-    organizations: Ondersteunende organisaties
-    contact: Contact
-    privacy: Privacy policy
-    press: Nieuws
-    certification: Certificering
-    languages: Talen
-  creative-commons:
-    url: https://creativecommons.org/licenses/by-sa/4.0/deed.nl
-    text: Creative Commons Licentie
-  proca:
-    consent:
-      opt-in: Ja, hou me via email op de hoogte
-      opt-out: Nee, stuur me geen email met updates meer
-      intro: I ga akkoord dat {{name}} contact met opneemt over belangrijke campagnes
-      processing: Je persoonlijke informatie wordt veilig en beveiligd opgeslagen.
-        Door gegevens in te vullen ga je akkoord met het gebruik hiervan en met de
-        cookies zoals beschreven in onze <1>privacy policy</1>
-      confirm: <0>Weet je het zeker?</0><1>Als je 'Nee' zegt, kun je niet deze campagne
-        niet volgen om te zien of we succesvol zijn of nog meer moeten doen. Als je
-        'Ja' zegt houden we je op de hoogte over deze andere belangrijke campanges.</1><2>Je
-        kan je altijd weer uitschrijven.</2>
-    Postal Code: Postcode
-    Street: Straat
-    Country: Land
-    Thanks!: Bedankt!
-    City: Woonplaats
-    Amount: Bedrag
-    First name: Voornaam
-    Last name: Achternaam
-    Email: Email
-    share:
-      title: Bijna klaar! Neem de volgende stap.
-      intro: Fantastisch, je hebt het ondertekend 👍. Voor nog meer impact, deel dit
-        zo veel mogelijk zodat zoveel mogelijk mensen deze petitie zien🙏.
-      message: Dit moet je echt ondertekenen!
-      email:
-        subject: Dit moet je echt ondertekenen
-        body: "Hoi,\nOnderteken dit alsjeblief. Ik denk dat je hier wel achter staat"
-    Legal: Juridisch
-    Privacy: Privacy
-    No Thanks: Nee, bedankt
-    Stay in touch: Houd contact
-    Sign Up: Aanmelden
-    Share on Twitter: Deel op Twitter
-    Share on Facebook: Deel op Facebook
-    progress: '{{count}} hebben al getekend. Op naar de {{goal}}'
-    This field is required.: Dit veld is verplicht.
-    Enter a number.: Voer een nummer in.
-    Enter a valid email address.: Geef een geldig email adres.
-    Donations must be %(amount)s or more: Donaties moeten %(amount) of meer zijn
-    Email_Share button: Email
-    Link_Share button: Link
-    Download explanation: Je document is nu klaar. We e-mailen het naar je.
-    Sign: Onderteken Nu!
-  messages:
-    get_involved: Meehelpen
-    missing_translations:
-      first: Onze site mist een vertaling in jouw taal.
-      second: Help ons hier!
-    read_more: Lees meer
+  act:
+    content: "<p>Deel dit initiatief met je vrienden en contacten. Schijf ze, praat met ze, deel onze folders, enz.</p>\n<p>Help ons en draag bij aan de organisatie van de campagne om deze in jouw land samen met andere coördinatoren te verspreiden : <a href=\"#proca_dialog\" data-turbolinks=\"false\">subscribe!</a></p>\n<p>Help met vertalen: <a href=\"https://localazy.com/p/freedom-to-share\">Localazy</a></p>\n<p>Support deze campagne met een donatie:</p>\n"
+    title: "Neem nu actie!"
   contact:
-    fiscal_code: Fiscale Code
-    presentation: "GOIPE is een non-profit organisatie conform art. 36 van de Italiaanse\
-      \ wet en is opgezet voor het organiseren van Europese Burgerinitiatieven (ECI).\n\
-      De \"Freedom to share\" ECI is officieel geregistreerd bij de Europese commissie\
-      \ door burgers van acht Europese landen:\n"
+    fiscal_code: "Fiscale Code"
+    presentation: "GOIPE is een non-profit organisatie conform art. 36 van de Italiaanse wet en is opgezet voor het organiseren van Europese Burgerinitiatieven (ECI).\nDe \"Freedom to share\" ECI is officieel geregistreerd bij de Europese commissie door burgers van acht Europese landen:\n"
+  creative-commons:
+    text: "Creative Commons Licentie"
+    url: "https://creativecommons.org/licenses/by-sa/4.0/deed.nl"
+  eci:
+    description:
+      body: "Legaliseren van het delen – via digitale netwerken, voor persoonlijke en niet-commerciële doeleinden – van bestanden die werken en ander materiaal bevatten waarop auteursrecht, naburige rechten en databankrecht rusten, om tot een goede balans te komen tussen de rechten van auteurs en andere rechthebbenden en het universele recht op wetenschap en cultuur."
+      title: "Omschrijving"
+    name: "Naam van het Europees Burger Initiatief"
+    official_text: "<p>Met dit initiatief wordt gevraagd om een wetgevingshandeling die voorziet in de vrijstelling van auteursrecht, naburige rechten en databankrecht voor natuurlijke personen die bestanden via digitale netwerken delen voor persoonlijke en niet-commerciële doeleinden.</p><p>Het delen van bestanden begon in 1999 en sindsdien is distributed file sharing (of peer-to-peer) steeds efficiënter geworden (Gnutella, Freenet, BitTorrent, enz.).</p><p>Van in het begin hebben de belangrijkste rechtenhoudende bedrijven zich verzet tegen het gebruik van sharingtechnologie voor werken en andere materialen die vallen onder het auteursrecht, naburige rechten en databankrechten. De wetgeving is op dit moment grotendeels afgestemd op hun belangen.</p><p>Maar de vraag blijft of het wel rechtvaardig is dat auteursrechten, naburige rechten en databankrechten het delen van werken en andere materialen verhinderen.</p><p>Deze rechten zouden de verspreiding van cultuur, innovatie en sociale vooruitgang juist moeten begunstigen.</p><p>De heersende wetgeving, die het delen van bestanden die onder deze rechten vallen verhindert, zorgt voor een ingrijpende beperking van het recht om deel te hebben aan wetenschap en cultuur, dat is vastgelegd in art. 27, 1e alinea, van de Universele Verklaring van de rechten van de mens.</p><p>Deze kwestie is nu nog belangrijker geworden na de goedkeuring van Richtlijn (EU) 2019/790 van het Europees Parlement en de Raad van 17 april 2019 inzake auteursrechten en naburige rechten in de digitale eengemaakte markt.</p><p>Die richtlijn heeft paradoxale gevolgen: enerzijds maakt art. 17 het gemakkelijker voor aanbieders van onlinediensten voor het delen van content om toestemming te krijgen voor het delen van wettelijk beschermde content, waardoor hun rol als geprivilegieerde tussenschakel en hun praktijken van technische controle en profilering van burgers worden bevorderd, maar anderzijds blijft het delen van bestanden verboden.</p><p>Het initiatief heeft ten doel burgers in staat te stellen bestanden rechtstreeks via peer-to-peer-netwerken te delen, zodat zij toegang hebben tot wetenschap en cultuur zonder te worden onderworpen aan controles en profilering. Een EU-besluit in die zin zou volkomen compatibel zijn met het internationaal recht als de rechtenhouders een billijke vergoeding krijgen.</p><p>De mens en zijn grondrechten moeten centraal staan in de politiek en de wetgeving, en daarom moeten de regels voor het delen van bestanden die werken en andere materialen bevatten die vallen onder het auteursrecht, naburige rechten en databankrechten, veranderen. Dan kunnen digitale netwerken hun potentieel waarmaken om de vrijheid en de sociale, culturele en economische ontwikkeling te bevorderen.</p>\n"
+  faq:
+    acronym: "FAQ"
+    entries:
+      are-you-against-authors:
+        body: "Zeker niet. We willen het auteursrecht aanpassen zodat het in lijn is is met de moderne realiteit en de voorkeuren van mensen. Wij geloven dat moderne technologie een kans is voor auteurs, niet een probleem. We zijn ook van mening dat het schadelijk is voor auteurs om afhankelijk te zijn van en een zeer oneerlijke en impopulaire wetten op het auteursrecht. Sommige auteurs worden mogelijk meer gewaardeerd en veel bekender dankzij het delen van bestanden."
+        title: "Ben je tegen auteurs?"
+      are-you-against-digital-platforms:
+        body: "Nee, zolang ze hun macht niet misbruiken om mensen onder controle te houden en te profileren. De verschillende internetdiensten die de digitale distributie van cultuur domineren, kunnen een positieve bijdrage leveren met efficiënte distributie. Door het verwijderen van tussenschakels kan er geld bespaard worden op tussenpartijen die niets toevoegen aan cultuur. Maar wij willen niet dat grote gecentraliseerde internetdiensten die in eigendom zijn van een handvol multinationals ook onze cultuur beïnvloeden in het digitale tijdperk. Maatregelen zoals artikel 17 van richtlijn 790/2019 (\"upload filters\") zijn misleidend en zullen uiteindelijk falen, omdat ze niet de oorzaak van het probleem aanpakken."
+        title: "Zijn jullie tegen digitale platformen?"
+      are-you-against-rightsholders:
+        body: "Nee, zolang ze achter de doelen staan van het auteursrecht (en vergelijkbare rechten), dat is de promotie van cultuur en sociale vooruitgang. De grote bedrijven hebben juist een kans laten liggen toen ze begin 2000 Napster aanvielen; ze hadden kunnen meedoen en zo een nieuwe inkomstenstroom genereren. Nu hebben ze een decennium verloren en zijn ze afhankelijk van royalties via Spotify, Apple, etc. om te overleven. Ons voorstel is juist een kans voor organisaties om de vergoeding op te halen voor uitgeverijen, platenmaatschappijen en andere rechthebbenden."
+        title: "Ben je tegen rechthebbenden?"
+      could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc:
+        body: "Nee, dit voorstel gaat alleen over gepubliceerd materiaal. Het delen van ongepubliceerd materiaal blijft illegaal. Bovendien zijn persoonsgegevens beschermd door de AVG."
+        title: "Kan dit vvorstel gebruikt worden als een overkoepelende wet voor de distributie van persoonlijke informatie, zoals persoonsgegevens, privé foto's, etc.?"
+      do-you-want-to-destroy-existing-digital-distribution-channels:
+        body: "Nee. Diensten blijven op lange termijn bestaan omdat consumenten ze willen, niet omdat politici een of andere wet voorschrijven."
+        title: "Willen jullie de huidige digitale distributiekanalen weg hebben?"
+      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
+        body: "Nee. Omdat het om netwerken gaat, is er niet een enkele concurrent: file sharing netwerken zijn gedistribueerd (er is geen verplichte tussenpartij). File sharing netwerken bestaan door de mensen die er in deelnemen.\n"
+        title: "Platformen om bestanden te delen zijn concurrenten van Netflix, Spotify en andere content-platformen?"
+      how-do-you-think-file-sharing-should-be-regulated:
+        body: "Wij vinden dat filesharing mogelijk moet zijn voor privégebruik door burgers; auteurs en andere rechthebbenden moeten een eerlijke vergoeding krijgen voor hun werk vanuit de burgers."
+        title: "Hoe zou filesharing gereguleerd moeten worden?"
+      how-much-will-it-cost-for-users:
+        body: "Er is een spectrum aan mogelijke oplossingen van ons voorstel. Wij geloven dat het mogelijk is om met moderne empirische methodes en economische regels gebaseerd op bewijs, eerlijke compensatie voor de verschillende scenario's te berekenen."
+        title: "Wat gaat dit de gebruikers kosten?"
+      how-should-money-be-distributed-among-authors-and-other-right-holders:
+        body: "Organisaties die zorgen voor de inning van compensaties (zoals Stichting Thuiskopie) hebben al verschillende methodes om de vergoedingen (zoals bijvoorbeeld de thuiskopieheffing, etc.) op een eerlijke manier te verdelen onder auteurs en andere rechthebbenden. Wij gaan er vanuit dat de verdeling van de compensatie op een eerlijke manier mogelijk is. Het bijvoorbeeld mogelijk om transparante en eerlijke statistieken bij te houden hoe vaak een bestand gedeeld wordt en op basis daarvan de compensatie te verdelen tussen de makers van de werken."
+        title: "Hoe zou het geld moeten worden verdeeld tussen auteurs en andere rechthebbenden?"
+      how-will-file-sharing-freedom-benefit-citizens:
+        body: "Je kunt dan vrijelijk toegang krijgen tot creatieve werken via file sharing netwerken, zonder gebruik te hoeven maken van platformen die een profiel van je bijhouden."
+        title: "Wat zijn de voordelen van vrijheid om te delen voor burgers?"
+      how-will-freedom-to-share-files-benefit-artists:
+        body: "Voor het gebruik van hun werk krijgen ze geld van downloaders. Bovendien zullen ze burgers toegang geven tot hun werken op middelen die niet onder controle staan van derden: auteurs zullen meer vrijheid genieten en hun werken zullen bij de hand zijn.\n"
+        title: "Hoe kunnen artiesten profiteren van de vrijheid om bestanden te delen?"
+      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
+        body: "Je mag zelf kiezen of je tekent vanuit de EU lidstaat van je nationaliteit, of de EU lidstaat waar je woont. Hou er wel rekening mee dat je maar één keer kunt tekenen voor de ECI “Freedom to Share”. De ingevulde data voor de ondertekening bepaalt in welk land je handtekening telt. Bijvoorbeeld een burger van Oostenrijk die in Estland woont, kan kiezen om a) het formulier van Estland in te vullen met je volledige voornamen, achternaam, adres, geboortedatum, geboorteplaats en nationaliteit - in dit geval zal de ondertekening in Estland gecontroleerd en geteld worden, of b) het formulier voor Oostenrijk in te vullen en de eerder genoemde informatie aan te vullen met het registratienummer van een identificatiedocument die goedgekeurd is door Oosstenrijk - in dit geval zal de ondertekening in Oostenrijk gecontroleerd en geteld worden.\n"
+        title: "Ik ben een burger van een EU lidstaat, maar ik woon in een andere EU lidstaat. In welke lidstaat kan ik ondertekenen?"
+      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
+        body: "Dat hangt af van welk EU lidstaat je een burger bent. EU lidstaten mogen verschillende eisen stellen, waardoor je wel of niet online kunt ondertekenen. Sommige lidstaten vereisen dat je woont op een adres binnen de EU."
+        title: "Ik ben een EU burger die buiten de EU woont. Kan ik de ECI toch ondertekenen?"
+      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
+        body: "Omdat p2p file sharing je echt sociaal laat zijn: wanneer je bestanden deelt, krijg je de bestanden op dat moment ook van andere mensen. Onderworpen worden aan een algoritme is niet sociaal. P2P kan het verbruik van bandbreedte optimaliseren. Wanneer je een bestand binnen haalt die beschikbaar is bij meerdere instanties, dan kunnen meerdere instanties tegelijkertijd jou verschillende stukjes toesturen, waardoor het bestand veel sneller binnen is.\n"
+        title: "Ik ben graag sociaal. Waarom zou p2p file sharing beter zijn dan de distributie platformen?"
+      i-see-there-is-money-involved-who-is-going-to-pay-who:
+        body: "Dat ligt er aan hoe ons voorstel tot wet verwerkt wordt. Er zijn verschillende mogelijkheden: 1. gebruikers moeten een licentie betalen om filesharing netwerken te mogen gebruiken om bestanden te delen die onder het auteursrecht (en gerelateerde rechten) vallen. 2. een kleine toeslag op het gebruik van internet (en daarmee filoesharing mogelijk te maken). 3. de overheid betaalt een vergoeding (vanuit belastingen, zoals de thuiskopieheffing).\n"
+        title: "Ik zie dat er geld mee gemoeid is. Wie krijgt waar voor betaald?"
+      if-file-sharing-is-free-how-will-artists-earn-money:
+        body: "Zij ontvangen een deel van de eerlijke vergoeding die geïnd wordt voor het gebruik van hun werk. Dit komt bovenop hun gebruikelijke vergoedingen."
+        title: "Als file sharing gratis is, hoe verdienen artiesten dan nog geld?"
+      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
+        body: "Ja, teken nogmaals als je er niet zeker van bent. Ook al heb je meerdere keren getekend, hij telt maar een keer mee. De software detecteert automatisch dubbele handtekeningen en zal deze ontdubbelen."
+        title: "Ik weet niet zeker of ik de ECI al ondertekend heb. Kan ik nomgaals ondertekenen, of wordt mijn ondertekening dan ongeldig?"
+      is-file-sharing-legal:
+        body: "Filesharing via peer-to-peer netwerken is niet legaal. Dit initiatief is gestart om de wet in de Europese Unie te veranderen, zodat het wel legaal wordt."
+        title: "Is filesharing legaal?"
+      is-it-going-to-be-legal-to-share-all-files:
+        body: "Nee, wij stellen alleen een wijziging voor op het auteursrecht en aanverwante wetten. Er zijn nog vele andere wetten die specifieke gevallen verbieden: denk aan handelsgeheim, privacy, etc.\n"
+        title: "Wordt het delen van alle bestanden hiermee legaal?"
+      is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find:
+        body: "Ja, zolang iemand in het netwerk het nog beschikbaar heeft. Wanneer de gebruikelijke kanalen het niet meer hebben, kan het op een file sharing netwerk nog beschikbaar zijn. Vandaag de dag zijn er op sommige netwerken 10 tot 40 miljoen bestanden beschikbaar, in netwerken met miljoenen gebruikers."
+        title: "Is het waar dat door file sharing er een kans is, dat je dingen kunt vinden die bijna uitverkocht zijn, of zelfs niet meer beschikbaar zijn, of alleen in onbekende uithoeken nog aanwezig zijn?"
+      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
+        body: "Als eerste kun je de ECI ondertekenen. Dit brengt ons dichter bij het doel van een miljoen handtekeningen, zodat de Europese Commissie ons voorstel moet behandelen. Daarnaast kun je op andere manieren helpen: 1. verspreid deze campagne onder vrienden en andere contactpersonen (schrijf ze aan, verspreid campagnemateriaal, praat met ze, etc. Wij moeten binnen 12 maanden een miljoen handtekeningen verzamelen). 2. neem contact met ons op en help mee met de organisatie en verspreiding van de campagne in je land, gecoördineerd met andere vrijwilligers. 3. als laatste (maar zeker niet als minste) kun je een donatie geven aan deze campagne.\n"
+        title: "Ok, ik snap het. Wat kan ik doen om filesharing legaal te maken?"
+      this-is-not-a-new-idea:
+        body: "Toegegeven, dit is voornamelijk een oud idee. De meest beroemde variant is waarschijnlijk Fisher's voorstel tot een wettelijke vergunning voor dit probleem, want het neerhalen van Napster de auteursrechtenschendingen voor 99,4 % stopte, maar niet voor de volledige 100 %. <a href=\"http://www.free-culture.cc/freeculture.pdf\">Zie \"Free culture\" (2004), p. 307.</a>"
+        title: "Dit is geen nieuwe idee!"
+      this-is-only-a-dream:
+        body: "Wij realiseren ons dat ons voorstel de enige mogelijkheid is om auteursrecht te baseren op fundamentele rechten van de mens. Wij denken dat je alleen met ambitie tot een oplossing komt."
+        title: "Dit is slechts een droom!"
+      what-are-related-rights:
+        body: "In de auteurswet zijn naburige rechten de rechten op creatief werk, die niet direct verbonden zijn met de daadwerkelijke auteur van een werk. Binnen de Europese Unie vallen de rechten van film producenten (in tegenstelling tot regiseurs) en databank eigenaren ook onder naburige rechten. Een praktische definitie is dat de naburige rechten op de auteurswet lijken, die niet onder de Conventie van Bern vallen."
+        title: "Wat zijn «naburige rechten»?"
+      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
+        body: "Een auteur is vrij om zijn werk niet te publiceren, zodat het werk ook niet wordt gedeeld. Zodra een werk gepubliceerd is, hebben alle burgers rechten om iets met het werk te doen (zelf zingen, kopiëren voor eigen gebruik en zoals wij met dit initiatief willen, delen via file sharing netwerken voor persoonlijk gebruik)."
+        title: "Wat als een auteur het er niet mee eens is dat zijn werken gedeeld worden via file sharing netwerken?"
+      what-is-a-european-citizen-initiative:
+        body: "Een ECI is een instrument van de Europese Unie om burgers de mogelijkheid te geven verandering in de wetgeving op te starten. Link naar Wikipedia over <a href=\"https://nl.wikipedia.org/wiki/Europees_burgerinitiatief\">Europees burgerinitiatief</a>.\n"
+        title: "Wat is een Europees burgerinitiatief?"
+      what-is-file-sharing:
+        body: "Filesharing is het beschikbaar stellen en kopiëren van bestanden op een digitale manier. Meestal gaat het om peer-to-peer newerken, maar het kan bijvoorbeeld ook via een email attachment of op een fysieke drager (USB stick, etc.), etc."
+        title: "Wat is filesharing?"
+      what-is-the-sui-generis-database-right:
+        body: "Het sui generis recht beschermt databanken, waar substantieel in geïnvesteerd is in het verkrijgen, verifïeren of presenteren van de informatie en beschermt tegen ongeauthoriseerd ophalen en hergebruik van de informatie. Er is geen vereiste van creativiteit of originaliteit. Dit recht is 15 jaar geldig vanaf het moment dat de niet-creatieve databank gemaakt is. Het is anders en onafhankelijk van auteursrecht, dat het originele werk beschermt. Sui  Generis databank recht hoort in de familie van «gerelateerde rechten», i.e. vergelijkbaar maar onafahankelijk van auteursrecht."
+        title: "Wat is een Sui Generis databank recht?"
+      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
+        body: "Publicirenen en wachten to anderen het gaan delen. Ze kunnen het ook zelf beschikbaar stellen op file sharing netwerken."
+        title: "Wat moeten auteurs doen om er voor te zorgen dat hun werk beschikbaar is via file sharing?"
+      why-do-i-have-to-provide-so-much-personal-information:
+        body: "Een Europees burgerinitiatief iss anders dan een \"normale\" petitie: het is een officieel democratisch insstrument die EU burgers de mogelijkheid geeft om Europa te veranderen door aan de Europese Commissie een wetsvoorstel te doen. Wanneer we een miljoen (geldige) handtekeningen verzamelen, dan moet de Europese Commissie ons voorstel behandelen. Wij bepalen niet welke informatie nodig is voor een Europees Burgerinitiatief, dat bepalen de lidstaten zelf. Elke EU lidstaat bepaalt zelf welke informatie nodig is en die informatie hebben we ndig voor geldige handtekeningen die geteld gaan worden. Daarom moet je voor een ECI meer persoonsgegevens invullen dan voor andere \"petities\".\n"
+        title: "Waarom moet ik zoveel persoonlijke informatie invullen?"
+      why-its-important-to-avoid-control-and-profiling-by-platforms:
+        body: "Omdat je het recht hebt om vrij te zijn. Vrij om werken te zoeken en vinden, gedreven door je eigen nieuwsgierigheid en niet door de uitkomst van de algoritmes van filter bubbles en zonder registratie wat je download uit de database van een eigenaar."
+        title: "Waarom is het belangrijk om niet onderworpen te worden aan regels en profilering van platformen?"
+      why-should-i-sign-this-european-citizen-initiative:
+        body: "Om het delen te bevorderen en daarmee het verspreiden van creatieve werken, andere werken en cultuur; om vrijelijk toegang te hebben tot creatieve werken, zonder onderworpen te worden aan regels en profilering."
+        title: "Waarom zou ik dit Europees burgerinitiatief moeten ondertekenen?"
+      you-want-to-violate-copyright:
+        body: "Nee. Wij willen het auteursrecht veranderen en ons voorstel is in lijn met de Conventie van Bern en gerelateerde verdragen."
+        title: "Je wilt copyright schenden!"
+    title: "Veel Gestelde Vragen"
+  footer:
+    about: "Deze website wordt beheerd door GOIPE, een non-profit organisatie met de missie om Europese burgerinitiatieven op te stellen en te promoten voor een beter Europa."
   home:
-    hero:
-      text: We hebben 1 miljoen handtekeningen nodig. We starten met verzamelen op
-        15 november 2020. <strong>Help ons!</strong>
-      action: Abonneer
-    cta: Doe mee met het Europees Burger Initiatief "Freedom to Share"
-    hero2:
-      text: <strong>Legaliseer Filesharing!</strong><br>We komen vanuit heel Europa
-        samen om de Europese Commissie op te roepen auteursrechtregels aan te nemen
-        die eerlijk zijn voor makers en gebruikers.
-      action: Teken hier!
-    official_text:
-      title: Lees de officiële tekst van het initiatief
-      body: Ons initiatief roept op om wetgeving te implementeren, om het volgende
-        te legaliseren. Het delen – via digitale netwerken, voor persoonlijke en niet-commerciële
-        doeleinden – van bestanden die werken en ander materiaal bevatten waarop auteursrecht,
-        naburige rechten en databankrecht rusten.
+    cta: "Doe mee met het Europees Burger Initiatief \"Freedom to Share\""
     donate:
-      title: Doneer
-      open_collective: Doneer aan ons collectief
+      open_collective: "Doneer aan ons collectief"
+      title: "Doneer"
+    hero:
+      action: "Abonneer"
+      text: "We hebben 1 miljoen handtekeningen nodig. We starten met verzamelen op 15 november 2020. <strong>Help ons!</strong>"
+    hero2:
+      action: "Teken hier!"
+      text: "<strong>Legaliseer Filesharing!</strong><br>We komen vanuit heel Europa samen om de Europese Commissie op te roepen auteursrechtregels aan te nemen die eerlijk zijn voor makers en gebruikers."
+    official_text:
+      body: "Ons initiatief roept op om wetgeving te implementeren, om het volgende te legaliseren. Het delen – via digitale netwerken, voor persoonlijke en niet-commerciële doeleinden – van bestanden die werken en ander materiaal bevatten waarop auteursrecht, naburige rechten en databankrecht rusten."
+      title: "Lees de officiële tekst van het initiatief"
     take_action:
-      title: Neem actie
-      body: "Deel dit initiatief met je vrienden en contacten; email ze, praat met\
-        \ ze, verspreid ons materiaal, enz.\n"
+      body: "Deel dit initiatief met je vrienden en contacten; email ze, praat met ze, verspreid ons materiaal, enz.\n"
+      title: "Neem actie"
     widget:
       steps:
-        one: Sluit je aan!
-        other: Onderteken het!
+        one: "Sluit je aan!"
+        other: "Onderteken het!"
+  messages:
+    get_involved: "Meehelpen"
+    missing_translations:
+      first: "Onze site mist een vertaling in jouw taal."
+      second: "Help ons hier!"
+    read_more: "Lees meer"
+  pages:
+    certification: "Certificering"
+    contact: "Contact"
+    home: "Hoofdpagina"
+    languages: "Talen"
+    organizations: "Ondersteunende organisaties"
+    press: "Nieuws"
+    privacy: "Privacy policy"
   press:
-    published_at: "Gepubliceerd op\n<a href=\"%{url}\" class=\"font-bold text-tertiary\"\
-      >%{host}</a>\non %{date}\n"
+    published_at: "Gepubliceerd op\n<a href=\"%{url}\" class=\"font-bold text-tertiary\">%{host}</a>\non %{date}\n"
+  proca:
+    Amount: "Bedrag"
+    City: "Woonplaats"
+    Country: "Land"
+    Donations must be %(amount)s or more: "Donaties moeten %(amount) of meer zijn"
+    Download explanation: "Je document is nu klaar. We e-mailen het naar je."
+    Email: "Email"
+    Email_Share button: "Email"
+    Enter a number.: "Voer een nummer in."
+    Enter a valid email address.: "Geef een geldig email adres."
+    First name: "Voornaam"
+    Last name: "Achternaam"
+    Legal: "Juridisch"
+    Link_Share button: "Link"
+    No Thanks: "Nee, bedankt"
+    Postal Code: "Postcode"
+    Privacy: "Privacy"
+    Share on Facebook: "Deel op Facebook"
+    Share on Twitter: "Deel op Twitter"
+    Sign: "Onderteken Nu!"
+    Sign Up: "Aanmelden"
+    Stay in touch: "Houd contact"
+    Street: "Straat"
+    Thanks!: "Bedankt!"
+    This field is required.: "Dit veld is verplicht."
+    consent:
+      confirm: "<0>Weet je het zeker?</0><1>Als je 'Nee' zegt, kun je niet deze campagne niet volgen om te zien of we succesvol zijn of nog meer moeten doen. Als je 'Ja' zegt houden we je op de hoogte over deze andere belangrijke campanges.</1><2>Je kan je altijd weer uitschrijven.</2>"
+      intro: "I ga akkoord dat {{name}} contact met opneemt over belangrijke campagnes"
+      opt-in: "Ja, hou me via email op de hoogte"
+      opt-out: "Nee, stuur me geen email met updates meer"
+      processing: "Je persoonlijke informatie wordt veilig en beveiligd opgeslagen. Door gegevens in te vullen ga je akkoord met het gebruik hiervan en met de cookies zoals beschreven in onze <1>privacy policy</1>"
+    progress: "{{count}} hebben al getekend. Op naar de {{goal}}"
+    share:
+      email:
+        body: "Hoi,\nOnderteken dit alsjeblief. Ik denk dat je hier wel achter staat"
+        subject: "Dit moet je echt ondertekenen"
+      intro: "Fantastisch, je hebt het ondertekend \U0001f44d. Voor nog meer impact, deel dit zo veel mogelijk zodat zoveel mogelijk mensen deze petitie zien\U0001f64f."
+      message: "Dit moet je echt ondertekenen!"
+      title: "Bijna klaar! Neem de volgende stap."
   regions:
-    czech-republic: Tsjechië
-    transnational: Europees / Transnationaal niveau
-    germany: Duitsland
-    italy: Italië
-    sweden: Zweden
-    belgium: België
-    estonia: Estland
-    france: Frankrijk
-    netherlands: Nederland
-    spain: Spanje
-  faq:
-    entries:
-      why-should-i-sign-this-european-citizen-initiative:
-        title: Waarom zou ik dit Europees burgerinitiatief moeten ondertekenen?
-        body: Om het delen te bevorderen en daarmee het verspreiden van creatieve
-          werken, andere werken en cultuur; om vrijelijk toegang te hebben tot creatieve
-          werken, zonder onderworpen te worden aan regels en profilering.
-      are-you-against-authors:
-        body: Zeker niet. We willen het auteursrecht aanpassen zodat het in lijn is
-          is met de moderne realiteit en de voorkeuren van mensen. Wij geloven dat
-          moderne technologie een kans is voor auteurs, niet een probleem. We zijn
-          ook van mening dat het schadelijk is voor auteurs om afhankelijk te zijn
-          van en een zeer oneerlijke en impopulaire wetten op het auteursrecht. Sommige
-          auteurs worden mogelijk meer gewaardeerd en veel bekender dankzij het delen
-          van bestanden.
-        title: Ben je tegen auteurs?
-      file-sharing-platforms-are-competitors-of-netflix-spotify-and-other-content-distribution-platforms:
-        title: Platformen om bestanden te delen zijn concurrenten van Netflix, Spotify
-          en andere content-platformen?
-        body: "Nee. Omdat het om netwerken gaat, is er niet een enkele concurrent:\
-          \ file sharing netwerken zijn gedistribueerd (er is geen verplichte tussenpartij).\
-          \ File sharing netwerken bestaan door de mensen die er in deelnemen.\n"
-      this-is-only-a-dream:
-        title: Dit is slechts een droom!
-        body: Wij realiseren ons dat ons voorstel de enige mogelijkheid is om auteursrecht
-          te baseren op fundamentele rechten van de mens. Wij denken dat je alleen
-          met ambitie tot een oplossing komt.
-      how-much-will-it-cost-for-users:
-        title: Wat gaat dit de gebruikers kosten?
-        body: Er is een spectrum aan mogelijke oplossingen van ons voorstel. Wij geloven
-          dat het mogelijk is om met moderne empirische methodes en economische regels
-          gebaseerd op bewijs, eerlijke compensatie voor de verschillende scenario's
-          te berekenen.
-      how-should-money-be-distributed-among-authors-and-other-right-holders:
-        title: Hoe zou het geld moeten worden verdeeld tussen auteurs en andere rechthebbenden?
-        body: Organisaties die zorgen voor de inning van compensaties (zoals Stichting
-          Thuiskopie) hebben al verschillende methodes om de vergoedingen (zoals bijvoorbeeld
-          de thuiskopieheffing, etc.) op een eerlijke manier te verdelen onder auteurs
-          en andere rechthebbenden. Wij gaan er vanuit dat de verdeling van de compensatie
-          op een eerlijke manier mogelijk is. Het bijvoorbeeld mogelijk om transparante
-          en eerlijke statistieken bij te houden hoe vaak een bestand gedeeld wordt
-          en op basis daarvan de compensatie te verdelen tussen de makers van de werken.
-      are-you-against-rightsholders:
-        title: Ben je tegen rechthebbenden?
-        body: Nee, zolang ze achter de doelen staan van het auteursrecht (en vergelijkbare
-          rechten), dat is de promotie van cultuur en sociale vooruitgang. De grote
-          bedrijven hebben juist een kans laten liggen toen ze begin 2000 Napster
-          aanvielen; ze hadden kunnen meedoen en zo een nieuwe inkomstenstroom genereren.
-          Nu hebben ze een decennium verloren en zijn ze afhankelijk van royalties
-          via Spotify, Apple, etc. om te overleven. Ons voorstel is juist een kans
-          voor organisaties om de vergoeding op te halen voor uitgeverijen, platenmaatschappijen
-          en andere rechthebbenden.
-      are-you-against-digital-platforms:
-        title: Zijn jullie tegen digitale platformen?
-        body: Nee, zolang ze hun macht niet misbruiken om mensen onder controle te
-          houden en te profileren. De verschillende internetdiensten die de digitale
-          distributie van cultuur domineren, kunnen een positieve bijdrage leveren
-          met efficiënte distributie. Door het verwijderen van tussenschakels kan
-          er geld bespaard worden op tussenpartijen die niets toevoegen aan cultuur.
-          Maar wij willen niet dat grote gecentraliseerde internetdiensten die in
-          eigendom zijn van een handvol multinationals ook onze cultuur beïnvloeden
-          in het digitale tijdperk. Maatregelen zoals artikel 17 van richtlijn 790/2019
-          ("upload filters") zijn misleidend en zullen uiteindelijk falen, omdat ze
-          niet de oorzaak van het probleem aanpakken.
-      do-you-want-to-destroy-existing-digital-distribution-channels:
-        title: Willen jullie de huidige digitale distributiekanalen weg hebben?
-        body: Nee. Diensten blijven op lange termijn bestaan omdat consumenten ze
-          willen, niet omdat politici een of andere wet voorschrijven.
-      this-is-not-a-new-idea:
-        title: Dit is geen nieuwe idee!
-        body: Toegegeven, dit is voornamelijk een oud idee. De meest beroemde variant
-          is waarschijnlijk Fisher's voorstel tot een wettelijke vergunning voor dit
-          probleem, want het neerhalen van Napster de auteursrechtenschendingen voor
-          99,4 % stopte, maar niet voor de volledige 100 %. <a href="http://www.free-culture.cc/freeculture.pdf">Zie
-          "Free culture" (2004), p. 307.</a>
-      you-want-to-violate-copyright:
-        title: Je wilt copyright schenden!
-        body: Nee. Wij willen het auteursrecht veranderen en ons voorstel is in lijn
-          met de Conventie van Bern en gerelateerde verdragen.
-      why-its-important-to-avoid-control-and-profiling-by-platforms:
-        body: Omdat je het recht hebt om vrij te zijn. Vrij om werken te zoeken en
-          vinden, gedreven door je eigen nieuwsgierigheid en niet door de uitkomst
-          van de algoritmes van filter bubbles en zonder registratie wat je download
-          uit de database van een eigenaar.
-        title: Waarom is het belangrijk om niet onderworpen te worden aan regels en
-          profilering van platformen?
-      i-like-being-social-why-p2p-file-sharing-should-be-better-than-distribution-platforms:
-        body: "Omdat p2p file sharing je echt sociaal laat zijn: wanneer je bestanden\
-          \ deelt, krijg je de bestanden op dat moment ook van andere mensen. Onderworpen\
-          \ worden aan een algoritme is niet sociaal. P2P kan het verbruik van bandbreedte\
-          \ optimaliseren. Wanneer je een bestand binnen haalt die beschikbaar is\
-          \ bij meerdere instanties, dan kunnen meerdere instanties tegelijkertijd\
-          \ jou verschillende stukjes toesturen, waardoor het bestand veel sneller\
-          \ binnen is.\n"
-        title: Ik ben graag sociaal. Waarom zou p2p file sharing beter zijn dan de
-          distributie platformen?
-      what-are-related-rights:
-        title: Wat zijn «naburige rechten»?
-        body: In de auteurswet zijn naburige rechten de rechten op creatief werk,
-          die niet direct verbonden zijn met de daadwerkelijke auteur van een werk.
-          Binnen de Europese Unie vallen de rechten van film producenten (in tegenstelling
-          tot regiseurs) en databank eigenaren ook onder naburige rechten. Een praktische
-          definitie is dat de naburige rechten op de auteurswet lijken, die niet onder
-          de Conventie van Bern vallen.
-      how-will-file-sharing-freedom-benefit-citizens:
-        title: Wat zijn de voordelen van vrijheid om te delen voor burgers?
-        body: Je kunt dan vrijelijk toegang krijgen tot creatieve werken via file
-          sharing netwerken, zonder gebruik te hoeven maken van platformen die een
-          profiel van je bijhouden.
-      how-will-freedom-to-share-files-benefit-artists:
-        title: Hoe kunnen artiesten profiteren van de vrijheid om bestanden te delen?
-        body: "Voor het gebruik van hun werk krijgen ze geld van downloaders. Bovendien\
-          \ zullen ze burgers toegang geven tot hun werken op middelen die niet onder\
-          \ controle staan van derden: auteurs zullen meer vrijheid genieten en hun\
-          \ werken zullen bij de hand zijn.\n"
-      what-if-an-author-does-not-agree-to-have-his-work-shared-through-file-sharing-networks:
-        title: Wat als een auteur het er niet mee eens is dat zijn werken gedeeld
-          worden via file sharing netwerken?
-        body: Een auteur is vrij om zijn werk niet te publiceren, zodat het werk ook
-          niet wordt gedeeld. Zodra een werk gepubliceerd is, hebben alle burgers
-          rechten om iets met het werk te doen (zelf zingen, kopiëren voor eigen gebruik
-          en zoals wij met dit initiatief willen, delen via file sharing netwerken
-          voor persoonlijk gebruik).
-      what-should-authors-do-to-make-sure-that-their-work-is-available-for-file-sharing:
-        title: Wat moeten auteurs doen om er voor te zorgen dat hun werk beschikbaar
-          is via file sharing?
-        body: Publicirenen en wachten to anderen het gaan delen. Ze kunnen het ook
-          zelf beschikbaar stellen op file sharing netwerken.
-      ? is-it-true-file-sharing-gives-the-opportunity-to-find-stuff-very-rare-no-more-on-the-market-located-in-some-unknown-place-difficult-to-find
-      : title: Is het waar dat door file sharing er een kans is, dat je dingen kunt
-          vinden die bijna uitverkocht zijn, of zelfs niet meer beschikbaar zijn,
-          of alleen in onbekende uithoeken nog aanwezig zijn?
-        body: Ja, zolang iemand in het netwerk het nog beschikbaar heeft. Wanneer
-          de gebruikelijke kanalen het niet meer hebben, kan het op een file sharing
-          netwerk nog beschikbaar zijn. Vandaag de dag zijn er op sommige netwerken
-          10 tot 40 miljoen bestanden beschikbaar, in netwerken met miljoenen gebruikers.
-      if-file-sharing-is-free-how-will-artists-earn-money:
-        title: Als file sharing gratis is, hoe verdienen artiesten dan nog geld?
-        body: Zij ontvangen een deel van de eerlijke vergoeding die geïnd wordt voor
-          het gebruik van hun werk. Dit komt bovenop hun gebruikelijke vergoedingen.
-      what-is-the-sui-generis-database-right:
-        title: Wat is een Sui Generis databank recht?
-        body: Het sui generis recht beschermt databanken, waar substantieel in geïnvesteerd
-          is in het verkrijgen, verifïeren of presenteren van de informatie en beschermt
-          tegen ongeauthoriseerd ophalen en hergebruik van de informatie. Er is geen
-          vereiste van creativiteit of originaliteit. Dit recht is 15 jaar geldig
-          vanaf het moment dat de niet-creatieve databank gemaakt is. Het is anders
-          en onafhankelijk van auteursrecht, dat het originele werk beschermt. Sui  Generis
-          databank recht hoort in de familie van «gerelateerde rechten», i.e. vergelijkbaar
-          maar onafahankelijk van auteursrecht.
-      i-am-eu-citizen-resident-outside-of-the-eu-can-i-sign-the-eci:
-        title: Ik ben een EU burger die buiten de EU woont. Kan ik de ECI toch ondertekenen?
-        body: Dat hangt af van welk EU lidstaat je een burger bent. EU lidstaten mogen
-          verschillende eisen stellen, waardoor je wel of niet online kunt ondertekenen.
-          Sommige lidstaten vereisen dat je woont op een adres binnen de EU.
-      i-am-a-national-of-one-eu-member-state-but-living-in-another-eu-member-state-in-which-member-state-do-i-sign:
-        title: Ik ben een burger van een EU lidstaat, maar ik woon in een andere EU
-          lidstaat. In welke lidstaat kan ik ondertekenen?
-        body: "Je mag zelf kiezen of je tekent vanuit de EU lidstaat van je nationaliteit,\
-          \ of de EU lidstaat waar je woont. Hou er wel rekening mee dat je maar één\
-          \ keer kunt tekenen voor de ECI “Freedom to Share”. De ingevulde data voor\
-          \ de ondertekening bepaalt in welk land je handtekening telt. Bijvoorbeeld\
-          \ een burger van Oostenrijk die in Estland woont, kan kiezen om a) het formulier\
-          \ van Estland in te vullen met je volledige voornamen, achternaam, adres,\
-          \ geboortedatum, geboorteplaats en nationaliteit - in dit geval zal de ondertekening\
-          \ in Estland gecontroleerd en geteld worden, of b) het formulier voor Oostenrijk\
-          \ in te vullen en de eerder genoemde informatie aan te vullen met het registratienummer\
-          \ van een identificatiedocument die goedgekeurd is door Oosstenrijk - in\
-          \ dit geval zal de ondertekening in Oostenrijk gecontroleerd en geteld worden.\n"
-      im-not-sure-ive-signed-the-eci-yet-can-i-sign-a-second-time-or-is-my-signature-invalidated:
-        title: Ik weet niet zeker of ik de ECI al ondertekend heb. Kan ik nomgaals
-          ondertekenen, of wordt mijn ondertekening dan ongeldig?
-        body: Ja, teken nogmaals als je er niet zeker van bent. Ook al heb je meerdere
-          keren getekend, hij telt maar een keer mee. De software detecteert automatisch
-          dubbele handtekeningen en zal deze ontdubbelen.
-      ? could-this-proposal-be-used-as-a-legal-blanket-for-the-distribution-of-private-information-such-as-personal-data-private-pictures-etc
-      : title: Kan dit vvorstel gebruikt worden als een overkoepelende wet voor de
-          distributie van persoonlijke informatie, zoals persoonsgegevens, privé foto's,
-          etc.?
-        body: Nee, dit voorstel gaat alleen over gepubliceerd materiaal. Het delen
-          van ongepubliceerd materiaal blijft illegaal. Bovendien zijn persoonsgegevens
-          beschermd door de AVG.
-      is-it-going-to-be-legal-to-share-all-files:
-        title: Wordt het delen van alle bestanden hiermee legaal?
-        body: "Nee, wij stellen alleen een wijziging voor op het auteursrecht en aanverwante\
-          \ wetten. Er zijn nog vele andere wetten die specifieke gevallen verbieden:\
-          \ denk aan handelsgeheim, privacy, etc.\n"
-      why-do-i-have-to-provide-so-much-personal-information:
-        body: "Een Europees burgerinitiatief iss anders dan een \"normale\" petitie:\
-          \ het is een officieel democratisch insstrument die EU burgers de mogelijkheid\
-          \ geeft om Europa te veranderen door aan de Europese Commissie een wetsvoorstel\
-          \ te doen. Wanneer we een miljoen (geldige) handtekeningen verzamelen, dan\
-          \ moet de Europese Commissie ons voorstel behandelen. Wij bepalen niet welke\
-          \ informatie nodig is voor een Europees Burgerinitiatief, dat bepalen de\
-          \ lidstaten zelf. Elke EU lidstaat bepaalt zelf welke informatie nodig is\
-          \ en die informatie hebben we ndig voor geldige handtekeningen die geteld\
-          \ gaan worden. Daarom moet je voor een ECI meer persoonsgegevens invullen\
-          \ dan voor andere \"petities\".\n"
-        title: Waarom moet ik zoveel persoonlijke informatie invullen?
-      ok-i-got-it-what-can-i-do-to-make-file-sharing-legal:
-        body: "Als eerste kun je de ECI ondertekenen. Dit brengt ons dichter bij het\
-          \ doel van een miljoen handtekeningen, zodat de Europese Commissie ons voorstel\
-          \ moet behandelen. Daarnaast kun je op andere manieren helpen: 1. verspreid\
-          \ deze campagne onder vrienden en andere contactpersonen (schrijf ze aan,\
-          \ verspreid campagnemateriaal, praat met ze, etc. Wij moeten binnen 12 maanden\
-          \ een miljoen handtekeningen verzamelen). 2. neem contact met ons op en\
-          \ help mee met de organisatie en verspreiding van de campagne in je land,\
-          \ gecoördineerd met andere vrijwilligers. 3. als laatste (maar zeker niet\
-          \ als minste) kun je een donatie geven aan deze campagne.\n"
-        title: Ok, ik snap het. Wat kan ik doen om filesharing legaal te maken?
-      i-see-there-is-money-involved-who-is-going-to-pay-who:
-        body: "Dat ligt er aan hoe ons voorstel tot wet verwerkt wordt. Er zijn verschillende\
-          \ mogelijkheden: 1. gebruikers moeten een licentie betalen om filesharing\
-          \ netwerken te mogen gebruiken om bestanden te delen die onder het auteursrecht\
-          \ (en gerelateerde rechten) vallen. 2. een kleine toeslag op het gebruik\
-          \ van internet (en daarmee filoesharing mogelijk te maken). 3. de overheid\
-          \ betaalt een vergoeding (vanuit belastingen, zoals de thuiskopieheffing).\n"
-        title: Ik zie dat er geld mee gemoeid is. Wie krijgt waar voor betaald?
-      is-file-sharing-legal:
-        title: Is filesharing legaal?
-        body: Filesharing via peer-to-peer netwerken is niet legaal. Dit initiatief
-          is gestart om de wet in de Europese Unie te veranderen, zodat het wel legaal
-          wordt.
-      how-do-you-think-file-sharing-should-be-regulated:
-        title: Hoe zou filesharing gereguleerd moeten worden?
-        body: Wij vinden dat filesharing mogelijk moet zijn voor privégebruik door
-          burgers; auteurs en andere rechthebbenden moeten een eerlijke vergoeding
-          krijgen voor hun werk vanuit de burgers.
-      what-is-file-sharing:
-        title: Wat is filesharing?
-        body: Filesharing is het beschikbaar stellen en kopiëren van bestanden op
-          een digitale manier. Meestal gaat het om peer-to-peer newerken, maar het
-          kan bijvoorbeeld ook via een email attachment of op een fysieke drager (USB
-          stick, etc.), etc.
-      what-is-a-european-citizen-initiative:
-        body: "Een ECI is een instrument van de Europese Unie om burgers de mogelijkheid\
-          \ te geven verandering in de wetgeving op te starten. Link naar Wikipedia\
-          \ over <a href=\"https://nl.wikipedia.org/wiki/Europees_burgerinitiatief\"\
-          >Europees burgerinitiatief</a>.\n"
-        title: Wat is een Europees burgerinitiatief?
-    acronym: FAQ
-    title: Veel Gestelde Vragen
-  act:
-    content: "<p>Deel dit initiatief met je vrienden en contacten. Schijf ze, praat\
-      \ met ze, deel onze folders, enz.</p>\n<p>Help ons en draag bij aan de organisatie\
-      \ van de campagne om deze in jouw land samen met andere coördinatoren te verspreiden\
-      \ : <a href=\"#proca_dialog\" data-turbolinks=\"false\">subscribe!</a></p>\n\
-      <p>Help met vertalen: <a href=\"https://l10n.rio.hn/projects/freedom-to-share/web/\"\
-      >Weblate</a></p>\n<p>Support deze campagne met een donatie:</p>\n"
-    title: Neem nu actie!
-  eci:
-    name: Naam van het Europees Burger Initiatief
-    description:
-      title: Omschrijving
-      body: Legaliseren van het delen – via digitale netwerken, voor persoonlijke
-        en niet-commerciële doeleinden – van bestanden die werken en ander materiaal
-        bevatten waarop auteursrecht, naburige rechten en databankrecht rusten, om
-        tot een goede balans te komen tussen de rechten van auteurs en andere rechthebbenden
-        en het universele recht op wetenschap en cultuur.
-    official_text: "<p>Met dit initiatief wordt gevraagd om een wetgevingshandeling\
-      \ die voorziet in de vrijstelling van auteursrecht, naburige rechten en databankrecht\
-      \ voor natuurlijke personen die bestanden via digitale netwerken delen voor\
-      \ persoonlijke en niet-commerciële doeleinden.</p><p>Het delen van bestanden\
-      \ begon in 1999 en sindsdien is distributed file sharing (of peer-to-peer) steeds\
-      \ efficiënter geworden (Gnutella, Freenet, BitTorrent, enz.).</p><p>Van in het\
-      \ begin hebben de belangrijkste rechtenhoudende bedrijven zich verzet tegen\
-      \ het gebruik van sharingtechnologie voor werken en andere materialen die vallen\
-      \ onder het auteursrecht, naburige rechten en databankrechten. De wetgeving\
-      \ is op dit moment grotendeels afgestemd op hun belangen.</p><p>Maar de vraag\
-      \ blijft of het wel rechtvaardig is dat auteursrechten, naburige rechten en\
-      \ databankrechten het delen van werken en andere materialen verhinderen.</p><p>Deze\
-      \ rechten zouden de verspreiding van cultuur, innovatie en sociale vooruitgang\
-      \ juist moeten begunstigen.</p><p>De heersende wetgeving, die het delen van\
-      \ bestanden die onder deze rechten vallen verhindert, zorgt voor een ingrijpende\
-      \ beperking van het recht om deel te hebben aan wetenschap en cultuur, dat is\
-      \ vastgelegd in art. 27, 1e alinea, van de Universele Verklaring van de rechten\
-      \ van de mens.</p><p>Deze kwestie is nu nog belangrijker geworden na de goedkeuring\
-      \ van Richtlijn (EU) 2019/790 van het Europees Parlement en de Raad van 17 april\
-      \ 2019 inzake auteursrechten en naburige rechten in de digitale eengemaakte\
-      \ markt.</p><p>Die richtlijn heeft paradoxale gevolgen: enerzijds maakt art.\
-      \ 17 het gemakkelijker voor aanbieders van onlinediensten voor het delen van\
-      \ content om toestemming te krijgen voor het delen van wettelijk beschermde\
-      \ content, waardoor hun rol als geprivilegieerde tussenschakel en hun praktijken\
-      \ van technische controle en profilering van burgers worden bevorderd, maar\
-      \ anderzijds blijft het delen van bestanden verboden.</p><p>Het initiatief heeft\
-      \ ten doel burgers in staat te stellen bestanden rechtstreeks via peer-to-peer-netwerken\
-      \ te delen, zodat zij toegang hebben tot wetenschap en cultuur zonder te worden\
-      \ onderworpen aan controles en profilering. Een EU-besluit in die zin zou volkomen\
-      \ compatibel zijn met het internationaal recht als de rechtenhouders een billijke\
-      \ vergoeding krijgen.</p><p>De mens en zijn grondrechten moeten centraal staan\
-      \ in de politiek en de wetgeving, en daarom moeten de regels voor het delen\
-      \ van bestanden die werken en andere materialen bevatten die vallen onder het\
-      \ auteursrecht, naburige rechten en databankrechten, veranderen. Dan kunnen\
-      \ digitale netwerken hun potentieel waarmaken om de vrijheid en de sociale,\
-      \ culturele en economische ontwikkeling te bevorderen.</p>\n"
-  footer:
-    about: Deze website wordt beheerd door GOIPE, een non-profit organisatie met de
-      missie om Europese burgerinitiatieven op te stellen en te promoten voor een
-      beter Europa.
+    belgium: "België"
+    czech-republic: "Tsjechië"
+    estonia: "Estland"
+    france: "Frankrijk"
+    germany: "Duitsland"
+    italy: "Italië"
+    netherlands: "Nederland"
+    spain: "Spanje"
+    sweden: "Zweden"
+    transnational: "Europees / Transnationaal niveau"
